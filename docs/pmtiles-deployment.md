@@ -1,3 +1,5 @@
+> 履歴・調査記録：旧仕様、当時の件数、未完了事項を含みます。現在の公開仕様・完了状態は[現在の状態](current-state.md)を参照してください。
+
 # 日本版のPMTiles配信
 
 画面・コード・ライセンスをGitHub Pages、生成したPMTilesと峰・駅・地域データをS3等のHTTPSストレージに配置する。ブラウザはPMTilesの必要部分だけHTTP Rangeで取得する。GitHub側でPythonや地図サーバーは動かさない。

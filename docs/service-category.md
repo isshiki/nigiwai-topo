@@ -1,3 +1,5 @@
+> 履歴・調査記録：旧仕様、当時の件数、未完了事項を含みます。現在の公開仕様・完了状態は[現在の状態](current-state.md)を参照してください。
+
 # サービス業種の追加
 
 Foursquareの固定Categories snapshotの上位分類 `Business and Professional Services` と `Health and Medicine` をサービス区分にする。理美容、クリーニング、修理、金融、不動産、専門業務、医療などを含む。分類には事務所・製造業・工場も含まれるため、生活サービスだけの密度ではない。

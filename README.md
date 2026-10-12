@@ -11,7 +11,9 @@ Foursquare OS Placesの登録情報に基づく、街の姿を眺めて楽しむ
 
 地域を選び、地図を移動・拡大して密度の山を探せます。表示中の地名トップ20、3D、名前検索、現在地に対応。山を押すと密度を表示し、Googleマップや経路検索へ移動できます。スマホでは操作パネルをタイトルから開閉できます。
 
-表示条件は全業種・ならす広さ200m・800件/km²以上に固定しています。背景文字は現地の表記です。
+名前検索は表示中の山名を対象とします。世界の任意の都市名を探す検索ではありません。
+
+表示条件は全業種・ならす広さ200m・800件/km²以上に固定しています。200mは平滑化の標準偏差で、半径200m以内だけを数える方式ではありません。背景文字は元の地図の表記です。極域までの完全網羅ではありません。
 
 ## 公開構成
 
@@ -33,6 +35,10 @@ http://127.0.0.1:8820/ を開きます。MapLibre、背景タイル、CloudFront
 python scripts/package_pages.py --data-url https://re.masahiko.info/nigiwai-topo/japan/2026-09-15-v2/ --config web/config.js
 python scripts/validate_site.py --root data/site
 ```
+
+## 文書の入口
+
+[現在の仕様・検証](docs/current-state.md)／[計算方法](docs/method.md)／[記事の執筆用メモ](docs/blog-draft.md)。過去の試作・調査記録は現行仕様とは区別してください。
 
 ## データと再現
 

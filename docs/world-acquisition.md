@@ -1,3 +1,5 @@
+> 履歴・調査記録：旧仕様、当時の件数、未完了事項を含みます。現在の公開仕様・完了状態は[現在の状態](current-state.md)を参照してください。
+
 # 全世界のFoursquare収集
 
 2026-10-07に収集を開始する構成を追加。日本・海外試作と同じ2026-09-15 snapshotを使用し、公式Places Portalの読み取り専用Iceberg接続から取得する。個人トークンは既存のgeoai-open-labの.envを読むだけで、コピー・表示・出力しない。[公式取得方法](https://docs.foursquare.com/data-products/docs/access-fsq-os-places)。

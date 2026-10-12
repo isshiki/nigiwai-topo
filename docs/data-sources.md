@@ -1,3 +1,14 @@
+# 公開版の出典（2026-10-12）
+
+- 密度：Foursquare OS Places 2026-09-15、Apache 2.0。閉店判明分と計算保留を除外。原本の品質を全件保証しない。
+- 背景：OpenStreetMapタイル。日本を含め現在の公開世界版では地理院背景を使わない。
+- 峰名：GeoNames（CC BY 4.0）、国土数値情報N02/N03（CC BY 4.0）、取得済みOSM参照（ODbL）、Natural Earth（public domain）、Wikidata（CC0）、JMnedict（CC BY-SA 4.0）など。登録日本語名、公開資料、音写・編集を併用。
+- 公開版の密度計算にOverture・OSMのPOIを混ぜていない。比較版は現在のUIでは提供しない。
+- 画面と配布物へ出典・NOTICEを掲載。[公開用の一覧](../web/about.html)／[NOTICE](../web/licenses/)。
+- [現在の仕様](current-state.md)。以下は取得条件・初期試作の履歴であり、「未公開」「比較版を保持」などは当時の記述。
+
+## 取得・試作の記録
+
 # 出典・取得条件
 
 公式情報再確認: 2026-10-06。以下の取得実績は検証記録に記載。取得成功は品質保証を意味しません。
