@@ -1,1 +1,4 @@
 * text=auto eol=lf
+
+# Preserve downloadable CSV bytes and metadata hashes (UTF-8 BOM / CRLF).
+*.csv -text

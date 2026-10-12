@@ -1,0 +1,31 @@
+{
+  "snapshot": "2026-09-15",
+  "source": "Foursquare OS Places",
+  "build": "foursquare-world-v6",
+  "category": "all",
+  "sigma_m": 200,
+  "minimum_density_per_km2": 800,
+  "scanned_peaks": 319883,
+  "columns": [
+    "地名",
+    "登録密度_件_per_km2",
+    "緯度",
+    "経度"
+  ],
+  "coordinate_reference_system": "WGS84 / EPSG:4326",
+  "representative_rule": "Maximum density per map display name across the entire dataset; viewport representatives may differ.",
+  "files": [
+    {
+      "file": "world-peaks.csv",
+      "rows": 23187,
+      "bytes": 1713283,
+      "sha256": "a04721404e0eccf95d6e3033e560a8ea3a40600501a5dcb3d7d9de8fe952e66f"
+    },
+    {
+      "file": "world-place-representatives.csv",
+      "rows": 14563,
+      "bytes": 1075022,
+      "sha256": "2e212a5bdb5fab3f7b07668d3d2fd713f482ed8daa2c97a4a47d25d5ffa47290"
+    }
+  ]
+}

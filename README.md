@@ -7,6 +7,8 @@
 
 Foursquare OS Placesの登録情報に基づく、街の姿を眺めて楽しむ地図です。人出・売上・実際の標高を示すものではありません。施設の位置や営業状況、地名の日本語表記の正確さを保証しません。
 
+商圏を調べる入口として店舗・施設の集積を眺められます。商圏の境界・購買力・売上を判定するものではなく、他の資料との併用が必要です。
+
 ## 使い方
 
 地域を選び、地図を移動・拡大して密度の山を探せます。表示中の地名トップ20、3D、名前検索、現在地に対応。山を押すと密度を表示し、Googleマップや経路検索へ移動できます。スマホでは操作パネルをタイトルから開閉できます。
@@ -53,3 +55,5 @@ Foursquare OS Places 2026-09-15を使用。[出典・取得方針](docs/data-sou
 画面には背景・POIの出典を常時表示し、[ライセンスとNOTICE](web/licenses/)を配布します。[利用者向け説明](web/about.html)。
 
 過去の進捗は[開発記録](docs/development-history.md)へまとめています。そこには旧版・当時の未完了事項も含まれます。突出度による独立峰の判定、経済センサスとの比較、ならす広さによる世界順位の感度比較は未実施です。
+
+世界の登録密度CSVをGitHubから配布：[全峰23,187地点](https://github.com/isshiki/nigiwai-topo/raw/refs/heads/main/exports/world-2026-09-15/world-peaks.csv)／[地名ごとの代表14,563地点](https://github.com/isshiki/nigiwai-topo/raw/refs/heads/main/exports/world-2026-09-15/world-place-representatives.csv)。[列・条件・出典](exports/world-2026-09-15/README.md)。区域内のPOI登録件数の集計は別機能で未実装。
