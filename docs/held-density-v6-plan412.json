@@ -1,0 +1,42 @@
+{
+  "base_release": "foursquare-world-v5",
+  "candidate_release": "foursquare-world-v6",
+  "delta_ids": [
+    "523adaf111d234c09c58513c",
+    "4f6aab7ee4b08858d5afa0ff",
+    "4f094d4be4b05f830e6fd553",
+    "4f0a4678e4b039f5aedb3f74"
+  ],
+  "pending_ids": [
+    "4e3af65f52b1b09cb6892084"
+  ],
+  "tasks": [
+    [
+      158,
+      296
+    ],
+    [
+      478,
+      284
+    ],
+    [
+      479,
+      284
+    ]
+  ],
+  "overlapping_previous_chunks": [],
+  "overlapping_previous_packages": [
+    [
+      119,
+      71
+    ]
+  ],
+  "status": "requires_preserving_prior_corrected_package_chunks",
+  "active_release_changed": false,
+  "required_repairs": [
+    "Compose affected package from latest corrected chunk versions, not original raw-build package.",
+    "Use v5 peak files for unaffected chunks inside affected packages.",
+    "Reproduce v5 baseline including previous exact-ID exclusions before new delta.",
+    "Validate unaffected package byte hashes and prior excluded targets before activating v6."
+  ]
+}

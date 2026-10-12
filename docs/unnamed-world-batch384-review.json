@@ -1,0 +1,38 @@
+{
+  "checked_reference_candidates": 1615,
+  "adopted": 1,
+  "total_adopted": 901,
+  "remaining": 4453,
+  "adoption": {
+    "peak": "45.016, -75.646",
+    "ref": {
+      "id": "5990737",
+      "name": "Kemptville",
+      "country": "CA",
+      "lon": -75.64104,
+      "lat": 45.0168,
+      "feature_code": "PPL",
+      "source_url": "https://download.geonames.org/export/dump/CA.zip",
+      "distance_m": 389,
+      "supporting_pois": 247,
+      "support_share": 0.815
+    },
+    "ja_editorial": "ケンプトビル（推定）",
+    "batch": 384,
+    "policy": "reviewed_official_address_anchors",
+    "reviewed_by": "Codex",
+    "reading_status": "inferred",
+    "review_note": "原綴りからの推定音写。CIBC116PrescottSt公式検索本文とDouvris200SandersStreet公式公開本文を元POIに照合。独立2施設・2発行元、峰から68mと257m。247/303件の支持、217独立座標、270住所。広域自治体名の一括置換や行政境界包含の認定はしない。",
+    "official_anchor_review": "docs/unnamed-world-official-anchor-reviews.json"
+  },
+  "holds": [
+    {
+      "name": "Dharwad",
+      "reason": "Axis Bank confirmed; MedPlus document city/ZIP conflicts with address body; Kotak official street differs from raw POI. No adoption."
+    },
+    {
+      "name": "Kemptville rejected anchors",
+      "reason": "Library source historical and now404; brokerage East official versus West raw. Neither used."
+    }
+  ]
+}

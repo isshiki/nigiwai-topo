@@ -1,0 +1,73 @@
+{
+  "adopted": 3,
+  "total_adopted": 904,
+  "remaining": 4450,
+  "items": [
+    {
+      "peak": "51.110, -112.982",
+      "ref": {
+        "id": "6155100",
+        "name": "Standard",
+        "country": "CA",
+        "lon": -112.9852,
+        "lat": 51.11682,
+        "feature_code": "PPL",
+        "source_url": "https://download.geonames.org/export/dump/CA.zip",
+        "distance_m": 773,
+        "supporting_pois": 27,
+        "support_share": 0.871
+      },
+      "ja_editorial": "スタンダード（推定）",
+      "batch": 385,
+      "policy": "reviewed_address_text_anchors",
+      "reviewed_by": "Codex",
+      "reading_status": "inferred",
+      "review_note": "原綴りからの推定音写。全近隣POIの地名欄・住所本文を単語境界付きで再照合し、独立2施設・2発行元の公式住所で個別確認。支持率の上昇を地名欄だけの支持率と混同しない。行政境界包含・全POI位置精度は未認定。",
+      "official_anchor_review": "docs/unnamed-world-official-anchor-reviews.json"
+    },
+    {
+      "peak": "50.531, -114.232",
+      "ref": {
+        "id": "6059898",
+        "name": "Longview",
+        "country": "CA",
+        "lon": -114.2353,
+        "lat": 50.53341,
+        "feature_code": "PPL",
+        "source_url": "https://download.geonames.org/export/dump/CA.zip",
+        "distance_m": 345,
+        "supporting_pois": 34,
+        "support_share": 0.85
+      },
+      "ja_editorial": "ロングビュー（推定）",
+      "batch": 385,
+      "policy": "reviewed_address_text_anchors",
+      "reviewed_by": "Codex",
+      "reading_status": "inferred",
+      "review_note": "原綴りからの推定音写。全近隣POIの地名欄・住所本文を単語境界付きで再照合し、独立2施設・2発行元の公式住所で個別確認。支持率の上昇を地名欄だけの支持率と混同しない。行政境界包含・全POI位置精度は未認定。",
+      "official_anchor_review": "docs/unnamed-world-official-anchor-reviews.json"
+    },
+    {
+      "peak": "46.577, -63.929",
+      "ref": {
+        "id": "6171537",
+        "name": "Tyne Valley",
+        "country": "CA",
+        "lon": -63.93203,
+        "lat": 46.58344,
+        "feature_code": "PPL",
+        "source_url": "https://download.geonames.org/export/dump/CA.zip",
+        "distance_m": 779,
+        "supporting_pois": 23,
+        "support_share": 0.852
+      },
+      "ja_editorial": "タインバレー（推定）",
+      "batch": 385,
+      "policy": "reviewed_address_text_anchors",
+      "reviewed_by": "Codex",
+      "reading_status": "inferred",
+      "review_note": "原綴りからの推定音写。全近隣POIの地名欄・住所本文を単語境界付きで再照合し、独立2施設・2発行元の公式住所で個別確認。支持率の上昇を地名欄だけの支持率と混同しない。行政境界包含・全POI位置精度は未認定。",
+      "official_anchor_review": "docs/unnamed-world-official-anchor-reviews.json"
+    }
+  ]
+}

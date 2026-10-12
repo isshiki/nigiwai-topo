@@ -1,0 +1,45 @@
+{
+  "stage": "closed_at_user_fixed_display_scope",
+  "goal_complete": true,
+  "adopted_since_held25_goal_start": 19,
+  "held25_remaining": 6,
+  "total_adopted": 923,
+  "remaining_world": 4431,
+  "density_release": "v6",
+  "density_preview_only": false,
+  "position_records_reviewed": 5,
+  "position_records_applied": 4,
+  "steps": [
+    {
+      "step": 1,
+      "status": "initial_full_classification_complete"
+    },
+    {
+      "step": 2,
+      "status": "normalization_first_pass_complete_reconciliation_in_progress"
+    },
+    {
+      "step": 3,
+      "status": "public_reference_checks_in_progress"
+    },
+    {
+      "step": 4,
+      "status": "individual_address_checks_in_progress"
+    },
+    {
+      "step": 5,
+      "status": "four_individual_records_applied_v6_one_record_pending"
+    },
+    {
+      "step": 6,
+      "status": "confirmed_names_applied_world319883_and_regions238_validated"
+    }
+  ],
+  "validation_log": "data/validation/world-v6-selected-address923-test.log",
+  "position_preview": "data/validation/reviewed-poi-position411-preview.json",
+  "publication_report": "data/validation/world-v6-published.json",
+  "closure_reason": "User ended investigation of non-displayed unnamed peaks; fixed all/200m/800 display has zero unnamed peaks.",
+  "active_unnamed_investigation": false,
+  "fixed_display_unnamed": 0,
+  "retained_below_floor_unnamed": 4431
+}

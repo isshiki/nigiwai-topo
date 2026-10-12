@@ -1,0 +1,12 @@
+{
+  "snapshot_id": "2325979374271449319",
+  "reviewed_at": "2026-10-10",
+  "status": "reviewed_address_conflicts_for_sensitivity_only",
+  "limits": "These IDs have matching business address components in official sources and source locality references far from their coordinates. No replacement coordinates inferred; no source/published data removed. Current sources and the pinned snapshot can differ in time.",
+  "items": [
+    {"id":"03a5dfcc19a44c52576bfc63","name":"Decon Lighting Pvt. Ltd.","coordinates":[77.182931,22.105938],"locality":"New Delhi","address_components":["Y","43","Okhla","Phase"],"source_url":"https://deconlighting.in/pages/contact","basis":"公式の企業事務所の番地・Okhla・Phase II・New Delhi・郵便番号110020と元住所が対応。元座標は都市参照点から約722km離れる。"},
+    {"id":"07e56c1dbcdb4789dca9fa2c","name":"Hcp Interior Architecture Pvt. Ltd.","coordinates":[72.576826,22.105991],"locality":"Ahmedabad","address_components":["302","Paritosh","Usman"],"source_url":"https://www.hcpid.co.in/get-in-touch","basis":"HCP内装設計会社の公式住所の階室・建物・地区・郵便番号380013が元住所と対応。表記・法人名称には時間差の可能性があるが、所在地の対応は強い。元座標は都市参照点から約102km離れる。"},
+    {"id":"0083cfd8cd244c59f6e5fd38","name":"Gujarat Cancer and Research Institute (gcri)","coordinates":[72.566011,22.10617],"locality":"Ahmadabad","address_components":["Civil","Hospital","Campus","Asarwa"],"source_url":"https://gcriindia.org/contact.html","basis":"公式病院名・Civil Hospital Campus・Asarwa・Ahmedabad・郵便番号380016が元住所と対応。元座標は都市参照点から約102km離れる。"},
+    {"id":"688d20c4bfffa54f8b9adc99","name":"Chatime Toowong Village","coordinates":[145.0,-20.0],"locality":"Toowong","address_components":["9","Sherwood"],"source_url":"https://www.toowongvillage.com.au/stores/chatime","basis":"公式テナント名・9 Sherwood Road・Toowong・郵便番号4066が元住所と対応。元座標は地区参照点から約1161km離れる。"}
+  ]
+}

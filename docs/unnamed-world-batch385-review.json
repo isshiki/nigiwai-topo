@@ -1,0 +1,373 @@
+{
+  "scope": 28,
+  "adopted": 3,
+  "held": 25,
+  "remaining_world": 4450,
+  "total_adopted": 904,
+  "items": [
+    {
+      "peak": "-13.690, -50.799",
+      "reference_id": "3470919",
+      "source_name": "Bandeirantes",
+      "country": "BR",
+      "decision": "hold",
+      "source_urls": [
+        "https://novacrixas.go.gov.br/galeria/orientacoes-em-sao-jose-dos-bandeirantes/"
+      ],
+      "evidence_level": "primary_source_leads",
+      "reason": "Primary source establishes place identity/context, but two nearby facility addresses and the individual peak correspondence are not yet confirmed.",
+      "raw_evidence_file": "data/name-research/unnamed-world/shortlist-anchor-pois385.json"
+    },
+    {
+      "peak": "-15.844, -57.860",
+      "reference_id": "6316802",
+      "source_name": "Caramujo",
+      "country": "BR",
+      "decision": "hold",
+      "source_urls": [
+        "https://www.caceres.mt.gov.br/Noticias/Prefeitura-de-caceres-realiza-intervencao-para-combater-alagamentos-no-distrito-de-caramujo-11224/"
+      ],
+      "evidence_level": "primary_source_leads",
+      "reason": "Primary source establishes place identity/context, but two nearby facility addresses and the individual peak correspondence are not yet confirmed.",
+      "raw_evidence_file": "data/name-research/unnamed-world/shortlist-anchor-pois385.json"
+    },
+    {
+      "peak": "-44.669, 167.927",
+      "reference_id": "6202181",
+      "source_name": "Milford Sound",
+      "country": "NZ",
+      "decision": "hold",
+      "source_urls": [
+        "https://dxcprod.doc.govt.nz/globalassets/documents/parks-and-recreation/tracks-and-walks/fiordland/te-anau-milford-highway-brochure.pdf"
+      ],
+      "evidence_level": "primary_source_leads",
+      "reason": "Primary source establishes place identity/context, but two nearby facility addresses and the individual peak correspondence are not yet confirmed.",
+      "raw_evidence_file": "data/name-research/unnamed-world/shortlist-anchor-pois385.json"
+    },
+    {
+      "peak": "35.062, -118.970",
+      "reference_id": "5372576",
+      "source_name": "Mettler",
+      "country": "US",
+      "decision": "hold",
+      "source_urls": [
+        "https://itsapps.kerncounty.com/clerk/minutes/10-26-98.htm"
+      ],
+      "evidence_level": "primary_source_leads",
+      "reason": "Most added support comes from Mettler Frontage Road, not locality. County confirms street/community context but exact close facilities remain unchecked.",
+      "raw_evidence_file": "data/name-research/unnamed-world/shortlist-anchor-pois385.json"
+    },
+    {
+      "peak": "35.860, 12.863",
+      "reference_id": "2524381",
+      "source_name": "Linosa",
+      "country": "IT",
+      "decision": "hold",
+      "source_urls": [
+        "https://www.comune.lampedusaelinosa.ag.it/"
+      ],
+      "evidence_level": "primary_source_leads",
+      "reason": "Primary source establishes place identity/context, but two nearby facility addresses and the individual peak correspondence are not yet confirmed.",
+      "raw_evidence_file": "data/name-research/unnamed-world/shortlist-anchor-pois385.json"
+    },
+    {
+      "peak": "37.163, 28.694",
+      "reference_id": "298818",
+      "source_name": "Turgut",
+      "country": "TR",
+      "decision": "hold",
+      "source_urls": [
+        "https://www.mugla.gov.tr/yatagan"
+      ],
+      "evidence_level": "primary_source_leads",
+      "reason": "Retrieved Muğla/Yatağan source cannot establish the reference at37.163,28.694; same-name settlement must be disambiguated.",
+      "raw_evidence_file": "data/name-research/unnamed-world/shortlist-anchor-pois385.json"
+    },
+    {
+      "peak": "38.039, 35.586",
+      "reference_id": "309631",
+      "source_name": "Karaköy",
+      "country": "TR",
+      "decision": "hold",
+      "source_urls": [],
+      "evidence_level": "no_specific_primary_match",
+      "reason": "Near POIs include tram stop and Karaköy Lokantasi; possible Istanbul facility displacement. Current text support is insufficient geographic evidence.",
+      "raw_evidence_file": "data/name-research/unnamed-world/shortlist-anchor-pois385.json"
+    },
+    {
+      "peak": "39.183, -107.238",
+      "reference_id": "5436117",
+      "source_name": "Redstone",
+      "country": "US",
+      "decision": "hold",
+      "source_urls": [
+        "https://www.pitkincounty.com/844/Communities-in-Pitkin-County"
+      ],
+      "evidence_level": "primary_source_leads",
+      "reason": "Primary source establishes place identity/context, but two nearby facility addresses and the individual peak correspondence are not yet confirmed.",
+      "raw_evidence_file": "data/name-research/unnamed-world/shortlist-anchor-pois385.json"
+    },
+    {
+      "peak": "40.196, 31.544",
+      "reference_id": "751580",
+      "source_name": "Atça",
+      "country": "TR",
+      "decision": "hold",
+      "source_urls": [],
+      "evidence_level": "no_specific_primary_match",
+      "reason": "Near POIs include municipal theatre and Arap Dede shrine. Same-name settlements require location-specific facility checking; no primary match obtained.",
+      "raw_evidence_file": "data/name-research/unnamed-world/shortlist-anchor-pois385.json"
+    },
+    {
+      "peak": "43.245, -108.690",
+      "reference_id": "5834738",
+      "source_name": "Pavillion",
+      "country": "US",
+      "decision": "hold",
+      "source_urls": [
+        "https://places.wyo.gov/"
+      ],
+      "evidence_level": "primary_source_leads",
+      "reason": "Pavilion KL, sushi tei and Kelvin Campus/Lister Pavillion text indicate mixed source locations. Town existence does not validate source POI positions.",
+      "raw_evidence_file": "data/name-research/unnamed-world/shortlist-anchor-pois385.json"
+    },
+    {
+      "peak": "44.260, -66.129",
+      "reference_id": "6141406",
+      "source_name": "Saulnierville",
+      "country": "CA",
+      "decision": "hold",
+      "source_urls": [],
+      "evidence_level": "no_specific_primary_match",
+      "reason": "Foodland exact street found in third-party directory; primary store locator did not yield specific address.",
+      "raw_evidence_file": "data/name-research/unnamed-world/shortlist-anchor-pois385.json"
+    },
+    {
+      "peak": "44.640, -104.182",
+      "reference_id": "5816895",
+      "source_name": "Aladdin",
+      "country": "US",
+      "decision": "hold",
+      "source_urls": [
+        "https://travelwyoming.com/listing/aladdin-general-store/24/"
+      ],
+      "evidence_level": "primary_source_leads",
+      "reason": "Foreign-language facility names among nearby POIs require review; legitimate local store existence is insufficient for whole neighborhood.",
+      "raw_evidence_file": "data/name-research/unnamed-world/shortlist-anchor-pois385.json"
+    },
+    {
+      "peak": "44.925, -78.725",
+      "reference_id": "8556036",
+      "source_name": "Minden",
+      "country": "CA",
+      "decision": "hold",
+      "source_urls": [
+        "https://www.mindenhills.ca/contacts-directory/"
+      ],
+      "evidence_level": "primary_source_leads",
+      "reason": "Municipal office address confirms place, but both distinct peak neighborhoods need separate close facility checks; do not publish one blanket name.",
+      "raw_evidence_file": "data/name-research/unnamed-world/shortlist-anchor-pois385.json"
+    },
+    {
+      "peak": "44.931, -78.716",
+      "reference_id": "8556036",
+      "source_name": "Minden",
+      "country": "CA",
+      "decision": "hold",
+      "source_urls": [
+        "https://www.mindenhills.ca/contacts-directory/"
+      ],
+      "evidence_level": "primary_source_leads",
+      "reason": "Municipal office address confirms place, but both distinct peak neighborhoods need separate close facility checks; do not publish one blanket name.",
+      "raw_evidence_file": "data/name-research/unnamed-world/shortlist-anchor-pois385.json"
+    },
+    {
+      "peak": "45.018, -76.365",
+      "reference_id": "8556292",
+      "source_name": "Lanark",
+      "country": "CA",
+      "decision": "hold",
+      "source_urls": [
+        "https://www.lanarkhighlands.ca/component/edocman/official-plan"
+      ],
+      "evidence_level": "primary_source_leads",
+      "reason": "Primary source establishes place identity/context, but two nearby facility addresses and the individual peak correspondence are not yet confirmed.",
+      "raw_evidence_file": "data/name-research/unnamed-world/shortlist-anchor-pois385.json"
+    },
+    {
+      "peak": "46.384, -71.410",
+      "reference_id": "8617398",
+      "source_name": "Sainte-Agathe",
+      "country": "CA",
+      "decision": "hold",
+      "source_urls": [
+        "https://vplus-documents.s3.ca-central-1.amazonaws.com/sainte-agathe-de-lotbiniere/_publication/fichiers/Mars-2015.pdf"
+      ],
+      "evidence_level": "primary_source_leads",
+      "reason": "Long-form municipal locality and short GeoNames name correspondence needs location review; older BMR address evidence not sufficient on its own.",
+      "raw_evidence_file": "data/name-research/unnamed-world/shortlist-anchor-pois385.json"
+    },
+    {
+      "peak": "46.577, -63.929",
+      "reference_id": "6171537",
+      "source_name": "Tyne Valley",
+      "country": "CA",
+      "decision": "adopt",
+      "source_urls": [
+        "https://www.backwoodsburger.com/",
+        "https://www.tourismpei.com/fr/attractions/dillons-convenience-pizzeria"
+      ],
+      "evidence_level": "reviewed_official_facility_anchors",
+      "reason": "Two reviewed independent address anchors, full text support85% or higher; reading visibly inferred.",
+      "raw_evidence_file": "data/name-research/unnamed-world/shortlist-anchor-pois385.json"
+    },
+    {
+      "peak": "47.209, -124.202",
+      "reference_id": "5805996",
+      "source_name": "Pacific Beach",
+      "country": "US",
+      "decision": "hold",
+      "source_urls": [
+        "https://parks.wa.gov/find-parks/state-parks/pacific-beach-state-park"
+      ],
+      "evidence_level": "primary_source_leads",
+      "reason": "Primary source establishes place identity/context, but two nearby facility addresses and the individual peak correspondence are not yet confirmed.",
+      "raw_evidence_file": "data/name-research/unnamed-world/shortlist-anchor-pois385.json"
+    },
+    {
+      "peak": "48.370, -53.359",
+      "reference_id": "6168945",
+      "source_name": "Trinity",
+      "country": "CA",
+      "decision": "hold",
+      "source_urls": [
+        "https://www.trinityhistoricalsociety.com/"
+      ],
+      "evidence_level": "primary_source_leads",
+      "reason": "Primary source establishes place identity/context, but two nearby facility addresses and the individual peak correspondence are not yet confirmed.",
+      "raw_evidence_file": "data/name-research/unnamed-world/shortlist-anchor-pois385.json"
+    },
+    {
+      "peak": "49.052, -113.909",
+      "reference_id": "6176887",
+      "source_name": "Waterton",
+      "country": "CA",
+      "decision": "hold",
+      "source_urls": [
+        "https://www.parks.canada.ca/pn-np/ab/waterton/visit/cartes-maps/cartes-map-waterton-village"
+      ],
+      "evidence_level": "primary_source_leads",
+      "reason": "Park townsite map obtained as a lead; extent and candidate POI positions require map correspondence, including CameronLake named POI close to village.",
+      "raw_evidence_file": "data/name-research/unnamed-world/shortlist-anchor-pois385.json"
+    },
+    {
+      "peak": "50.350, -112.640",
+      "reference_id": "6058545",
+      "source_name": "Lomond",
+      "country": "CA",
+      "decision": "hold",
+      "source_urls": [
+        "https://villageoflomond.ca/village-office/"
+      ],
+      "evidence_level": "primary_source_leads",
+      "reason": "2RailwayAve is shared by multiple differently named facilities, while library uses north qualifier; facility identity not resolved.",
+      "raw_evidence_file": "data/name-research/unnamed-world/shortlist-anchor-pois385.json"
+    },
+    {
+      "peak": "50.531, -114.232",
+      "reference_id": "6059898",
+      "source_name": "Longview",
+      "country": "CA",
+      "decision": "adopt",
+      "source_urls": [
+        "https://longviewlibrary.ca/",
+        "https://foothillsschooldivision.ca/longview"
+      ],
+      "evidence_level": "reviewed_official_facility_anchors",
+      "reason": "Two reviewed independent address anchors, full text support85% or higher; reading visibly inferred.",
+      "raw_evidence_file": "data/name-research/unnamed-world/shortlist-anchor-pois385.json"
+    },
+    {
+      "peak": "50.887, -109.542",
+      "reference_id": "6051040",
+      "source_name": "Leader",
+      "country": "CA",
+      "decision": "hold",
+      "source_urls": [
+        "https://leader.ca/things-to-do/swimming-pool/"
+      ],
+      "evidence_level": "primary_source_leads",
+      "reason": "Primary source establishes place identity/context, but two nearby facility addresses and the individual peak correspondence are not yet confirmed.",
+      "raw_evidence_file": "data/name-research/unnamed-world/shortlist-anchor-pois385.json"
+    },
+    {
+      "peak": "51.110, -112.982",
+      "reference_id": "6155100",
+      "source_name": "Standard",
+      "country": "CA",
+      "decision": "adopt",
+      "source_urls": [
+        "https://www.standardlibrary.ca/",
+        "https://www.villageofstandard.ca/services"
+      ],
+      "evidence_level": "reviewed_official_facility_anchors",
+      "reason": "Two reviewed independent address anchors, full text support85% or higher; reading visibly inferred.",
+      "raw_evidence_file": "data/name-research/unnamed-world/shortlist-anchor-pois385.json"
+    },
+    {
+      "peak": "54.159, -113.125",
+      "reference_id": "6165620",
+      "source_name": "Thorhild",
+      "country": "CA",
+      "decision": "hold",
+      "source_urls": [
+        "https://www.thorhildcounty.com/Services/Planning-Development/Maps"
+      ],
+      "evidence_level": "primary_source_leads",
+      "reason": "Primary source establishes place identity/context, but two nearby facility addresses and the individual peak correspondence are not yet confirmed.",
+      "raw_evidence_file": "data/name-research/unnamed-world/shortlist-anchor-pois385.json"
+    },
+    {
+      "peak": "60.934, 13.361",
+      "reference_id": "2695029",
+      "source_name": "Lima",
+      "country": "SE",
+      "decision": "hold",
+      "source_urls": [
+        "https://malungshem.se/bostadsomraden/lima/lima-kyrkby"
+      ],
+      "evidence_level": "primary_source_leads",
+      "reason": "Housing provider confirms Kyrkbyn104 in LimaKyrkby, not the listed bank/forestry POI identity. No second facility match.",
+      "raw_evidence_file": "data/name-research/unnamed-world/shortlist-anchor-pois385.json"
+    },
+    {
+      "peak": "62.852, 12.792",
+      "reference_id": "2694549",
+      "source_name": "Ljungdalen",
+      "country": "SE",
+      "decision": "hold",
+      "source_urls": [
+        "https://www.ica.se/butiker/ljungdalen/",
+        "https://ljungdalsfjallen.se/information/servicetider-oppet-oppet-ljungdalen-storsjo-storsjo-ljungdalsfjallen-ljungdalsfjallen/"
+      ],
+      "evidence_level": "primary_source_leads",
+      "reason": "ICA and tourism identify town, but exact store street and second nearby facility identity not both confirmed.",
+      "raw_evidence_file": "data/name-research/unnamed-world/shortlist-anchor-pois385.json"
+    },
+    {
+      "peak": "67.963, 15.930",
+      "reference_id": "9409181",
+      "source_name": "Innhavet",
+      "country": "NO",
+      "decision": "hold",
+      "source_urls": [
+        "https://st1.no/stasjon/innhavet",
+        "https://www.avis.no/produkter-og-tjenester/utleiestasjoner/europa/norge/innhavet"
+      ],
+      "evidence_level": "primary_source_leads",
+      "reason": "St1 matches former Shell street; rebrand and AVIS exactfacility address still need corroboration.",
+      "raw_evidence_file": "data/name-research/unnamed-world/shortlist-anchor-pois385.json"
+    }
+  ],
+  "limits": "Initial external-source checking covers all28 candidates; held records are unresolved, not rejected names or removed density peaks. Search attempts with no specific primary match are explicitly retained. General place existence is not boundary or POI position proof."
+}

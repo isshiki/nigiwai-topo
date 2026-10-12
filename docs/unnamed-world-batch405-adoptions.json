@@ -1,0 +1,31 @@
+{
+  "batch": 405,
+  "adopted": 1,
+  "total_adopted": 921,
+  "remaining": 4433,
+  "items": [
+    {
+      "peak": "-15.844, -57.860",
+      "ref": {
+        "id": "6316802",
+        "name": "Caramujo",
+        "country": "BR",
+        "lon": -57.85917,
+        "lat": -15.84583,
+        "feature_code": "PPLL",
+        "source_url": "https://download.geonames.org/export/dump/BR.zip",
+        "distance_m": 178,
+        "supporting_pois": 27,
+        "support_share": 0.9
+      },
+      "ja_editorial": "カラムジョ（推定）",
+      "batch": 405,
+      "policy": "reviewed_public_cartographic_point",
+      "reading_status": "inferred",
+      "reviewed_by": "Codex",
+      "review_note": "推定音写。議会2024街路変更案22頁第31条のCaramujo街路起点が峰から31.96m。本文と地図を確認しPDFハッシュと峰座標を固定。住所本文27/30の対応を併用。法案成立・測地系・学校住所対応を断定せず地理参照名のみ採用。施設2件確認とは別の公的地図個別照合方式。",
+      "official_anchor_review": "docs/unnamed-world-official-anchor-reviews.json",
+      "cartographic_review": "docs/unnamed-world-batch405-cartographic-review.json"
+    }
+  ]
+}

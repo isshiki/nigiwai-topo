@@ -1,0 +1,15 @@
+.venv/
+data/
+web/data/
+__pycache__/
+.env
+*.pyc
+
+# Credentials and local editor / temporary files
+.env.*
+!.env.example
+.aws/
+*.pem
+*.key
+IN
+tmp_IN

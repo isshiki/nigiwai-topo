@@ -1,0 +1,1835 @@
+{
+  "reviewed_at": "2026-10-10",
+  "radius_m": 1000,
+  "unique_pois": 2065,
+  "address_acquisition_verified": true,
+  "snapshot_id": "2325979374271449319",
+  "decision": "4地域を施設群と公的所在地で確認。元GeoNames地名の翻訳確定とは区別。6峰を座標・参照IDで限定し、確認済みの商圏・施設名を表示へ反映。密度・POIは変更しない。",
+  "items": [
+    {
+      "reference_id": "GeoNames:13308728",
+      "original": "Hudi",
+      "reference_coordinates": [
+        113.90991,
+        22.48184
+      ],
+      "region": "深圳市南山区・蛇口／海上世界と太子湾",
+      "peak_regions": [
+        "海上世界周辺",
+        "太子湾・蛇口クルーズ母港周辺"
+      ],
+      "sources": [
+        {
+          "url": "https://qh.sz.gov.cn/en/life-in-qianhai/malls-and-places-for-leisure/content/post_10660073.html",
+          "basis": "海上世界商圏の匯港は蛇口工業三路1号。太子湾も別項目で紹介。"
+        },
+        {
+          "url": "https://www.hilton.com/zh-hant/hotels/szxsshi-hilton-shenzhen-shekou-nanhai/hotel-location/",
+          "basis": "ヒルトン蛇口南海は南山区望海路1177号、海上世界広場近隣。"
+        },
+        {
+          "url": "https://www.cmskchp.com/",
+          "basis": "母港運営者の所在地は南山区海運路1号。"
+        }
+      ],
+      "terms": [
+        "海上世界",
+        "Hilton",
+        "蛇口",
+        "明华",
+        "Minghua",
+        "太子",
+        "Prince"
+      ],
+      "assessment": "虎地という自然地形の参照同定は未解決だが、峰の店舗群は蛇口の実在商圏と対応する。2峰に同じ施設名を一括適用しない。",
+      "unique_local_pois": 1275,
+      "address_nonempty": 441,
+      "localities": {
+        "深圳市": 214,
+        "Shekou Shenzhen": 1,
+        "Shenzhen": 505,
+        "(missing)": 448,
+        "Shen Zhen Shi": 12,
+        "Shenzhen Shi": 10,
+        "深圳": 43,
+        "Shekou": 14,
+        "Shenzhen, Guangdong": 3,
+        "Shekou, Shenzhen": 3,
+        "Шэньчжэнь": 3,
+        "shenzhen": 3,
+        "深セン市": 1,
+        "Shenzen": 2,
+        "Shekou, Nanshan, Shenzhen": 1,
+        "Shekou/Nanshan": 1,
+        "Shenzhen/Shekou": 1,
+        "Shekou, Guangdong": 1,
+        "Nanshan District": 2,
+        "Haikuo": 1,
+        "Nanhai, Shenzhen": 1,
+        "南山区": 1,
+        "深圳巿": 1,
+        "深圳蛇口": 1,
+        "Shekou, shenzhen": 1,
+        "深圳市南山区": 1
+      },
+      "peaks": [
+        {
+          "coordinates": [
+            113.91120000000001,
+            22.486499999999992
+          ],
+          "density": 1109,
+          "region": "海上世界周辺",
+          "poi_count_1km": 1164,
+          "poi_count_300m": 327,
+          "evidence_pois": [
+            {
+              "center": "peak0",
+              "id": "4d42e14765ea6ea84a5eae79",
+              "name": "海上世界 Sea World",
+              "lon": 113.9106833877972,
+              "lat": 22.486471741854967,
+              "distance_m": 53,
+              "address_record": {
+                "fsq_place_id": "4d42e14765ea6ea84a5eae79",
+                "name": "海上世界 Sea World",
+                "latitude": 22.486471741854967,
+                "longitude": 113.9106833877972,
+                "address": "南山区蛇口太子路",
+                "locality": "Shenzhen",
+                "region": "Guangdong",
+                "postcode": null,
+                "admin_region": null,
+                "post_town": null,
+                "country": "CN",
+                "date_closed": null
+              }
+            },
+            {
+              "center": "peak0",
+              "id": "4e7dc2836da114f4bb79baa7",
+              "name": "海上世界明华游轮 Minghua",
+              "lon": 113.91169412484787,
+              "lat": 22.48573772579614,
+              "distance_m": 99,
+              "address_record": {
+                "fsq_place_id": "4e7dc2836da114f4bb79baa7",
+                "name": "海上世界明华游轮 Minghua",
+                "latitude": 22.48573772579614,
+                "longitude": 113.91169412484787,
+                "address": "Sea World",
+                "locality": "深圳",
+                "region": "Guangdong",
+                "postcode": null,
+                "admin_region": null,
+                "post_town": null,
+                "country": "CN",
+                "date_closed": null
+              }
+            },
+            {
+              "center": "peak0",
+              "id": "52c16614498eaf4baa2023ac",
+              "name": "HuangJiHuang 黄记煌, minghua ship, new seaworld",
+              "lon": 113.9122575808079,
+              "lat": 22.48673179918444,
+              "distance_m": 112,
+              "address_record": {
+                "fsq_place_id": "52c16614498eaf4baa2023ac",
+                "name": "HuangJiHuang 黄记煌, minghua ship, new seaworld",
+                "latitude": 22.48673179918444,
+                "longitude": 113.9122575808079,
+                "address": null,
+                "locality": null,
+                "region": null,
+                "postcode": null,
+                "admin_region": null,
+                "post_town": null,
+                "country": "CN",
+                "date_closed": null
+              }
+            },
+            {
+              "center": "peak0",
+              "id": "4d57bf3ee319a1cd8e2f0834",
+              "name": "海上世界地铁站 Sea World Metro Sta.",
+              "lon": 113.91019821166992,
+              "lat": 22.48702321192314,
+              "distance_m": 118,
+              "address_record": {
+                "fsq_place_id": "4d57bf3ee319a1cd8e2f0834",
+                "name": "海上世界地铁站 Sea World Metro Sta.",
+                "latitude": 22.48702321192314,
+                "longitude": 113.91019821166992,
+                "address": "Xinhua Rd. & Taizi Rd.",
+                "locality": "Shenzhen",
+                "region": "Guangdong",
+                "postcode": "518000",
+                "admin_region": null,
+                "post_town": null,
+                "country": "CN",
+                "date_closed": null
+              }
+            },
+            {
+              "center": "peak0",
+              "id": "5396f5ae498e4cf319ccb90f",
+              "name": "大蓉和 海上世界店",
+              "lon": 113.91236213957482,
+              "lat": 22.485955958848,
+              "distance_m": 134,
+              "address_record": {
+                "fsq_place_id": "5396f5ae498e4cf319ccb90f",
+                "name": "大蓉和 海上世界店",
+                "latitude": 22.485955958848,
+                "longitude": 113.91236213957482,
+                "address": null,
+                "locality": null,
+                "region": null,
+                "postcode": null,
+                "admin_region": null,
+                "post_town": null,
+                "country": "CN",
+                "date_closed": null
+              }
+            },
+            {
+              "center": "peak0",
+              "id": "67df94e46387a97b30e4456c",
+              "name": "混果汁（海上世界店）",
+              "lon": 113.911,
+              "lat": 22.485254,
+              "distance_m": 140,
+              "address_record": {
+                "fsq_place_id": "67df94e46387a97b30e4456c",
+                "name": "混果汁（海上世界店）",
+                "latitude": 22.485254,
+                "longitude": 113.911,
+                "address": null,
+                "locality": "深圳市",
+                "region": "广东",
+                "postcode": "518060",
+                "admin_region": null,
+                "post_town": null,
+                "country": "CN",
+                "date_closed": null
+              }
+            },
+            {
+              "center": "peak0",
+              "id": "4befe313f831c928815c01f2",
+              "name": "钰花溪蛇口站",
+              "lon": 113.9097830168371,
+              "lat": 22.487355150773105,
+              "distance_m": 174,
+              "address_record": {
+                "fsq_place_id": "4befe313f831c928815c01f2",
+                "name": "钰花溪蛇口站",
+                "latitude": 22.487355150773105,
+                "longitude": 113.9097830168371,
+                "address": "太子广场",
+                "locality": "深圳市",
+                "region": "广东",
+                "postcode": null,
+                "admin_region": null,
+                "post_town": null,
+                "country": "CN",
+                "date_closed": null
+              }
+            },
+            {
+              "center": "peak0",
+              "id": "4ebe71ec29c25ce5a157222a",
+              "name": "Minghua Bowling Centre",
+              "lon": 113.90946352997153,
+              "lat": 22.48661106089621,
+              "distance_m": 179,
+              "address_record": {
+                "fsq_place_id": "4ebe71ec29c25ce5a157222a",
+                "name": "Minghua Bowling Centre",
+                "latitude": 22.48661106089621,
+                "longitude": 113.90946352997153,
+                "address": null,
+                "locality": "Shenzhen",
+                "region": "Guangdong",
+                "postcode": null,
+                "admin_region": null,
+                "post_town": null,
+                "country": "CN",
+                "date_closed": null
+              }
+            },
+            {
+              "center": "peak0",
+              "id": "55c47767498e5724077ddd9a",
+              "name": "胡桃里音乐酒馆(海上世界店)",
+              "lon": 113.91311147675387,
+              "lat": 22.486083188855048,
+              "distance_m": 202,
+              "address_record": {
+                "fsq_place_id": "55c47767498e5724077ddd9a",
+                "name": "胡桃里音乐酒馆(海上世界店)",
+                "latitude": 22.486083188855048,
+                "longitude": 113.91311147675387,
+                "address": "海上世界环船广场C区一层C112铺",
+                "locality": "深圳",
+                "region": "广东",
+                "postcode": null,
+                "admin_region": null,
+                "post_town": null,
+                "country": "CN",
+                "date_closed": null
+              }
+            },
+            {
+              "center": "peak0",
+              "id": "4e3d3ef28877b00cfc441b85",
+              "name": "太子酒店酒吧 Taizi Hotel bar",
+              "lon": 113.90889426195183,
+              "lat": 22.486782145858527,
+              "distance_m": 239,
+              "address_record": {
+                "fsq_place_id": "4e3d3ef28877b00cfc441b85",
+                "name": "太子酒店酒吧 Taizi Hotel bar",
+                "latitude": 22.486782145858527,
+                "longitude": 113.90889426195183,
+                "address": null,
+                "locality": null,
+                "region": null,
+                "postcode": null,
+                "admin_region": null,
+                "post_town": null,
+                "country": "CN",
+                "date_closed": null
+              }
+            },
+            {
+              "center": "peak0",
+              "id": "5514d84f498e237bfc58e3db",
+              "name": "The Prince Avenue",
+              "lon": 113.91018963618433,
+              "lat": 22.48905055736177,
+              "distance_m": 301,
+              "address_record": {
+                "fsq_place_id": "5514d84f498e237bfc58e3db",
+                "name": "The Prince Avenue",
+                "latitude": 22.48905055736177,
+                "longitude": 113.91018963618433,
+                "address": "太子路振兴大厦D座101",
+                "locality": "深圳",
+                "region": "广东",
+                "postcode": null,
+                "admin_region": null,
+                "post_town": null,
+                "country": "CN",
+                "date_closed": null
+              }
+            },
+            {
+              "center": "peak0",
+              "id": "5a3f7b35bcbf7a68d94f3c33",
+              "name": "Design Society 海上世界文化艺术中心",
+              "lon": 113.91193228672418,
+              "lat": 22.48380026630934,
+              "distance_m": 308,
+              "address_record": {
+                "fsq_place_id": "5a3f7b35bcbf7a68d94f3c33",
+                "name": "Design Society 海上世界文化艺术中心",
+                "latitude": 22.48380026630934,
+                "longitude": 113.91193228672418,
+                "address": "1187 Wanghai Rd",
+                "locality": "Shenzhen",
+                "region": "Guangdong Sheng",
+                "postcode": null,
+                "admin_region": null,
+                "post_town": null,
+                "country": "CN",
+                "date_closed": null
+              }
+            }
+          ]
+        },
+        {
+          "coordinates": [
+            113.9094,
+            22.473
+          ],
+          "density": 171,
+          "region": "太子湾・蛇口クルーズ母港周辺",
+          "poi_count_1km": 150,
+          "poi_count_300m": 57,
+          "evidence_pois": [
+            {
+              "center": "peak1",
+              "id": "69c658b123987b496885165c",
+              "name": "太子灣花園",
+              "lon": 113.909268,
+              "lat": 22.473979,
+              "distance_m": 109,
+              "address_record": {
+                "fsq_place_id": "69c658b123987b496885165c",
+                "name": "太子灣花園",
+                "latitude": 22.473979,
+                "longitude": 113.909268,
+                "address": "乐海路",
+                "locality": "深圳市",
+                "region": "广东",
+                "postcode": null,
+                "admin_region": null,
+                "post_town": null,
+                "country": "CN",
+                "date_closed": null
+              }
+            },
+            {
+              "center": "peak1",
+              "id": "53754ccf498e9b85a0716863",
+              "name": "蛇口口岸 Shekou Port",
+              "lon": 113.90892911511482,
+              "lat": 22.47210395939468,
+              "distance_m": 110,
+              "address_record": {
+                "fsq_place_id": "53754ccf498e9b85a0716863",
+                "name": "蛇口口岸 Shekou Port",
+                "latitude": 22.47210395939468,
+                "longitude": 113.90892911511482,
+                "address": "海运路1号",
+                "locality": "shenzhen",
+                "region": null,
+                "postcode": "518000",
+                "admin_region": null,
+                "post_town": null,
+                "country": "CN",
+                "date_closed": null
+              }
+            },
+            {
+              "center": "peak1",
+              "id": "581963bc2a72e550cde4f2e7",
+              "name": "蛇口邮轮母港 Shekou Cruise & Ferry Terminal",
+              "lon": 113.90869851794324,
+              "lat": 22.472094046026285,
+              "distance_m": 124,
+              "address_record": {
+                "fsq_place_id": "581963bc2a72e550cde4f2e7",
+                "name": "蛇口邮轮母港 Shekou Cruise & Ferry Terminal",
+                "latitude": 22.472094046026285,
+                "longitude": 113.90869851794324,
+                "address": "1 Taizi Rd",
+                "locality": "深圳",
+                "region": null,
+                "postcode": "518000",
+                "admin_region": null,
+                "post_town": null,
+                "country": "CN",
+                "date_closed": null
+              }
+            },
+            {
+              "center": "peak1",
+              "id": "68985e76a8e64e666cbb9077",
+              "name": "Kofu Coffee Roaster(太子湾Villa店)",
+              "lon": 113.909253,
+              "lat": 22.474108,
+              "distance_m": 124,
+              "address_record": {
+                "fsq_place_id": "68985e76a8e64e666cbb9077",
+                "name": "Kofu Coffee Roaster(太子湾Villa店)",
+                "latitude": 22.474108,
+                "longitude": 113.909253,
+                "address": null,
+                "locality": "Shenzhen",
+                "region": "Guangdong",
+                "postcode": null,
+                "admin_region": null,
+                "post_town": null,
+                "country": "CN",
+                "date_closed": null
+              }
+            },
+            {
+              "center": "peak1",
+              "id": "5830e078b50d520d99f423e4",
+              "name": "Prince Bay Cruise Homeport",
+              "lon": 113.90861366568832,
+              "lat": 22.472079543727613,
+              "distance_m": 130,
+              "address_record": {
+                "fsq_place_id": "5830e078b50d520d99f423e4",
+                "name": "Prince Bay Cruise Homeport",
+                "latitude": 22.472079543727613,
+                "longitude": 113.90861366568832,
+                "address": "1 Haiyun Rd.",
+                "locality": "Shenzhen",
+                "region": "Guangdong",
+                "postcode": "518000",
+                "admin_region": null,
+                "post_town": null,
+                "country": "CN",
+                "date_closed": null
+              }
+            },
+            {
+              "center": "peak1",
+              "id": "6965dbbf845e4a1c2050e268",
+              "name": "MGM Shenzhen Prince Bay",
+              "lon": 113.907989,
+              "lat": 22.473215,
+              "distance_m": 147,
+              "address_record": {
+                "fsq_place_id": "6965dbbf845e4a1c2050e268",
+                "name": "MGM Shenzhen Prince Bay",
+                "latitude": 22.473215,
+                "longitude": 113.907989,
+                "address": null,
+                "locality": "Shenzhen",
+                "region": "Guangdong",
+                "postcode": null,
+                "admin_region": null,
+                "post_town": null,
+                "country": "CN",
+                "date_closed": null
+              }
+            },
+            {
+              "center": "peak1",
+              "id": "614f560555353c4ea4ef5a88",
+              "name": "蛇口CitiGO欢阁酒店",
+              "lon": 113.908676,
+              "lat": 22.471797,
+              "distance_m": 153,
+              "address_record": {
+                "fsq_place_id": "614f560555353c4ea4ef5a88",
+                "name": "蛇口CitiGO欢阁酒店",
+                "latitude": 22.471797,
+                "longitude": 113.908676,
+                "address": null,
+                "locality": "深圳市",
+                "region": "广东",
+                "postcode": null,
+                "admin_region": null,
+                "post_town": null,
+                "country": "CN",
+                "date_closed": null
+              }
+            },
+            {
+              "center": "peak1",
+              "id": "6743784257e1a1127de44dd0",
+              "name": "太子湾",
+              "lon": 113.911068,
+              "lat": 22.47313,
+              "distance_m": 172,
+              "address_record": {
+                "fsq_place_id": "6743784257e1a1127de44dd0",
+                "name": "太子湾",
+                "latitude": 22.47313,
+                "longitude": 113.911068,
+                "address": null,
+                "locality": "Shenzhen",
+                "region": "Guangdong",
+                "postcode": null,
+                "admin_region": null,
+                "post_town": null,
+                "country": "CN",
+                "date_closed": null
+              }
+            },
+            {
+              "center": "peak1",
+              "id": "6a1e7fe7fa20c14a43b68aef",
+              "name": "深圳蛇口邮轮母港 Shenzhen Shekou Cruise Home Port",
+              "lon": 113.91095,
+              "lat": 22.469776,
+              "distance_m": 391,
+              "address_record": {
+                "fsq_place_id": "6a1e7fe7fa20c14a43b68aef",
+                "name": "深圳蛇口邮轮母港 Shenzhen Shekou Cruise Home Port",
+                "latitude": 22.469776,
+                "longitude": 113.91095,
+                "address": "深圳蛇口邮轮母港",
+                "locality": null,
+                "region": null,
+                "postcode": null,
+                "admin_region": null,
+                "post_town": null,
+                "country": "CN",
+                "date_closed": null
+              }
+            },
+            {
+              "center": "peak1",
+              "id": "63c649b96bb50108f864aa9c",
+              "name": "太子湾地铁站",
+              "lon": 113.905718,
+              "lat": 22.475027,
+              "distance_m": 440,
+              "address_record": {
+                "fsq_place_id": "63c649b96bb50108f864aa9c",
+                "name": "太子湾地铁站",
+                "latitude": 22.475027,
+                "longitude": 113.905718,
+                "address": "Shenzhen Metro Line 12",
+                "locality": "Shenzhen",
+                "region": "Guangdong",
+                "postcode": null,
+                "admin_region": null,
+                "post_town": null,
+                "country": "CN",
+                "date_closed": null
+              }
+            },
+            {
+              "center": "peak1",
+              "id": "64fbd7c28d67954823738e3e",
+              "name": "深圳（蛇口）出入境签证办事处",
+              "lon": 113.913163,
+              "lat": 22.468421,
+              "distance_m": 638,
+              "address_record": {
+                "fsq_place_id": "64fbd7c28d67954823738e3e",
+                "name": "深圳（蛇口）出入境签证办事处",
+                "latitude": 22.468421,
+                "longitude": 113.913163,
+                "address": null,
+                "locality": "Shenzhen",
+                "region": "Guangdong",
+                "postcode": null,
+                "admin_region": null,
+                "post_town": null,
+                "country": "CN",
+                "date_closed": null
+              }
+            },
+            {
+              "center": "peak1",
+              "id": "4dbbd58fa86e0e98a1d3d7c9",
+              "name": "蛇口港地铁站 Shekou Port Metro Sta.",
+              "lon": 113.90786609253462,
+              "lat": 22.47999660032679,
+              "distance_m": 791,
+              "address_record": {
+                "fsq_place_id": "4dbbd58fa86e0e98a1d3d7c9",
+                "name": "蛇口港地铁站 Shekou Port Metro Sta.",
+                "latitude": 22.47999660032679,
+                "longitude": 113.90786609253462,
+                "address": "Shekou Ferry Terminal - Haiwan Blvd.",
+                "locality": "Shenzhen",
+                "region": "Guangdong",
+                "postcode": "518000",
+                "admin_region": null,
+                "post_town": null,
+                "country": "CN",
+                "date_closed": null
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "reference_id": "GeoNames:13308749",
+      "original": "Dalingxia",
+      "reference_coordinates": [
+        114.00428,
+        22.54337
+      ],
+      "region": "深圳市福田区・農林路と竹子林周辺",
+      "peak_regions": [
+        "印力中心（深国投広場）周辺",
+        "竹子林・東方銀座ホテル周辺"
+      ],
+      "sources": [
+        {
+          "url": "https://www.szzx.gov.cn/szzx/zwhdt/tawyh/content/post_1220865.html",
+          "basis": "印力中心は福田区農林路69号・僑香路交差点。"
+        },
+        {
+          "url": "https://www.sz.gov.cn/cn/xxgk/zfxxgj/zcfg/content/post_9584291.html",
+          "basis": "深国投広場の公的郵送先は同じ農林路69号。"
+        },
+        {
+          "url": "https://wtl.sz.gov.cn/ggfw/lyl/xjbgjdylb/",
+          "basis": "東方銀座ホテルの所在地は福田区深南大道竹子林。"
+        }
+      ],
+      "terms": [
+        "深国投",
+        "印力",
+        "东方银座",
+        "Oriental Ginza",
+        "竹子林",
+        "儿童"
+      ],
+      "assessment": "大嶺下という山の同定は未解決だが、名前が割り当てられた2峰の商業・宿泊施設群はそれぞれ別の街区として確認できる。",
+      "unique_local_pois": 376,
+      "address_nonempty": 163,
+      "localities": {
+        "深圳": 35,
+        "深圳市": 88,
+        "(missing)": 115,
+        "Shenzhen": 122,
+        "Futian": 1,
+        "shenzhen": 2,
+        "Shen Zhen Shi": 2,
+        "深圳市,广东省": 3,
+        "West Futian District": 1,
+        "深圳市，福田区": 1,
+        "선전 시": 1,
+        "Shenzhen, Guangdong": 1,
+        "深圳市福田区": 1,
+        "Шэньчжэнь": 1,
+        "深セン市": 1,
+        "Shenzhen Shi": 1
+      },
+      "peaks": [
+        {
+          "coordinates": [
+            114.00659999999999,
+            22.547699999999992
+          ],
+          "density": 272,
+          "region": "印力中心（深国投広場）周辺",
+          "poi_count_1km": 191,
+          "poi_count_300m": 74,
+          "evidence_pois": [
+            {
+              "center": "peak0",
+              "id": "4e633cca1f6ef7d07b0dff9e",
+              "name": "深国投广场 SCP Plaza",
+              "lon": 114.00657786800215,
+              "lat": 22.547961924020605,
+              "distance_m": 29,
+              "address_record": {
+                "fsq_place_id": "4e633cca1f6ef7d07b0dff9e",
+                "name": "深国投广场 SCP Plaza",
+                "latitude": 22.547961924020605,
+                "longitude": 114.00657786800215,
+                "address": "69 Nonglin Rd | 农林路69号",
+                "locality": "Shenzhen",
+                "region": "Guangdong",
+                "postcode": null,
+                "admin_region": null,
+                "post_town": null,
+                "country": "CN",
+                "date_closed": null
+              }
+            },
+            {
+              "center": "peak0",
+              "id": "6889fecaf4a9f3098796eb78",
+              "name": "中影国际影城（印力中心店）",
+              "lon": 114.006771,
+              "lat": 22.547338,
+              "distance_m": 44,
+              "address_record": {
+                "fsq_place_id": "6889fecaf4a9f3098796eb78",
+                "name": "中影国际影城（印力中心店）",
+                "latitude": 22.547338,
+                "longitude": 114.006771,
+                "address": "福田区农林路69号印力中心3层",
+                "locality": "深圳市",
+                "region": "广东",
+                "postcode": null,
+                "admin_region": null,
+                "post_town": null,
+                "country": "CN",
+                "date_closed": null
+              }
+            },
+            {
+              "center": "peak0",
+              "id": "6889e98873cdeb64340f1f8f",
+              "name": "牛角（印力中心店）",
+              "lon": 114.00678,
+              "lat": 22.547226,
+              "distance_m": 56,
+              "address_record": {
+                "fsq_place_id": "6889e98873cdeb64340f1f8f",
+                "name": "牛角（印力中心店）",
+                "latitude": 22.547226,
+                "longitude": 114.00678,
+                "address": "福田区农林路69号印力中心3楼32-33号",
+                "locality": "深圳市",
+                "region": "广东",
+                "postcode": null,
+                "admin_region": null,
+                "post_town": null,
+                "country": "CN",
+                "date_closed": null
+              }
+            },
+            {
+              "center": "peak0",
+              "id": "6889a2e18552ff19bc89559c",
+              "name": "gaga（印力中心店）",
+              "lon": 114.007066,
+              "lat": 22.547375,
+              "distance_m": 60,
+              "address_record": {
+                "fsq_place_id": "6889a2e18552ff19bc89559c",
+                "name": "gaga（印力中心店）",
+                "latitude": 22.547375,
+                "longitude": 114.007066,
+                "address": "福田区香蜜湖街道组竹园社区农林路69号印力中心1层01-14/15A/16（招商银行对面）",
+                "locality": "深圳市",
+                "region": "广东",
+                "postcode": null,
+                "admin_region": null,
+                "post_town": null,
+                "country": "CN",
+                "date_closed": null
+              }
+            },
+            {
+              "center": "peak0",
+              "id": "4cf1db0388de37045ca9752b",
+              "name": "钰花溪深国投店",
+              "lon": 114.007199,
+              "lat": 22.548034696739887,
+              "distance_m": 72,
+              "address_record": {
+                "fsq_place_id": "4cf1db0388de37045ca9752b",
+                "name": "钰花溪深国投店",
+                "latitude": 22.548034696739887,
+                "longitude": 114.007199,
+                "address": null,
+                "locality": "深圳市",
+                "region": "广东",
+                "postcode": null,
+                "admin_region": null,
+                "post_town": null,
+                "country": "CN",
+                "date_closed": null
+              }
+            },
+            {
+              "center": "peak0",
+              "id": "533ac261498e58ab72bdb901",
+              "name": "Home-made Cuisine 愛吃家常便飯 (深国投)",
+              "lon": 114.00679016113281,
+              "lat": 22.548553466796875,
+              "distance_m": 97,
+              "address_record": {
+                "fsq_place_id": "533ac261498e58ab72bdb901",
+                "name": "Home-made Cuisine 愛吃家常便飯 (深国投)",
+                "latitude": 22.548553466796875,
+                "longitude": 114.00679016113281,
+                "address": null,
+                "locality": null,
+                "region": null,
+                "postcode": null,
+                "admin_region": null,
+                "post_town": null,
+                "country": "CN",
+                "date_closed": null
+              }
+            },
+            {
+              "center": "peak0",
+              "id": "4f0019188231bcb7041d9a66",
+              "name": "深圳市儿童乐园",
+              "lon": 114.00575316408447,
+              "lat": 22.54610937567619,
+              "distance_m": 197,
+              "address_record": {
+                "fsq_place_id": "4f0019188231bcb7041d9a66",
+                "name": "深圳市儿童乐园",
+                "latitude": 22.54610937567619,
+                "longitude": 114.00575316408447,
+                "address": "侨香路",
+                "locality": "深圳",
+                "region": null,
+                "postcode": "518000",
+                "admin_region": null,
+                "post_town": null,
+                "country": "CN",
+                "date_closed": null
+              }
+            },
+            {
+              "center": "peak0",
+              "id": "618f899886c87b24af2d20f2",
+              "name": "湊湊火锅·茶憩（印力中心）",
+              "lon": 114.011523,
+              "lat": 22.544565,
+              "distance_m": 614,
+              "address_record": {
+                "fsq_place_id": "618f899886c87b24af2d20f2",
+                "name": "湊湊火锅·茶憩（印力中心）",
+                "latitude": 22.544565,
+                "longitude": 114.011523,
+                "address": "福田区农林路69号印力中心负1层",
+                "locality": "深圳市",
+                "region": "广东",
+                "postcode": null,
+                "admin_region": null,
+                "post_town": null,
+                "country": "CN",
+                "date_closed": null
+              }
+            },
+            {
+              "center": "peak0",
+              "id": "65881e41d6657b06e4203d08",
+              "name": "皖厨·中国徽菜(印力中心店)",
+              "lon": 114.011601,
+              "lat": 22.544108,
+              "distance_m": 650,
+              "address_record": {
+                "fsq_place_id": "65881e41d6657b06e4203d08",
+                "name": "皖厨·中国徽菜(印力中心店)",
+                "latitude": 22.544108,
+                "longitude": 114.011601,
+                "address": "竹园社区农林路69号印力中心3层03-22/23",
+                "locality": "Shenzhen",
+                "region": "Guangdong",
+                "postcode": null,
+                "admin_region": null,
+                "post_town": null,
+                "country": "CN",
+                "date_closed": null
+              }
+            },
+            {
+              "center": "peak0",
+              "id": "4dd92007b0fb8af380af1953",
+              "name": "如家快捷酒店_竹子林店",
+              "lon": 114.00836661931113,
+              "lat": 22.538839791309993,
+              "distance_m": 998,
+              "address_record": {
+                "fsq_place_id": "4dd92007b0fb8af380af1953",
+                "name": "如家快捷酒店_竹子林店",
+                "latitude": 22.538839791309993,
+                "longitude": 114.00836661931113,
+                "address": null,
+                "locality": "Shenzhen",
+                "region": "Guangdong",
+                "postcode": null,
+                "admin_region": null,
+                "post_town": null,
+                "country": "CN",
+                "date_closed": null
+              }
+            }
+          ]
+        },
+        {
+          "coordinates": [
+            114.0075,
+            22.53779999999999
+          ],
+          "density": 169,
+          "region": "竹子林・東方銀座ホテル周辺",
+          "poi_count_1km": 237,
+          "poi_count_300m": 44,
+          "evidence_pois": [
+            {
+              "center": "peak1",
+              "id": "4f4274c8e4b005b536d2445d",
+              "name": "深圳东方银座酒店",
+              "lon": 114.007685,
+              "lat": 22.537866,
+              "distance_m": 20,
+              "address_record": {
+                "fsq_place_id": "4f4274c8e4b005b536d2445d",
+                "name": "深圳东方银座酒店",
+                "latitude": 22.537866,
+                "longitude": 114.007685,
+                "address": null,
+                "locality": null,
+                "region": null,
+                "postcode": null,
+                "admin_region": null,
+                "post_town": null,
+                "country": "CN",
+                "date_closed": null
+              }
+            },
+            {
+              "center": "peak1",
+              "id": "4bc8825edc55eee13c83e8ac",
+              "name": "Grand Mercure Oriental Ginza",
+              "lon": 114.007711,
+              "lat": 22.537882,
+              "distance_m": 24,
+              "address_record": {
+                "fsq_place_id": "4bc8825edc55eee13c83e8ac",
+                "name": "Grand Mercure Oriental Ginza",
+                "latitude": 22.537882,
+                "longitude": 114.007711,
+                "address": "紫竹七道4号",
+                "locality": "深圳",
+                "region": "广东",
+                "postcode": null,
+                "admin_region": null,
+                "post_town": null,
+                "country": "CN",
+                "date_closed": null
+              }
+            },
+            {
+              "center": "peak1",
+              "id": "4dd92007b0fb8af380af1953",
+              "name": "如家快捷酒店_竹子林店",
+              "lon": 114.00836661931113,
+              "lat": 22.538839791309993,
+              "distance_m": 146,
+              "address_record": {
+                "fsq_place_id": "4dd92007b0fb8af380af1953",
+                "name": "如家快捷酒店_竹子林店",
+                "latitude": 22.538839791309993,
+                "longitude": 114.00836661931113,
+                "address": null,
+                "locality": "Shenzhen",
+                "region": "Guangdong",
+                "postcode": null,
+                "admin_region": null,
+                "post_town": null,
+                "country": "CN",
+                "date_closed": null
+              }
+            },
+            {
+              "center": "peak1",
+              "id": "5c01009ce1f228002c49104c",
+              "name": "中国移动 （竹子林服务厅）",
+              "lon": 114.005976,
+              "lat": 22.536395,
+              "distance_m": 221,
+              "address_record": {
+                "fsq_place_id": "5c01009ce1f228002c49104c",
+                "name": "中国移动 （竹子林服务厅）",
+                "latitude": 22.536395,
+                "longitude": 114.005976,
+                "address": null,
+                "locality": "Shenzhen",
+                "region": "Guangdong",
+                "postcode": null,
+                "admin_region": null,
+                "post_town": null,
+                "country": "CN",
+                "date_closed": null
+              }
+            },
+            {
+              "center": "peak1",
+              "id": "0fb760e6029e4c0d6866dc95",
+              "name": "深圳怡居酒店式公寓竹子林店",
+              "lon": 114.00792,
+              "lat": 22.53509,
+              "distance_m": 303,
+              "address_record": {
+                "fsq_place_id": "0fb760e6029e4c0d6866dc95",
+                "name": "深圳怡居酒店式公寓竹子林店",
+                "latitude": 22.53509,
+                "longitude": 114.00792,
+                "address": "福田区竹子林四路與紫竹六道越海家園海景公寓",
+                "locality": "深圳市",
+                "region": "广东",
+                "postcode": "518000",
+                "admin_region": null,
+                "post_town": "福田区",
+                "country": "CN",
+                "date_closed": null
+              }
+            },
+            {
+              "center": "peak1",
+              "id": "687f7cc76766725a2fd167a8",
+              "name": "朔曦臻味·潮粤菜(竹子林店)",
+              "lon": 114.003971,
+              "lat": 22.537096,
+              "distance_m": 371,
+              "address_record": {
+                "fsq_place_id": "687f7cc76766725a2fd167a8",
+                "name": "朔曦臻味·潮粤菜(竹子林店)",
+                "latitude": 22.537096,
+                "longitude": 114.003971,
+                "address": null,
+                "locality": "深圳市",
+                "region": "广东",
+                "postcode": null,
+                "admin_region": null,
+                "post_town": null,
+                "country": "CN",
+                "date_closed": null
+              }
+            },
+            {
+              "center": "peak1",
+              "id": "4bf281ae55c7c9b60e256204",
+              "name": "东方银座",
+              "lon": 114.00336619568267,
+              "lat": 22.536185525988444,
+              "distance_m": 461,
+              "address_record": {
+                "fsq_place_id": "4bf281ae55c7c9b60e256204",
+                "name": "东方银座",
+                "latitude": 22.536185525988444,
+                "longitude": 114.00336619568267,
+                "address": null,
+                "locality": "深圳",
+                "region": "广东",
+                "postcode": null,
+                "admin_region": null,
+                "post_town": null,
+                "country": "CN",
+                "date_closed": null
+              }
+            },
+            {
+              "center": "peak1",
+              "id": "4bf28125a32e20a14042d557",
+              "name": "竹子林",
+              "lon": 114.01188611984253,
+              "lat": 22.53663919777259,
+              "distance_m": 469,
+              "address_record": {
+                "fsq_place_id": "4bf28125a32e20a14042d557",
+                "name": "竹子林",
+                "latitude": 22.53663919777259,
+                "longitude": 114.01188611984253,
+                "address": "南山区深南大道",
+                "locality": "深圳市,广东省",
+                "region": "中国",
+                "postcode": null,
+                "admin_region": null,
+                "post_town": null,
+                "country": "CN",
+                "date_closed": null
+              }
+            },
+            {
+              "center": "peak1",
+              "id": "53e0e929498e3ca323f18da2",
+              "name": "Garden BBQ Lounge Grand Mercure Shenzhen Oriental Ginza",
+              "lon": 114.012686,
+              "lat": 22.534856,
+              "distance_m": 625,
+              "address_record": {
+                "fsq_place_id": "53e0e929498e3ca323f18da2",
+                "name": "Garden BBQ Lounge Grand Mercure Shenzhen Oriental Ginza",
+                "latitude": 22.534856,
+                "longitude": 114.012686,
+                "address": null,
+                "locality": null,
+                "region": null,
+                "postcode": null,
+                "admin_region": null,
+                "post_town": null,
+                "country": "CN",
+                "date_closed": null
+              }
+            },
+            {
+              "center": "peak1",
+              "id": "65881e41d6657b06e4203d08",
+              "name": "皖厨·中国徽菜(印力中心店)",
+              "lon": 114.011601,
+              "lat": 22.544108,
+              "distance_m": 816,
+              "address_record": {
+                "fsq_place_id": "65881e41d6657b06e4203d08",
+                "name": "皖厨·中国徽菜(印力中心店)",
+                "latitude": 22.544108,
+                "longitude": 114.011601,
+                "address": "竹园社区农林路69号印力中心3层03-22/23",
+                "locality": "Shenzhen",
+                "region": "Guangdong",
+                "postcode": null,
+                "admin_region": null,
+                "post_town": null,
+                "country": "CN",
+                "date_closed": null
+              }
+            },
+            {
+              "center": "peak1",
+              "id": "618f899886c87b24af2d20f2",
+              "name": "湊湊火锅·茶憩（印力中心）",
+              "lon": 114.011523,
+              "lat": 22.544565,
+              "distance_m": 856,
+              "address_record": {
+                "fsq_place_id": "618f899886c87b24af2d20f2",
+                "name": "湊湊火锅·茶憩（印力中心）",
+                "latitude": 22.544565,
+                "longitude": 114.011523,
+                "address": "福田区农林路69号印力中心负1层",
+                "locality": "深圳市",
+                "region": "广东",
+                "postcode": null,
+                "admin_region": null,
+                "post_town": null,
+                "country": "CN",
+                "date_closed": null
+              }
+            },
+            {
+              "center": "peak1",
+              "id": "4f0019188231bcb7041d9a66",
+              "name": "深圳市儿童乐园",
+              "lon": 114.00575316408447,
+              "lat": 22.54610937567619,
+              "distance_m": 938,
+              "address_record": {
+                "fsq_place_id": "4f0019188231bcb7041d9a66",
+                "name": "深圳市儿童乐园",
+                "latitude": 22.54610937567619,
+                "longitude": 114.00575316408447,
+                "address": "侨香路",
+                "locality": "深圳",
+                "region": null,
+                "postcode": "518000",
+                "admin_region": null,
+                "post_town": null,
+                "country": "CN",
+                "date_closed": null
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "reference_id": "GeoNames:13308605",
+      "original": "Haoye",
+      "reference_coordinates": [
+        113.8051,
+        22.73538
+      ],
+      "region": "深圳市宝安区・沙井中心地区西側",
+      "peak_regions": [
+        "沙井・京基百納広場周辺"
+      ],
+      "sources": [
+        {
+          "url": "https://jtys.sz.gov.cn/zwgk/xxgkml/ghjh/zxgh/content/post_4278186.html",
+          "basis": "京基百納周辺は宝安区沙井街道中心区西区と記載。周辺のスーパー・病院・バス施設も記載。"
+        },
+        {
+          "url": "https://www.sz.gov.cn/cn/xxgk/zfxxgj/gqdt/content/mpost_12131470.html",
+          "basis": "沙井街道と沙井京基百納広場の活動を確認。"
+        }
+      ],
+      "terms": [
+        "沙井",
+        "京基",
+        "百纳",
+        "Vanguard",
+        "华润",
+        "沙头"
+      ],
+      "assessment": "西郷の蚝業社区という候補は採用しない。周辺の沙井店舗・施設群と公的商圏資料が対応するため、地域を沙井として確認できる。",
+      "unique_local_pois": 156,
+      "address_nonempty": 64,
+      "localities": {
+        "(missing)": 59,
+        "Shenzhen": 31,
+        "Shenzhen, Guangdong": 2,
+        "深圳": 9,
+        "深圳市": 42,
+        "Shen Zhen Shi": 9,
+        "沙井巿": 1,
+        "ShenZhen": 1,
+        "深圳沙井": 1,
+        "Shenzhen Shi": 1
+      },
+      "peaks": [
+        {
+          "coordinates": [
+            113.8014,
+            22.730400000000003
+          ],
+          "density": 147,
+          "region": "沙井・京基百納広場周辺",
+          "poi_count_1km": 118,
+          "poi_count_300m": 46,
+          "evidence_pois": [
+            {
+              "center": "peak0",
+              "id": "510db47ce4b09bd9fa5ceada",
+              "name": "华润万家 Vanguard",
+              "lon": 113.80101208827988,
+              "lat": 22.730861246743906,
+              "distance_m": 65,
+              "address_record": {
+                "fsq_place_id": "510db47ce4b09bd9fa5ceada",
+                "name": "华润万家 Vanguard",
+                "latitude": 22.730861246743906,
+                "longitude": 113.80101208827988,
+                "address": "宝源路",
+                "locality": "Shenzhen",
+                "region": "Guangdong",
+                "postcode": null,
+                "admin_region": null,
+                "post_town": null,
+                "country": "CN",
+                "date_closed": null
+              }
+            },
+            {
+              "center": "peak0",
+              "id": "540c17ad498e20a6ab37ac6c",
+              "name": "京基.百纳广场(沙井店)",
+              "lon": 113.80197075445959,
+              "lat": 22.730850826852418,
+              "distance_m": 77,
+              "address_record": {
+                "fsq_place_id": "540c17ad498e20a6ab37ac6c",
+                "name": "京基.百纳广场(沙井店)",
+                "latitude": 22.730850826852418,
+                "longitude": 113.80197075445959,
+                "address": "宝安沙井",
+                "locality": "深圳",
+                "region": null,
+                "postcode": "518000",
+                "admin_region": null,
+                "post_town": null,
+                "country": "CN",
+                "date_closed": null
+              }
+            },
+            {
+              "center": "peak0",
+              "id": "52b3ce1d498ebc8b5e953507",
+              "name": "京基",
+              "lon": 113.79982682581706,
+              "lat": 22.72889616226219,
+              "distance_m": 232,
+              "address_record": {
+                "fsq_place_id": "52b3ce1d498ebc8b5e953507",
+                "name": "京基",
+                "latitude": 22.72889616226219,
+                "longitude": 113.79982682581706,
+                "address": null,
+                "locality": null,
+                "region": null,
+                "postcode": null,
+                "admin_region": null,
+                "post_town": null,
+                "country": "CN",
+                "date_closed": null
+              }
+            },
+            {
+              "center": "peak0",
+              "id": "522134d4498e4ca234295857",
+              "name": "沙头宾馆",
+              "lon": 113.80129097317017,
+              "lat": 22.727639480001475,
+              "distance_m": 306,
+              "address_record": {
+                "fsq_place_id": "522134d4498e4ca234295857",
+                "name": "沙头宾馆",
+                "latitude": 22.727639480001475,
+                "longitude": 113.80129097317017,
+                "address": null,
+                "locality": null,
+                "region": null,
+                "postcode": null,
+                "admin_region": null,
+                "post_town": null,
+                "country": "CN",
+                "date_closed": null
+              }
+            },
+            {
+              "center": "peak0",
+              "id": "4bb960c8935e9521a21d2790",
+              "name": "沙井人民医院",
+              "lon": 113.80029163494994,
+              "lat": 22.73473784990016,
+              "distance_m": 494,
+              "address_record": {
+                "fsq_place_id": "4bb960c8935e9521a21d2790",
+                "name": "沙井人民医院",
+                "latitude": 22.73473784990016,
+                "longitude": 113.80029163494994,
+                "address": "宝安区沙井街道办沙井大街3号",
+                "locality": "深圳",
+                "region": "广东",
+                "postcode": "518104",
+                "admin_region": null,
+                "post_town": null,
+                "country": "CN",
+                "date_closed": null
+              }
+            },
+            {
+              "center": "peak0",
+              "id": "4ba988b4f964a5200f2d3ae3",
+              "name": "沙井供电所新沙路营业厅",
+              "lon": 113.80403101444244,
+              "lat": 22.73514230180764,
+              "distance_m": 591,
+              "address_record": {
+                "fsq_place_id": "4ba988b4f964a5200f2d3ae3",
+                "name": "沙井供电所新沙路营业厅",
+                "latitude": 22.73514230180764,
+                "longitude": 113.80403101444244,
+                "address": "宝安区沙井街道",
+                "locality": "深圳",
+                "region": "广东省",
+                "postcode": null,
+                "admin_region": null,
+                "post_town": null,
+                "country": "CN",
+                "date_closed": null
+              }
+            },
+            {
+              "center": "peak0",
+              "id": "4fd16abde4b04d6c2b5b144f",
+              "name": "中国银行深圳沙井支行",
+              "lon": 113.80763048467,
+              "lat": 22.732440880447,
+              "distance_m": 679,
+              "address_record": {
+                "fsq_place_id": "4fd16abde4b04d6c2b5b144f",
+                "name": "中国银行深圳沙井支行",
+                "latitude": 22.732440880447,
+                "longitude": 113.80763048467,
+                "address": null,
+                "locality": "深圳",
+                "region": "深圳",
+                "postcode": "中国银行深圳沙井支行",
+                "admin_region": null,
+                "post_town": null,
+                "country": "CN",
+                "date_closed": null
+              }
+            },
+            {
+              "center": "peak0",
+              "id": "4be4d66e910020a1bd5dd214",
+              "name": "沙井预防保健所",
+              "lon": 113.8011771440506,
+              "lat": 22.736888796735673,
+              "distance_m": 719,
+              "address_record": {
+                "fsq_place_id": "4be4d66e910020a1bd5dd214",
+                "name": "沙井预防保健所",
+                "latitude": 22.736888796735673,
+                "longitude": 113.8011771440506,
+                "address": "宝安区沙井老街",
+                "locality": "深圳市",
+                "region": "广东",
+                "postcode": null,
+                "admin_region": null,
+                "post_town": null,
+                "country": "CN",
+                "date_closed": null
+              }
+            },
+            {
+              "center": "peak0",
+              "id": "4d9084d6788c54817ae365fd",
+              "name": "深圳沙井凱嘉酒店",
+              "lon": 113.79560285367917,
+              "lat": 22.73473866765096,
+              "distance_m": 765,
+              "address_record": {
+                "fsq_place_id": "4d9084d6788c54817ae365fd",
+                "name": "深圳沙井凱嘉酒店",
+                "latitude": 22.73473866765096,
+                "longitude": 113.79560285367917,
+                "address": null,
+                "locality": null,
+                "region": null,
+                "postcode": null,
+                "admin_region": null,
+                "post_town": null,
+                "country": "CN",
+                "date_closed": null
+              }
+            },
+            {
+              "center": "peak0",
+              "id": "7b28e629e1ee4fde1758e227",
+              "name": "深圳维纳斯皇家酒店沙井麒麟店",
+              "lon": 113.807434,
+              "lat": 22.725992,
+              "distance_m": 789,
+              "address_record": {
+                "fsq_place_id": "7b28e629e1ee4fde1758e227",
+                "name": "深圳维纳斯皇家酒店沙井麒麟店",
+                "latitude": 22.725992,
+                "longitude": 113.807434,
+                "address": "沙井镇沙头村沙井路118号",
+                "locality": "深圳市",
+                "region": "广东",
+                "postcode": "518104",
+                "admin_region": null,
+                "post_town": "宝安区",
+                "country": "CN",
+                "date_closed": null
+              }
+            },
+            {
+              "center": "peak0",
+              "id": "4e111ab08877ac23b65e960e",
+              "name": "沙井有线电视工程部",
+              "lon": 113.80756379,
+              "lat": 22.73556831,
+              "distance_m": 854,
+              "address_record": {
+                "fsq_place_id": "4e111ab08877ac23b65e960e",
+                "name": "沙井有线电视工程部",
+                "latitude": 22.73556831,
+                "longitude": 113.80756379,
+                "address": null,
+                "locality": "Shenzhen",
+                "region": "Guangdong",
+                "postcode": null,
+                "admin_region": null,
+                "post_town": null,
+                "country": "CN",
+                "date_closed": null
+              }
+            },
+            {
+              "center": "peak0",
+              "id": "4bb7057fef159c74b8c276f7",
+              "name": "宝安药业沙井一店",
+              "lon": 113.80104303359985,
+              "lat": 22.738180100169817,
+              "distance_m": 862,
+              "address_record": {
+                "fsq_place_id": "4bb7057fef159c74b8c276f7",
+                "name": "宝安药业沙井一店",
+                "latitude": 22.738180100169817,
+                "longitude": 113.80104303359985,
+                "address": "宝安区沙井老街",
+                "locality": "深圳市",
+                "region": "广东",
+                "postcode": null,
+                "admin_region": null,
+                "post_town": null,
+                "country": "CN",
+                "date_closed": null
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "reference_id": "GeoNames:13308724",
+      "original": "Hongshulin",
+      "reference_coordinates": [
+        113.90058,
+        22.53038
+      ],
+      "region": "深圳市南山区・前海桂湾",
+      "peak_regions": [
+        "万象前海・前海卓悦INTOWN周辺"
+      ],
+      "sources": [
+        {
+          "url": "https://qh.sz.gov.cn/en/life-in-qianhai/malls-and-places-for-leisure/content/post_10660073.html",
+          "basis": "万象前海は前海桂湾・桂湾四路169号、前海卓悦INTOWNは夢海大道5033号。"
+        }
+      ],
+      "terms": [
+        "万象前海",
+        "前海",
+        "SCIA",
+        "桂湾"
+      ],
+      "assessment": "福田の紅樹林保護区を参照する根拠はない。POI群は万象前海と隣接施設で、前海桂湾の商圏と確認できる。",
+      "unique_local_pois": 258,
+      "address_nonempty": 112,
+      "localities": {
+        "Shenzhen": 137,
+        "深圳市": 69,
+        "深圳": 4,
+        "Shenzhen Shi": 1,
+        "Shen Zhen Shi": 3,
+        "(missing)": 42,
+        "深圳市南山区": 1,
+        "Шэньчжэнь": 1
+      },
+      "peaks": [
+        {
+          "coordinates": [
+            113.89859999999999,
+            22.530599999999993
+          ],
+          "density": 243,
+          "region": "万象前海・前海卓悦INTOWN周辺",
+          "poi_count_1km": 216,
+          "poi_count_300m": 76,
+          "evidence_pois": [
+            {
+              "center": "peak0",
+              "id": "635e1760167a9615e19e84c0",
+              "name": "朴里(万象前海店)",
+              "lon": 113.898968,
+              "lat": 22.530829,
+              "distance_m": 46,
+              "address_record": {
+                "fsq_place_id": "635e1760167a9615e19e84c0",
+                "name": "朴里(万象前海店)",
+                "latitude": 22.530829,
+                "longitude": 113.898968,
+                "address": "桂湾四路169号万象前海购物中心B1层B175",
+                "locality": "Shenzhen",
+                "region": "Guangdong",
+                "postcode": null,
+                "admin_region": null,
+                "post_town": null,
+                "country": "CN",
+                "date_closed": null
+              }
+            },
+            {
+              "center": "peak0",
+              "id": "67737b80e0ebf65e9de81e2e",
+              "name": "鲜潭蒸汽石锅鱼(万象前海店)",
+              "lon": 113.898514,
+              "lat": 22.531034,
+              "distance_m": 49,
+              "address_record": {
+                "fsq_place_id": "67737b80e0ebf65e9de81e2e",
+                "name": "鲜潭蒸汽石锅鱼(万象前海店)",
+                "latitude": 22.531034,
+                "longitude": 113.898514,
+                "address": "桂湾四路万象前海购物中心B2层B205（5号线桂湾站地铁站A口出）",
+                "locality": "Shenzhen",
+                "region": "Guangdong",
+                "postcode": null,
+                "admin_region": null,
+                "post_town": null,
+                "country": "CN",
+                "date_closed": null
+              }
+            },
+            {
+              "center": "peak0",
+              "id": "6739b9c4d7549934c8577546",
+              "name": "清莱湾 CHIN RAI(万象前海店)",
+              "lon": 113.899043,
+              "lat": 22.53097,
+              "distance_m": 61,
+              "address_record": {
+                "fsq_place_id": "6739b9c4d7549934c8577546",
+                "name": "清莱湾 CHIN RAI(万象前海店)",
+                "latitude": 22.53097,
+                "longitude": 113.899043,
+                "address": null,
+                "locality": "Shenzhen",
+                "region": "Guangdong",
+                "postcode": null,
+                "admin_region": null,
+                "post_town": null,
+                "country": "CN",
+                "date_closed": null
+              }
+            },
+            {
+              "center": "peak0",
+              "id": "6684c5d8188ff01cbf004310",
+              "name": "SCIA Tower",
+              "lon": 113.89833,
+              "lat": 22.529807,
+              "distance_m": 92,
+              "address_record": {
+                "fsq_place_id": "6684c5d8188ff01cbf004310",
+                "name": "SCIA Tower",
+                "latitude": 22.529807,
+                "longitude": 113.89833,
+                "address": "国际仲裁大厦",
+                "locality": "Shenzhen",
+                "region": "Guangdong",
+                "postcode": null,
+                "admin_region": null,
+                "post_town": null,
+                "country": "CN",
+                "date_closed": null
+              }
+            },
+            {
+              "center": "peak0",
+              "id": "6379bfe569499b620f4d7488",
+              "name": "乐刻(前海卓越intown）",
+              "lon": 113.898542,
+              "lat": 22.529756,
+              "distance_m": 94,
+              "address_record": {
+                "fsq_place_id": "6379bfe569499b620f4d7488",
+                "name": "乐刻(前海卓越intown）",
+                "latitude": 22.529756,
+                "longitude": 113.898542,
+                "address": null,
+                "locality": "深圳市",
+                "region": "广东",
+                "postcode": null,
+                "admin_region": null,
+                "post_town": null,
+                "country": "CN",
+                "date_closed": null
+              }
+            },
+            {
+              "center": "peak0",
+              "id": "643a1d4634620e79d1ea4e57",
+              "name": "通透堂中医(前海卓越intown店)",
+              "lon": 113.89911,
+              "lat": 22.529817,
+              "distance_m": 101,
+              "address_record": {
+                "fsq_place_id": "643a1d4634620e79d1ea4e57",
+                "name": "通透堂中医(前海卓越intown店)",
+                "latitude": 22.529817,
+                "longitude": 113.89911,
+                "address": null,
+                "locality": "深圳市",
+                "region": "广东",
+                "postcode": null,
+                "admin_region": null,
+                "post_town": null,
+                "country": "CN",
+                "date_closed": null
+              }
+            },
+            {
+              "center": "peak0",
+              "id": "61bf13204881bf2a2d3aca72",
+              "name": "万象前海",
+              "lon": 113.899673,
+              "lat": 22.530852,
+              "distance_m": 114,
+              "address_record": {
+                "fsq_place_id": "61bf13204881bf2a2d3aca72",
+                "name": "万象前海",
+                "latitude": 22.530852,
+                "longitude": 113.899673,
+                "address": "浅海深港合作区桂湾四路169号",
+                "locality": "Shenzhen",
+                "region": "Guangdong",
+                "postcode": null,
+                "admin_region": null,
+                "post_town": null,
+                "country": "CN",
+                "date_closed": null
+              }
+            },
+            {
+              "center": "peak0",
+              "id": "660e3cca324902261e6a2a83",
+              "name": "克茗冰室(前海卓悦intown店)",
+              "lon": 113.899133,
+              "lat": 22.52966,
+              "distance_m": 118,
+              "address_record": {
+                "fsq_place_id": "660e3cca324902261e6a2a83",
+                "name": "克茗冰室(前海卓悦intown店)",
+                "latitude": 22.52966,
+                "longitude": 113.899133,
+                "address": null,
+                "locality": "深圳市",
+                "region": "广东",
+                "postcode": null,
+                "admin_region": null,
+                "post_town": null,
+                "country": "CN",
+                "date_closed": null
+              }
+            },
+            {
+              "center": "peak0",
+              "id": "64509e01bd35cc784d60781e",
+              "name": "AOKKA前海万象快闪店",
+              "lon": 113.897401,
+              "lat": 22.530568,
+              "distance_m": 123,
+              "address_record": {
+                "fsq_place_id": "64509e01bd35cc784d60781e",
+                "name": "AOKKA前海万象快闪店",
+                "latitude": 22.530568,
+                "longitude": 113.897401,
+                "address": "前海桂湾四路万象前海购物中心（南门进入广场上）",
+                "locality": "深圳市",
+                "region": "广东",
+                "postcode": null,
+                "admin_region": null,
+                "post_town": null,
+                "country": "CN",
+                "date_closed": null
+              }
+            },
+            {
+              "center": "peak0",
+              "id": "651ab1c6a6299430006e7b09",
+              "name": "南华茶室（万象前海店）",
+              "lon": 113.899475,
+              "lat": 22.531381,
+              "distance_m": 125,
+              "address_record": {
+                "fsq_place_id": "651ab1c6a6299430006e7b09",
+                "name": "南华茶室（万象前海店）",
+                "latitude": 22.531381,
+                "longitude": 113.899475,
+                "address": "南山区-桂湾四路169号万象前海B1",
+                "locality": "深圳市",
+                "region": "广东",
+                "postcode": null,
+                "admin_region": null,
+                "post_town": null,
+                "country": "CN",
+                "date_closed": null
+              }
+            },
+            {
+              "center": "peak0",
+              "id": "668a673511983006dc9a62fb",
+              "name": "农畉 Lonfood(万象前海店)",
+              "lon": 113.899881,
+              "lat": 22.530789,
+              "distance_m": 133,
+              "address_record": {
+                "fsq_place_id": "668a673511983006dc9a62fb",
+                "name": "农畉 Lonfood(万象前海店)",
+                "latitude": 22.530789,
+                "longitude": 113.899881,
+                "address": "万象前海地下一层",
+                "locality": "Shenzhen",
+                "region": "Guangdong",
+                "postcode": null,
+                "admin_region": null,
+                "post_town": null,
+                "country": "CN",
+                "date_closed": null
+              }
+            },
+            {
+              "center": "peak0",
+              "id": "67b9b95c8032b677e1c90b86",
+              "name": "上山下山·贵州菜(万象前海店)",
+              "lon": 113.899886,
+              "lat": 22.530691,
+              "distance_m": 133,
+              "address_record": {
+                "fsq_place_id": "67b9b95c8032b677e1c90b86",
+                "name": "上山下山·贵州菜(万象前海店)",
+                "latitude": 22.530691,
+                "longitude": 113.899886,
+                "address": null,
+                "locality": "Shenzhen",
+                "region": "Guangdong",
+                "postcode": null,
+                "admin_region": null,
+                "post_town": null,
+                "country": "CN",
+                "date_closed": null
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2450 @@
+{
+  "snapshot": "2325979374271449319",
+  "summary": {
+    "candidate_peaks_before": 18,
+    "previous_holds_before": 3,
+    "adopted_candidate_peaks": 0,
+    "remaining_candidate_peaks": 18,
+    "resolved_previous_holds": 0,
+    "remaining_previous_holds": 3,
+    "added_total": 0,
+    "published_total": 880,
+    "unnamed_remaining": 4476,
+    "individually_researched_held_references": 1
+  },
+  "policy": "博物館の区画位置不一致を個別確認し、Denareplexとの2件除外感度を実計算。全14施設の一括除外・峰削除・名称採用は行わない。",
+  "items": [
+    {
+      "id": "GeoNames:5968869",
+      "original": "Hagensborg",
+      "country": "CA",
+      "peak_keys": [
+        "52.395, -126.509"
+      ],
+      "group": "new_candidates",
+      "model_ja": "ハゲンスボルク",
+      "evidence": [
+        {
+          "peak": "52.395, -126.509",
+          "reference": {
+            "id": "5968869",
+            "name": "Hagensborg",
+            "country": "CA",
+            "lon": -126.50448,
+            "lat": 52.39823,
+            "feature_code": "PPL",
+            "source_url": "https://download.geonames.org/export/dump/CA.zip",
+            "distance_m": 467,
+            "supporting_pois": 16,
+            "support_share": 1.0
+          },
+          "near_pois": 16,
+          "with_address": 15,
+          "distinct_coordinates": 4,
+          "locality_counts": [
+            [
+              "Hagensborg",
+              15
+            ],
+            [
+              "HAGENSBORG",
+              1
+            ]
+          ],
+          "samples": [
+            {
+              "fsq_place_id": "69b5912980dbfd541ce4d7f5",
+              "name": "Bella Coola Community Forest",
+              "address": "1893 Hagensborg Rd",
+              "locality": "Hagensborg",
+              "region": "BC",
+              "country": "CA"
+            },
+            {
+              "fsq_place_id": "208172bc132746689c568d27",
+              "name": "Tweedsmuir Park Lodge",
+              "address": "7001 Corbould Dr",
+              "locality": "Hagensborg",
+              "region": "BC",
+              "country": "CA"
+            },
+            {
+              "fsq_place_id": "64a4971449214d5d096e6a9d",
+              "name": "Hagensborg Mercantile Ltd",
+              "address": "1801 Hwy 20",
+              "locality": "Hagensborg",
+              "region": "BC",
+              "country": "CA"
+            }
+          ]
+        }
+      ],
+      "address_identity_rechecked": true,
+      "decision": "hold",
+      "reason": "BaileyBridge運営者公開Wix設定で住所2375SaloomptRiverRoad/HagensborgとbusinessLocationCoordinates52.4001397,-126.5397015を取得。単なる地図中心とは異なる所在地設定だが測量済み施設座標とはしない。原1473f3e4e4de401fe8bbd44cの完全共有座標から2152.1m。RV2021ディレクトリの検索抜粋は52.40800,-126.49971で原から1554.1m、運営者設定とも異なるため未閲覧本文の座標を正解として置換しない。TSBC2024末の収集施設公開PDF第36頁はMechamSales1843Chilcotin-BellaCoolaHwy/HagensborgをPhysicalAddressとして示し、原5f20bcb75acc0b52c55369eaの番地町と対応。別の州燃料供給者PDF検索抜粋1846は未解決差として保持、誤番地・移転と断定しない。町の読みはCBCで支持済みだが13同座標の問題を残し名称・密度変更なし。",
+      "address_rechecked_batch": 350,
+      "research_urls": [
+        "https://www.baileybridgecampsite.ca/map",
+        "https://tsbc.ca/wp-content/uploads/2025/05/8-Collection-Facilities.pdf",
+        "https://www2.gov.bc.ca/assets/gov/government/services-for-government-and-broader-public-sector/buy-goods-services-and-construction/goods-and-services-catalogue/csa-assets/vehicle-fleet-management/fuel_suppliers.pdf"
+      ],
+      "external_research_batch": 351,
+      "position_quality_review": {
+        "poi_count": 16,
+        "distinct_coordinates": 4,
+        "max_exact_coordinate_count": 13,
+        "max_exact_coordinate_share": 0.8125,
+        "decision": "hold_position_quality",
+        "source_urls": [
+          "https://www.tweedsmuirparklodge.com/trip-planning/plan-your-trip/?active-details-tab=here",
+          "https://bellacoola.ca/businesses/tweedsmuir-park-lodge/"
+        ]
+      },
+      "coordinate_quality_audit_batch": 147,
+      "coordinate_quality_audit": [
+        {
+          "id": "GeoNames:5968869",
+          "original": "Hagensborg",
+          "peak": "52.395, -126.509",
+          "country": "CA",
+          "bbox_pois": 16,
+          "distinct_coordinates": 4,
+          "largest_exact_coordinate_cluster": 13,
+          "largest_share": 0.812,
+          "cluster_coordinate": [
+            52.39527019835298,
+            -126.50910308526763
+          ]
+        }
+      ],
+      "reading_review": {
+        "source": "CBC revised 1959 PA15",
+        "phonetic": "hăg-ens-burg",
+        "editorial_candidate": "ハゲンズバーグ",
+        "status": "reading_supported_position_quality_pending",
+        "raw_response_file": "data/name-research/reading-sources/cbc-canadian-entries350.json",
+        "current_audio_verified": false
+      },
+      "next_research_lead": "BaileyBridge所在地設定とキャンプ案内の座標差を施設区画で照合。Mechamは運営・収集機関の地図位置を確認。原座標を推測値へ置換しない。",
+      "operator_position_check": {
+        "fsq_place_id": "1473f3e4e4de401fe8bbd44c",
+        "operator_lat_lon": [
+          52.4001397,
+          -126.5397015
+        ],
+        "separation_m": 2152.1,
+        "coordinate_type": "operator_site_businessLocationCoordinates",
+        "decision": "position_conflict_pending_exact_site_confirmation"
+      }
+    },
+    {
+      "id": "GeoNames:5992692",
+      "original": "Kinuso",
+      "country": "CA",
+      "peak_keys": [
+        "55.331, -115.433"
+      ],
+      "group": "new_candidates",
+      "model_ja": "キヌソ",
+      "evidence": [
+        {
+          "peak": "55.331, -115.433",
+          "reference": {
+            "id": "5992692",
+            "name": "Kinuso",
+            "country": "CA",
+            "lon": -115.41906,
+            "lat": 55.33342,
+            "feature_code": "PPL",
+            "source_url": "https://download.geonames.org/export/dump/CA.zip",
+            "distance_m": 928,
+            "supporting_pois": 18,
+            "support_share": 0.9
+          },
+          "near_pois": 20,
+          "with_address": 17,
+          "distinct_coordinates": 19,
+          "locality_counts": [
+            [
+              "Kinuso",
+              17
+            ],
+            [
+              "Kinuso, AB, Canada",
+              1
+            ],
+            [
+              "(missing)",
+              1
+            ],
+            [
+              "KINUSO",
+              1
+            ]
+          ],
+          "samples": [
+            {
+              "fsq_place_id": "c5071ffa8e554614caf188f3",
+              "name": "Athabasca Health Unit",
+              "address": "230 Centre St",
+              "locality": "Kinuso",
+              "region": "AB",
+              "country": "CA"
+            },
+            {
+              "fsq_place_id": "a1333b52e05b40a5b9ade968",
+              "name": "V & S Department Store",
+              "address": "227 Centre St",
+              "locality": "Kinuso",
+              "region": "AB",
+              "country": "CA"
+            },
+            {
+              "fsq_place_id": "53e6d2a1498ed3877e4d196d",
+              "name": "Spruce Point Park",
+              "address": null,
+              "locality": "Kinuso, AB, Canada",
+              "region": "AB",
+              "country": "CA"
+            }
+          ]
+        }
+      ],
+      "address_identity_rechecked": true,
+      "decision": "hold",
+      "reason": "第323回の保健施設230/40CentreStreetの公式住所不一致は未解消。追加でKinusoMercantile運営者の物理住所227CenterStreet Kinuso Alberta T0G1K0、電話7807753517を直接確認。仕入先Annette'sKeepsakes店舗一覧はKinusoMercantile/VandS同番地同電話を直接確認し、原V&SDepartmentStore a1333b52e05b40a5b9ade968 227CentreStとの屋号対応を補強。Center/Centre表記差は記録し、同店舗の別屋号を独立施設数として追加しない。地名読みは由来語や人名の発音から転用せず保留。",
+      "address_rechecked_batch": 348,
+      "research_urls": [
+        "https://www.kinusomercantile.ca/contact.html",
+        "https://www.annetteskeepsakes.com/pages/ab-retailers"
+      ],
+      "external_research_batch": 324
+    },
+    {
+      "id": "GeoNames:3988393",
+      "original": "Ejido Nuevo Rosarito",
+      "country": "MX",
+      "peak_keys": [
+        "28.631, -114.020"
+      ],
+      "group": "new_candidates",
+      "model_ja": "エヒド・ニューロサリト",
+      "evidence": [
+        {
+          "peak": "28.631, -114.020",
+          "reference": {
+            "id": "3988393",
+            "name": "Ejido Nuevo Rosarito",
+            "country": "MX",
+            "lon": -114.01699,
+            "lat": 28.63433,
+            "feature_code": "PPL",
+            "source_url": "https://download.geonames.org/export/dump/MX.zip",
+            "distance_m": 496,
+            "supporting_pois": 22,
+            "support_share": 0.88
+          },
+          "near_pois": 25,
+          "with_address": 25,
+          "distinct_coordinates": 7,
+          "locality_counts": [
+            [
+              "Rosarito",
+              22
+            ],
+            [
+              "(missing)",
+              2
+            ],
+            [
+              "Ensenada",
+              1
+            ]
+          ],
+          "samples": [
+            {
+              "fsq_place_id": "626d8c09a4b44b2ec5ea2307",
+              "name": "Telegrafos Conm Maneadero",
+              "address": "Rosarito 1322",
+              "locality": "Ensenada",
+              "region": "Baja California",
+              "country": "MX"
+            },
+            {
+              "fsq_place_id": "9e8bfd6247ba4f12a497c96b",
+              "name": "Seica -constructora",
+              "address": "ensenada 45000 s/n",
+              "locality": null,
+              "region": null,
+              "country": "MX"
+            },
+            {
+              "fsq_place_id": "48ae9fc7655f476c07ebeacd",
+              "name": "Capitania de Puerto -secretar&",
+              "address": "Ensenada 3114",
+              "locality": "Rosarito",
+              "region": null,
+              "country": "MX"
+            }
+          ]
+        }
+      ],
+      "address_identity_rechecked": true,
+      "decision": "hold",
+      "reason": "第146回：BorderPsychoBrewery公式取扱店Score33本文にRosarito、電話6616143394、同店ウェブ案内を確認。GetDirectionsの公式掲載リンク先はhttps://www.google.com/maps?daddr=32.24229537021305%2C+-116.93214462386194 。Google地図本文取得はCachemissだが取扱店側掲載リンク座標は確認でき、元19435c74adda43dde0c0f1d8 Score33位置28.633419,-114.020898との差は球面距離488.7km。店名だけの同定で全施設確定とはしないが、元km44住所と第三者PuertoNuevo掲載とも整合する北部位置が判明。現在の南部峰の支持根拠にこのPOIを使用できない。16件同一座標の他施設も個別所在地監査が残るため峰全体の排除・密度変更は未確定。",
+      "model_candidate_not_accepted": true,
+      "address_rechecked_batch": 348,
+      "external_research_batch": 146,
+      "research_urls": [
+        "https://www.rosarito.gob.mx/transparencia/archivo/2021-05/22-de-febrero-del-2021%2C00174921%2C-padron-de-las-licencias-de-alcohol.pdf",
+        "https://www.waze.com/live-map/directions/mx/b.c./rosarito-baja-california/jockos-baja-bar-by-score-33?to=place.ChIJ4W0Gn_Qm2YAR-TqO-zeahdY",
+        "https://borderpsychobrewery.com/directory/score-33/"
+      ],
+      "next_research_lead": "同一座標16施設の個別公式住所を確認し、支持群全体の誤位置率を監査。Score33を現峰の住所一致根拠から除外する。",
+      "coordinate_quality_audit_batch": 147,
+      "coordinate_quality_audit": [
+        {
+          "id": "GeoNames:3988393",
+          "original": "Ejido Nuevo Rosarito",
+          "peak": "28.631, -114.020",
+          "country": "MX",
+          "bbox_pois": 25,
+          "distinct_coordinates": 7,
+          "largest_exact_coordinate_cluster": 16,
+          "largest_share": 0.64,
+          "cluster_coordinate": [
+            28.630941,
+            -114.020325
+          ]
+        }
+      ]
+    },
+    {
+      "id": "GeoNames:5965019",
+      "original": "Granum",
+      "country": "CA",
+      "peak_keys": [
+        "49.872, -113.509"
+      ],
+      "group": "new_candidates",
+      "model_ja": "グラヌム",
+      "evidence": [
+        {
+          "peak": "49.872, -113.509",
+          "reference": {
+            "id": "5965019",
+            "name": "Granum",
+            "country": "CA",
+            "lon": -113.50192,
+            "lat": 49.86672,
+            "feature_code": "PPL",
+            "source_url": "https://download.geonames.org/export/dump/CA.zip",
+            "distance_m": 747,
+            "supporting_pois": 20,
+            "support_share": 0.909
+          },
+          "near_pois": 22,
+          "with_address": 12,
+          "distinct_coordinates": 21,
+          "locality_counts": [
+            [
+              "Granum",
+              20
+            ],
+            [
+              "(missing)",
+              2
+            ]
+          ],
+          "samples": [
+            {
+              "fsq_place_id": "4e23bad1d1647406321db0ad",
+              "name": "The Granum Bell",
+              "address": null,
+              "locality": "Granum",
+              "region": "AB",
+              "country": "CA"
+            },
+            {
+              "fsq_place_id": "5457c0de498e53464d93726c",
+              "name": "Investment Vehicle Restoration",
+              "address": null,
+              "locality": "Granum",
+              "region": null,
+              "country": "CA"
+            },
+            {
+              "fsq_place_id": "d71428b5619e4320f6bb30cd",
+              "name": "Granum Public Library",
+              "address": "310 Railway Ave",
+              "locality": "Granum",
+              "region": "AB",
+              "country": "CA"
+            }
+          ]
+        }
+      ],
+      "address_identity_rechecked": true,
+      "decision": "hold",
+      "reason": "元GranumPublicLibrary310RailwayAveを図書館運営公式同名同住所に直接照合。住所対応は確認。英語植物学用語granumとラテン語由来だけではAlbertaの地名発音を確定しない。一般語graynum対Latingranum等の読みを地名へ転用せず保留。",
+      "address_rechecked_batch": 348,
+      "research_urls": [
+        "https://www.granumlibrary.ca/",
+        "https://www.mobot.org/mobot/latindict/keyDetail.aspx?keyWord=granum",
+        "https://archive.org/details/guidetopronuncia0000cana"
+      ],
+      "external_research_batch": 361,
+      "address_source_verified": "https://www.granumlibrary.ca/",
+      "next_research_lead": "住所・語源は支持済み。地域の音声／発音辞典、またはユーザーが選ぶ編集音写方針に従って表記を判断。",
+      "reading_followup361": {
+        "source_url": "https://www.postalhistorycanada.net/php/StudyGroups/Alberta/content/JAPH-7.pdf",
+        "pdf_pages": [
+          58,
+          59,
+          60,
+          61
+        ],
+        "finding": "郵便史学会の地域調査本文を確認。TheLeavings郵便局が1907-10-01にGranumへ改名し、wheat growing普及に伴うLatin grain由来と明示。同本文は1894の別TheLeavings/NewOxley郵便局を区別する。名称対象と語源を補強できるが現地町名の発音表記なし。郵便局改名日を自治体改名日1908の反証として混同しない。一般名詞の発音から町名の読みを実聴確認済みとはしない。",
+        "decision": "hold_local_reading_confirmation"
+      }
+    },
+    {
+      "id": "GeoNames:6085350",
+      "original": "Myrnam",
+      "country": "CA",
+      "peak_keys": [
+        "53.662, -111.230"
+      ],
+      "group": "new_candidates",
+      "model_ja": null,
+      "evidence": [
+        {
+          "peak": "53.662, -111.230",
+          "reference": {
+            "id": "6085350",
+            "name": "Myrnam",
+            "country": "CA",
+            "lon": -111.23504,
+            "lat": 53.66686,
+            "feature_code": "PPL",
+            "source_url": "https://download.geonames.org/export/dump/CA.zip",
+            "distance_m": 670,
+            "supporting_pois": 20,
+            "support_share": 1.0
+          },
+          "near_pois": 20,
+          "with_address": 18,
+          "distinct_coordinates": 18,
+          "locality_counts": [
+            [
+              "Myrnam",
+              20
+            ]
+          ],
+          "samples": [
+            {
+              "fsq_place_id": "ad4f0f729eb64cfba4cc5eeb",
+              "name": "Myrnam Woodcraft",
+              "address": "Main St",
+              "locality": "Myrnam",
+              "region": "AB",
+              "country": "CA"
+            },
+            {
+              "fsq_place_id": "95381ee443d24abc11b0f6d6",
+              "name": "Ziniewicz Enterprises Inc",
+              "address": "5001 50th St",
+              "locality": "Myrnam",
+              "region": "AB",
+              "country": "CA"
+            },
+            {
+              "fsq_place_id": "d3ab58491fa14500e3a733dd",
+              "name": "Servus Credit Union",
+              "address": "5016 49 St",
+              "locality": "Myrnam",
+              "region": "AB",
+              "country": "CA"
+            }
+          ]
+        }
+      ],
+      "address_identity_rechecked": true,
+      "decision": "hold",
+      "reason": "従来EagleViewLodge480249Ave運営者一致を保持。町公式2025-09-16候補者資料PDFを直接取得し第3頁にмирнам(mirnam)由来を確認。CommunityStoriesのPeterKrawchuk1980記事も同町由来を直接確認。由来句のローマ字表記を現在の町名IPAと混同しない。読み確定は保留。 第329回：カナダ政府地名DBのIAMHQを直接確認。正式名称Myrnam、AlbertaのVillage、53.6616667,-111.2302778、決定日1995-01-01を確認。これは位置・名称の資料であり現地発音資料ではない。町公式の由来句mirnamを現在の読みと同一視せず保留。",
+      "address_rechecked_batch": 348,
+      "research_urls": [
+        "https://www.myrnam.ca/wp-content/uploads/PROSPECTIVE-CANDIDATES-PACKAGE-Updated-2025-09-16.pdf",
+        "https://www.communitystories.ca/v1/pm_v2.php?ex=00000464&fl=&id=story_line_child&lg=English&pos=1&scpos=1&sl=5522",
+        "https://geonames.nrcan.gc.ca/recherche-de-noms-de-lieux/unique?id=IAMHQ",
+        "https://archive.org/details/guidetopronuncia0000cana"
+      ],
+      "external_research_batch": 346,
+      "next_research_lead": "CBC1959発音ガイドguidetopronuncia0000canaの対象町個別項目を正規プレビュー又は正規図書館閲覧で確認。資料書誌は確認済みだがPDF/OCRはprivate、閲覧制限を回避しない。元施設住所根拠は保持。"
+    },
+    {
+      "id": "GeoNames:5939508",
+      "original": "Dinsmore",
+      "country": "CA",
+      "peak_keys": [
+        "51.332, -107.447"
+      ],
+      "group": "new_candidates",
+      "model_ja": "ディンスモア",
+      "evidence": [
+        {
+          "peak": "51.332, -107.447",
+          "reference": {
+            "id": "5939508",
+            "name": "Dinsmore",
+            "country": "CA",
+            "lon": -107.43461,
+            "lat": 51.33339,
+            "feature_code": "PPL",
+            "source_url": "https://download.geonames.org/export/dump/CA.zip",
+            "distance_m": 898,
+            "supporting_pois": 22,
+            "support_share": 0.957
+          },
+          "near_pois": 23,
+          "with_address": 22,
+          "distinct_coordinates": 14,
+          "locality_counts": [
+            [
+              "Dinsmore",
+              22
+            ],
+            [
+              "Wiseton",
+              1
+            ]
+          ],
+          "samples": [
+            {
+              "fsq_place_id": "84f114c6463d4d4daa26cda5",
+              "name": "Village of Dinsmore",
+              "address": "100 Main St",
+              "locality": "Dinsmore",
+              "region": "SK",
+              "country": "CA"
+            },
+            {
+              "fsq_place_id": "1102b445f6d7498f1df142b1",
+              "name": "Dinsmore Ag Foods",
+              "address": "110 Main St",
+              "locality": "Dinsmore",
+              "region": "SK",
+              "country": "CA"
+            },
+            {
+              "fsq_place_id": "3f90e91b6d7c41c8e646f4fd",
+              "name": "Fraser Agencies",
+              "address": "111 Main St",
+              "locality": "Dinsmore",
+              "region": "SK",
+              "country": "CA"
+            }
+          ]
+        }
+      ],
+      "address_identity_rechecked": true,
+      "decision": "hold",
+      "reason": "原561e81e834b042b5813042b2DinsmoreHealthCareCentre1StStEを州保健運営者公式2071stStreetEDinsmoreSKに直接照合。同名道路町州一致、原番地欠落なので番地一致とはしない。公式Mapリンクの座標51.3333418,-107.446612は原からWGS84139.5m。リンク対象で測量座標保証ではない。Box338は郵送先と区別。学校原7d97d114ce284ec3d8d69a2a3rdAveWは学校ホーム本文2003rdAveWと部分一致。原4cffdcd221ea6ea875f83e9f住所nullは番地一致に数えない。対象町の所在地根拠を補強したが、日本語町名読みは未確定で保留。",
+      "address_rechecked_batch": 348,
+      "research_urls": [
+        "https://www.saskhealthauthority.ca/facilities-locations/dinsmore-health-care-centre",
+        "https://dinsmorecomposite.sunwestsd.ca/"
+      ],
+      "external_research_batch": 353,
+      "next_research_lead": "個別町名を明示する地域の発音注記、または閲覧できる新版辞典の個別項目を確認。モデル音声や別地名を代用しない。",
+      "research_history": [
+        {
+          "batch": 256,
+          "date": "2026-10-12",
+          "note": "命名元を再調査。鉄道写真の撮影者説明は1907郵便局敷地の土地所有者に由来とするが人物名を示さない。James Mansonは1907-1911初代郵便局長でありDinsmoreという命名元人物と同一視しない。BC Sea IslandのJohn Dinsmore、Ontario BlanshardのJames Dinsmore、米国法律事務所Frank Dinsmoreはいずれも対象SK村との命名関係未確認。これらの姓の日本語名・発音を町へ転用しない。既存公式役場100MainSt一致は維持。",
+          "urls": [
+            "https://prairie-towns.com/dinsmore-images.html",
+            "https://www.seaislandhome.org/SIHS-newsletter_DEC2021.pdf",
+            "https://www.electriccanadian.com/history/ontario/blanshard/chapter09.htm",
+            "https://www.dinsmore.com/history/"
+          ],
+          "next": "Dynamic Dinsmore1979の村史から1907土地所有者名を確認し、当地の発音資料を探す。"
+        }
+      ],
+      "reading_followup353": {
+        "decision": "hold",
+        "book_id": "VPwRAQAAIAAJ",
+        "public_search_record": "data/name-research/reading-sources/saskatchewan-followup353.json",
+        "finding": "個別町名とpronunciationの追加公開検索で発音根拠未確認。検索0は未収録証明ではない。SandyBayを含むPA208の発音はReginaの説明で対象町へ転用しない。",
+        "other_checks": "新版Google公開書誌APIはHTTPエラー。Wiktionaryの直接取得もHTTPエラー、制限回避なし。人名・英国別地域の日本語表記は町読みの証明に使わない。"
+      }
+    },
+    {
+      "id": "GeoNames:5936333",
+      "original": "Debden",
+      "country": "CA",
+      "peak_keys": [
+        "53.524, -106.881"
+      ],
+      "group": "new_candidates",
+      "model_ja": null,
+      "evidence": [
+        {
+          "peak": "53.524, -106.881",
+          "reference": {
+            "id": "5936333",
+            "name": "Debden",
+            "country": "CA",
+            "lon": -106.88444,
+            "lat": 53.5168,
+            "feature_code": "PPL",
+            "source_url": "https://download.geonames.org/export/dump/CA.zip",
+            "distance_m": 817,
+            "supporting_pois": 30,
+            "support_share": 0.938
+          },
+          "near_pois": 32,
+          "with_address": 29,
+          "distinct_coordinates": 25,
+          "locality_counts": [
+            [
+              "Debden",
+              30
+            ],
+            [
+              "(missing)",
+              1
+            ],
+            [
+              "Spiritwood",
+              1
+            ]
+          ],
+          "samples": [
+            {
+              "fsq_place_id": "669934936a70e91677df54bb",
+              "name": "Debden Post Office",
+              "address": null,
+              "locality": "Debden",
+              "region": "SK",
+              "country": "CA"
+            },
+            {
+              "fsq_place_id": "8b0c25cf1a7742a8110acf26",
+              "name": "Debden Public School",
+              "address": "315 3rd Ave E",
+              "locality": "Debden",
+              "region": "SK",
+              "country": "CA"
+            },
+            {
+              "fsq_place_id": "6aa85b8d6932cd19839f44be",
+              "name": "Village of Debden",
+              "address": "204 2 Ave E",
+              "locality": "Debden",
+              "region": "SK",
+              "country": "CA"
+            }
+          ]
+        }
+      ],
+      "address_identity_rechecked": true,
+      "decision": "hold",
+      "reason": "原8b0c25cf1a7742a8110acf26DebdenPublicSchoolと43f5ee1f48c04a0fabd3da84DebdenSchoolはともに315 3rdAveEをparquetで再確認。学区公式2024-2025学校連絡先PDF2024-12-02版1頁本文EcoleDebdenPublicSchool3153rdAveEastPOBox280DebdenSKS0J0S0に直接一致。2原POIは同学校別登録として独立証拠に二重計上しない。学校ホーム直接取得はtimeout、学区SchoolFinder直接本文は動的校一覧欠落で検索本文と区別。TripadvisorデブドンはEssexEnglandの別地域につきカナダ町読みへ転用しない。住所照合を強化したが対象町日本語読みは保留。次は学区・町地域資料の読み根拠確認。",
+      "address_rechecked_batch": 348,
+      "next_research_lead": "個別町名を明示する地域の発音注記、または閲覧できる新版辞典の個別項目を確認。モデル音声や別地名を代用しない。",
+      "research_urls": [
+        "https://www.srsd119.ca/wp-content/uploads/PI_RL_2024_25_School_Phone_Listv4.pdf",
+        "https://www.srsd119.ca/school-finder",
+        "https://www.tripadvisor.jp/Restaurant_Review-g2690287-d4048319-Reviews-Palm_Bay_Caribbean-Debden_Essex_England.html"
+      ],
+      "external_research_batch": 353,
+      "reading_followup353": {
+        "decision": "hold",
+        "book_id": "VPwRAQAAIAAJ",
+        "public_search_record": "data/name-research/reading-sources/saskatchewan-followup353.json",
+        "finding": "個別町名とpronunciationの追加公開検索で発音根拠未確認。検索0は未収録証明ではない。SandyBayを含むPA208の発音はReginaの説明で対象町へ転用しない。",
+        "other_checks": "新版Google公開書誌APIはHTTPエラー。Wiktionaryの直接取得もHTTPエラー、制限回避なし。人名・英国別地域の日本語表記は町読みの証明に使わない。"
+      }
+    },
+    {
+      "id": "GeoNames:5896578",
+      "original": "Beauval",
+      "country": "CA",
+      "peak_keys": [
+        "55.145, -107.612"
+      ],
+      "group": "new_candidates",
+      "model_ja": null,
+      "evidence": [
+        {
+          "peak": "55.145, -107.612",
+          "reference": {
+            "id": "5896578",
+            "name": "Beauval",
+            "country": "CA",
+            "lon": -107.61807,
+            "lat": 55.15018,
+            "feature_code": "PPL",
+            "source_url": "https://download.geonames.org/export/dump/CA.zip",
+            "distance_m": 710,
+            "supporting_pois": 23,
+            "support_share": 1.0
+          },
+          "near_pois": 23,
+          "with_address": 22,
+          "distinct_coordinates": 10,
+          "locality_counts": [
+            [
+              "Beauval",
+              23
+            ]
+          ],
+          "samples": [
+            {
+              "fsq_place_id": "1faf5887c2c548266d5dc85b",
+              "name": "Fire Hall",
+              "address": "Laliberte Ave",
+              "locality": "Beauval",
+              "region": "SK",
+              "country": "CA"
+            },
+            {
+              "fsq_place_id": "461d215419df4e254c9ea65a",
+              "name": "Pine Ridge Bible Camp",
+              "address": "S0M Beauval",
+              "locality": "Beauval",
+              "region": "SK",
+              "country": "CA"
+            },
+            {
+              "fsq_place_id": "5539ed86271b4515c3d43140",
+              "name": "Beaver River Regional Housing Authority",
+              "address": "9 Laliberte Ave Suite 16",
+              "locality": "Beauval",
+              "region": "SK",
+              "country": "CA"
+            }
+          ]
+        }
+      ],
+      "address_identity_rechecked": true,
+      "decision": "hold",
+      "reason": "BillBarry2003公開検索PA21でBEAUVAL[boVAL]Northern village southeast of IlealaCrosse on165を確認。ボーヴァルという編集候補の対象地域の読み根拠を取得できたが、既存キャンプ郵送先と実所在地差および14施設の座標集中は未解決で名称反映保留。フランス動物園の発音を転用しない。",
+      "address_rechecked_batch": 352,
+      "research_urls": [
+        "https://books.google.com/books?id=VPwRAQAAIAAJ&pg=PA21"
+      ],
+      "external_research_batch": 352
+    },
+    {
+      "id": "GeoNames:6174638",
+      "original": "Vonda",
+      "country": "CA",
+      "peak_keys": [
+        "52.322, -106.097"
+      ],
+      "group": "new_candidates",
+      "model_ja": "ボンダ",
+      "evidence": [
+        {
+          "peak": "52.322, -106.097",
+          "reference": {
+            "id": "6174638",
+            "name": "Vonda",
+            "country": "CA",
+            "lon": -106.10117,
+            "lat": 52.31677,
+            "feature_code": "PPL",
+            "source_url": "https://download.geonames.org/export/dump/CA.zip",
+            "distance_m": 703,
+            "supporting_pois": 39,
+            "support_share": 0.907
+          },
+          "near_pois": 43,
+          "with_address": 38,
+          "distinct_coordinates": 35,
+          "locality_counts": [
+            [
+              "Vonda",
+              39
+            ],
+            [
+              "(missing)",
+              3
+            ],
+            [
+              "Saskatoon",
+              1
+            ]
+          ],
+          "samples": [
+            {
+              "fsq_place_id": "4fc5ad6be4b01da28dd013e4",
+              "name": "Main St",
+              "address": "Main St",
+              "locality": "Vonda",
+              "region": "SK",
+              "country": "CA"
+            },
+            {
+              "fsq_place_id": "5dce5f83ef1df00008914690",
+              "name": "HUB International",
+              "address": "301 Main St",
+              "locality": "Vonda",
+              "region": "SK",
+              "country": "CA"
+            },
+            {
+              "fsq_place_id": "5813c67f38fae6c2c4585a2c",
+              "name": "DLC Enterprises",
+              "address": "310 3 Street",
+              "locality": "Vonda",
+              "region": "SK",
+              "country": "CA"
+            }
+          ]
+        }
+      ],
+      "address_identity_rechecked": true,
+      "decision": "hold",
+      "reason": "従来HUB301MainSt住所照合根拠を保持。町公式Contactを直接確認し204MainSt Vonda Saskatchewan S0K4N0を町の所在地の補助資料として保存。元HUB301MainStとは別施設・別番地であり同一施設照合に使わない。Wiktionary直接本文はカナダ町語義あり、発音欄なし。検索のVondaCroissantは人名で、赤ちゃん名前サイトのVonda発音は町に限定されないため未採用。モデル候補ボンダを確定せず。",
+      "address_rechecked_batch": 348,
+      "research_urls": [
+        "https://thetownofvonda.com/contact/",
+        "https://en.wiktionary.org/wiki/Vonda"
+      ],
+      "external_research_batch": 353,
+      "reading_followup353": {
+        "decision": "hold",
+        "book_id": "VPwRAQAAIAAJ",
+        "public_search_record": "data/name-research/reading-sources/saskatchewan-followup353.json",
+        "finding": "個別町名とpronunciationの追加公開検索で発音根拠未確認。検索0は未収録証明ではない。SandyBayを含むPA208の発音はReginaの説明で対象町へ転用しない。",
+        "other_checks": "新版Google公開書誌APIはHTTPエラー。Wiktionaryの直接取得もHTTPエラー、制限回避なし。人名・英国別地域の日本語表記は町読みの証明に使わない。"
+      },
+      "next_research_lead": "個別町名を明示する地域の発音注記、または閲覧できる新版辞典の個別項目を確認。モデル音声や別地名を代用しない。"
+    },
+    {
+      "id": "GeoNames:6149823",
+      "original": "Smeaton",
+      "country": "CA",
+      "peak_keys": [
+        "53.491, -104.807"
+      ],
+      "group": "new_candidates",
+      "model_ja": "スミートン",
+      "evidence": [
+        {
+          "peak": "53.491, -104.807",
+          "reference": {
+            "id": "6149823",
+            "name": "Smeaton",
+            "country": "CA",
+            "lon": -104.807,
+            "lat": 53.49,
+            "feature_code": "PPL",
+            "source_url": "https://download.geonames.org/export/dump/CA.zip",
+            "distance_m": 68,
+            "supporting_pois": 15,
+            "support_share": 0.882
+          },
+          "near_pois": 17,
+          "with_address": 15,
+          "distinct_coordinates": 14,
+          "locality_counts": [
+            [
+              "Smeaton",
+              15
+            ],
+            [
+              "Seaton Del",
+              1
+            ],
+            [
+              "Candle Lake",
+              1
+            ]
+          ],
+          "samples": [
+            {
+              "fsq_place_id": "4bd4d892a55049833693ea1a",
+              "name": "Rainbow Lodge",
+              "address": "Hwy 913",
+              "locality": "Smeaton",
+              "region": "SK",
+              "country": "CA"
+            },
+            {
+              "fsq_place_id": "59a592fe6d704b594603cdf7",
+              "name": "North Haven",
+              "address": "2nd Ave N",
+              "locality": "Smeaton",
+              "region": "SK",
+              "country": "CA"
+            },
+            {
+              "fsq_place_id": "3f3825e960dc4e22bc218364",
+              "name": "St John Bosco Camp",
+              "address": "S0J Smeaton",
+              "locality": "Smeaton",
+              "region": "SK",
+              "country": "CA"
+            }
+          ]
+        }
+      ],
+      "address_identity_rechecked": true,
+      "decision": "hold",
+      "reason": "Smeaton同区画をactive.parquetと200mKDEで再計算。元頂52.183883件km2、StJohnBoscoCamp1件除外48.673297、CampとRainbow2件除外45.162711、全3件除外41.652125。build_global_sample.peak_maskは50以上の条件があり、1件除外だけで1km以内の抽出対象峰0となる。地形極大そのものの消失とは解釈しない。NorthHavenは誤位置認定せず全3除外は感度試算のみ。本番密度未変更。次は確証あるCamp1件除外を本番再計算手順に組み込み、峰削除と名称審査対象の対応を監査する。",
+      "address_rechecked_batch": 348,
+      "research_urls": [
+        "https://johnboscocamp.com/"
+      ],
+      "external_research_batch": 313
+    },
+    {
+      "id": "GeoNames:5937747",
+      "original": "Denare Beach",
+      "country": "CA",
+      "peak_keys": [
+        "54.661, -102.080"
+      ],
+      "group": "new_candidates",
+      "model_ja": "デナールビーチ",
+      "evidence": [
+        {
+          "peak": "54.661, -102.080",
+          "reference": {
+            "id": "5937747",
+            "name": "Denare Beach",
+            "country": "CA",
+            "lon": -102.08408,
+            "lat": 54.66683,
+            "feature_code": "PPL",
+            "source_url": "https://download.geonames.org/export/dump/CA.zip",
+            "distance_m": 654,
+            "supporting_pois": 21,
+            "support_share": 0.955
+          },
+          "near_pois": 22,
+          "with_address": 20,
+          "distinct_coordinates": 8,
+          "locality_counts": [
+            [
+              "Denare Beach",
+              21
+            ],
+            [
+              "(missing)",
+              1
+            ]
+          ],
+          "samples": [
+            {
+              "fsq_place_id": "4f39b74ee4b0f450d678095b",
+              "name": "Wooley Bully",
+              "address": "1719 Moody Dr",
+              "locality": "Denare Beach",
+              "region": "SK",
+              "country": "CA"
+            },
+            {
+              "fsq_place_id": "d4d34ef8cabe42c00d913ea4",
+              "name": "Precambrian Wild Rice Plant",
+              "address": "905 Mosher Rd",
+              "locality": "Denare Beach",
+              "region": "SK",
+              "country": "CA"
+            },
+            {
+              "fsq_place_id": "94c32e3502444b626908fa5b",
+              "name": "DenarePlex",
+              "address": "Pa Geddes Dr",
+              "locality": "Denare Beach",
+              "region": "SK",
+              "country": "CA"
+            }
+          ]
+        }
+      ],
+      "address_identity_rechecked": true,
+      "decision": "hold",
+      "reason": "BillBarry2003公開検索PA64でDENAREBEACH[dNAIR]Northern village southwest of Creighton on167を確認。編集候補デネアビーチの対象地域読み根拠を取得。州公式地名データHAFYCはDepartmentofNaturalResources各頭2文字由来を確認。14施設の座標集中と住所対応の未確定部分を残し名称反映保留。",
+      "address_rechecked_batch": 352,
+      "coordinate_quality_audit_batch": 147,
+      "coordinate_quality_audit": [
+        {
+          "id": "GeoNames:5937747",
+          "original": "Denare Beach",
+          "peak": "54.661, -102.080",
+          "country": "CA",
+          "bbox_pois": 20,
+          "distinct_coordinates": 6,
+          "largest_exact_coordinate_cluster": 14,
+          "largest_share": 0.7,
+          "cluster_coordinate": [
+            54.661590848951974,
+            -102.08008648446405
+          ]
+        }
+      ],
+      "external_research_batch": 366,
+      "research_urls": [
+        "https://books.google.com/books?id=VPwRAQAAIAAJ&pg=PA64"
+      ],
+      "next_research_lead": "他の共有座標施設の住所・区画を個別照合。Denareplex1件の除外だけでは極大が残るため、この峰の除去は正当化しない。",
+      "address_followup362": {
+        "source_urls": [
+          "https://www.investfdc.ca/_files/ugd/d3eb59_5c0293c7bf1f464cbbc149879ca9b12c.pdf",
+          "https://cdn.elections.sk.ca/proclamations/08CUB.pdf",
+          "https://www.saskpublicsafety.ca/about-the-spsa/news-releases/july-17-2025-community-resilience-centre-announced-for-denare-beach"
+        ],
+        "finding": "OfficialCommunityPlanのPDF第62頁/印刷48頁はNorthernGatewayMuseumの所在地ParcelLPlanCS5884/BeaverDrive、DenareplexはLots9–12Block36Plan72PA18348/WigwamDriveと明示。博物館原09a26617a00246081a71002a/BeaverDrは道路・施設対応を補強、番地は元にないので番地一致ではない。Denareplex原94c32e3502444b626908fa5b/PaGeddesDrは道路差を残す。選挙資料の検索抜粋1718と2025SPSA公開本文1700の番地差も未解消。08CUB通常公開PDF本文ではDenareplex項目が抽出できず、検索抜粋のみを直接確認済み本文と混同しない。原22件を再取得、14件完全共有座標を確認。計画書は地物別区画を示すが全14施設の正確な点位置は未確定。",
+        "raw_poi_ids": [
+          "09a26617a00246081a71002a",
+          "94c32e3502444b626908fa5b"
+        ],
+        "decision": "parcel_and_street_identity_supported_exact_points_pending"
+      },
+      "map_coverage_review363": {
+        "source_url": "https://www.investfdc.ca/_files/ugd/d3eb59_5c0293c7bf1f464cbbc149879ca9b12c.pdf",
+        "saved_pdf": "data/name-research/reading-sources/denare-ocp363.pdf",
+        "download_bytes": 6442770,
+        "pdf_pages": 106,
+        "last_printed_page": 92,
+        "missing_appendix_printed_pages": [
+          93,
+          94,
+          95
+        ],
+        "finding": "原PDFを直接取得し全106頁を抽出。末尾は印刷92頁のReferences。目次掲載Map1/1A/1B（印刷93–95頁）はこの公開ファイルには含まれない。PDF第105頁は印刷91頁の本文で、計画図ではない。区画本文の照合は成立するがこのファイルで原共有座標と区画図を比較したとはしない。",
+        "decision": "separate_map_appendices_required"
+      },
+      "basemap_review364": {
+        "source": "https://www.planningforgrowthnorthsk.com/uploads/7/9/7/4/7974185/denare_beach_basemap.pdf",
+        "source_page": "https://www.planningforgrowthnorthsk.com/denare-beach.html",
+        "local_pdf": "data/name-research/reading-sources/denare-basemap364.pdf",
+        "bytes": 604864,
+        "pages": 1,
+        "method": "Embedded GEO viewport affine interpolation and rendered cadastral map visual review",
+        "shared_coordinate": [
+          -102.08008648446405,
+          54.661590848951974
+        ],
+        "finding": "共有座標は地図上でBlock19北東側（9AV〜10AV間）に位置する。OCPがDenareplexの敷地とするBlock36 Lots9–12はWigwam Drive沿いの別区画にあり、共有座標とは一致しない。",
+        "limits": "区画図は測量による施設入口座標の保証ではない。14施設の全件誤り・正しい移動先・除外後の峰消失は未確定。",
+        "decision": "hold",
+        "next": "Denareplex個別IDの位置不整合を記録し、他の共有座標施設を個別照合。除外範囲を決めてから密度の感度を検証。"
+      },
+      "density_sensitivity365": {
+        "artifact": "data\\name-research\\reading-sources\\denare-density-probe365.json",
+        "results": {
+          "original": {
+            "excluded_ids": [],
+            "density_at_original_peak": 56.57136126251815,
+            "max_within_1km": 65.92624761451323,
+            "original_is_peak": false,
+            "peaks_within_1km": [
+              [
+                -102.0798,
+                54.66149999999999,
+                65.92624761451323
+              ]
+            ]
+          },
+          "exclude_parcel_inconsistent_denareplex": {
+            "excluded_ids": [
+              "94c32e3502444b626908fa5b"
+            ],
+            "density_at_original_peak": 53.06104749426972,
+            "max_within_1km": 61.94669372608833,
+            "original_is_peak": false,
+            "peaks_within_1km": [
+              [
+                -102.0798,
+                54.66149999999999,
+                61.94669372608833
+              ]
+            ]
+          }
+        },
+        "interpretation": "同一格子の近傍極大は65.9262476145から61.9466937261へ低下するが、位置[-102.0798,54.6615]の極大は残る。入力した丸め座標[-102.080,54.661]の格子点は元から極大ではないため、original_is_peak=falseを峰消失と解釈しない。",
+        "production_applied": false
+      },
+      "museum_parcel_review366": {
+        "poi_id": "09a26617a00246081a71002a",
+        "name": "Northern Gateway Museum",
+        "raw_address": "Beaver Dr",
+        "official_parcel": "Parcel L Plan CS5884",
+        "ocp_pdf_page": 62,
+        "ocp_printed_page": 48,
+        "source_urls": [
+          "https://www.investfdc.ca/_files/ugd/d3eb59_5c0293c7bf1f464cbbc149879ca9b12c.pdf",
+          "https://www.planningforgrowthnorthsk.com/uploads/7/9/7/4/7974185/denare_beach_basemap.pdf",
+          "https://saskmuseums.org/places/northern-gateway-museum/"
+        ],
+        "map_pdf_parcel_label_xy": [
+          774.96,
+          2079.57918
+        ],
+        "raw_shared_pdf_xy": [
+          840.2726979418385,
+          1438.982056582594
+        ],
+        "finding": "OCPが指定するParcel Lは基図の共有POI点（Block19）とは別の区画。MAS公開本文のLocation NotesはMoody Drive。原住所Beaver DrとOCPは道路名で対応し、MASとは異なるアクセス道路表現が残るが、共有座標に博物館を置く根拠にはならない。",
+        "decision": "individual_coordinate_inconsistency_supported",
+        "limitations": "地図上の区画記号は敷地入口・施設建物中心の測量点ではない。移転・閉館日や正確な代替座標は断定しない。"
+      },
+      "two_facilities_sensitivity366": {
+        "artifact": "data/name-research/reading-sources/denare-density-probe366.json",
+        "results": {
+          "original": {
+            "excluded_ids": [],
+            "density_at_original_peak": 56.57136126251815,
+            "max_within_1km": 65.92624761451323,
+            "original_is_peak": false,
+            "peaks_within_1km": [
+              [
+                -102.0798,
+                54.66149999999999,
+                65.92624761451323
+              ]
+            ]
+          },
+          "exclude_two_parcel_inconsistent_facilities": {
+            "excluded_ids": [
+              "09a26617a00246081a71002a",
+              "94c32e3502444b626908fa5b"
+            ],
+            "density_at_original_peak": 49.55073372602129,
+            "max_within_1km": 57.967139837663424,
+            "original_is_peak": false,
+            "peaks_within_1km": [
+              [
+                -102.0798,
+                54.66149999999999,
+                57.967139837663424
+              ]
+            ]
+          }
+        },
+        "finding": "2件だけ除外しても近傍極大は同じ位置に残る。約65.93から57.97件/km²。",
+        "production_applied": false
+      }
+    },
+    {
+      "id": "GeoNames:4171315",
+      "original": "Saint Marks",
+      "country": "US",
+      "peak_keys": [
+        "30.155, -84.203"
+      ],
+      "group": "new_candidates",
+      "model_ja": "セントマークス",
+      "evidence": [
+        {
+          "peak": "30.155, -84.203",
+          "reference": {
+            "id": "4171315",
+            "name": "Saint Marks",
+            "country": "US",
+            "lon": -84.20784,
+            "lat": 30.16127,
+            "feature_code": "PPL",
+            "source_url": "https://download.geonames.org/export/dump/US.zip",
+            "distance_m": 795,
+            "supporting_pois": 34,
+            "support_share": 0.85
+          },
+          "near_pois": 40,
+          "with_address": 27,
+          "distinct_coordinates": 33,
+          "locality_counts": [
+            [
+              "Saint Marks",
+              34
+            ],
+            [
+              "Crawfordville",
+              2
+            ],
+            [
+              "(missing)",
+              2
+            ],
+            [
+              "Tallahasssee",
+              1
+            ],
+            [
+              "Ste Marks",
+              1
+            ]
+          ],
+          "samples": [
+            {
+              "fsq_place_id": "4f2c2bd1e4b0571e1d505e2f",
+              "name": "Stallworth's Room",
+              "address": null,
+              "locality": "Tallahasssee",
+              "region": "FL",
+              "country": "US"
+            },
+            {
+              "fsq_place_id": "5740918a498eb6b88253e64f",
+              "name": "Cooter Stew Cafe",
+              "address": "859",
+              "locality": "Saint Marks",
+              "region": "FL",
+              "country": "US"
+            },
+            {
+              "fsq_place_id": "4da1dcf77aee548169cbc9fe",
+              "name": "St. Marks River Cantina",
+              "address": null,
+              "locality": "Saint Marks",
+              "region": "FL",
+              "country": "US"
+            }
+          ]
+        }
+      ],
+      "address_identity_rechecked": true,
+      "decision": "hold",
+      "reason": "原POI古奈屋Konaya ID4f1e4b2fe4b03ae3651832dbは住所4thFl.Terminal21、countryUS、座標30.1587926534211,-84.20354278844815。タイ政府観光庁Terminal21はBangkok所在地、asianbeatの店舗取材はKonaya Terminal21第四階を記載。該当店舗の米国誤位置が強く疑われるが同一施設の最終確定・全周辺位置監査未完了のため自動削除しない。Shields Marina二つのIDは同名同住所同座標で別地点裏付けにしない。Cooter Stew州法人住所859PortLeonDriveと原POI859は番地一致のみで通り完全一致とはしない。名前採用を保留し位置品質監査を先行。",
+      "address_rechecked_batch": 348,
+      "additional_research_urls": [
+        "https://www.thailandtravel.or.jp/terminal21/",
+        "https://asianbeat.com/th/feature/issue_interview01/15-6.html"
+      ],
+      "position_quality_followup": true,
+      "external_research_batch": 358,
+      "location_quarantine_decision": {
+        "snapshot": "2325979374271449319",
+        "peak": "30.155, -84.203",
+        "reference_id": "GeoNames:4171315",
+        "fsq_place_id": "4f1e4b2fe4b03ae3651832db",
+        "raw_poi": {
+          "id": "4f1e4b2fe4b03ae3651832db",
+          "name": "古奈屋 | Konaya (Curry Udon & Tempura)",
+          "address": "4th Fl., Terminal 21",
+          "locality": "Saint Marks",
+          "country": "US",
+          "longitude": -84.20354278844815,
+          "latitude": 30.1587926534211
+        },
+        "decision": "approved_location_quality_quarantine_next_release",
+        "basis": "元POIは古奈屋Konaya CurryUdonTempura/Terminal21第四階を示すがcountryUS/SaintMarks座標。TheNation2013-07-12の記者による経営者インタビュー本文はBangkokのKonaya紹介にTerminal21第四階支店を明示。タイ政府観光庁は当該Terminal21をBangkokアソークと示す。施設名・ブランド・階・建物の対応から米国地点の裏付けに使えず、ID単位で計算保留が妥当。精密なタイ店舗座標を推測して移動しない。現在営業・閉店時期の判断ではない。",
+        "sources": [
+          "https://www.nationthailand.com/life/30210303",
+          "https://www.thailandtravel.or.jp/terminal21/"
+        ],
+        "other_nearby_pois": "未監査。他の米国施設を一括除外しない。",
+        "production_applied": false,
+        "sensitivity_test": {
+          "report": "data/name-research/reading-sources/saint-marks-density-probe357.json",
+          "original_density": 80.50523940926975,
+          "after_density": 79.96174925228577,
+          "peak_survives": true,
+          "production_applied": false
+        }
+      },
+      "next_research_lead": "Konaya1ID保留後も峰は存続。周辺米国施設の照合と地名読みを継続し、外国店舗1件を原因とした峰一括削除をしない。",
+      "density_followup357": {
+        "report": "data/name-research/reading-sources/saint-marks-density-probe357.json",
+        "original_density": 80.50523940926975,
+        "after_density": 79.96174925228577,
+        "peak_survives": true,
+        "production_applied": false
+      },
+      "address_followup358": {
+        "source_urls": [
+          "https://bowlinemarinas.com/shields-marina/",
+          "https://www.visitwakulla.com/wp-content/uploads/WakullaCountyFloridaVisitorsGuide.pdf",
+          "https://www.waterwayguide.com/service/shields-marina"
+        ],
+        "finding": "現運営者BowlineのVisitUsは95RiversideDrive/SaintMarksFL32355を明示。郡観光ガイドのShieldsMarina同住所とも一致し、原2ID5fd1328594d6587ab00f42a7/5fd1670a3c03e267997002e5の施設番地道路町との対応を補強。2IDは同施設で独立根拠に二重計上しない。WaterwayGuide公開地点N30度09.320分W084度12.110分は原点から約28.6mで補助証拠、運営者座標・測量点とはしない。",
+        "source_poi_ids": [
+          "5fd1328594d6587ab00f42a7",
+          "5fd1670a3c03e267997002e5"
+        ],
+        "marine_directory_distance_m": 28.6,
+        "decision": "valid_local_facility_identity_supported_other_records_pending"
+      }
+    },
+    {
+      "id": "GeoNames:4229530",
+      "original": "Warwick",
+      "country": "US",
+      "peak_keys": [
+        "31.837, -83.924"
+      ],
+      "group": "new_candidates",
+      "model_ja": "ウォーリック",
+      "evidence": [
+        {
+          "peak": "31.837, -83.924",
+          "reference": {
+            "id": "4229530",
+            "name": "Warwick",
+            "country": "US",
+            "lon": -83.91879,
+            "lat": 31.83101,
+            "feature_code": "PPL",
+            "source_url": "https://download.geonames.org/export/dump/US.zip",
+            "distance_m": 878,
+            "supporting_pois": 22,
+            "support_share": 0.88
+          },
+          "near_pois": 25,
+          "with_address": 18,
+          "distinct_coordinates": 22,
+          "locality_counts": [
+            [
+              "Warwick",
+              22
+            ],
+            [
+              "(missing)",
+              2
+            ],
+            [
+              "Cordele",
+              1
+            ]
+          ],
+          "samples": [
+            {
+              "fsq_place_id": "4d6edbea516b8cfa3f994810",
+              "name": "Usa Gas",
+              "address": null,
+              "locality": null,
+              "region": null,
+              "country": "US"
+            },
+            {
+              "fsq_place_id": "628b2a7a05154b8fce2fc626",
+              "name": "Pickin Peanut Antiques",
+              "address": "205 GA Highway 300 NE",
+              "locality": "Warwick",
+              "region": "GA",
+              "country": "US"
+            },
+            {
+              "fsq_place_id": "57ceb1028d6949e5c8b8895f",
+              "name": "Marathon",
+              "address": "195 GA-300",
+              "locality": "Warwick",
+              "region": "GA",
+              "country": "US"
+            }
+          ]
+        }
+      ],
+      "address_identity_rechecked": true,
+      "decision": "hold",
+      "reason": "Warwick辞書は/ˈwɒɹɪk/と/ˈwɒɹwɪk/の地域別変種を明記し、Georgiaの対象町の変種は未指定。英国やRhode Islandの読みを流用しない。GMA市資料https://www.gacities.com/gma-cities-districts/warwick/80676でWorth County Georgiaの町と確認、個別POI番地一致ではない。現地読み確認を継続。",
+      "address_rechecked_batch": 348,
+      "research_urls": [
+        "https://en.wiktionary.org/wiki/Warwick",
+        "https://www.gacities.com/gma-cities-districts/warwick/80676"
+      ],
+      "external_research_batch": 33
+    },
+    {
+      "id": "GeoNames:6127700",
+      "original": "Roseneath",
+      "country": "CA",
+      "peak_keys": [
+        "44.193, -78.058"
+      ],
+      "group": "new_candidates",
+      "model_ja": "ロシーニース",
+      "evidence": [
+        {
+          "peak": "44.193, -78.058",
+          "reference": {
+            "id": "6127700",
+            "name": "Roseneath",
+            "country": "CA",
+            "lon": -78.0576,
+            "lat": 44.19276,
+            "feature_code": "PPL",
+            "source_url": "https://download.geonames.org/export/dump/CA.zip",
+            "distance_m": 25,
+            "supporting_pois": 34,
+            "support_share": 0.895
+          },
+          "near_pois": 38,
+          "with_address": 34,
+          "distinct_coordinates": 23,
+          "locality_counts": [
+            [
+              "Roseneath",
+              34
+            ],
+            [
+              "(missing)",
+              4
+            ]
+          ],
+          "samples": [
+            {
+              "fsq_place_id": "372a4377232c4190e6765dcd",
+              "name": "Lang's Resort & Campgrounds",
+              "address": "RR 3",
+              "locality": "Roseneath",
+              "region": "ON",
+              "country": "CA"
+            },
+            {
+              "fsq_place_id": "404fb76dbe5d47a3ba336931",
+              "name": "Ka-Heat Kachelofen Ltd",
+              "address": "RR 4",
+              "locality": "Roseneath",
+              "region": "ON",
+              "country": "CA"
+            },
+            {
+              "fsq_place_id": "e5ad0d1f488b42844b83789e",
+              "name": "Crowe Bros Roofing",
+              "address": "RR 2",
+              "locality": "Roseneath",
+              "region": "ON",
+              "country": "CA"
+            }
+          ]
+        }
+      ],
+      "address_identity_rechecked": true,
+      "decision": "hold",
+      "reason": "前回Lang’s Resort公式リンク位置5,450.6mの不整合を、自治体2015-05-28採択OfficialPlanScheduleBの施設一覧15番Lang’s Resort & Campground25Lang’sRoad Concession6PartLot18で補強。自治体PDFを直接取得し本文確認、地図画像は未検視。原屋号との対応は強まるが原RR3番地欠落は完全住所一致でない。Osprey原6f42d024ccb943bb8c7d47d6 RR3に外部Breken/YLM名簿のOspreyCottagesManagementLtd1026MerrillRoad RR3を部分照合。名簿の自治体運営性は未確認で外部資料と扱う。運営者サイト取得失敗。自治体計画のOsprey記載なしを閉鎖証拠にしない。現位置・原時点の位置を断定せず名称採用と本番除外は保留。",
+      "address_rechecked_batch": 348,
+      "research_urls": [
+        "https://static1.squarespace.com/static/65aadb1c11c5f35982ba4f5f/t/65de2654887e897cd0208002/1709057620710/Map-1-with-list-of-locations-campgrounds-schools-churches-_-cemeteries.pdf",
+        "https://www.breken.com/ylm/ylm_search_results.aspx?action=execute&description=Accommodation+Services&f=alnwickhaldimand&naics=721",
+        "https://langsresort.com/contact/"
+      ],
+      "external_research_batch": 360,
+      "address_followup360": {
+        "source_urls": [
+          "https://awaycabins.com/welcome-manual/",
+          "https://awaycabins.com/our-story/",
+          "https://www.ahtwp.ca/fenella-community-hall",
+          "https://www.ahtwp.ca/s/Infrastructure-Report-Phase-I-2014.pdf"
+        ],
+        "raw_poi_id": "6f42d024ccb943bb8c7d47d6",
+        "finding": "原OspreyCottages住所RR3。従来第三者掲載1026MerrillRdUnit12について現AwayCabins運営者のWelcomeManual/OurStoryが同番地Unit12/Roseneathを明示、RiceLake湖畔五つの80年前の小屋を改修したと説明。旧Osprey名称との直接の継承記述はないため同一営業主体・移転・閉店を確定しない。単なる住所一致を旧原POIの地点裏付けへ転用しない。FenellaCommunityHallは現自治体ページと2014インフラ資料が8071CountyRoad45/Concession9PartLot21で一致し、第三者の11910CountyRoad24は混同しない。",
+        "decision": "old_business_identity_pending_current_property_address_supported"
+      },
+      "next_research_lead": "旧OspreyCottagesと現AwayCabinsの継承・同区画を公的事業／土地資料で確認。郵送RR3を現住所と同一視しない。"
+    },
+    {
+      "id": "GeoNames:6318630",
+      "original": "Sapezal",
+      "country": "BR",
+      "peak_keys": [
+        "-12.989, -58.764"
+      ],
+      "group": "new_candidates",
+      "model_ja": "サペザル",
+      "evidence": [
+        {
+          "peak": "-12.989, -58.764",
+          "reference": {
+            "id": "6318630",
+            "name": "Sapezal",
+            "country": "BR",
+            "lon": -58.76417,
+            "lat": -12.98944,
+            "feature_code": "PPL",
+            "source_url": "https://download.geonames.org/export/dump/BR.zip",
+            "distance_m": 87,
+            "supporting_pois": 17,
+            "support_share": 1.0
+          },
+          "near_pois": 17,
+          "with_address": 16,
+          "distinct_coordinates": 6,
+          "locality_counts": [
+            [
+              "Sapezal",
+              16
+            ],
+            [
+              "SAPEZAL",
+              1
+            ]
+          ],
+          "samples": [
+            {
+              "fsq_place_id": "51e862341d9f537aa8e5a0d2",
+              "name": "Cacau Show",
+              "address": "AV ROTARY INTERNACIONA 649, SALA 02",
+              "locality": "SAPEZAL",
+              "region": "MT",
+              "country": "BR"
+            },
+            {
+              "fsq_place_id": "69b7304f85b25a119a0c4168",
+              "name": "Laboratorio Modelo",
+              "address": "Avenida Antônio Andre Maggim Esq Avenida Piramboia, 1399",
+              "locality": "Sapezal",
+              "region": "MT",
+              "country": "BR"
+            },
+            {
+              "fsq_place_id": "69b72eb985b25a119a08d9b8",
+              "name": "Unidade VI de Saude Rosemari Linde Sachetti",
+              "address": "Avenida Modesto Paludo, 2579",
+              "locality": "Sapezal",
+              "region": "MT",
+              "country": "BR"
+            }
+          ]
+        }
+      ],
+      "address_identity_rechecked": true,
+      "decision": "hold",
+      "reason": "近傍17件中12件が完全同一座標。CNESでHospital Santa MarcelinaのAv. Piramboia 960とRosemari Linde SachettiのAv. Modesto Paludo 2579を個別住所一致確認。異なる街路・地区の施設が同一点に登録され、峰位置の裏付けに不十分。市公式の地名由来と一般語辞書発音も確認したが、位置品質未解決のため名称採用は保留。修正座標は未確定。 第331回：農林水産省資料の印刷181頁(PDF180頁)画像を目視し、マット・グロッソ北西部サペザル(Sapezal)を直接確認。読みは公開日本語用例により確定。公的に指定された日本語名とは区別。施設12件同一座標の位置品質監査は未解決で、表示辞書にはまだ反映しない。 第332回：病院運営者公式AvPiramboia960を直接確認。自治体議会2020-03-02開院記事でRosemari施設はAguaClara地区の別施設と直接確認。CNES地図geo.aspの病院hiddenlatitude-12.989/longitude-58.764は原と同一。公的台帳自身も集中座標を持つため独立した実所在地検証に使わない。ページ既定centerLatitude-15.78000/centerLongitude-47.93000はブラジリア地図初期中心で対象施設位置ではない。 第333回：併設DoyonSapezalI運営者本文でAvPiramboia960/病院併設を直接確認。運営者地図は住所検索のみで座標なし。Waze同名同番地の公開HTML座標-13.5486818,-58.818447は峰から62512.2mで位置不整合、補正座標に使わない。運営者次節CampoNovo支店の地図座標も別施設なので対象から除外。 第334回：IBGE2020系列地図(印刷版04/2021)PDF第1頁を直接取得・本文抽出し市庁所在座標-13.55,-58.82を確認。元集中点から62674.2m。前回Wazeの62km差だけで経路側を誤りと疑った解釈を修正、経路位置は新しい公的市街位置近傍で元POI側の誤位置が強く疑われる。丸められた町中心を実病院座標に流用しない。 第335回：200m同条件の再計算試算で元62.966、病院1件除外58.987、病院・Rosemari・市立検査所・Marlenaの4件除外47.049、同点12件除外15.217。4件試算では1km内の抽出峰0。市公式2019道路工事記事はCurimba沿い市立検査所、2016開院記事はMarlenaのJardimSapezal所在を支持。全12件の誤位置確定とはせず本番は未変更。 第336回：4公共施設を既存の個別位置品質保留方針に沿いv4再計算用方針へ追加。実建物位置未確定のため架空の補正座標へ移動しない。残る8同点施設は未確認で維持。v4未生成・未公開なので候補を解決扱いしない。 第337回：v4生成を開始し影響15区画の密度再計算完了。配信パッケージ生成と全体検証は進行中、公開も未完了。 第338回：v4密度・14配信パッケージ生成完了。概観・全峰索引の組立を開始し進行中。組立前のmanifestは旧版コピーなので検証未成立、組立後に全体検証を実行する。 第339回：v4全体組立・地形・表示検証完了。索引319883峰、Sapezal/Smeaton1km内対象峰0、変更外2933パッケージSHA一致、変更タイル702復号確認。全875承認が実在、原5356対象群の消失は2件、v4地名未登録4479。238地域714表示範囲ランキング検査も通過。S3未公開なので候補退役は未実行。",
+      "address_rechecked_batch": 348,
+      "focused_quality_review": {
+        "country": "BR",
+        "locality": "Sapezal",
+        "decision": "hold_position_quality",
+        "note": "近傍17件中12件が完全同一座標。CNESでHospital Santa MarcelinaのAv. Piramboia 960とRosemari Linde SachettiのAv. Modesto Paludo 2579を個別住所一致確認。異なる街路・地区の施設が同一点に登録され、峰位置の裏付けに不十分。市公式の地名由来と一般語辞書発音も確認したが、位置品質未解決のため名称採用は保留。修正座標は未確定。",
+        "sources": [
+          "https://cnes2.datasus.gov.br/Mod_Ambulatorial.asp?VCo_Unidade=5107879659366",
+          "https://cnes2.datasus.gov.br/Mod_Ambulatorial.asp?VCo_Unidade=5107870267279",
+          "https://www.sapezal.mt.gov.br/portal/servicos/1001/historia",
+          "https://www.infopedia.pt/dicionarios/lingua-portuguesa/sapezal"
+        ],
+        "retrieved_locality_pois": [
+          {
+            "fsq_place_id": "54ea3477498ee51935a3067c",
+            "name": "Fazenda Tucunare",
+            "address": "Antônio Maggi",
+            "longitude": -58.76488494873047,
+            "latitude": -12.983924865722656
+          },
+          {
+            "fsq_place_id": "69b7304f85b25a119a0c4168",
+            "name": "Laboratorio Modelo",
+            "address": "Avenida Antônio Andre Maggim Esq Avenida Piramboia, 1399",
+            "longitude": -58.7635731697,
+            "latitude": -12.9890231135
+          },
+          {
+            "fsq_place_id": "a271107879e842663a9a99d6",
+            "name": "Hotel Roma",
+            "address": "Rua Piratanta, 550",
+            "longitude": -58.7644843403374,
+            "latitude": -12.989301454658838
+          },
+          {
+            "fsq_place_id": "53948fff498e6a4f5895bdb0",
+            "name": "Fazenda Santa Luzia",
+            "address": null,
+            "longitude": -58.764052,
+            "latitude": -12.988982
+          },
+          {
+            "fsq_place_id": "69b7419f85b25a119a22931c",
+            "name": "Unidade Descentralizada Reabilitacao Sapezal",
+            "address": "Avenida Lions Internacional, 1649",
+            "longitude": -58.764,
+            "latitude": -12.989
+          },
+          {
+            "fsq_place_id": "69b72f4485b25a119a0a03fe",
+            "name": "Hospital Santa Marcelina de Sapezal",
+            "address": "Avenida Piramboia, 960",
+            "longitude": -58.764,
+            "latitude": -12.989
+          },
+          {
+            "fsq_place_id": "69b72eb985b25a119a08d9b8",
+            "name": "Unidade VI de Saude Rosemari Linde Sachetti",
+            "address": "Avenida Modesto Paludo, 2579",
+            "longitude": -58.764,
+            "latitude": -12.989
+          },
+          {
+            "fsq_place_id": "69b72bbc85b25a119a02a4be",
+            "name": "Laboratorio Bio Analise",
+            "address": "Avenida Lions Internacional, 1020",
+            "longitude": -58.764,
+            "latitude": -12.989
+          },
+          {
+            "fsq_place_id": "69b74a7d85b25a119a35872f",
+            "name": "PSF I Sapezal Sapezal",
+            "address": "Avenida Corimba, 1649",
+            "longitude": -58.764,
+            "latitude": -12.989
+          },
+          {
+            "fsq_place_id": "69b748f085b25a119a3245de",
+            "name": "Cades",
+            "address": "Avenida Antônio Andre Maggi, S/N",
+            "longitude": -58.764,
+            "latitude": -12.989
+          },
+          {
+            "fsq_place_id": "69b7420585b25a119a237462",
+            "name": "Laboratorio Municipal de Sapezal",
+            "address": "Avenida Curimba, 1789",
+            "longitude": -58.764,
+            "latitude": -12.989
+          },
+          {
+            "fsq_place_id": "69b73f3785b25a119a1d5d7d",
+            "name": "Unidade V de Saude da Familia Marlena Webler",
+            "address": "Avenida do Pintado, 2559",
+            "longitude": -58.764,
+            "latitude": -12.989
+          },
+          {
+            "fsq_place_id": "69b7334385b25a119a129103",
+            "name": "Clinica Oralmed",
+            "address": "Avenida Antônio Andre Maggi, 1299",
+            "longitude": -58.764,
+            "latitude": -12.989
+          },
+          {
+            "fsq_place_id": "69b73f9b85b25a119a1e32b2",
+            "name": "Laboratorio Labclin Sapezal",
+            "address": "Rua Traira sl 02, 1379",
+            "longitude": -58.764,
+            "latitude": -12.989
+          },
+          {
+            "fsq_place_id": "69b7435185b25a119a2633d8",
+            "name": "PSF III Sapezalsapezal",
+            "address": "Avenida Jau, S/N",
+            "longitude": -58.764,
+            "latitude": -12.989
+          },
+          {
+            "fsq_place_id": "69b7429285b25a119a249b86",
+            "name": "Fisio Vida",
+            "address": "Avenida Rotary Internacional, 960",
+            "longitude": -58.764,
+            "latitude": -12.989
+          },
+          {
+            "fsq_place_id": "51e862341d9f537aa8e5a0d2",
+            "name": "Cacau Show",
+            "address": "AV ROTARY INTERNACIONA 649, SALA 02",
+            "longitude": -58.763743,
+            "latitude": -12.988616
+          }
+        ],
+        "scope": "Retrieved locality records; near-peak concentration counts are from remaining-exact-coordinate-concentration.json. No coordinate correction or exclusion."
+      },
+      "research_urls": [
+        "https://cnes2.datasus.gov.br/Mod_Ambulatorial.asp?VCo_Unidade=5107879659366",
+        "https://cnes2.datasus.gov.br/Mod_Ambulatorial.asp?VCo_Unidade=5107870267279",
+        "https://www.sapezal.mt.gov.br/portal/servicos/1001/historia",
+        "https://www.infopedia.pt/dicionarios/lingua-portuguesa/sapezal",
+        "https://www.maff.go.jp/primaff/kanko/project/attach/pdf/040325_16zyukyu4.pdf",
+        "https://santamarcelina.org/sapezal/",
+        "https://www.sapezal.mt.leg.br/institucional/noticias/inauguracao-da-unidade-basica-de-saude-vi-2013-201crosemari-linde-sachetti201d",
+        "https://cnes2.datasus.gov.br/geo.asp?VUnidade=5107879659366",
+        "https://doyon.com.br/unidades-doyon/",
+        "https://www.waze.com/pt-BR/live-map/directions/br/mt/doyon-medicina-diagnostica?to=place.ChIJBRfPmQLhvJMRewL1LhoNQhI",
+        "https://geoftp.ibge.gov.br/cartas_e_mapas/mapas_municipais/colecao_de_mapas_municipais/2020/MT/sapezal/5107875_MM.pdf",
+        "https://www.sapezal.mt.gov.br/portal/noticias/0/3/3016/departamento-municipal-de-transito-comunica-a-interdicao-da-avenida-curimba",
+        "https://www.sapezal.mt.gov.br/portal/noticias/0/3/2025/unidade-v-de-saude-da-familia-marlena-webler"
+      ],
+      "coordinate_quality_audit_batch": 147,
+      "coordinate_quality_audit": [
+        {
+          "id": "GeoNames:6318630",
+          "original": "Sapezal",
+          "peak": "-12.989, -58.764",
+          "country": "BR",
+          "bbox_pois": 16,
+          "distinct_coordinates": 5,
+          "largest_exact_coordinate_cluster": 12,
+          "largest_share": 0.75,
+          "cluster_coordinate": [
+            -12.989,
+            -58.764
+          ]
+        }
+      ],
+      "reading_review": {
+        "status": "confirmed_public_japanese_usage",
+        "ja": "サペザル",
+        "source_url": "https://www.maff.go.jp/primaff/kanko/project/attach/pdf/040325_16zyukyu4.pdf",
+        "pdf_page": 180,
+        "printed_page": 181,
+        "verification": "Downloaded public PDF; visually inspected embedded scanned page image; text extraction empty, search index alone not used.",
+        "source_image": "data/name-research/reading-sources/sapezal-maff331-page180.png",
+        "not_official_japanese_name_designation": true
+      },
+      "external_research_batch": 339,
+      "next_research_lead": "読みの再検索は不要。SantaMarcelina病院と他施設の実所在地座標を公式運営者地図等で確認し、集中座標の位置品質と峰の存続を判断する。",
+      "position_quality_next_action": "v4方針5441IDで別ディレクトリへ影響区画を再計算し、SapezalとSmeatonの峰不在、非影響区画不変を全データ検証。S3認証回復後に公開してから候補群を退役。",
+      "density_sensitivity_review": {
+        "batch": 335,
+        "artifact": "data/name-research/reading-sources/sapezal-density-probe335.json",
+        "production_changed": false,
+        "original": 62.96571896527079,
+        "hospital_only": 58.98665838078058,
+        "four_public_facilities": 47.04947662730997,
+        "all_12": 15.216991951388362,
+        "four_facilities_nearby_peaks": [],
+        "classification": "Sensitivity only; facilities have municipal-address corroboration, exact buildings not all verified."
+      },
+      "position_quality_decision": {
+        "batch": 336,
+        "status": "four_public_facilities_quarantined_pending_release",
+        "policy": "docs/held-density-exclusions-v4.json",
+        "ids": [
+          "69b72eb985b25a119a08d9b8",
+          "69b72f4485b25a119a0a03fe",
+          "69b73f3785b25a119a1d5d7d",
+          "69b7420585b25a119a237462"
+        ],
+        "raw_source_retained": true,
+        "other_colocated_records_retained": 8,
+        "density_release_built": false,
+        "release_published": false,
+        "density_release_build_started": true,
+        "build_session": 27271,
+        "build_log": "data/validation/held-density-v4-build.log",
+        "density_release_build_finished": true,
+        "recomputed_chunks": 15,
+        "recomputed_packages": 14,
+        "unchanged_packages": 2933,
+        "assembly_session": 46661,
+        "assembly_log": "data/validation/world-v4-assembly.log",
+        "density_release_validated": true,
+        "assembly_complete": true,
+        "validation_report": "data/validation/held-density-release-v4.json",
+        "frontend_report": "data/validation/world-v4-frontend.json",
+        "display_test": "data/validation/world-v4-display-address875-test.log"
+      }
+    },
+    {
+      "id": "GeoNames:12167214",
+      "original": "Marnardal",
+      "country": "NO",
+      "peak_keys": [
+        "58.214, 7.513"
+      ],
+      "group": "new_candidates",
+      "model_ja": "マルナルダル",
+      "evidence": [
+        {
+          "peak": "58.214, 7.513",
+          "reference": {
+            "id": "12167214",
+            "name": "Marnardal",
+            "country": "NO",
+            "lon": 7.51168,
+            "lat": 58.21242,
+            "feature_code": "PPL",
+            "source_url": "https://download.geonames.org/export/dump/NO.zip",
+            "distance_m": 178,
+            "supporting_pois": 17,
+            "support_share": 0.85
+          },
+          "near_pois": 20,
+          "with_address": 12,
+          "distinct_coordinates": 13,
+          "locality_counts": [
+            [
+              "Marnardal",
+              16
+            ],
+            [
+              "(missing)",
+              3
+            ],
+            [
+              "MARNARDAL",
+              1
+            ]
+          ],
+          "samples": [
+            {
+              "fsq_place_id": "af5f2a346427480a27aaabde",
+              "name": "Psykolog Øystein Klev",
+              "address": "Solbue",
+              "locality": "Marnardal",
+              "region": "Vest-Agder",
+              "country": "NO"
+            },
+            {
+              "fsq_place_id": "a0b8981d413f4878b0e56a11",
+              "name": "Donovan Nordic",
+              "address": "Fidjestøl",
+              "locality": "Marnardal",
+              "region": "Vest-Agder",
+              "country": "NO"
+            },
+            {
+              "fsq_place_id": "6110f0c8596c4972b64a9dae",
+              "name": "Ans Heddeland Kro Vigemyr Skaar & Johnsen",
+              "address": "Heddeland",
+              "locality": "Marnardal",
+              "region": "Vest-Agder",
+              "country": "NO"
+            }
+          ]
+        }
+      ],
+      "address_identity_rechecked": true,
+      "decision": "hold",
+      "reason": "公式Brreg事業者API818531982のMARNARBIL AS所在地Bue/Marnarveien2249、郵便番号4534・poststedMARNARDALを直接取得。SjekkPunkt運営者本文のBesøkoss Marnarveien2249Bue,4534Marnardalとも照合。原07f1bc6194c14bc22f4dfdeaのMarnarveien2249,Bue/localityMarnardalと対応。経路リンクは住所検索のみで座標確認ではない。所在地対応は強化されたが町名全体の現地発音未確定。",
+      "address_rechecked_batch": 348,
+      "external_research_batch": 355,
+      "research_urls": [
+        "https://data.brreg.no/enhetsregisteret/api/enheter/818531982",
+        "https://sjekkpunkt.no/bilverksted/marnarbil"
+      ],
+      "next_research_lead": "復元語源の推定ではなく、駅・駅周囲集落Marnardalを明示する現代の全語発音資料を確認。",
+      "reading_followup355": {
+        "source_urls": [
+          "https://www.isof.se/download/18.58466c8318bab9ae496bae5/1699617715632/Abstract%20NORNA2023%20231110.pdf",
+          "https://snl.no/Marnardal_-_tidligere_kommune",
+          "https://en.wiktionary.org/wiki/Marnardal"
+        ],
+        "finding": "Rune RøsstadのNORNA2023要旨PDF第18–19頁はMarnardalが復元地名で、1920年頃に谷域名、1943年に駅名、その後駅周囲の集落名として使用されたと説明。旧自治体だけの名称ではないと補強できるが、現代全語の発音転写は掲載されない。隣接するGotlandのr脱落の発表は別地域・別地名で転用しない。SNL旧自治体記事とWiktionaryの町語義も発音欄なし。",
+        "decision": "hold_whole_name_reading"
+      }
+    },
+    {
+      "id": "GeoNames:461640",
+      "original": "Aduliena",
+      "country": "LV",
+      "peak_keys": [
+        "57.074, 26.516"
+      ],
+      "group": "new_candidates",
+      "model_ja": "アデュリェーナ",
+      "evidence": [
+        {
+          "peak": "57.074, 26.516",
+          "reference": {
+            "id": "461640",
+            "name": "Aduliena",
+            "country": "LV",
+            "lon": 26.5172,
+            "lat": 57.07612,
+            "feature_code": "PPL",
+            "source_url": "https://download.geonames.org/export/dump/LV.zip",
+            "distance_m": 210,
+            "supporting_pois": 25,
+            "support_share": 0.862
+          },
+          "near_pois": 29,
+          "with_address": 27,
+          "distinct_coordinates": 4,
+          "locality_counts": [
+            [
+              "Aduliena",
+              25
+            ],
+            [
+              "(missing)",
+              4
+            ]
+          ],
+          "samples": [
+            {
+              "fsq_place_id": "58c95ff193eaf822c2b93a23",
+              "name": "Direktora Kabinets",
+              "address": "Sveķu internātpamatskola",
+              "locality": "Aduliena",
+              "region": null,
+              "country": "LV"
+            },
+            {
+              "fsq_place_id": "58c02909d70282604a44db03",
+              "name": "Buvniecība Lase",
+              "address": "Sveķu internātpamatskola",
+              "locality": "Aduliena",
+              "region": null,
+              "country": "LV"
+            },
+            {
+              "fsq_place_id": "58c0313737da1d5042c0352b",
+              "name": "Atputas Zona",
+              "address": "Sveķu internātpamatskola",
+              "locality": "Aduliena",
+              "region": null,
+              "country": "LV"
+            }
+          ]
+        }
+      ],
+      "address_identity_rechecked": true,
+      "decision": "hold",
+      "reason": "25件が同一学校住所・完全同一座標。施設名は教室、廊下、実習室等で、独立した25店舗ではない。自治体学校規則と教育データベースでSveķu pamatskolaのAduliena住所を確認。地域対応は支持されるが、現地読みと施設内登録による密度膨張は未解決。位置誤りとは断定しない。",
+      "address_rechecked_batch": 348,
+      "focused_quality_review": {
+        "country": "LV",
+        "locality": "Aduliena",
+        "decision": "hold_facility_granularity_and_reading",
+        "note": "25件が同一学校住所・完全同一座標。施設名は教室、廊下、実習室等で、独立した25店舗ではない。自治体学校規則と教育データベースでSveķu pamatskolaのAduliena住所を確認。地域対応は支持されるが、現地読みと施設内登録による密度膨張は未解決。位置誤りとは断定しない。",
+        "sources": [
+          "https://www.gulbene.lv/lv/sveku-pamatskolas-nolikums",
+          "https://www.niid.lv/niid_search/program/10768"
+        ],
+        "retrieved_locality_pois": [
+          {
+            "fsq_place_id": "58c02b34f697e070e8c3d12c",
+            "name": "Matematikas Kabinets",
+            "address": "Sveķu internātpamatskola",
+            "longitude": 26.51607,
+            "latitude": 57.074413
+          },
+          {
+            "fsq_place_id": "58c95ff193eaf822c2b93a23",
+            "name": "Direktora Kabinets",
+            "address": "Sveķu internātpamatskola",
+            "longitude": 26.51607,
+            "latitude": 57.074413
+          },
+          {
+            "fsq_place_id": "58c0323004aa4f2220c5b508",
+            "name": "Pipetava",
+            "address": "Sveķu internātpamatskola",
+            "longitude": 26.51607,
+            "latitude": 57.074413
+          },
+          {
+            "fsq_place_id": "58c030ca03e29a4f97603346",
+            "name": "Galdniecība",
+            "address": "Sveķu internātpamatskola",
+            "longitude": 26.51607,
+            "latitude": 57.074413
+          },
+          {
+            "fsq_place_id": "58c02909d70282604a44db03",
+            "name": "Buvniecība Lase",
+            "address": "Sveķu internātpamatskola",
+            "longitude": 26.51607,
+            "latitude": 57.074413
+          },
+          {
+            "fsq_place_id": "58c0313737da1d5042c0352b",
+            "name": "Atputas Zona",
+            "address": "Sveķu internātpamatskola",
+            "longitude": 26.51607,
+            "latitude": 57.074413
+          },
+          {
+            "fsq_place_id": "58c028a655d622183502446a",
+            "name": "Sporta Zāle",
+            "address": "Sveķu internātpamatskola",
+            "longitude": 26.51607,
+            "latitude": 57.074413
+          },
+          {
+            "fsq_place_id": "58c030479b615c0ebce20226",
+            "name": "Betonešanas Kabinets",
+            "address": "Sveķu internātpamatskola",
+            "longitude": 26.51607,
+            "latitude": 57.074413
+          },
+          {
+            "fsq_place_id": "58c95f9b5da8f47dd3e972c3",
+            "name": "Sepavara Paliga Klase",
+            "address": "Sveķu internātpamatskola",
+            "longitude": 26.51607,
+            "latitude": 57.074413
+          },
+          {
+            "fsq_place_id": "58c95f2155d6220ad6c67b25",
+            "name": "Medmasas Kabinets",
+            "address": "Sveķu internātpamatskola",
+            "longitude": 26.51607,
+            "latitude": 57.074413
+          },
+          {
+            "fsq_place_id": "58c031d4af7d1778e3e34bf1",
+            "name": "Wifi Zona",
+            "address": "Sveķu internātpamatskola",
+            "longitude": 26.51607,
+            "latitude": 57.074413
+          },
+          {
+            "fsq_place_id": "58c117748cfe5475ad2cd469",
+            "name": "Skabuzis Sarmītes",
+            "address": "Sveķu internātpamatskola",
+            "longitude": 26.51607,
+            "latitude": 57.074413
+          },
+          {
+            "fsq_place_id": "58c02a45e9dad1298888c719",
+            "name": "Atputās Zona",
+            "address": "Sveķu internātpamatskola",
+            "longitude": 26.51607,
+            "latitude": 57.074413
+          },
+          {
+            "fsq_place_id": "58c02fe2e0adac7fd2933bc1",
+            "name": "Lase Buvniecība",
+            "address": "Sveķu internātpamatskola",
+            "longitude": 26.51607,
+            "latitude": 57.074413
+          },
+          {
+            "fsq_place_id": "58c02edf76b8b26b589a00da",
+            "name": "Edam Zāle",
+            "address": "Sveķu internātpamatskola",
+            "longitude": 26.51607,
+            "latitude": 57.074413
+          },
+          {
+            "fsq_place_id": "58c0328a65ca014476f8172b",
+            "name": "Kojas",
+            "address": "Sveķu internātpamatskola",
+            "longitude": 26.51607,
+            "latitude": 57.074413
+          },
+          {
+            "fsq_place_id": "58c02afabf1a6d76b80be886",
+            "name": "Latviešu Valodas Kabinets",
+            "address": "Sveķu internātpamatskola",
+            "longitude": 26.51607,
+            "latitude": 57.074413
+          },
+          {
+            "fsq_place_id": "58c95ec3e18e6541dd90ddd1",
+            "name": "anglu Valodas Miezīte",
+            "address": "Sveķu internātpamatskola",
+            "longitude": 26.51607,
+            "latitude": 57.074413
+          },
+          {
+            "fsq_place_id": "58c0296676b8b26b588e4889",
+            "name": "Galdniecība Šņepsts",
+            "address": "Sveķu internātpamatskola",
+            "longitude": 26.51607,
+            "latitude": 57.074413
+          },
+          {
+            "fsq_place_id": "58c02da1bf1a6d76b8117d98",
+            "name": "Kuritava",
+            "address": "Sveķu internātpamatskola",
+            "longitude": 26.51607,
+            "latitude": 57.074413
+          },
+          {
+            "fsq_place_id": "58c02f539b7eac450a5b3cb8",
+            "name": "Latenes Kabinets",
+            "address": "Sveķu internātpamatskola",
+            "longitude": 26.51607,
+            "latitude": 57.074413
+          },
+          {
+            "fsq_place_id": "58c116a7ef787f4192f27b95",
+            "name": "Skolas Gaitenis",
+            "address": "Sveķu internātpamatskola",
+            "longitude": 26.51607,
+            "latitude": 57.074413
+          },
+          {
+            "fsq_place_id": "58c029a69dc8d0453afec71a",
+            "name": "Betonešanas Labortorija",
+            "address": "Sveķu internātpamatskola",
+            "longitude": 26.51607,
+            "latitude": 57.074413
+          },
+          {
+            "fsq_place_id": "58c02f99d25ded0ed4163798",
+            "name": "Matenes Kabinets",
+            "address": "Sveķu internātpamatskola",
+            "longitude": 26.51607,
+            "latitude": 57.074413
+          },
+          {
+            "fsq_place_id": "58c116fa8cfe5475ad2bec1a",
+            "name": "Sarmītes Skabuzīs",
+            "address": "Sveķu internātpamatskola",
+            "longitude": 26.51607,
+            "latitude": 57.074413
+          }
+        ],
+        "scope": "Retrieved locality records; near-peak concentration counts are from remaining-exact-coordinate-concentration.json. No coordinate correction or exclusion."
+      },
+      "research_urls": [
+        "https://www.gulbene.lv/lv/sveku-pamatskolas-nolikums",
+        "https://www.niid.lv/niid_search/program/10768"
+      ],
+      "coordinate_quality_audit_batch": 147,
+      "coordinate_quality_audit": [
+        {
+          "id": "GeoNames:461640",
+          "original": "Aduliena",
+          "peak": "57.074, 26.516",
+          "country": "LV",
+          "bbox_pois": 29,
+          "distinct_coordinates": 4,
+          "largest_exact_coordinate_cluster": 25,
+          "largest_share": 0.862,
+          "cluster_coordinate": [
+            57.074413,
+            26.51607
+          ]
+        }
+      ],
+      "external_research_batch": 354,
+      "reading_followup354": {
+        "source_url": "https://dspace.lu.lv/server/api/core/bitstreams/c7a45f0e-95d7-4846-b567-dbb38b0e859a/content",
+        "download_bytes": 23287599,
+        "pdf_pages": 285,
+        "hit_pages": [
+          8,
+          113,
+          125,
+          148,
+          198,
+          200,
+          203,
+          205,
+          221,
+          260
+        ],
+        "finding": "Aduliena408は方言調査地点番号。第148/221頁の転写は例語logs/griežu/riet等の地域話者発音で、地名Aduliena自体のIPAではない。町名の音写根拠に転用しない。学校内部25登録の密度粒度問題も未解決。",
+        "decision": "hold_reading_and_facility_grain"
+      },
+      "next_research_lead": "地名そのものの転写を持つ地名辞典を確認。一般語の方言調査表は代用しない。"
+    },
+    {
+      "id": "GeoNames:458192",
+      "original": "Lazdukalns",
+      "country": "LV",
+      "peak_keys": [
+        "56.920, 27.130"
+      ],
+      "group": "new_candidates",
+      "model_ja": "ラズドゥカルンズ",
+      "evidence": [
+        {
+          "peak": "56.920, 27.130",
+          "reference": {
+            "id": "458192",
+            "name": "Lazdukalns",
+            "country": "LV",
+            "lon": 27.11439,
+            "lat": 56.91938,
+            "feature_code": "PPL",
+            "source_url": "https://download.geonames.org/export/dump/LV.zip",
+            "distance_m": 981,
+            "supporting_pois": 14,
+            "support_share": 0.933
+          },
+          "near_pois": 15,
+          "with_address": 15,
+          "distinct_coordinates": 15,
+          "locality_counts": [
+            [
+              "Lazdukalns",
+              14
+            ],
+            [
+              "(missing)",
+              1
+            ]
+          ],
+          "samples": [
+            {
+              "fsq_place_id": "58c431d15a5869779cb983e6",
+              "name": "OSKARA Štabiņš",
+              "address": "Rugaju novads",
+              "locality": "Lazdukalns",
+              "region": "Oskars",
+              "country": "LV"
+            },
+            {
+              "fsq_place_id": "58cd9bb352a0510d44a9f742",
+              "name": "Oskara Mašina",
+              "address": "Rugaju novads",
+              "locality": "Lazdukalns",
+              "region": "Oskars",
+              "country": "LV"
+            },
+            {
+              "fsq_place_id": "58cc1e99d2433251d9c26158",
+              "name": "Mana Garaža",
+              "address": "Rugaju novads",
+              "locality": "Lazdukalns",
+              "region": "Oskars",
+              "country": "LV"
+            }
+          ]
+        }
+      ],
+      "address_identity_rechecked": true,
+      "decision": "hold",
+      "reason": "第132回：元住所Parquetを再照合。峰500m内のLazdukalns登録14件はOskara Istaba/Gulta/Galdiņš/Dators/TV/Mašina、Mana Garaža/Viesuistaba/Virtuvite等、個人の部屋・家具・家電・車・宅内部屋を示す語が集中。住所はいずれもRugaju novadsという旧町域名のみ。異座標14件でも独立店舗14件とは認定できない。Tēzaurs現地辞典本文は同名集落3件を区別し旧Rugāju域のLazdukalnsと、中心BenislavaのLazdukalna pagastsを区別。約3km西の学校・郵便局登録をこの峰の施設住所根拠に転用しない。独立事業所根拠および読みを保留。除外・位置変更は未実施。",
+      "address_rechecked_batch": 348,
+      "external_research_batch": 132,
+      "research_urls": [
+        "https://tezaurs.lv/Lazdukalns"
+      ],
+      "next_research_lead": "元14件の実施設性と住宅所在地を公的住所・地物資料で確認。原住所は通り番地欠落のため、音写だけで反映しない。"
+    },
+    {
+      "id": "GeoNames:6140599",
+      "original": "Sandy Bay",
+      "country": "CA",
+      "peak_keys": [
+        "55.525, -102.315"
+      ],
+      "group": "previous_holds",
+      "model_ja": null,
+      "evidence": [
+        {
+          "peak": "55.525, -102.315",
+          "reference": {
+            "id": "6140599",
+            "name": "Sandy Bay",
+            "country": "CA",
+            "lon": -102.315,
+            "lat": 55.526,
+            "feature_code": "PPL",
+            "source_url": "https://download.geonames.org/export/dump/CA.zip",
+            "distance_m": 59,
+            "supporting_pois": 18,
+            "support_share": 0.947
+          },
+          "near_pois": 19,
+          "with_address": 15,
+          "distinct_coordinates": 8,
+          "locality_counts": [
+            [
+              "Sandy Bay",
+              18
+            ],
+            [
+              "(missing)",
+              1
+            ]
+          ],
+          "samples": [
+            {
+              "fsq_place_id": "533a473d498eb2704f22a139",
+              "name": "Sandy Bay",
+              "address": null,
+              "locality": "Sandy Bay",
+              "region": "Saskatchewan",
+              "country": "CA"
+            },
+            {
+              "fsq_place_id": "4f3e13bee4b0a4b082737357",
+              "name": "Sandy Bay Bowls Club",
+              "address": null,
+              "locality": "Sandy Bay",
+              "region": null,
+              "country": "CA"
+            },
+            {
+              "fsq_place_id": "82c0c613c41145de4755f507",
+              "name": "Saskatchewan Health Authority",
+              "address": "Hill St",
+              "locality": "Sandy Bay",
+              "region": "SK",
+              "country": "CA"
+            }
+          ]
+        }
+      ],
+      "address_identity_rechecked": true,
+      "decision": "hold",
+      "reason": "位置品質の追加監査でSlim’s Cabinsの元POI座標が公式観光局の所在地から約13kmずれることを確認。12件の完全同一座標集中があり、町名照合だけでは地点品質を確定できないため保留。診療所の公式地図は元POIから約85mで、一律に全POI誤りとは扱わない。",
+      "address_rechecked_batch": 348,
+      "position_review_urls": [
+        "https://fishhunt.tourismsaskatchewan.com/outfitters/393/slims-cabins",
+        "https://slimscabins.com/basecamp/",
+        "https://www.saskhealthauthority.ca/facilities-locations/sandy-bay-health-clinic"
+      ],
+      "coordinate_quality_audit_batch": 147,
+      "coordinate_quality_audit": [
+        {
+          "id": "GeoNames:6140599",
+          "original": "Sandy Bay",
+          "peak": "55.525, -102.315",
+          "country": "CA",
+          "bbox_pois": 19,
+          "distinct_coordinates": 8,
+          "largest_exact_coordinate_cluster": 12,
+          "largest_share": 0.632,
+          "cluster_coordinate": [
+            55.52520800147862,
+            -102.31496489313069
+          ]
+        }
+      ],
+      "external_research_batch": 353,
+      "reading_followup353": {
+        "decision": "hold",
+        "book_id": "VPwRAQAAIAAJ",
+        "public_search_record": "data/name-research/reading-sources/saskatchewan-followup353.json",
+        "finding": "個別町名とpronunciationの追加公開検索で発音根拠未確認。検索0は未収録証明ではない。SandyBayを含むPA208の発音はReginaの説明で対象町へ転用しない。",
+        "other_checks": "新版Google公開書誌APIはHTTPエラー。Wiktionaryの直接取得もHTTPエラー、制限回避なし。人名・英国別地域の日本語表記は町読みの証明に使わない。"
+      },
+      "next_research_lead": "個別町名を明示する地域の発音注記、または閲覧できる新版辞典の個別項目を確認。モデル音声や別地名を代用しない。"
+    },
+    {
+      "id": "GeoNames:4276077",
+      "original": "Natoma",
+      "country": "US",
+      "peak_keys": [
+        "39.190, -99.024"
+      ],
+      "group": "previous_holds",
+      "model_ja": null,
+      "evidence": [
+        {
+          "peak": "39.190, -99.024",
+          "reference": {
+            "id": "4276077",
+            "name": "Natoma",
+            "country": "US",
+            "lon": -99.0287,
+            "lat": 39.19084,
+            "feature_code": "PPL",
+            "source_url": "https://download.geonames.org/export/dump/US.zip",
+            "distance_m": 404,
+            "supporting_pois": 36,
+            "support_share": 1.0
+          },
+          "near_pois": 36,
+          "with_address": 32,
+          "distinct_coordinates": 35,
+          "locality_counts": [
+            [
+              "Natoma",
+              36
+            ]
+          ],
+          "samples": [
+            {
+              "fsq_place_id": "726984001e18012f487f54d8",
+              "name": "Natoma Community Center",
+              "address": "704 N 2nd St",
+              "locality": "Natoma",
+              "region": "KS",
+              "country": "US"
+            },
+            {
+              "fsq_place_id": "4f2c600de4b0e0a347b3d451",
+              "name": "United National Bank",
+              "address": "702 N 2nd St",
+              "locality": "Natoma",
+              "region": "KS",
+              "country": "US"
+            },
+            {
+              "fsq_place_id": "728007be5eb1448bd60a6ca1",
+              "name": "Second Street Cafe And Retail Shop",
+              "address": "715 N 2nd St",
+              "locality": "Natoma",
+              "region": "KS",
+              "country": "US"
+            }
+          ]
+        }
+      ],
+      "address_identity_rechecked": true,
+      "decision": "hold",
+      "reason": "従来Southwind住所照合根拠を保持。大学出版局1001KansasPlaceNames公式書誌は地名発音を含むと記すがNatoma個別項目は未確認。新たに1955UniversityKansasWilliamAllenWhiteSchoolJournalism刊PronunciationGuidetoKansasPlaceNamesのHathi識別子mdp.39015047651115と学会の書評を発見。Hathi直接取得403を回避せず、発音未確認。次は正規公開プレビュー又は大学公開書誌の個別項目を確認。 第330回：ISBN070060393Xの正規GoogleBooks書誌から2版W7NjQgAACAAJとiKclAAAAMAAJを特定。前者公開検索はsearchablefalse、後者公開検索でNatomaがPA139とPA222に該当するが両snippet_text空。通常のPA139公開HTMLでもNatoma本文なし。本文や発音を閲覧したとは扱わない。",
+      "address_rechecked_batch": 348,
+      "research_urls": [
+        "https://kansaspress.ku.edu/9780700603930/",
+        "https://hdl.handle.net/2027/mdp.39015047651115",
+        "https://ans-names.pitt.edu/ans/article/download/141/140/284",
+        "https://books.google.com/books?id=iKclAAAAMAAJ&pg=PA139"
+      ],
+      "external_research_batch": 330,
+      "next_research_lead": "1001KansasPlaceNames1989の139頁本文を、正規閲覧可能な図書館資料・公開ページで確認。222頁は索引候補なので本文と混同しない。GoogleBooks検索一致のみから読みを確定しない。"
+    },
+    {
+      "id": "GeoNames:2702619",
+      "original": "Kälarne",
+      "country": "SE",
+      "peak_keys": [
+        "62.980, 16.088"
+      ],
+      "group": "previous_holds",
+      "model_ja": "カールネ",
+      "evidence": [
+        {
+          "peak": "62.980, 16.088",
+          "reference": {
+            "id": "2702619",
+            "name": "Kälarne",
+            "country": "SE",
+            "lon": 16.08333,
+            "lat": 62.98333,
+            "feature_code": "PPL",
+            "source_url": "https://download.geonames.org/export/dump/SE.zip",
+            "distance_m": 408,
+            "supporting_pois": 31,
+            "support_share": 0.939
+          },
+          "near_pois": 33,
+          "with_address": 31,
+          "distinct_coordinates": 33,
+          "locality_counts": [
+            [
+              "Kälarne",
+              31
+            ],
+            [
+              "(missing)",
+              2
+            ]
+          ],
+          "samples": [
+            {
+              "fsq_place_id": "c5da9cdd3655486ee7a14bf3",
+              "name": "Hotell Östjemten",
+              "address": "Stationsv. 6",
+              "locality": "Kälarne",
+              "region": "Jämtlands Län",
+              "country": "SE"
+            },
+            {
+              "fsq_place_id": "8f8b0ec32514491d7e835d4c",
+              "name": "Öst-Eko",
+              "address": "Stationsv. 8 A",
+              "locality": "Kälarne",
+              "region": "Jämtlands Län",
+              "country": "SE"
+            },
+            {
+              "fsq_place_id": "51d83e16498e179ecfd50be6",
+              "name": "Hotellet",
+              "address": null,
+              "locality": null,
+              "region": null,
+              "country": "SE"
+            }
+          ]
+        }
+      ],
+      "address_identity_rechecked": true,
+      "decision": "hold",
+      "reason": "Bräcke自治体の2024-01-26選挙会場資料VN2024/9を公開PDF本文で確認。Hotell Östjemten・Stationsvägen 6・Kälarneが元POIのホテル名とStationsv.6に一致。所在地名の対応は補強できたが発音資料ではない。Nordisk familjebok第4版13巻印刷163–164頁のKälarne個別項目を直接取得し、町と旧自治体を確認、音声表記なし。Svensk uppslagsbokのJämtland地域方言説明も個別町名の発音ではない。Riksarkivet書誌にCarl Lindberg「Kälarne」Jämten1934 pp177–193を確認したが当該論文本文は未取得。人物Henry Kälarne、Gjurdの発音、近隣町の音声は転用しない。モデルのカールネは根拠未確定のため保留継続。",
+      "address_rechecked_batch": 348,
+      "external_research_batch": 349,
+      "research_urls": [
+        "https://brackekommun.ondemand.formpipe.com/welcome-sv/namnder-styrelser/valnamnden/valnamnden/agenda/lokalerpdf?downloadMode=open",
+        "https://runeberg.org/nffm/0098.html",
+        "https://runeberg.org/svupps/2-15/0247.html",
+        "https://riksarkivet.x-ref.se/theme/custom/pdfs/GCSuppl2B.pdf"
+      ],
+      "next_research_lead": "Carl Lindberg, Kälarne, Jämten 1934 pp177–193: 本文未取得、発音掲載も未確認。"
+    }
+  ],
+  "research_batch": 366
+}

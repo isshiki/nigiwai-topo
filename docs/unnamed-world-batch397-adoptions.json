@@ -1,0 +1,30 @@
+{
+  "batch": 397,
+  "adopted": 1,
+  "total_adopted": 916,
+  "remaining": 4438,
+  "items": [
+    {
+      "peak": "54.159, -113.125",
+      "ref": {
+        "id": "6165620",
+        "name": "Thorhild",
+        "country": "CA",
+        "lon": -113.11871,
+        "lat": 54.16686,
+        "feature_code": "PPL",
+        "source_url": "https://download.geonames.org/export/dump/CA.zip",
+        "distance_m": 925,
+        "supporting_pois": 62,
+        "support_share": 0.912
+      },
+      "ja_editorial": "ソーヒルド（推定）",
+      "batch": 397,
+      "policy": "reviewed_address_text_anchors",
+      "reading_status": "inferred",
+      "reviewed_by": "Codex",
+      "review_note": "推定音写。自治体Admin Building801-1stStreetの公式住所と2011年Cooperators公式事業所表HighMarkAgencies6061StreetThorhildを独立2施設として照合。County Of Thorhild No.7の元住所8011StStは末尾St重複を保持し番号と通りの対応のみ確認。歴史的事業所情報で現在の営業確認ではない。広いThorhildCounty表記だけで採用せず街内の具体施設住所を確認。",
+      "official_anchor_review": "docs/unnamed-world-official-anchor-reviews.json"
+    }
+  ]
+}

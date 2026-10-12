@@ -1,0 +1,544 @@
+Peak reference names are separate from Foursquare registration density.
+
+GeoNames cities500: https://download.geonames.org/export/dump/
+Copyright GeoNames contributors. Creative Commons Attribution 4.0:
+https://creativecommons.org/licenses/by/4.0/
+Modified: selected nearest city/town within 15km. Display suffixes removed.
+This is a reference point, not a containing administrative area.
+
+Japan station references: National Land Numerical Information N02 (MLIT).
+https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-N02-2025.html
+Creative Commons Attribution 4.0. Grouped stations and selected nearby names.
+
+Japan administrative reference fallback: MLIT N03 2026, CC BY 4.0.
+https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-N03-2026.html
+Romanized Japan locality references without an adopted Japanese label use the
+municipality containing that reference point, or a boundary within 1.5km.
+This substitutes a regional reference; it is not an exact locality translation.
+Coordinate-only Japan peaks inside N03 boundaries use that municipality name.
+
+Cached pilot station references: copyright OpenStreetMap contributors / ODbL.
+https://www.openstreetmap.org/copyright
+Modified: grouped nearby duplicate stations, selected nearby station names.
+Worldwide station coverage is not complete. See OSM-NOTICE.txt for details.
+
+Japanese labels additionally use GeoNames alternateNamesV2 (CC BY 4.0).
+Natural Earth populated places NAME_JA (derived from Wikidata): public domain.
+https://www.naturalearthdata.com/about/terms-of-use/
+Wikidata Japanese labels: CC0, matched using entity IDs and GeoNames P1566.
+https://www.wikidata.org/wiki/Wikidata:Licensing
+Conflicting registered labels retain original display names pending review.
+Unmatched names retain the original spelling or coordinates. Selected names
+additionally use Codex-reviewed phonetic transliterations or Japanese glyph
+normalization of source-ID-linked native aliases. These are editorial spellings,
+not a claim that all Japanese conventional names were independently verified.
+Unreviewed bulk Ollama translations have not been automatically published.
+
+Reviewed spelling/reading corrections retain source IDs and original names.
+Korean katakana readings: Korea Tourism Organization Japanese pages:
+https://japanese.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=111393
+https://japanese.visitkorea.or.kr/svc/whereToGo/hdrdslt/hdrdsltView.do?crsSn=248323
+Chinese Japanese spelling references: Consulate-General of Japan in Guangzhou
+and Wakayama Prefecture Japanese materials:
+https://www.guangzhou.cn.emb-japan.go.jp/itprtop_ja/
+https://www.pref.wakayama.lg.jp/prefg/022300/kokusaikouryu/mailmagazine/mailmagazine_d/fil/mailmagazine9.pdf
+West Raleigh: Raleigh spelling from Brand USA Japanese page plus editorial
+transliteration of West; this is not a claimed official Japanese district name.
+https://www.visittheusa.com/ja/destinations/north-carolina/raleigh/
+Selected GeoNames Japanese aliases use a limited Japanese glyph substitution
+table for Chinese names; original source spelling is retained in source_name.
+Ambiguous characters are held for review; no pronunciation-based kanji guessing.
+
+Additional reviewed Korean city spellings: Korea Tourism Organization
+https://japanese.visitkorea.or.kr/svc/contents/contentsView.do?dataSetId=143&menuSn=923&vcontsId=218394
+Seoul Metropolitan Government Japanese travel guide (Daegu):
+https://english.seoul.go.kr/wp-content/uploads/2026/03/guidebook_jp.pdf
+
+Additional coordinate-only reference names use complete GeoNames country dumps,
+CC BY 4.0, downloaded/checked on 2026-10-10. Original source names and IDs are
+retained. Selected settlement/district/airport reference points are within
+2.5 km, with a nearby suffix; this is not polygon containment or guaranteed
+current administrative status. Location-quality concerns remain unresolved.
+https://download.geonames.org/export/dump/readme.txt
+Native-script aliases in the country dumps supplement alternateNamesV2.
+Public source URLs for individually reviewed spellings are retained in the
+frontend dictionary and docs/reviewed-world-names.json. Only place-name strings
+are used, not articles, photographs, or map content from those sites.
+
+Five further reviewed references (2026-10-10): GeoNames PNU campus and Kuwait
+An Nami; official PMU named campus map anchor; OpenStreetMap way/579088013
+(University of Phayao) and way/505668631 (Ridge Camp). OSM data is attributed
+to OpenStreetMap contributors, ODbL: https://www.openstreetmap.org/copyright
+Way centres are bounding-box representative points, not polygon containment.
+Official corroboration URLs and editorial Japanese labels are retained in
+docs/held-peak-investigation.json and web/world-coordinate-names.js.
+
+Country navigation: Natural Earth 1:110m admin-0 countries, public domain.
+https://www.naturalearthdata.com/about/terms-of-use/
+https://github.com/nvkelso/natural-earth-vector
+Modified: Japanese display names and geographic bounding boxes for navigation.
+Bounds do not classify peaks by administrative containment.
+
+Korea station references: Geofabrik South Korea OSM extract,
+https://download.geofabrik.de/asia/south-korea.html
+Copyright OpenStreetMap contributors / ODbL 1.0.
+Modified: active passenger station filtering, grouping nodes/ways,
+selecting nearby station points within 1.5km for peak labels.
+OSM Japanese names preferred; untranslated names retain local spelling.
+
+2026-10-11 display processing: GeoNames alternate names and admin1 names joined by source ID. Japanese registered names preferred; Qwen/Granite candidates and editorial phonetic transliterations used where unavailable. These are not all official Japanese names. Limited Chinese glyph substitutions applied. Same display names show one maximum-density representative; unrelated namesakes receive geographic qualifiers. Original names, coordinates and density retained.
+
+Address-backed reference name batch: 63 coordinate-source peaks use exact GeoNames registered Japanese aliases, nearby Foursquare locality/post_town consensus and reference distances. Country/admin1 qualifiers added. This does not establish administrative containment or all POI coordinate accuracy.
+
+2026-10-11 reviewed reference labels: 566 previously coordinate-only peaks. 72 registered Japanese aliases, 1 official tourism Japanese label, 493 editorial transliterations. Qwen3.5:9b candidates reviewed/edited by Codex are explicitly attributed as transliterations, not official registered names. Approved source identities and decisions: docs/unnamed-world-name-approvals.json and batch review JSON files.
+
+2026-10-11 batch 5: 10 further reference labels; cumulative 576 (72 registered Japanese, 3 tourism-authority Japanese, 501 editorial). Pronunciation sources: State of Michigan BTBL, State University of Iowa guide hosted by Iowa State Library, and Texas Historical Commission Texas Time Travel. Japanese sources: Tourism Australia and Tourism Tropical North Queensland. Source URLs and editorial decisions are retained in docs/unnamed-world-batch5-review.json.
+
+Batch 6: 7 editorial names with locality-specific pronunciation evidence and 2 Japanese labels from public tourism/consular sources. Cumulative 585: 72 registered aliases, 5 public-source Japanese labels, 508 editorial transliterations. Additional pronunciation sources: University of Florida, University of Kansas Audio Reader, HistoryLink, and Shire of Mukinbudin visitor brochure. Japanese labels: Visit Victoria and Consulate-General of Japan in Vancouver. Source URLs: docs/unnamed-world-batch6-review.json.
+
+Batch 6 supplemental: Anholt spelling/reading checked in Osaka University Danish proper-name dictionary (editorial, not an official municipal Japanese name); Seligman checked in Brand USA Japanese Route 66 itinerary. Batch total 11; cumulative 587 (72 registered, 6 public Japanese, 509 editorial).
+
+Batch 7: 15 reference names added, cumulative 602 (72 registered, 10 public-source Japanese, 520 editorial). Of 228 new candidate peaks, 13 adopted and 215 await pronunciation evidence; 2 of 86 previous held references resolved, 84 remain held. Additional sources: Michigan BTBL, Iowa university pronunciation guide, KU Audio Reader Missouri guide, Tourism New Zealand, Tourism Australia, Bogie regional Minnesota guide, and Ivan Decker firsthand Naicam article in Georgia Straight. Individual URLs and address evidence: docs/unnamed-world-batch7-review.json. No copyrighted source page, audio, or guide is redistributed.
+
+Batch 8: 13 locality-specific editorial readings added, cumulative 615 (72 registered, 10 public-source Japanese, 533 editorial). Remaining researched candidate queues: 209 peaks and 77 previous held references. Pronunciation facts are checked against original POI locality/state/address evidence. Individual provenance distinguishes official tourism guides from firsthand local/visitor accounts and original reporting; archive hosting does not imply official endorsement. Source URLs: docs/unnamed-world-batch8-review.json. No source articles, photographs, audio, or complete guides are redistributed.
+
+Batch 9: 5 editorial readings added, cumulative 620 (72 registered, 10 public-source Japanese, 538 editorial). Remaining queues: 209 candidate peaks and 72 previous held references. Sources: The Associated Press Minnesota Pronunciation Guide (archived 2011 capture) and Tourism Australia press release Cockatoo To Humpty Doo (2006, published by Scoop). Individual URLs and POI address evidence: docs/unnamed-world-batch9-review.json. Only factual name readings and review notes are used; no complete guide or article is redistributed.
+
+Batch 10: 3 editorial readings added, cumulative 623 (72 registered, 10 public-source Japanese, 541 editorial). Remaining queues: 207 candidate peaks and 71 previous held references. Sources: Park Trek Flinders Ranges Interpretation Notes, Geek Wanderlost Victoria visit, Freedom & Furballs Western Australia visit. URLs and individual POI evidence: docs/unnamed-world-batch10-review.json. Local readings are editorial transliterations, not official Japanese labels; no guide, article, photo or audio is redistributed.
+
+Batch 11: Cabri, Aguilar, and Marquez added as editorial Japanese transliterations from Town of Cabri, Denver7, and Kathleen Rice Adams regional pronunciation explanations. Cumulative 626 (72 registered, 10 public-source Japanese, 544 editorial). Individual URLs and limitations: docs/unnamed-world-batch11-review.json. Article text and media are not redistributed.
+
+Batch 12: Wikwemikong, Riksgränsen and Porjus: editorial Japanese names based on Canadian government phonetic spelling, Ski Association of Japan report and first-hand Japanese visit/observation records. Cumulative 629 (72 registered, 10 public-source Japanese, 547 editorial). URLs and limitations: docs/unnamed-world-batch12-review.json. Source text and media are not redistributed.
+
+Batch 13: 8 Swedish place names checked against original facsimiles of Svenska ortnamn med uttalsuppgifter, Jöran Sahlgren and Gösta Bergman, Svenska språknämnden, 2nd edition 1968 (1979 printing), digitized by Project Runeberg. Cumulative 637 (72 registered, 10 public-source Japanese, 555 editorial). Item URLs and pronunciation-key notes: docs/unnamed-world-batch13-reading-evidence.json. Names are editorial Japanese transliterations, not official Japanese municipal names. Book text and images are not distributed with the app.
+
+Batch 14: Aignay-le-Duc from Gérard Heinzé local place-name study (2023, based on Alphonse Roserot 1924), https://christaldesaintmarc.com/un-village-chatillonnais-et-ses-ecarts-aignay-le-duc-a214930503 ; Omeo from firsthand Japanese travel account (2016), https://flighttraveller.com/2016/04/30/post-1040/ . Two editorial Japanese names added; cumulative 639 (72 registered, 10 public-source Japanese, 557 editorial). Individual address checks and limitations: docs/unnamed-world-batch14-review.json. Source articles and media are not redistributed.
+
+Batch 15: Lawrence (Tourism New Zealand Japanese, https://www.newzealand.com/jp/lawrence/) and Everglades City (GMCVB Japanese, https://www.miamiandbeaches.jp/restaurants/best-places-to-eat-in-the-everglades). Cumulative 641 (72 registered, 12 public-source Japanese, 557 editorial). Individual locality/address checks: docs/unnamed-world-batch15-review.json. Public-source Japanese usage does not imply legal designation. No complete articles or media redistributed.
+
+Batch 16: Boston Bar from firsthand Japanese BC travel account, https://ameblo.jp/shiki-87/entry-10884925376.html . Editorial usage, not official Japanese label or verified audio. Cumulative 642 (72 registered, 12 public-source Japanese, 558 editorial). Individual POI/address evidence and held-name sources: docs/unnamed-world-batch16-review.json. Source articles and media are not redistributed.
+
+Batch 17: Onanole: https://discover.hubpages.com/travel/Weird-And-Wacky-Canadian-Place-Names--Eh and https://harrisonpark.ca/onanole ; Wolseley: Wiktionary contributors, https://en.wiktionary.org/wiki/Wolseley (CC BY-SA 4.0), Cambridge pronunciation, https://dictionary.cambridge.org/pronunciation/english/wolseley , and town history https://wolseley.ca/ . Japanese readings are editorial transliterations of pronunciation facts, not official Japanese labels or locally verified recordings. Cumulative 644 (72 registered, 12 public-source Japanese, 560 editorial). No article text, dictionary definitions or audio redistributed. Individual evidence: docs/unnamed-world-batch17-review.json.
+
+Batch 18: Wiktionary contributors (CC BY-SA 4.0), individual pronunciation facts for Legal, Mundare, Stoughton, Morell and Chéticamp, checked against local authorities and original POI addresses. Item URLs and limitations: docs/unnamed-world-batch18-review.json. Editorial Japanese transliterations, not official Japanese labels or locally verified audio. Cumulative 649 (72 registered, 12 public-source Japanese, 565 editorial). No dictionary definitions, articles or audio redistributed.
+
+Batch 19 pronunciation research: Wiktionary contributors, English entries Bieber, Acme, Vaughn (accessed 2026-10-11).
+https://en.wiktionary.org/wiki/Bieber
+https://en.wiktionary.org/wiki/Acme
+https://en.wiktionary.org/wiki/Vaughn
+Dictionary pronunciation informed editorial Japanese transliterations; no dictionary text or audio is distributed. Location checks: https://www.bigvalleyschool.org/ ; https://www.acme.ca/ ; https://www.vaughnschools.org/homepage .
+
+Batch 20: Wiktionary contributors, English entries Breton, Borden, Odessa, Chambers, accessed 2026-10-11. Pronunciation facts informed editorial transliterations; no dictionary text/audio distributed.
+https://en.wiktionary.org/wiki/Breton
+https://en.wiktionary.org/wiki/Borden
+https://en.wiktionary.org/wiki/Odessa
+https://en.wiktionary.org/wiki/Chambers
+Location sources: https://www.breton.ca/ ; https://www.saskhealthauthority.ca/facilities-locations/borden-primary-health-centre ; https://odessa.ca/community-center/ ; https://chambersbank.com/services/ .
+
+Batch 21: Wiktionary contributors, English Dresden and Higgins entries, accessed 2026-10-11. Pronunciation facts informed editorial transliterations; no text/audio distributed.
+https://en.wiktionary.org/wiki/Dresden
+https://en.wiktionary.org/wiki/Higgins
+Location sources: TD 2025 Public Accountability Statement; https://directory.tml.org/profile/city/1164 ; https://www.theprpc.org/Directory/directorydata.html .
+
+Batch 22: Wiktionary contributors, English Kincaid and Westport entries, accessed 2026-10-11. Pronunciation facts informed editorial transliterations; no dictionary text/audio distributed.
+https://en.wiktionary.org/wiki/Kincaid
+https://en.wiktionary.org/wiki/Westport
+Location sources: Government of Saskatchewan Municipal Directory (Pinto Creek No.75); https://www.olympiacannabis.ca/westport ; https://villageofwestport.ca/ .
+
+Batch 23: Wiktionary contributors, English Crowder, Orr, Presque Isle entries, accessed 2026-10-11. Pronunciation facts informed editorial transliterations; no dictionary text/audio distributed.
+https://en.wiktionary.org/wiki/Crowder
+https://en.wiktionary.org/wiki/Orr
+https://en.wiktionary.org/wiki/Presque_Isle
+Location sources: https://www.choctawnation.com/wp-content/uploads/2022/03/cb-27-22.pdf ; https://orrmn.gov/contact/ ; https://presqueislewi.gov/ ; https://mds.wi.gov/View/Clerk?ID=1751 .
+
+Batch 24: Wiktionary contributors, English Arthur, Durham, Victoria entries, accessed 2026-10-11. Pronunciation facts informed editorial transliterations; no text/audio distributed.
+https://en.wiktionary.org/wiki/Arthur
+https://en.wiktionary.org/wiki/Durham
+https://en.wiktionary.org/wiki/Victoria
+Location sources: https://www.wellington-north.com/community/groups-clubs-and-organizations ; https://restaurants.subway.com/canada/on/durham/581-garafraxa-st-s ; https://islandchocolates.ca/ .
+
+Batch 25: Wiktionary contributors, English McHenry and Brighton entries, accessed 2026-10-11. Pronunciation facts informed editorial transliterations; no text/audio distributed.
+https://en.wiktionary.org/wiki/McHenry
+https://en.wiktionary.org/wiki/Brighton
+Location sources: https://pinelodgesteakhouse.com/faq-pine-lodge-steakhouse-deep-creek-lake-mchenry-md/ ; https://www.garrettcountymd.gov/sites/default/files/2023-11/MMEAC-Report.pdf ; https://www.brighton.ca/council-government/departments/ .
+
+Batch 26: Wiktionary contributors, English Hope and Caledonia entries, accessed 2026-10-11. Pronunciation facts informed editorial transliterations; no text/audio distributed.
+https://en.wiktionary.org/wiki/Hope
+https://en.wiktionary.org/wiki/Caledonia
+Location sources: https://www.hopeandsunrisehistoricalsociety.org/museum ; https://www.hopealaska.us/retail-services ; https://www.pharmachoice.com/locations/caledonia-pharmachoice/ ; Nova Scotia 2025 Community Visitor Information Centres.
+
+Batch 27: Wiktionary contributors, English Nash and Leslie entries, accessed 2026-10-11. Pronunciation facts informed editorial transliterations; no text/audio distributed.
+https://en.wiktionary.org/wiki/Nash
+https://en.wiktionary.org/wiki/Leslie
+Location sources: https://oklahoma.gov/content/dam/ok/en/odot/maps/city-maps/map_city_nash.pdf ; https://www.lesliega.us/ .
+
+Batch 28: Mitchell and Milton town senses and dictionary pronunciation, used for editorial Japanese transliteration; no article or audio copied.
+https://en.wiktionary.org/wiki/Mitchell
+https://en.wiktionary.org/wiki/Milton
+https://www.westperth.com/resident-services/about-west-perth/
+https://www.townofmiltonnc.gov/
+
+Batch 29: Killarney editorial transcription; dictionary phonetics and municipal facility address, no article/audio copied.
+https://dictionary.cambridge.org/pronunciation/english/killarney
+https://en.wiktionary.org/wiki/Killarney
+https://www.municipalityofkillarney.ca/business-directory/food-dining/herbert-fisheries
+
+Batch 30: Halfway editorial transcription using English dictionary phonetics and facility address; no article/audio copied.
+https://en.wiktionary.org/wiki/halfway
+https://en.wiktionary.org/wiki/Halfway
+https://www.halfwaymotelrvpark.com/motel
+
+Batch 31: Protection editorial transcription using English dictionary phonetics, town-name origins and bank address; no article/audio copied.
+https://en.wiktionary.org/wiki/protection
+https://esirc.emporia.edu/bitstreams/d89ddfa2-041e-446e-b090-04a81adb908f/download
+https://www.bankofprotection.com/locations
+
+Batch 34: Boyle editorial transcription using dictionary phonetics, village sense and Alberta Assembly record; no article/audio copied.
+https://dictionary.cambridge.org/us/pronunciation/english/boyle
+https://en.wiktionary.org/wiki/Boyle
+https://www.boylealberta.ca/
+https://docs.assembly.ab.ca/LADDAR_files/docs/houserecords/vp/legislature_26/session_2/20060228_1200_01_vp.pdf
+
+Accident editorial transliteration: https://en.wiktionary.org/wiki/accident ; town name origin: https://www.accidentmd.org/history.html ; POI address: https://www.xps-usa.com/send-us-an-email-or-give-us-a-call--xcontact . Facts only; no audio copied.
+
+Cougar/Crescent editorial readings: https://en.wiktionary.org/wiki/cougar ; https://en.wiktionary.org/wiki/crescent . Identity and address: https://revisitwa.org/waypoint/cougar/ ; https://lonefirresort.com/faq-items/check-in/ ; https://en.wikisource.org/wiki/Oregon_Historical_Quarterly/Volume_26/Oregon_Geographic_Names ; https://www.dollargeneral.com/store-directory/or/crescent . Facts only; no audio or article text copied.
+
+Rainbow Lake editorial reading: https://en.wiktionary.org/wiki/rainbow ; https://en.wiktionary.org/wiki/lake . Identity and address: https://rainbowlake.ca/mayor-council/ ; https://www.archgm.ca/about-us/find-your-church/parishes-mass-times/st-peter-and-paul-church-rainbow-lake/ . Facts only, no audio copied.
+
+Moonbeam editorial reading: https://en.wiktionary.org/wiki/moonbeam . Identity and address: https://vplus-documents.s3.ca-central-1.amazonaws.com/moonbeam/_publication/fichiers/Ministers%20Modified%20OP%20-%20Moonbeam%281%29.pdf page 79 ; https://en.cscdgr.education/ecoles/ecole-catholique-st-jules/ . Facts only; no audio copied.
+
+Yellow Grass editorial reading: https://en.wiktionary.org/wiki/yellow ; https://en.wiktionary.org/wiki/grass . Identity/address: https://geonames.nrcan.gc.ca/search-place-names/unique?id=HANPS ; https://www.tourismsaskatchewan.com/community/370/yellow-grass ; https://sigles-symbols.bac-lac.gc.ca/eng/Search/Details?id=39761 . Facts only, no audio copied.
+
+Mountain (Wisconsin) editorial reading: https://en.wiktionary.org/wiki/mountain ; identity: https://en.wiktionary.org/wiki/Mountain ; https://www.townofmountain.com/ ; address: https://taborlutheranmountain.org/wp-content/uploads/2024/04/May-newsletter.pdf page 8. Facts only, no audio copied.
+
+Climax (Minnesota) editorial reading: https://en.wiktionary.org/wiki/climax ; identity: https://en.wiktionary.org/wiki/Climax ; address: https://www.isd592.org/ . Facts only; no audio copied.
+
+Keno editorial reading and address review: Merriam-Webster https://www.merriam-webster.com/dictionary/keno ; Oregon Geographic Names (1952)/K https://en.wikisource.org/wiki/Oregon_Geographic_Names_(1952)/K ; Oregon Department of Education https://www.ode.state.or.us/apps/OregonReportCard/Dashboard/Institution/474?dshBrdNm=ELAAssessment&schlYear=20242025 . Facts consulted; no article text or audio redistributed.
+
+Sumpter editorial reading and address review: Merriam-Webster https://www.merriam-webster.com/dictionary/sumpter ; Wiktionary https://en.wiktionary.org/wiki/sumpter ; Bowman Museum https://crookcountyhistorycenter.org/2023/05/a-once-thriving-mining-community-becomes-a-tourist-attraction/ ; Baker County Library District https://www.bakerlib.org/locations-hours . Facts consulted; no article text or audio redistributed.
+
+Cornucopia editorial reading and address review: Merriam-Webster https://www.merriam-webster.com/dictionary/cornucopia ; Wisconsin DNR https://apps.dnr.wi.gov/water/watershedDetail.aspx?Name=Bayfield+Peninsula+Northwest&code=LS06 ; Bayfield County https://www.bayfieldcounty.wi.gov/DocumentCenter/View/551 . Facts consulted; no article text or audio redistributed.
+
+Trout Creek editorial reading and address review: Merriam-Webster https://www.merriam-webster.com/dictionary/trout and https://www.merriam-webster.com/dictionary/creek ; Sinclair https://stations.sinclairoil.com/mt/trout-creek/2954-mt-highway-200 ; Visit Montana https://visitmt.com/cities-towns/trout-creek . Facts consulted; no article text or audio redistributed.
+
+Grand View WI editorial reading/address review (batch47): Great Divide Christian Center contact https://great-divide-christian-center.webnode.page/contact/ ; Assemblies of God 2024 Church Directory https://agpassport.ag.org/documentstation/documentshow/CEAC2B398C1946DC8C3B012B8B1A8D56/2024%20Church%20Directory.pdf page176; Merriam-Webster grand https://www.merriam-webster.com/dictionary/grand and view https://www.merriam-webster.com/dictionary/view . Editorial transliteration, not a confirmed local recording. Sources paraphrased; no audio copied.
+
+Swan Valley ID editorial reading/address review (batch48): https://www.snakeriversidechannel.com/ ; https://museumofidaho.org/origins-of-idaho-place-names/ ; https://www.merriam-webster.com/dictionary/swan ; https://www.merriam-webster.com/dictionary/valley . Address matches former POI; current business name differs. Editorial transliteration, not a confirmed local recording. Sources paraphrased; no audio copied.
+
+Silver Creek Nebraska editorial reading/address review(batch49): Great Plains UMC church directory https://www.greatplainsumc.org/files/website/news/churchdirectory.pdf page65 physical address; https://www.merriam-webster.com/dictionary/silver ; https://www.merriam-webster.com/dictionary/creek . Editorial transliteration, not a confirmed local recording. Sources paraphrased; no audio copied.
+
+Sandy Lake Manitoba editorial reading/address review(batch50): https://www.heritageco-op.crs/sites/heritage/food/detail/co-op-food ; https://www.merriam-webster.com/dictionary/sandy ; https://www.merriam-webster.com/dictionary/lake . Co-op Food Store address corroborated; same-address FCL not counted independently. Editorial transliteration, not confirmed local recording. Sources paraphrased; no audio copied.
+
+Larder Lake Ontario editorial reading/address review(batch51): Quebec geological assessment GM65811 https://gq.mines.gouv.qc.ca/documents/examine/GM65811/GM65811.pdf page2 company address, not project location; https://www.merriam-webster.com/dictionary/larder ; https://www.merriam-webster.com/dictionary/lake . Editorial transliteration, not confirmed local recording. Sources paraphrased; no audio copied.
+
+Lynn Lake Manitoba editorial review(batch52): https://lynnlake.ca/p/business-directory ; https://lynnlake.ca/p/town-history ; https://en.wiktionary.org/wiki/Lynn English pronunciation/person name(CC BY-SA) ; https://www.merriam-webster.com/dictionary/lake . Editorial transliteration, not confirmed local recording. Sources paraphrased; no audio copied.
+
+Centennial Wyoming editorial review(batch53): https://www.albanycountywy.gov/DocumentCenter/View/7373/Liquor-License-Renewal-2025-2026 ; Wyoming State Library place-name record https://wyomingdigitalcollections.ptfs.com/aw-server/rest/product/purl/WSL/i/982bdabb-dde9-482f-bf9e-58266ca05793 ; https://www.merriam-webster.com/dictionary/centennial . Editorial transliteration, not confirmed local recording. Sources paraphrased; no audio copied.
+
+Batch54: Armstrong Creek WI editorial transliteration; address: https://www.laonastatebank.com/locations/armstrong-creek ; dictionary: https://www.collinsdictionary.com/us/dictionary/english/armstrong and https://www.merriam-webster.com/dictionary/creek . This does not certify local spoken place-name pronunciation.
+
+Batch55: Poland Indiana editorial transliteration. Historical address: First Financial Corporation 2008 Annual Report PDF page51 https://www.annualreports.com/HostedData/AnnualReportArchive/f/NASDAQ_THFF_2008.pdf ; dictionary https://en.wiktionary.org/wiki/Poland . Not an official Japanese name or present business-status certification.
+
+Batch56 Seagrove: Japanese usage in Shigaraki Ceramic Cultural Park January11 2020 lecture record PDF page12 https://www.sccp.jp/wp-content/uploads/2020/03/jun11-2020record_kouyma-talkingshow.pdf . Address https://www.seagrovevillagepottery.com/ . Public Japanese usage is not a US municipal official Japanese-name designation.
+
+Batch57 Nimmitabel: public Japanese usage https://www.visitnsw.com/jp/destinations/snowy-mountains/cooma-area/cooma/events/nimmitabel-cwa-markets ; operator address https://royalarmsbnb.com.au/The-Sundowner-Cafe-Nimmitabel-NSW.php . Does not certify an official Japanese place-name designation or manual translation method.
+
+Batch58 Petit-Saguenay editorial French transliteration. Address https://petit-saguenay.com/wp-content/uploads/2023/12/Calendrier2024_PetitSag.pdf page2; name https://toponymie.gouv.qc.ca/ct/ToposWeb/Fiche.aspx?no_seq=92451 ; dictionary https://en.wiktionary.org/wiki/petit and https://en.wiktionary.org/wiki/Saguenay . Not a certified local recording or official Japanese name.
+
+Batch59 Baie-des-Sables: MRC de la Matanie municipality address https://lamatanie.ca/la-mrc/decouvrir-la-matanie/municipalites ; Quebec official toponym https://toponymie.gouv.qc.ca/ct/ToposWeb/Fiche.aspx?no_seq=3060 ; Wiktionary French baie, des, sable, sables (CC BY-SA). Japanese label is editorial transliteration, not an official Japanese designation or locally recorded pronunciation.
+
+Batch60 Fairmont Hot Springs: Prana Wellness Spa https://pranawellnessspa.com/spa-policies/ ; Fraser Monthly April 2018, Chuck Runnell travel article, PDF p34 https://www.thefraser.com/pdfs/gekkan-fraser-2018-04.pdf . Published Japanese usage consulted; full katakana app label is an editorial adaptation, not an official Japanese designation. No article text reproduced.
+
+Batch61 Tarnaby: Sametinget official office address https://www.sametinget.se/1128?meta_id=1128 ; Britannica Japanese encyclopedia entry Stenmark via Kotobank https://kotobank.jp/word/%E3%81%99%E3%81%A6%E3%82%93%E3%81%BE%E3%82%8B%E3%81%8F-178394 . Published Japanese name usage, not municipal official Japanese designation. No encyclopedia prose reproduced.
+
+Batch62 Adaminaby: Lake Eucumbene Chamber of Commerce https://visitadaminaby.au/Adaminaby-and-Lake-Eucumbene-Accommodation.php ; Destination NSW published Japanese name https://www.visitnsw.com/jp/destinations/snowy-mountains/cooma-area/adaminaby . Published Japanese usage, not a legal municipal name or independently recorded pronunciation.
+
+Batch63 Tarago: Ampol operator address https://locations.ampol.com.au/en/ampol-tarago ; Destination NSW published Japanese name https://www.visitnsw.com/jp/destinations/country-nsw/goulburn-area/goulburn/destination-information/tarago . Published Japanese usage, not a municipal legal designation or local pronunciation recording.
+
+Batch64 Northcliffe WA: operator address and coordinates https://northcliffegeneralstore.com.au/about-us/ ; Tourism Western Australia official ja-jp alternate page https://www.westernaustralia.com/jp/destination/northcliffe/56b267ba2880253d74c4fe69 . Japanese spelling consulted from embedded Product Description Translation data, not a Japanese heading or independent local recording.
+
+Batch65 Darkan: Shire of West Arthur Municipal Heritage Inventory PDF page53 (printed52), https://www.westarthur.wa.gov.au/profiles/westarthur/assets/clientdata/document-centre/publications/municipal-heritage-inventory-registry.pdf ; Tourism Western Australia Japanese itinerary linked by official hreflang ja-jp, itinerary ID68f5ea70c96666f214398e29. Published Japanese usage; historical address does not certify current trading. No source prose reproduced.
+
+Batch66 Tooleybuc: Murray River Council emergency plan address; Destination NSW Japanese Murraywood page https://www.visitnsw.com/jp/destinations/country-nsw/the-murray/balranald/accommodation/murraywood . Published Japanese usage.
+Batch67 Jerramungup: IGA operator https://www.iga.com.au/stores/iga-local-grocer-jerramungup/ ; Tourism Western Australia https://www.westernaustralia.com/jp/destination/jerramungup/56b267ab2880253d74c4fd24 . Japanese spelling in embedded description translation. Neither is a legal Japanese designation or independent local recording. No prose reproduced.
+
+Batch68 Walwa: Victorian Government School Building Authority https://www.schoolbuildings.vic.gov.au/walwa-primary-school ; Destination NSW Japanese guided beginners Upper Murray River SUP tour page. Published Japanese usage; not independent local recording. Old newsletter image not used as verified address evidence. No source prose reproduced.
+
+Batch69 Frostrup: Sparekassen Thy address https://www.sparthy.dk/privat/selvbetjening/haeveautomater ; Shintani/Obe/Mase Danish proper-name kana dictionary, IDUN Supplement2 2009, printed85, PDF93 https://ir.library.osaka-u.ac.jp/repo/ouka/all/71053/idun_sp02_all.pdf . Published Japanese spelling, not municipal legal designation or independent local recording. No dictionary prose reproduced.
+
+Batch70 Burgsvik: ICA operator address; JMnedict entry5072079, via scriptin/jmdict-simplified3.6.2 snapshot2026-10-05. Copyright James William Breen and EDRDG, CC BY-SA4.0 https://www.edrdg.org/edrdg/licence.html ; documentation https://www.edrdg.org/enamdict/enamdict_doc.html . Selected unchanged entry is separately distributed in JMnedict-extract.json under same license. Dictionary has no coordinates; address/geographic identity checked separately. Recheck latest dictionary when regenerating names.
+
+Batch71: Hines Creek address checked against municipal/library sources. Japanese spelling applied from JMnedict entry5060967; dictionary entry has no country or coordinates, geographic identification established separately. Extract under CC BY-SA4.0 in JMnedict-extract.json.
+
+Batch72: Hawker spelling from public MEXT source https://www.mext.go.jp/content/211213-mxt_genshi-000019503_2.pdf page65; region correspondence cross-checked with Australian government Wallerberdina factsheet. Original POI address matched Genesis Transport timetable. No legal Japanese naming claim.
+
+Batch73: Calayan Japanese port-name usage checked in Britannica/Shogakukan entries published by Kotobank, https://kotobank.jp/word/ばぶやん諸島-3164285 . Geographic identity checked against original POI Babuyan Islands/Cagayan address and Philippine Ports Authority RFQ. Only name and source judgment recorded; article prose not reproduced.
+
+Batch74: Aiguilles editorial Japanese spelling based on Kitamura EU-Alps firsthand village account https://www.eu-alps.com/o-site/do-2002/620/620ville-vieille-aiguilles.htm . Original hospital address checked against hospital operator. Not official Japanese naming or audio pronunciation certification.
+
+Batch77: Molines-en-Queyras editorial disambiguation label combines Japanese short-name usage and Queyras regional name in Kitamura EU-Alps, https://www.eu-alps.com/o-site/do-2002/620/620ville-vieille-aiguilles.htm . Postal bank address verified with La Poste. Full official-name pronunciation and original printed translation not certified.
+
+Bruce Mines編集日本語用例: 歩き人ふみ https://ameblo.jp/kfumi/entry-12476085011.html （実訪記のブルース マインスを中点で整形。現地発音録音や法定日本語名ではない）。住所照合: https://northernontario.travel/algoma-country/red-house-ice-cream-bruce-mines
+
+Namdalseid編集音写: NRK歴史地名発音カード https://sprak.nrk.no/ordbok/namdalseid/ と https://sprak.nrk.no/wp-content/themes/2016/stadnamn/mellomstore/1146.jpg 約1960年のnamm`dalsei(d)から作成。画像そのものは配信せず、現代発音認定ではない。住所照合 https://namsos.kommune.no/namdalseid-skole/kontakt-oss/
+
+Gäddede編集音写: NRK北欧地名辞典 https://sprak.nrk.no/ordbok/filter%3Ag/ のJämtland Sweden対象発音表記から作成。公式日本語名・録音実聴の認定ではない。元施設住所照合 https://njtab.se/om-oss/
+
+Glennallen（グレンナレン）：アラスカ州教育局公開施設一覧で元POI住所を照合。Greg Jones / Alyeska Pipeline Service Company日本語講演資料PDF2・3ページの地名使用例を参考にした編集表記。公式日本語指定や発音音声の認定ではありません。資料の図版・本文は配信せず地名と出典URLのみ参照。
+https://education.alaska.gov/apps/AlternateTestCenter/Search?DistrictId=34
+https://www.pcs.gr.jp/doc/jsymposium/2010/Mr_Greg_Jones_PPT.pdf
+
+Monhegan（モンヘガン島）：自治体国際化協会『自治体国際化フォーラム』2015年6月号、酒井晋一郎「全米初の浮体式洋上風力発電の実用化となるか？メーン州での産学官連携」、印刷6–8頁（PDF5–7頁）の使用表記を参照。資料の本文・図版は配信しません。州観光局掲載の元POIホテル住所も照合。
+https://www.clair.or.jp/j/forum/forum/pdf_308/04_sp.pdf
+https://visitmaine.com/organization/the-island-inn/4259/
+
+Cremona（クレモナ）：全酪連2022年11月号No.686 PDF20頁のカナダ産チモシー産地「アルバータ州中部クレモナ地区」の使用例を参考にした編集表記。村の公式日本語指定とは区別。村公式事業者一覧の元POI店舗住所を照合。資料の本文・図版は配信しません。
+https://zenrakuren.or.jp/wp/wp-content/uploads/01no686_22_11.pdf
+https://www.cremona.ca/business
+
+Wawanesa（ワワネサ）：国際協同組合保険連合AOAの日本語社名使用例と、同社Tessa Peterson署名記事の社名・創業地の町名の対応を参考にした編集表記。町名の正式日本語指定・発音実聴とは区別する。元POI銀行住所は銀行公式掲載と照合。
+https://www.icmifasiaoceania.coop/jp/wp/?p=26832
+https://www.yycdata.ca/post/i-thought-my-technical-days-were-behind-me-by-tessa-peterson-director-advanced-analytics-exploration-wawanesa-insurance
+https://maps.rbcroyalbank.com/MB-WAWANESA-branch-6767
+
+Meteghan（メテガン）：大石太郎（2006）地学雑誌115(4)、431–447頁、印刷441頁表2の日本語用例を参照した編集表記。メテガンリバーとは区別する。元POI銀行住所も銀行公式と照合。資料の本文や表画像は配信しません。
+https://dl.ndl.go.jp/view/prepareDownload?contentNo=1&itemId=info%3Andljp%2Fpid%2F8767212
+https://maps.rbcroyalbank.com/NS-METEGHAN-branch-4513
+
+Elbow編集表記「エルボー」: 原子力産業新聞2024-06-12桜井久子 https://www.jaif.or.jp/journal/oversea/23457.html の地域用例、SaskPower地域報告38頁の同名村記載を照合。原POI支店住所は https://prosperitycu.ca/support/find-us?page=2 で確認。地域と村の範囲の同一性や正式日本語名の指定を示すものではありません。
+
+Cumberland House編集表記カンバーランドハウス：阿部隆夫、大学公開研究題名（カナダ研究年報19号1999） https://www.yone.ac.jp/outline/faculty/english/abe_takao/ 。歴史交易所・現在集落の対応 https://www.historicplaces.ca/en/rep-reg/place-lieu.aspx?id=3111 。元警察署住所 https://www.rcmp.ca/en/saskatchewan/detachments 。研究題名使用例に限定し、論文本文・発音録音・公式日本語指定の認定ではありません。
+
+Onoway editorial Japanese label: オノウェイ. Japanese news translation usage: 福田ミホ, Gizmodo Japan, 2017-03-13, https://www.gizmodo.jp/2017/03/pink-water-from-tap.html . Address and location confirmation: Alberta registry agent directory, https://www.alberta.ca/lookup/find-a-registry-agent.aspx . Not an official Japanese designation or an audio pronunciation verification. No article text reproduced.
+
+Gogama editorial Japanese label: ゴガマ. Japanese usage: 佐々木邦昭, 北米内陸部で頻発する非在来型原油漏出事故, 安全工学54(5), 2015, printed p375 Table1 row12. https://www.jstage.jst.go.jp/article/safety/54/5/54_374/_pdf/-char/ja . Address confirmation: Desjardins branch list and https://gogama.ca/jrcorner2.html . Japanese academic report usage, not official designation or audio verification. No article text reproduced.
+
+Rockglen editorial Japanese label: ロックグレン. Japanese usage: Japan Weather Association WDA-Global station list, 2024-07-22, p23, station 71135 Saskatchewan Canada. https://weather-jwa.jp/wp-content/uploads/20240722_WDA-Global_replace_point-list_JP.pdf . Address confirmation: https://rockglensk.ca/contact-town-of-rockglen-rm12/ . Station coordinates differ from the peak by about 2.5 km; Japanese name usage only, not identical point, official designation or audio verification. No source text reproduced.
+
+Snelling editorial Japanese label: スネリング. Japanese usage: Ministry of the Environment Japan, FY2009 technology report, PDF p322 printed 資161 Table3-2. https://www.env.go.jp/earth/report/h22-03/full.pdf . Address confirmation: https://cdtfa.ca.gov/legal/BolandMarket-LegalNotice-20260213.htm . Japanese name usage only; not an official Japanese designation, administrative classification verification, identical project/peak location or audio verification. No source text reproduced.
+
+Forestburg editorial Japanese label: フォレストバーグ. Japanese usage: CLAIR 2025 municipal exchange program outline, p1, explicitly Alberta Canada village. https://www.clair.or.jp/j/exchange/docs/974302eea1bd68893bcc0ac13d3bf21c.pdf . Address: https://financialplanner.bmo.com/ab/forestburg/ . Japanese usage, not official Japanese designation, audio verification or current bank branch operation guarantee. No source text reproduced.
+
+Ashern editorial Japanese label: アシャーン. Japanese birthplace usage: Yoko Narita, October2013, https://yokonarita.blogspot.com/2013/10/?m=0 . Place identity: Colleen MacPherson, University of Saskatchewan actor interview, 2017-09-14, https://news.usask.ca/articles/colleges/2017/adam-beach-on-the-role-of-his-life.php . Source reserve classification is not adopted; birthplace Ashern is distinguished from childhood residence. Address: https://www.gov.mb.ca/covid19/paxlovid-locations.fr.html . Not official Japanese designation or audio verification. No source text reproduced.
+
+Batch125: Sylte (Valldal centre), editorial Japanese transliteration シルテ based on NRK historical recommended pronunciation: https://sprak.nrk.no/ordbok/sylte/ ; current locality correspondence: https://www.fjord.kommune.no/aktuelt/avfallsstasjonen-pa-sylte.72726.aspx . Historical recommendation, not current audio verification or official Japanese name. Original GeoNames reference retained.
+
+Batch129: Derrinallum, Victoria: editorial Japanese デリナラム based on ABC Pronounce recommended respelling (Australian English), https://www2b.c0.abc.net.au/abcpronunciation-external/Search.aspx#?S=Derrinallum . Address identity: Carol Altmann, 17 May 2015, https://www.the-terrier.com.au/a-front-paddock-just-perfect-for-grazing/ . No audio verification or official Japanese designation.
+
+Batch130 Surat: ABC Pronounce (Queensland, suh-RAT), editorial Japanese サラット. Address-locality corroboration: Queensland Health RTI7725/25 pharmacy notification records, 1 April2025, PDF page10,76 Burrowes Street Surat QLD4417. Pharmacy display names differ; no corporate identity or current-operation claim. https://www.health.qld.gov.au/__data/assets/pdf_file/0024/1441383/RTI-7725-25-List-of-pharmacy-businesses-in-QLD-01.04.2025.PDF
+
+Batch131 Kausani: Bageshwar district Hindi tourism text कौसानी, editorial transliteration カウサーニー, not an official Japanese designation or audio verification. https://bageshwar.nic.in/hi/tourist-place/कौसानी/ . Address corroboration: Uttarakhand Open University BTTMN301, PDF page223, Suman Royal Resort VIP Road View Point Kausani. https://uou.ac.in/sites/default/files/slm/BTTM(N)-301.pdf
+
+Batch 142: Notre-Dame-du-Laus local pronunciation, Commission de toponymie du Quebec: https://toponymie.gouv.qc.ca/ct/ToposWeb/Fiche.aspx?no_seq=44882 ; source POI address checked with BMR operator: https://www.bmr.ca/fr/centre-de-renovation-notre-dame-du-laus-inc . Japanese label is editorial transliteration, not official Japanese naming.
+
+2026-10-11 batch149: Leuglayをルグレとして反映。P. Lebel (1936), Origine et étymologie du nom de Leuglay, p35 のフランス語発音lœgléを原画像で確認。歴史的研究に基づく編集音写。原POI住所1 Ruelle de la Fermeを国立公園公式施設案内と照合。出典 https://bm.dijon.fr/documents/MEMOIRES%20CACO/1832-2001/1936-021-06-031-035-1376903.pdf および https://parcsnationaux.fr/fr/des-decouvertes/visiter-et-semerveiller/les-parcs-nationaux-accessibles-tous/parc-national-de-2 。累計753峰、今回の候補残109峰・従来保留39件、全体未登録4603峰。
+
+2026-10-11 batch151: Bruzaholmをブルーサホルムとして反映。ISOF町の調査カード1964年原画像 https://www4.isof.se/NAU/bilder/_s2fx001/219212a1/p3/0000104a.pdf の発音記録と、企業公式 https://www.bruzaholmsstaldukar.se/ のBruksvägen5を元POIと照合。歴史的現地調査に基づく編集音写であり公式日本語名や現在の録音確認とは称さない。累計754峰、残候補109峰・従来保留38件、全体未登録4602峰。
+
+2026-10-11 batch152: Lysvikをリュースヴィークとして反映。ISOFのFryksdals härad・Värmlandの現地発音調査カード（Sven Lagerlöf1905 Ulma517:34）原画像 https://www4.isof.se/NAU/bilder/_s2sx001/409122d1/p3/0000010a.pdf とCoop公式 https://catering.coop.se/varmland/?store=coop-lysvik のGamlaVägen40を原POIに照合。歴史資料による編集音写。現在録音・公式日本語名とは称さない。累計755峰、残108峰・38件、全体未登録4601峰。
+
+2026-10-11 batch153: Långviksmonをロングヴィクスモーンとして反映。ISOF Björna調査カード1923年原画像 https://www4.isof.se/NAU/bilder/_s2yx001/622307c1/p3/0000138a.pdf とHandlarn公式 https://www.handlarn.se/butiker/storsjobygdens-lanthandel/ Lomvägen2を原POIに照合。歴史資料からの編集音写。Kälarneは1974年集落合併カードと1920年旧教区総称カード、Bispgårdenは1931年方言形カードを確認し、現名称と同一視せず保留。累計756峰、残108峰・37件、全体未登録4600峰。
+
+2026-10-11 batch154: Furudalをフールダールとして1峰反映。ISOF Ore地名調査カード1922年・1932年の発音記録とVisit DalarnaのSnitths Hantverksbageri訪問住所Järnvägsgatan9を原POIに照合。歴史資料に基づく編集表記であり公式日本語名ではない。累計757峰、残108峰・36件、全体未登録4599峰。S3未更新。
+
+2026-10-11 batch159：Dayslandをデイズランドとして1峰反映。1994年州地名資料VolumeIII印刷68頁のDay命名由来とMerriamWebster day/land発音に基づく編集音写。Flagstaff観光案内のKaplersHomeHardware5038-50Streetと元POIを照合。現地録音の直接確認とは区別。累計758峰、残107峰・36件、全体未登録4598峰。S3未更新。
+
+2026-10-12 batch160：Alliance CA ABをアライアンスとして1峰反映。州地名資料VolumeIII印刷3頁のOhio都市由来とMerriamWebster地名項目の命名元の発音に基づく編集表記。村公式信用組合117MainStWestと原POIを照合。カナダ村の現地発音直接確認とは区別。累計759峰、残106峰・36件、全体未登録4597峰。S3未更新。
+
+2026-10-12 batch163：CrystalCityをクリスタルシティとして1峰反映。州地名辞典PDFindex144の命名記録とMerriamWebster crystal/city発音に基づく編集表記。HistoricPlacesDays博物館218BroadwayStreetの案内リンク座標が原POIから45.7mで方向S省略の照合を補強。現地録音直接確認とは区別。累計760峰、残105峰・36件、全体未登録4596峰。S3未更新。
+
+2026-10-12 batch164：FisherBranchをフィッシャーブランチとして1峰反映。HorizonHearing公式78TacheStと元施設住所を照合。現在の一時サービス休止と過去所在地を区別。州地名辞典PDFindex200とMerriamWebster fisher/branch発音に基づく編集表記、現地録音や由来確定とは称さない。累計761峰、残104峰・36件、全体未登録4595峰。S3未更新。
+
+2026-10-12 batch165：Elm Creekをエルムクリークとして1峰反映。元Prairie Roots Co-op43 Church AvenueをRMofGrey公式の同名同住所と照合、公式施設座標とも約12m。州地名資料PDFindex184–185の河川由来とMerriamWebster elm/creek発音に基づく編集音写。現地実聴や公式日本語名とは区別。Ma’sの住所不一致は根拠から除外。累計762峰、残103峰・36件、全体未登録4594峰。S3未更新。
+
+2026-10-12 batch166：CentralButteをセントラルビュートとして1峰反映。町公式IverMainPlace52 3rdAveWestと州選挙公示2016 PDF1頁52 3rdAvenueを元施設住所に照合。大学地名百科の中央丘を集合目印とした命名伝承と辞書central/butte発音に基づく編集音写で、モデルのブッテを訂正。当地実聴や公式日本語名とは区別。累計763峰、残102峰・36件、全体未登録4593峰。S3未更新。Milestoneの公式Affinity118MainSt住所とC.W.Milestone人名由来も確認したが人名の読みは引き続き保留。
+
+2026-10-12 batch167：Turtlefordをタートルフォードとして1峰反映。元RCMP505MainStを警察公式TurtlefordDetachment所在地に直接照合。大学地名百科の河川渡渉地由来と辞書turtle/ford発音に基づく編集音写。当地実聴や公式日本語名ではない。LoonLakeは村公式LakelandAgencies418MainStreet住所を照合して読みを継続調査。累計764峰、残101峰・36件、全体未登録4592峰。S3未更新。
+
+2026-10-12 batch168：ParadiseHillをパラダイスヒルとして1峰反映。元CreditUnionSynergy223MainStを運営2024年報印刷23頁PDFindex24支店一覧に一致確認。村公式history/contact/businessページを通常HTTPS取得して保存。HillofParadise命名説明は伝承と区別し、1887Klondike年代の疑義を明記。辞書paradise/hillに基づく編集音写で、現地実聴・公式日本語名ではない。累計765峰、残100峰・36件、全体未登録4591峰。S3未更新。
+
+2026-10-12 batch169：CutKnifeをカットナイフとして1峰反映。町公式LucerneHotel211BroadStreetと元POIを再照合。大学地名百科に英訳CutKnifeからの丘名・町名由来を確認し、辞書cut/knife発音による編集音写を採用。先住民語原名の読みや当地録音実聴とは区別。図書館115/113番地不一致は根拠から除外して未解決と明記。累計766峰、残99峰・36件、全体未登録4590峰。S3未更新。
+
+2026-10-12 batch170：Mossbankをモスバンクとして1峰反映。元TopShelfGrocery317MainStを町公式同名同住所に照合し、Nagel318/306番地不一致は根拠から除外。大学地名百科で1909郵便局から町への名称転用を確認。moss/bank辞書発音に基づく編集音写で、命名意図の語義や当地実聴は断定しない。町NameOrigin本文はOldWivesLake由来なので町名の証明には使わない。累計767峰、残98峰・36件、全体未登録4589峰。S3未更新。
+
+2026-10-12 batch172：QuillLakeをクイルレイクとして1峰反映。元図書館54MainStを村公式施設一覧54MainStreetに直接照合。村公式の南方QuillLakes由来と辞書quill発音kwilに基づく編集表記を採用し、モデルキールレイクを訂正。湖名自体の語源と当地録音実聴は未確定。累計768峰、残97峰・36件、全体未登録4588峰。S3未更新。
+
+2026-10-12 batch173：Imperialをインペリアルとして1峰反映。元CoopFoodStore206RoyalStを州政府2021施設一覧PDFindex30同名同番地に直接照合。大学地名百科のBritishEmpire由来と辞書imperial発音による編集音写、当地実聴や公式日本語名とは区別。LoonLake公式施設一覧の今回取得本文では以前の住所を再確認できず保留を維持。累計769峰、残96峰・36件、全体未登録4587峰。S3未更新。
+
+2026-10-12 batch180：Somersetをサマセットとして1峰反映。原RBC3093rdStを銀行2023年公式報告のATM設置表（PDFindex28、印刷29頁）に直接照合。撤去表もあるため現営業の証明とはしない。州地名辞典の英国出身地由来とOxford英国県名発音に基づく編集表記で、現地実聴・公式日本語名とは区別。累計770峰、残95峰・36件、全体未登録4586峰。S3未更新。
+
+2026-10-12 batch181：ShellLakeをシェルレイクとして1峰反映。原LarkRestaurant112CarlEricksonAveを物件担当者HeatherSarrazin自身の掲載履歴に直接照合。村公式は施設名一致、番地なし。REMAX現行ページは一覧転送で番地確認成功としない。shell/lake辞書発音による編集表記、当地実聴・公式日本語名・命名語源ではなく米国同名都市由来も転用しない。累計771峰、残94峰・36件、全体未登録4585峰。S3未更新。
+
+2026-10-12 batch182：保留Courtlandをコートランドとして1峰反映。原TebowPlumbing410MainStをメーカーLennox公式販売店同施設同番地に直接照合、公式座標も当地。CMU辞書courtland K AO1 R T L AE0 N Dによる編集表記で当地実聴・公式日本語名と区別。大学史料のCortlandtNYと別資料CortlandNYの由来差は確定しない。累計772峰、残94峰・35件、全体未登録4584峰。S3未更新。
+
+2026-10-12 batch183：保留Hildrethをヒルドレスとして1峰反映。原図書館248CommercialAveを運営カタログに再照合。州歴史資料が旧所有者CarsonHildrethに敬意を表した命名と明記。CMU辞書HH IH1 L D R IH0 THに基づく編集音写でモデルヒルドレズの末尾を修正、当地発音・本人発音の直接確認とは区別。累計773峰、残94峰・34件、全体未登録4583峰。S3未更新。
+
+2026-10-12 batch184：Hanleyをハンリーとして1峰反映。原役場107LincolnStを町広報2014年9月12頁107LincolnStreetに再照合。CMU辞書HH AE1 N L IY0による編集表記でカナダ当地実聴・公式日本語名とは区別、英国由来は未確認なので根拠に含めない。FairfieldMcDonalds公式取得403で住所未確認、別施設を次の調査先とし保留。累計774峰、残93峰・34件、全体未登録4582峰。S3未更新。
+
+2026-10-12 batch185：Milestoneをマイルストーンとして1峰反映。原AffinityCreditUnion118MainStを町公式FinancialServices同施設同番地に直接照合。DropIn施設名のみを109番地確認としない。CMU辞書M AY1 L S T OW2 Nによる編集表記で当地固有発音・公式日本語名・命名由来と区別。累計775峰、残92峰・34件、全体未登録4581峰。S3未更新。
+
+2026-10-12 batch186：Ryleyをライリーとして1峰反映。原McPhersonLibrary5113 50thStを運営公式同名5113 50st RyleyABに再照合。CMU辞書R AY1 L IY0による編集音写で当地実聴・公式日本語名と区別。EJCAのRileyと現在町の同一性は未確定なので公開日本語用例に数えず別の未解決事項として保持。FairfieldDG公式店舗25783直接取得403、住所確認成功にしない。累計776峰、残91峰・34件、全体未登録4580峰。S3未更新。
+
+2026-10-12 batch187：保留Gurleyをガーリーとして1峰反映。原消防署7383rdStを州2017消防署名簿に直接照合、地元GAVE団体で消防署と郵便局7433rdStを別施設として補確認。CMU辞書G ER1 L IY0による編集音写でモデルグルリーを修正。当地実聴・公式日本語名ではなくFredGurleyからの命名も断定しない。累計777峰、残91峰・33件、全体未登録4579峰。S3未更新。
+
+2026-10-12 batch188：Follettを編集表記フォレットとして1峰反映。原InterBank241 S Main Stを銀行公式本文と直接照合し、104SMainStの別施設と区別。TSHA町座標で補確認。CMU F AA1 L IH0 Tに基づく編集表記で当地実聴・公式日本語名ではない。累計778峰、候補91峰・保留32件、全体未登録4578峰。S3未更新。根拠：docs/unnamed-world-batch188-review.json。
+
+2026-10-12 batch189：ChampionチャンピオンとMcCrearyマクリーリーの2峰を反映。前者は原自治体135MainStと自治体公式本文を照合。後者は原保育施設416 2ndAveと州名簿PDFindex137印刷138頁ID7921を照合、郵送先と別棟を区別。CMU辞書編集音写、当地実聴・公的日本語指定ではない。累計780峰、候補90峰・保留31件、全体未登録4576峰。根拠docs/unnamed-world-batch189-review.json。S3未更新。
+
+2026-10-12 batch190：Tompkinsトンプキンズ、Chamberlainチェンバレン、Sheridanシェリダン計3峰を反映。州自治体名簿と会社・施設公式本文の原住所を照合。SheridanはColorado郡の座標をTSHAで確認し他州・Houston郡同名地を除外。CMU辞書による編集表記で当地実聴・公的日本語指定ではない。Roscoe原110NMitchellと現在自治体205NMitchellは異なり保留継続。累計783峰、候補87峰・保留31件、全体未登録4573峰。根拠docs/unnamed-world-batch190-review.json。S3未更新。
+
+2026-10-12 batch191：LeeperリーパーとGrandyグランディの2峰を反映。消防会社と原CaratokeTobaccoの公式道路住所に直接照合。郵送先・建物共有の別店舗・峰から遠い補助施設を区別。CMUによる編集表記で当地実聴や公式日本語指定ではない。Dinsmore自治体住所100MainStを議事録で確認、モデルとCMU第一母音差は保留。Ewen州発音ガイド通常HTTPS403を記録し回避せず保留。累計785峰、候補85峰・保留31件、全体未登録4571峰。根拠docs/unnamed-world-batch191-review.json。S3未更新。
+
+2026-10-12 batch192：Leaskリースク、Haffordハファード、Donaldaドナルダ計3峰を反映。元自治体事務所を公式15MainStreetに、原図書館17MainStと自治体106MainStを学区PDF印刷3頁に照合。Donalda保存済み自治体広告画像を再目視し元Catering5019MainStreetと確認、別店Stettlerを区別。CMU辞書編集表記で当地実聴・公的日本語指定ではない。Benitoは図書館原141と公式140、会社原Path83と公式Highway83Northの差を記録して保留。累計788峰、候補82峰・保留31件、全体未登録4568峰。根拠docs/unnamed-world-batch192-review.json。S3未更新。
+
+2026-10-12 batch193：Roscoeロスコー、Swanvilleスワンビル計2峰を反映。前者は元学校1051stAveNEと学区公開計画表紙、州教育名簿を照合。原自治体番地差は別施設証拠で町確認し差自体を解消したとは主張しない。後者は原NilsonHardware207DegraffAveをメーカー販売店一覧に直接照合し現店舗公式で補確認。CMU辞書による編集表記、Swanvilleは構成語からの音写で地名全体の辞書登録・当地実聴・公的日本語指定ではない。累計790峰、候補80峰・保留31件、全体未登録4566峰。根拠docs/unnamed-world-batch193-review.json。S3未更新。
+
+2026-10-12 batch194：Colborneをコールボーンとして1峰反映。原ColbornePublicLibrary6KingStWと施設公式6KingSt.West ColborneONを直接照合。自治体名簿のEast表記の相違は保持し、施設自身の資料を採用。CMU colborne K OW1 L B AO0 R Nによる編集音写で当地実聴・公的日本語指定ではない。累計791峰、候補79峰・保留31件、全体未登録4565峰。根拠docs/unnamed-world-batch194-review.json。S3未更新。
+
+2026-10-12 batch195：Arborfieldアーバーフィールド1峰を反映。原BeelandCoOperativeAssociationLtd1stAveをCampbellCanada販促規約AppendixB同名1stAvenue ArborfieldSKに直接照合。同座標カードロック別名は独立証拠に重複計上しない。CMU構成語arbor/fieldによる編集音写で地名全体の辞書・当地実聴・公式日本語指定ではない。英国地名の由来同一性は主張しない。Irma5005 50thStも同一次一覧に照合したが人名言語差と町の読みは未解消で保留維持。累計792峰、候補78峰・保留31件、全体未登録4564峰。根拠docs/unnamed-world-batch195-review.json。S3未更新。
+
+2026-10-12 batch196：Saltcoatsソルトコーツ1峰を反映。原公民館203GlasgowAveと自治体公式同施設203GlasgowAvenueを直接照合。自治体HistoryのScotland母港由来を補確認。CMU salt/coats構成語による編集音写で地名全体の辞書発音・当地実聴・公的日本語指定ではない。役場117AllanAveと郵送Box120は別施設。累計793峰、候補77峰・保留31件、全体未登録4563峰。根拠docs/unnamed-world-batch196-review.json。S3未更新。
+
+2026-10-12 batch197：NewGermanyニュー・ジャーマニー1峰を反映。原小学校150SchoolStと運営SSRCE公式名簿150SchoolStreet NewGermanyNSを直接照合。連邦CGNDB CBBJP集落座標を補確認、Ontarioと南アフリカ同名地を区別。CMU new/germanyからの編集音写で当地実聴・公的日本語指定ではない。モデルゲルマニー不採用。原QuikMart5234Mainは一次照合未了で根拠に使わない。累計794峰、候補76峰・保留31件、全体未登録4562峰。根拠docs/unnamed-world-batch197-review.json。S3未更新。
+
+2026-10-12 batch198：LoonLakeルーン・レイク、WillowBunchウィロー・バンチ計2峰反映。前者は原LakelandAgencies418MainStとWesternSurety公式代理店一覧を直接照合。村公式の検索結果と取得本文の差を解消したとはしない。後者は原SportsmansClub10CAveと州官報2020-09-25 PDFindex33印刷2468の10AveCを照合、短縮名と道路語順差を明記。2020法人資料は現在営業保証ではない。CMU構成語による編集表記で当地実聴・公的日本語指定とは区別。累計796峰、候補74峰・保留31件、全体未登録4560峰。根拠docs/unnamed-world-batch198-review.json。S3未更新。
+
+2026-10-12 batch199：Kirkfieldカークフィールド1峰反映。原図書館7MunroeStと運営公式KirkfieldBranch同住所を直接照合。本部Lindsay住所は別施設。CMU kirk/field構成語からの編集音写で当地実聴・地名全体の辞書発音・公的日本語指定ではない。モデルキークフィールド不採用。原MackenzieInn現一次住所は未確認で採用根拠にせず、2023閉館の自治体公開資料もあるため営業保証をしない。累計797峰、候補73峰・保留31件、全体未登録4559峰。根拠docs/unnamed-world-batch199-review.json。S3未更新。
+
+2026-10-12 batch200：旧保留Owensburgオーウェンズバーグ1峰反映。原CBHatfieldMercantile11461EMainStとIndianaFSSA公開名簿PDFindex79の同商店・住所を直接照合。博物館11431は別施設。消防署の図書館検索結果と取得本文の差を確認成功とはしない。CMU owens/burg構成語の編集音写で当地実聴・公的日本語指定ではない。累計798峰、候補73峰・保留30件、全体未登録4558峰。根拠docs/unnamed-world-batch200-review.json。S3未更新。
+
+2026-10-12 batch201：DuckCreekVillageダック・クリーク・ビレッジ1峰反映。原HotMamasPizza61MovieRanchRdとKaneCounty郡観光局同施設61MovieRanckRdの番地・施設対応を確認。一文字の道路綴り差を保持し完全一致とはしない。CMU duck/creek/village構成語による編集音写で当地実聴・公的日本語指定ではない。累計799峰、候補72峰・保留30件、全体未登録4557峰。根拠docs/unnamed-world-batch201-review.json。S3未更新。
+
+2026-10-12 batch202：Craigmontクレイグモント1峰反映。原図書館112WMainStとIdahoCommissionforLibraries2016統計PDFindex69同図書館・住所を照合。CMU craig/mont構成語の編集音写で、現地発音は実聴未確認、公的日本語名ではない。モデルクレイモンツは不採用。累計800峰、候補71峰・保留30件、全体未登録4556峰。根拠docs/unnamed-world-batch202-review.json、https://libraries.idaho.gov/files/Final%20Stats%2016.pdf 。S3未更新。
+
+2026-10-12 batch203：Maryfieldメアリーフィールド、PickCityピック・シティ計2峰反映。原協同組合101MainStを公式2018CardlockGuide PDFindex251に、原DamBar35MainRdEをND州司法長官2025免許名簿PDFindex44に照合。CMU mary/field/pick/cityによる構成語編集音写で当地実聴・公式日本語指定ではない。Maryfield別銀行の閉鎖報告は営業裏付けに使わない。累計802峰、候補69峰・保留30件、全体未登録4554峰。根拠docs/unnamed-world-batch203-review.json。Colome一般発音動画の由来記述は市公式ChrisColombe由来と食い違い採用せず。Warooka日本語検索用例は自動翻訳の可能性を排除できず不採用、ColerainのOH同名町検索結果も不採用。S3未更新。
+
+2026-10-12 batch204：Theodoreシオドア、PilotMoundパイロット・マウンド2峰反映。原Westland102MainStreetを村公式Businesses本文に、原FCL11BroadwayAveEをFCL公式PilotMoundHomeCentre住所に照合。原FCL略称と店舗表示名の差を記録。CMU theodore/pilot/moundによる編集音写で当地実聴・公式日本語指定とは区別。Canwood原RM621に対する公式641MainStreetの不一致、学校サイト取得タイムアウト、旧教育委員会PDF404を記録し保留。累計804峰、候補67峰・保留30件、全体未登録4552峰。根拠docs/unnamed-world-batch204-review.json。S3未更新。
+
+2026-10-12 batch205：旧保留SaintGermainをセント・ジャーメインとして1峰反映。OneidaCounty2012VisitorGuide PDFindex5当該町saint jer-meynを直接確認、原Mobil102StateHighway70Eと地元商工会議所2026DestinationGuide PDFindex38 Mobil102Hwy70を照合。公式名簿で方向E省略を記録。別国のフランス語読みに置換しない。掲載当地英語読みからの編集音写で、当地音声実聴・公的日本語指定ではない。累計805峰、候補67峰・保留29件、全体未登録4551峰。根拠docs/unnamed-world-batch205-review.json、https://oneidacountywi.com/documents/oneida-county-visitor-guide-2012.pdf 、https://st-germain.com/wp-content/uploads/2026/01/26StGermainVG.pdf 。S3未更新。
+
+2026-10-12 batch206：Eaglevilleイーグルビル、Grovespringグローブスプリング2峰を反映。原Subway21022 E State Hwy NとSubway公式21022 State Highway N、原MFA2135HighwayMと運営者公式2135StateHwyMを照合。道路方向省略・略記差を記録。CMU構成語の辞書発音による編集音写で、当地全語発音・音声実聴・公式日本語指定とは区別。累計807峰、候補65峰・保留29件、全体未登録4549峰。判断docs/unnamed-world-batch206-review.json。S3未更新。
+
+2026-10-12 batch208：Glenavonグレンアボン1峰反映。原RMChester104MainStとEnbridge2017公開縦覧場所PDFindex1の104MainStreetGlenavonSKを照合。Cambridge全語IPAから編集音写。当該カナダ町の当地発音明示・現在営業・公式日本語指定は断定しない。累計808、候補64峰・保留29件、全体未登録4548。判断unnamed-world-batch208-review.json。S3未更新。
+
+2026-10-12 batch211：Plantersvilleプランターズビル1峰反映。原USPS8625PostOfficeRdをUSPS2021公式PDFindex8の同施設同住所TX77363に照合。CMU planters/villeから編集音写。疑わしい同住所スーパー群とAllphin現行住所差は採用根拠から除外、原POI品質全体は保証しない。累計809、候補63峰・保留29件、全体未登録4547。判断unnamed-world-batch211-review.json。S3未更新。
+
+2026-10-12 batch212：Fairfieldフェアフィールド1峰反映。原AugustaCooperative5788NLeeHwyと運営公式の同施設同番地FairfieldVA24435を照合。CMU fairfieldから編集音写。郵便局原5586対公式告知5585の差は未解決で根拠から外す。累計810、候補62峰・保留29件、全体未登録4546。判断unnamed-world-batch212-review.json。S3未更新。
+
+2026-10-12 batch214：Luselandルーズランド1峰反映。原町役場503GrandAveを町公式同施設同番地に照合。大学地名百科で命名元LuseLandDevelopmentCoを確認、CMU luse/landから編集音写。当地全語実聴とは区別。Pangman原CoopGasBar101MergensStを村公式同給油所同住所に照合、読みは保留。累計811、候補61峰・保留29件、全体未登録4545。判断unnamed-world-batch214-review.json。S3未更新。
+
+2026-10-12 batch217：オーストラリアTexas Rural Agencies40HighStを運営者公式同施設40HighStreet Texas Qld4385に照合。QueenslandPlacesで町名本体Texasを確認、参照データのGoodiwindiは町名へ含めない。CMU texasによる編集音写テキサスを1峰反映、当地音声実聴とは区別。累計812、候補61峰・保留28件、全体未登録4544。判断unnamed-world-batch217-review.json。S3未更新。
+
+2026-10-12 batch218：Urich原Auto & Tractor105E GrahamRdとNAPA店舗資料PDFindex78の同施設同住所を照合。CMU全語urichに基づく編集表記ユーリックを1峰追加。人名由来や現地録音実聴とは区別。累計813、対象残60峰・28件、全体未登録4543。判断unnamed-world-batch218-review.json。S3未更新。
+
+2026-10-12 batch219：Neilburgニールバーグ、Hodgevilleホッジビル2峰を反映。原ManitouHealthCentre1052ndAveWと原HodgevilleHealthCentre105MainStを州保健当局同施設同番地に直接照合。Neilburg村公式も医療施設街路住所を確認。CMU neil/burg・hodge/villeの構成語読みから編集音写、当地全語録音実聴とは区別。累計815、対象残58峰・28件、全体未登録4541。判断unnamed-world-batch219-review.json。S3未更新。
+
+2026-10-12 batch220：Bethuneベスューン1峰反映。原Co-op607FordStとParmakメーカー公式販売店一覧同組織同番地を照合。CMU全語bethuneに基づく編集表記、当地録音実聴とは区別。モデルベスヌー不採用。同住所の複数部門を別地点証拠に数えない。累計816、対象残57峰・28件、全体未登録4540。判断unnamed-world-batch220-review.json。S3未更新。
+
+2026-10-12 batch222：Auclairオークレール1峰反映。原Camping dEauClaire1096Route295と州政府公式観光サイト同施設同番地を照合。フランス語au /o/とUsito clair /klɛʀ/の辞書に基づく編集音写、当地全語録音とは区別。前回Lus発音記事取得は停滞で中断し本文未確認を維持。累計817、対象残57峰・27件、全体未登録4539。判断unnamed-world-batch222-review.json。S3未更新。
+
+2026-10-12 batch223：La Doréラ・ドレ1峰反映。元宿泊施設4829rue desPeupliersと自治体公式の同施設同番地を照合。Larousse doré [dɔre]から編集音写。現地録音・公的日本語名とは区別。累計818、対象残57峰・26件、全体未登録4538。判断unnamed-world-batch223-review.json。S3未更新。
+
+2026-10-12 batch224：Lac-Droletラック・ドロレ1峰反映。原Co-Op670PrincipaleRueと自治体公式Magasin COOP670ruePrincipaleを照合。Wiktionnaire固有姓Droletの読みから編集音写、当地録音とは区別。累計819、対象残57峰・25件、全体未登録4537。判断unnamed-world-batch224-review.json。S3未更新。
+
+2026-10-12 batch225：Sainte-Justineサント・ジュスティーヌ1峰反映。元Familiprix135-7RuePrincipaleと運営者住所・保存済み公式座標を照合。sainte/Justine辞書読みから編集音写。末尾#135冗長表記、別国同名町やMontreal病院の証拠とは区別。累計820、対象残56峰・25件、全体未登録4536。判断unnamed-world-batch225-review.json。S3未更新。
+
+2026-10-12 batch226：Saint-Jean-de-Dieuサン・ジャン・ド・デュー1峰反映。原SAQ代理店AlimentationJ.-Y.Belzil56ruePrincipaleNordとSAQ公式同施設同番地を照合。saint/Jean/Dieu辞書から編集音写。Saint-Hilarion住所再確認、読み未確認を維持。累計821、対象残55峰・25件、全体未登録4535。判断unnamed-world-batch226-review.json。S3未更新。
+
+2026-10-12 batch227：Saint-Patrice-de-Beaurivageサン・パトリス・ド・ボーリバージュ1峰反映。原SAQ代理店AccommodationCybélair526ruePrincipaleとSAQ公式同施設同番地を照合。Patrice/beau/rivage辞書から編集音写、当地全語録音とは区別。累計822、対象残54峰・25件、全体未登録4534。判断unnamed-world-batch227-review.json。S3未更新。
+
+2026-10-12 batch228：ChristopherLakeクリストファー・レイク1峰反映。原LakelandLiquor215MainStWと製造者公式販売店一覧同施設同番地を照合。役場の南北住所不一致は保持。USPS組織名とCA所在不整合は別途監査事項。CMU構成語による編集音写。NewEffington州申請資料住所検索確認、本文実読と読みは継続。累計823、対象残53峰・25件、全体未登録4533。判断unnamed-world-batch228-review.json。S3未更新。
+
+2026-10-12 batch229：Irmaアーマ1峰反映。原IrmaCo-operativeAssociationLtd5005 50thStとCampbell公式同組織同番地を照合。CMU英語irma ER1 M AH0から編集音写、当地録音や公的日本語指定とは区別。Ewen州読み資料は検索確認のみで本文Timeout、保留維持。累計824、対象残52峰・25件、全体未登録4532。判断unnamed-world-batch229-review.json。S3未更新。
+
+2026-10-12 batch230：Benitoベニート1峰反映。原BenitoHomeCentre1231StAveEとSupplyBuild公式1231stAveEastを照合。CMU英語辞書による編集音写。図書館番地相違とAgShield道路表記差は解消済みとは扱わない。累計825、対象残51峰・25件、全体未登録4531。判断unnamed-world-batch230-review.json。S3未更新。
+
+Batch232: Pangman editorial Japanese transliteration informed by CMU component sounds; town pronunciation not directly recorded. Address: https://pangman.ca/the-pangman-co-operative-association-limited/ ; name origin: https://pangman.ca/about/ .
+
+Batch233: Canwood editorial Japanese transliteration based on CMU can/wood component sounds, not verified local audio. School address verified: https://www.canwood.ca/school .
+
+Batch234: Miami, Manitoba editorial transliteration informed by CMU English pronunciation, not direct local audio or Florida naming origin. Address verified: https://www.rmofthompson.com/p/local-businesses .
+
+Batch235: Verona, Ontario editorial Japanese transliteration informed by CMU English pronunciation, not direct local audio. RONA address verified: https://www.ronainc.ca/en/news/rona-verona-hardware-celebrates-90-years-in-business .
+
+Batch237: Edam editorial Japanese transliteration based on English Wiktionary IPA (UK), not direct town audio. https://en.wiktionary.org/wiki/Edam (CC BY-SA); address https://arnoldsgravel.ca/contact-us .
+
+Batch245: Avonlea (SK) Japanese editorial label informed by confirmed namesake in local-library assessment (2018) and JMnedict. Not a local recorded pronunciation or official Japanese designation.
+
+2026-10-12 batch252：Burstallバーストール1峰反映。Wikidata Q855486原JSONの日本語ラベルとGeoNames5912226を直接確認（revision2543753042）。原図書館425MartinStをCER資料1頁の同施設同番地と再照合。登録日本語名として採用し公的指定・当地録音の保証と区別。累計832峰（登録73・公開日本語29・編集730）、候補残44峰・25件、全体未登録4524。判断docs/unnamed-world-batch252-review.json。S3未更新。
+
+2026-10-12 batch253：残る69参照名をGeoNamesIDでWikidata一括照合。56対応項目を取得、日本語ラベル一致はLismore2160062のみ。Q6559021原JSONでVIC町・リズモア・座標を確認し、原薬局32HighStを地域共同体本文同施設同住所で再照合。NSW同名都市から転用せず1峰採用。累計833峰（登録74・公開日本語29・編集730）、候補残43峰・25件、全体未登録4523。判断docs/unnamed-world-batch253-review.json。S3未更新。
+
+2026-10-12 batch255：Redversレッドヴァーズ1峰。住所は町公式、命名元はUniversity of Regina、編集日本語名はOCLC WorldCat同人物ラベルを参考。当地録音・町の公式日本語指定とは区別。累計834（登録74・公開29・編集731）、残42峰・25件、全体未登録4522。S3未更新。
+
+2026-10-12 batch257：Venjanヴェンヤン1峰。NE Nationalencyklopedin対象集落項の部分発音注記とTransportstyrelsen公式店舗住所を照合。編集表記であり全語IPA・当地録音・公的日本語指定の確認とは区別。累計835、候補41峰・25件、未登録4521。S3未更新。
+
+2026-10-12 batch258：Eatoniaイートニア1峰。町公式の命名由来・教会住所と静岡大学公開論文の百貨店日本語名を参照した編集表記。現地録音・公式日本語指定とは区別。累計836、候補41峰・24件、未登録4520。S3未更新。
+
+Batch259: Trussu -> トルスー (editorial). https://ciberduvidas.iscte-iul.pt/consultorio/perguntas/sobre-a-grafia-de-trucu-ceara-brasil/29574 ; https://www.ibge.gov.br/biblioteca/visualizacao/dtb/ceara/acopiara.pdf ; https://www.acopiara.ce.gov.br/informa/939/novas-instala-es-da-escola-solon-guedes-cavalcante . No confirmed whole-word local audio; uncertain etymology not asserted.
+
+Batch261: Saint-Hilarion (QC) -> サンティラリオン, editorial informed by published Japanese use. https://www.tour.ne.jp/w_hotel/area_list/CA/ ; https://jp.hotels.com/ho552822/roberujinu-santirarion-kanada/ ; https://loisirssthilarion.com/fr/page/contact . Search-index Japanese use; no confirmed local recording or official Japanese designation.
+
+Batch263: Saint-Ludger QC -> サン・リュジェ, editorial informed by Japanese destination use. https://www.hotelsone.com/canada-ca/reservations-saint-ludger-hotels.ja.html ; https://cssbe.gouv.qc.ca/etablissement/ecole-nazareth/ ; CSSBE2022-2025 property plan page7. No confirmed local whole-word recording or official Japanese designation.
+
+Batch264: Manseau / マンソー and Lyster / リスター are editorial labels informed by target-place Japanese published usage, not official Japanese designations or verified audio. Address evidence: Manseau municipal business directory and Desjardins Lyster official branch. Japanese usage: https://www.ajeqsite.org/pdf/gakkaishi/AJEQ14%282022%29/AJEQ14_95-105.pdf (public search PDF page96; direct fetch failed); https://www.traveloka.com/ja-jp/hotel/canada/le-gte-du-coteau-9000005863872 (public search body; direct fetch failed). See docs/unnamed-world-batch264-review.json.
+
+Batch265: Les Méchins / レ・メシャン editorial transliteration informed by https://en.wiktionary.org/wiki/Les_M%C3%A9chins full-name IPA in public search text (direct fetch failed); address verified against https://www.saq.com/en/liste-des-agences-saq and historical SAQ agency PDF. Not official Japanese or verified audio. See docs/unnamed-world-batch265-review.json.
+
+Batch266: Lac-Etchemin / ラック・エトゥシュマン and Saint-Paul-de-Montminy / サン・ポール・ド・モンミニ editorial labels informed by target-place Japanese travel listings. Addresses matched National Bank and Desjardins official listings. Japanese sources: https://jp.trip.com/hotels/lac-etchemin-hotel-detail-10534950/auberge-les-etchemins/ ; https://www.traveloka.com/ja-jp/hotel/canada/area/lac-etchemin-4008673929/best-hotels-in-lac-etchemin (public search text; direct fetch failed). Not official Japanese designations or verified audio. See docs/unnamed-world-batch266-review.json.
+
+Batch267: Saint-Just-de-Bretenières / サン・ジュスト・ド・ブレトニエール editorial label informed by target-place Airbnb Japanese listing https://www.airbnb.jp/saint-just-de-bretenieres-canada/stays/monthly (public search body; direct fetch failed). Original evangelical church matched municipal directory https://www.saintjustdebretenieres.com/loisirs-et-vie-communautaire/comites-clubs-sociaux-et-organismes/ at 130 Route204. Not official Japanese designation or verified audio. See docs/unnamed-world-batch267-review.json.
+
+Batch268: Milverton / ミルバートン editorial label informed by https://autoreserve.com/ja/ca/ontario/milverton . Historical address matched company public LinkedIn profile https://fr.linkedin.com/company/gerber%27s-workwear (search body; direct fetch failed). Current operation not confirmed. Not official Japanese designation or verified audio. See docs/unnamed-world-batch268-review.json.
+
+Batch271: Coronach / コロナック editorial label informed by https://autoreserve.com/ja/ca/saskatchewan/coronach (public search body; direct fetch Cache miss). Original Canada Post 7 1st Ave W matched current municipal directory https://townofcoronach.ca/business/directory/ (direct body). Not an official Japanese designation or verified local audio. See docs/unnamed-world-batch271-review.json.
+
+Batch272: Warooka / ワルーカ editorial label informed by Japanese travel text https://www.airbnb.jp/rooms/1688615448442978380 (public search body; direct fetch failed). ワルッカ is an alternative on the aggregate page. Original FoodWorks 39 Main St matched operator https://warooka.foodworks.com.au/ (direct body). Not an official Japanese designation or verified local audio. See docs/unnamed-world-batch272-review.json.
+
+Batch273: Canadian Strasbourg / ストラスブール editorial label informed by https://autoreserve.com/ja/ca/saskatchewan/strasbourg (public search body; direct fetch failed). Original Town of Strasbourg 200 Mtn St matched municipal December2025 Spotlight PDF page1 #1-200 Mountain Street; original unit unspecified. Not official Japanese designation or verified local audio. See docs/unnamed-world-batch273-review.json.
+
+Batch274: McKenney / マッケニー editorial label informed by https://autoreserve.com/ja/us/virginia/mckenney (public search body; direct fetch failed; incorrectly classified McLean entry excluded). Original BP 21101BoydtonPlankRd matched county public contract PDF26-024-CS-R page127. Not official Japanese designation or verified local audio. See docs/unnamed-world-batch274-review.json.
+
+Batch275: Niobrara / ナイオブララ and Canadian Mortlach / モートラック editorial labels informed by https://autoreserve.com/ja/us/nebraska/niobrara and https://autoreserve.com/ja/restaurants/Ba8LQ1wMDkYYq8jwFhqq (public search body; direct fetch failed). Original library address matched https://libs.ne.gov/niobrara ; former church address matched LivingSkies2020-01-10PropertyCommission minutes page1. Historical address is not current operation proof. Not official Japanese designations or verified local audio. See docs/unnamed-world-batch275-review.json.
+
+第279回：Rivière-au-Tonnerre原Complexe Locatif la Familia450Jacques-CartierRueを自治体公式宿泊一覧の同施設450rueJacques-Cartierと直接照合。併記29rue de l’Égliseは別住所として区別。CHOSEKI対象ケベック沿岸集落の座標付き日本語用例リヴィエール・オー・トネールを参考に編集表記1峰追加。Travelokaのオ／オー差と両サイト直接取得Cachemissを記録。修道会日本語町史の地名はLatin表記で読み証拠にはしない。公的指定・当地録音ではない。累計853（登録74・公開29・編集750）、候補32峰・保留16件、全体未登録4503。密度・位置不変、S3未更新。根拠unnamed-world-batch279-review.json、riviere-au-tonnerre-address-japanese279.json。
+
+第281回：Lus-la-Croix-Haute原キャンプlAllevaと地域自然公園840route de lAlleva、LaChapelle原GallandSports Pont de la placeと観光局Pont la placeを再照合。元番地欠落・地区表記差は維持。Vrbo対象村の公開検索日本語用例を参考にリュス・ラ・クロワ・オート、ラ・シャペル・アン・ヴァルゴデマールの編集表記2峰追加。直接取得Cachemiss、自動翻訳用例、当地音声未聴取を明記、公的指定とはしない。累計855（登録74・公開29・編集752）、候補30峰・保留16件、全体未登録4501。密度・位置不変、S3未更新。根拠unnamed-world-batch281-review.json、french-villages-address-japanese281.json。
+
+第282回：SãoMartinho原役場Largo de ValeBriqueを政府BEP2026公告とDGAL名簿のLargo do/ValeBriqueに地区照合。de/do差・番地欠落・郵便番号差、名簿座標と原役場約380m差を保持。薬局道路不一致とMonteMaravilhas約1143m差は未解消、名称証拠から外す。Airbnb対象PTBeja村の全名日本語用例サン・マルティーニョ・ダス・アモレイラスを参考に編集1峰追加。宿は村8km外で峰住所根拠にしない。検索本文・自動翻訳・直接取得失敗を区別。名称追加は全POIの品質保証ではない。累計856（登録74・公開29・編集753）、候補29峰・保留16件、全体未登録4500。密度・位置不変、S3未更新。根拠unnamed-world-batch282-review.json、sao-martinho-address-japanese282.json。
+
+Batch283 Hedekas: editorial Japanese usage https://www.airbnb.jp/hedekas-sweden/stays/monthly ; address verification https://www.1177.se/hitta-vard/kontaktkort/Narhalsan-Munkedal-vardcentral-Hedekas-Munkedal/ and https://hedekaselochvvs.se/kontakta-oss/ . Not an official Japanese designation or locally verified audio pronunciation.
+
+Batch284 Bispgarden editorial Japanese usage: https://www.jtb.co.jp/ovs_htl/detail/search_detail/1449373/ ; historical municipal address: https://regionjh.se/download/18.919b46115a5d814ab8f42/1487687469546/ragunda%2Bkommun%252C%2Bserviceplan.pdf page12. Not an official Japanese designation or verified local pronunciation.
+
+Batch285 Dikanas: Japanese usage https://www.afpbb.com/articles/-/3112743 (2017-01-12); addresses https://www.transportstyrelsen.se/tsfs/TSFS%202014_17.pdf page43 and https://utbildningsguiden.skolverket.se/skolenhet?schoolUnitID=16889382 . Adopted editorially from identified Japanese reporting; not official Japanese designation or independently verified local audio.
+
+Batch286 Ellsinore: editorial Japanese usage https://www.airbnb.jp/rooms/1640596788630437998 and https://www.airbnb.jp/mill-spring-mo/stays ; address https://ecarter.k12.mo.us/east-carter-elementary . Japanese transliteration variants retained in review; not locally verified audio or official Japanese name.
+
+Batch287 Pense: editorial Japanese usage https://www.expedia.co.jp/Pense.dx6347813 and https://www.airbnb.jp/pense-canada/stays/monthly ; municipal address https://www.pense160.ca/public/download/files/314249 . Internal date discrepancy retained; not official Japanese designation or verified local audio.
+
+Batch289 Chilcoot California: editorial Japanese usage https://autoreserve.com/ja/us/california/chilcoot ; address https://about.usps.com/newsroom/local-releases/ca/2021/0714-chilcoot-po-reopens.htm . Not an Alaska-name transfer, official Japanese designation, or verified local audio.
+
+Batch290 Colerain NC: editorial Japanese usage https://www.familysearch.org/ja/cemeteries/sites/255274/ashland-baptist-church-cemetery (translated content); addresses https://ces.bertie.k12.nc.us/ and https://www.colerainbaptist.com/staff-member . Not official Japanese designation or verified local audio.
+
+Batch291 Ituna Saskatchewan: editorial Japanese usage https://www.tripadvisor.jp/LocalMaps-g662325-Fort_Qu_Appelle-Area.html (indexed Japanese text); address https://ituna.ca/business-directory-ituna/ . Not official Japanese designation or verified local audio.
+
+Batch292 Kenaston Saskatchewan: editorial Japanese usage https://www.tripadvisor.jp/Hotel_Review-g2020143-d1911919-Reviews-Pavelich_Farm_Bed_and_Breakfast-Kenaston_Saskatchewan.html (indexed Japanese text); address https://kenaston.ca/recreation/kenaston-library/ . Postal box is not verified room number; not official Japanese designation or verified local audio.
+
+Batch293 Marquand Missouri: editorial Japanese usage https://www.tripadvisor.jp/Tourism-g44640-Marquand_Missouri-Vacations.html ; address https://about.usps.com/news/electronic-press-kits/our-future-network/post-plan/10052013.htm (2013 historical). Direction omitted in original; not current operational guarantee or verified local audio.
+
+Batch297 Leedey Oklahoma: editorial Japanese usage https://www.airbnb.jp/rooms/888296007034073283 ; address https://leedey.k12.ok.us/ . Indexed Japanese text, not verified local audio or official Japanese designation.
+
+Batch298 Bygdsiljum: editorial Japanese usage https://www.airbnb.jp/umea-sweden/stays/hot-tub ; address https://www.ica.se/butiker/nara/skelleftea/ica-nara-bygdsiljum-1004071/tjanster/ . Repeated same listing is one evidence source; not verified local audio or official Japanese designation.
+
+Batch301: St. Brieux editorial Japanese label based on Parliament LANG evidence (St. Brew), with original Affinity branch address checked against operator.
+https://www.ourcommons.ca/Content/Committee/411/LANG/Evidence/EV5229757/LANGEV11-E.PDF
+https://www.affinitywealth.ca/about-us/our-team
+
+Batch302: Treherne editorial Japanese label informed by town-specific Tripadvisor Japanese listing; original credit union address matched operator financial report search text.
+https://www.tripadvisor.jp/Hotel_Review-g1396867-d1395790-Reviews-Whispering_Woods_Cabins_Inc-Treherne_Manitoba.html
+https://www.sunrisecu.mb.ca/assets/pdf/Financial%20Reports/Financials%202014.pdf
+
+Batch303: Chemult editorial Japanese label informed by town-specific Tripadvisor Japanese listing; original Dawson House Lodge address checked directly against operator.
+https://www.tripadvisor.jp/Hotel_Review-g51802-d1439206-Reviews-Whispering_Pines_Motel-Chemult_Oregon.html
+https://dawsonhouse.weebly.com/

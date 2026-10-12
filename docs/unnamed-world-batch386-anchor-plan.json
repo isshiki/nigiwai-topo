@@ -1,0 +1,78 @@
+{
+  "batch": 386,
+  "expected_adopted": 904,
+  "items": [
+    {
+      "peak": "67.963, 15.930",
+      "ja_editorial": "インハヴェット（推定）",
+      "reading_status": "inferred",
+      "review_note": "推定音写。St1Hamarøyveien3068とAVISNordsaltenSentralverksted/Straumenesの公式公開住所を元POIに照合。旧Shell名はShell公式の国内St1改称説明と対応し、別施設に数えない。16/18件本文支持。全POI位置や発音の認定ではない。",
+      "anchors": [
+        {
+          "poi_id": "51d0501d498e81b28545d352",
+          "facility_key": "Innhavet-St1",
+          "source_url": "https://st1.no/stasjon/innhavet",
+          "official_address": "Hamarøyveien3068 E6,8260 Innhavet",
+          "verification": "public_page_body",
+          "limitation": "RawShellbrand changed toSt1; shell.no confirms Norway station rename."
+        },
+        {
+          "poi_id": "5b3a9d97b6eedb003901b7e4",
+          "facility_key": "Innhavet-Avis",
+          "source_url": "https://www.avis.no/produkter-og-tjenester/utleiestasjoner/europa/norge/innhavet/innhavet-hamaroy-sentrum",
+          "official_address": "Nordsalten Sentralverksted As,Straumenes,Innhavet8260",
+          "verification": "public_page_body",
+          "limitation": "Official public page body checked."
+        }
+      ]
+    },
+    {
+      "peak": "44.925, -78.725",
+      "ja_editorial": "ミンデン（推定）",
+      "reading_status": "inferred",
+      "review_note": "推定音写。RisingThymes124BobcaygeonRdとDominionHotel113Bobcaygeon/MainStreetを運営者の公式公開住所で確認。後者の元localityはHaliburtonで公式Mindenと相違するため、そのPOIの地名欄一致には数えず独立住所照合として使用。MindenHills全域の一括改名ではなく本峰の参考地名。",
+      "anchors": [
+        {
+          "poi_id": "69b5956880dbfd541cec1777",
+          "facility_key": "Minden-RisingThymes",
+          "source_url": "https://www.risingthymes.ca/faq-s",
+          "official_address": "124BobcaygeonRoad,MindenON",
+          "verification": "public_page_body",
+          "limitation": "Official public page body checked."
+        },
+        {
+          "poi_id": "4c83ffdb74d7b60cdd088fd8",
+          "facility_key": "Minden-Dominion",
+          "source_url": "https://dominionhotelpub.ca/Contact/index.php",
+          "official_address": "113MainStreet or113BobcaygeonRd,MindenOntario",
+          "verification": "public_page_body",
+          "limitation": "RawlocalityHaliburton differs; operator confirms address inMinden and warns about unrelatedBobcaygeon town."
+        }
+      ]
+    },
+    {
+      "peak": "44.931, -78.716",
+      "ja_editorial": "ミンデン（推定）",
+      "reading_status": "inferred",
+      "review_note": "推定音写。別峰を独立にSubway12621Highway35とCanadianTireGas12627Highway35の公式公開住所で確認。同じGeoNamesIDによる同一参考地名として扱い別の街名を創作しない。",
+      "anchors": [
+        {
+          "poi_id": "4c12758777cea5938014cd60",
+          "facility_key": "Minden-Subway",
+          "source_url": "https://restaurants.subway.com/canada/on/minden/12621-highway-35",
+          "official_address": "12621Highway35,MindenONK0M2K0",
+          "verification": "public_page_body",
+          "limitation": "Official public page body checked."
+        },
+        {
+          "poi_id": "52226c0d11d2e0c8385acb6d",
+          "facility_key": "Minden-CanadianTireGas",
+          "source_url": "https://www.canadiantire.ca/en/store-details/on/minden-on-1047.html",
+          "official_address": "12627Highway35,MindenOntarioK0M2K0",
+          "verification": "public_page_body",
+          "limitation": "Official public page body checked."
+        }
+      ]
+    }
+  ]
+}

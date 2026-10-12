@@ -1,0 +1,30 @@
+{
+  "batch": 395,
+  "expected_adopted": 914,
+  "items": [
+    {
+      "peak": "46.384, -71.410",
+      "ja_editorial": "サンタグアット・ド・ロトビニエール（推定）",
+      "reading_status": "inferred",
+      "review_note": "推定音写。BMR公式の歴史的加盟店表はCoopAgricLaSeigneurie119RueStGeorgesをSainteAgathedeLotbiniereとして記載。自治体254RueSaintPierreをCanada.ca2015公式告知で確認。GeoNames短名SainteAgatheは州官報の旧Village/Paroisse統合記述を併せた個別地域対応。現BMRは2321RueSaintGeorgesであり移転/改番を未確定のまま旧住所と同一地点とは断定しない。34/37本文支持。",
+      "anchors": [
+        {
+          "poi_id": "4646f3bf5c7c40fc78d86b54",
+          "facility_key": "SteAgathe-Coop119",
+          "source_url": "https://www.bmr.ca/media/com/bmr-grattez-et-epargnez-reglements-officiels.pdf",
+          "official_address": "COOPAGRICLASEIGNEURIE/STEAGATHE,119RUE STGEORGES,SAINTEAGATHEDELOTBINIERE QCG0S2A0",
+          "verification": "official_search_excerpt",
+          "limitation": "Historicaloperatorlist. CurrentBMR2321RueSaintGeorges; no assumedmove orrenumber proof."
+        },
+        {
+          "poi_id": "035ec6b8537b44b192ee00d5",
+          "facility_key": "SteAgathe-Municipal254",
+          "source_url": "https://www.canada.ca/fr/nouvelles/archive/2015/07/municipalite-sainte-agathe-lotbiniere-obtient-appui-financier-gouvernement-canada.html",
+          "official_address": "CentreMunicipal,254RueSaintPierre,SainteAgathedeLotbiniereQuebec",
+          "verification": "official_search_excerpt",
+          "limitation": "2015officialgovernmentsearchaddress; directwebopen cachemiss. Quebecmunicipaldirectory andGazette independently correlateformerVillageandfullmunicipalname; notcurrenthours orallPOIpositionproof."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "batch": 399,
+  "peak": "47.209, -124.202",
+  "decision": "hold_competing_geographic_reference",
+  "name_applied": false,
+  "total_adopted": 917,
+  "remaining": 4437,
+  "confirmed_anchors": [
+    {
+      "poi_id": "5f3968c77d31e304d83dc4f8",
+      "url": "https://clipperinn.net/",
+      "verification": "public_page_body",
+      "address": "45 Main St,Pacific Beach,WA98571"
+    },
+    {
+      "poi_id": "4c37cfb91e06d13ae9b7763e",
+      "url": "https://wa.gov/recreation/parks/pacific-beach-state-park",
+      "verification": "official_search_excerpt",
+      "address": "49 Second Street,Pacific Beach,WA98571"
+    }
+  ],
+  "competing_reference": {
+    "id": "5797316",
+    "name": "Highland Heights",
+    "distance_m": 941,
+    "supporting_pois": 1
+  },
+  "primary_reference": {
+    "id": "5805996",
+    "name": "Pacific Beach",
+    "distance_m": 116,
+    "text_supporting_pois": 52,
+    "near_pois": 61
+  },
+  "next_action": "Verify competing locality extent and its single POI; do not globally weaken competing-reference guard.",
+  "adoption_validator_result": "Competing references need separate geographic review",
+  "active_density_changed": false
+}

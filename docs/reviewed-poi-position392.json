@@ -1,0 +1,64 @@
+{
+  "snapshot_id": "2325979374271449319",
+  "active_release": "foursquare-world-v5",
+  "status": "individual_evidence_reviewed_preview_pending",
+  "applied_to_active_density": false,
+  "records": [
+    {
+      "id": "523adaf111d234c09c58513c",
+      "peak": "38.039, 35.586",
+      "coordinates": [
+        35.5863022,
+        38.0392791
+      ],
+      "raw_name": "Karaköy Lokantasi",
+      "raw_address": "Karaköy",
+      "raw_locality": null,
+      "raw_country": "TR",
+      "official_address": "Kemankeş Caddesi57,Karaköy,Beyoğlu,Istanbul",
+      "source_url": "https://www.karakoylokantasi.com/en/contact",
+      "verification": "public_page_body",
+      "decision": "proposed_individual_quality_quarantine",
+      "reason": "Distinct named operator official facility is inIstanbul while source point lies nearKayseri. Do not assign that distant settlement name to this peak; preserve raw source and do not invent corrected coordinates.",
+      "separation_from_operator_map_viewport_m": 657494,
+      "viewport_limitation": "Map centre extracted fromrestaurant official embed URL; broad displacement check only, not an exactreplacement location."
+    },
+    {
+      "id": "4f6aab7ee4b08858d5afa0ff",
+      "peak": "38.039, 35.586",
+      "coordinates": [
+        35.586304861029134,
+        38.03928042842591
+      ],
+      "raw_name": "GULLUOGLU - KARAKOY",
+      "raw_address": "KARAKOY",
+      "raw_locality": null,
+      "raw_country": "TR",
+      "official_address": "KemankeşCaddesi67,34425Beyoğlu/Istanbul",
+      "source_url": "https://www.karakoygulluoglu.com/Iletisim",
+      "verification": "public_page_body",
+      "decision": "proposed_individual_quality_quarantine",
+      "reason": "Distinct named operator official facility is inIstanbul while source point lies nearKayseri. Do not assign that distant settlement name to this peak; preserve raw source and do not invent corrected coordinates.",
+      "separation_from_operator_map_viewport_m": 657494,
+      "viewport_limitation": "Map centre extracted fromrestaurant official embed URL; broad displacement check only, not an exactreplacement location."
+    },
+    {
+      "id": "4e3af65f52b1b09cb6892084",
+      "peak": "49.052, -113.909",
+      "coordinates": [
+        -113.90887652932719,
+        49.05183062081504
+      ],
+      "raw_name": "Cameron Lake",
+      "raw_address": null,
+      "raw_locality": "WATERTON PARK",
+      "raw_country": "CA",
+      "official_address": "Cameron Lake, end of16kmAkaminaParkway fromWatertontownsite",
+      "source_url": "https://parks.canada.ca/pn-np/ab/waterton/activ/experiences/conduite-driving/akamina",
+      "verification": "official_search_excerpt",
+      "decision": "proposed_individual_quality_quarantine",
+      "reason": "Source lakePOI28m fromtowncentre peak, whereas ParksCanada separately identifies CameronLake at endof16kmparkway. Do not treat wholepark mailing locality as lakephysicalposition.",
+      "limits": "Roadlength isnot straightlinedistance. No replacementcoordinates inferred; lake-map boundary confirmation and densityrelease remainpending."
+    }
+  ]
+}

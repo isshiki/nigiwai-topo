@@ -1,0 +1,30 @@
+{
+  "batch": 387,
+  "expected_adopted": 907,
+  "items": [
+    {
+      "peak": "62.852, 12.792",
+      "ja_editorial": "ユングダーレン（推定）",
+      "reading_status": "inferred",
+      "review_note": "推定音写。ICA店舗Ljungdalen700をApoteket公式代理店住所で確認。Ljungdalen163の観光協会をBerg自治体2025-03-13議事録の8673-2024行で対応確認。元POIは旧称FriluftsföreningTurist-/Inf.Byråで、住所照合に用いるが現行正式団体名の認定はしない。22/25本文支持、独立2施設2発行元。",
+      "anchors": [
+        {
+          "poi_id": "1cfd9176ad7941c6efd8314a",
+          "facility_key": "ICA-Ljungdalen700",
+          "source_url": "https://www.apoteket.se/apotek/ombud-ica-nara-ljungdalen-ljungdalen/",
+          "official_address": "Ljungdalen700,84599Ljungdalen",
+          "verification": "official_search_excerpt",
+          "limitation": "OfficialApoteket agentaddress; ICA andagentcount asonefacility. Directopencachemiss."
+        },
+        {
+          "poi_id": "447cfd19b1424cfa26380a6f",
+          "facility_key": "Tourist-Ljungdalen163",
+          "source_url": "https://berg.se/download/18.6477de52195848c7f82afe3/1742307449137/Kommunstyrelsens%20utvecklingsutskotts%20protokoll%202025-03-13%20f%C3%B6r%20delning.pdf",
+          "official_address": "Ljungdalsfjällens turistförening,Ljungdalen163,84599Ljungdalen",
+          "verification": "public_page_body",
+          "limitation": "Municipalgrantrecord confirms current associationaddress; rawPOI usesolder associationdescription."
+        }
+      ]
+    }
+  ]
+}

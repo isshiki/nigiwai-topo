@@ -1,0 +1,1018 @@
+{
+  "items": [
+    {
+      "peak": "58.683, -156.670",
+      "ja": "キングサーモン",
+      "ref": {
+        "id": "5866330",
+        "name": "King Salmon",
+        "country": "US",
+        "lon": -156.66139,
+        "lat": 58.68833,
+        "feature_code": "PPL",
+        "source_url": "https://download.geonames.org/export/dump/US.zip",
+        "distance_m": 809,
+        "supporting_pois": 30,
+        "support_share": 0.968
+      },
+      "batch": 2,
+      "policy": "address_review_85",
+      "review_note": "原名・登録日本語別名・複数の住所と施設名を確認。市内の誤位置POI全件を認定するものではありません。"
+    },
+    {
+      "peak": "60.778, -148.697",
+      "ja": "ウィッティア",
+      "ref": {
+        "id": "5878018",
+        "name": "Whittier",
+        "country": "US",
+        "lon": -148.68585,
+        "lat": 60.7746,
+        "feature_code": "PPL",
+        "source_url": "https://download.geonames.org/export/dump/US.zip",
+        "distance_m": 715,
+        "supporting_pois": 67,
+        "support_share": 0.931
+      },
+      "batch": 2,
+      "policy": "address_review_85",
+      "review_note": "原名・登録日本語別名・複数の住所と施設名を確認。市内の誤位置POI全件を認定するものではありません。"
+    },
+    {
+      "peak": "32.603, -98.215",
+      "ja": "サント",
+      "ref": {
+        "id": "4727103",
+        "name": "Santo",
+        "country": "US",
+        "lon": -98.21532,
+        "lat": 32.60319,
+        "feature_code": "PPL",
+        "source_url": "https://download.geonames.org/export/dump/US.zip",
+        "distance_m": 26,
+        "supporting_pois": 30,
+        "support_share": 0.857
+      },
+      "batch": 2,
+      "policy": "address_review_85",
+      "review_note": "原名・登録日本語別名・複数の住所と施設名を確認。市内の誤位置POI全件を認定するものではありません。"
+    },
+    {
+      "peak": "39.274, -97.766",
+      "ja": "デルフォス",
+      "ref": {
+        "id": "4270338",
+        "name": "Delphos",
+        "country": "US",
+        "lon": -97.77198,
+        "lat": 39.27389,
+        "feature_code": "PPL",
+        "source_url": "https://download.geonames.org/export/dump/US.zip",
+        "distance_m": 509,
+        "supporting_pois": 23,
+        "support_share": 1.0
+      },
+      "batch": 2,
+      "policy": "address_review_85",
+      "review_note": "原名・登録日本語別名・複数の住所と施設名を確認。市内の誤位置POI全件を認定するものではありません。"
+    },
+    {
+      "peak": "39.809, -98.556",
+      "ja": "レバノン",
+      "ref": {
+        "id": "4274378",
+        "name": "Lebanon",
+        "country": "US",
+        "lon": -98.55562,
+        "lat": 39.80973,
+        "feature_code": "PPL",
+        "source_url": "https://download.geonames.org/export/dump/US.zip",
+        "distance_m": 119,
+        "supporting_pois": 29,
+        "support_share": 0.879
+      },
+      "batch": 2,
+      "policy": "address_review_85",
+      "review_note": "原名・登録日本語別名・複数の住所と施設名を確認。市内の誤位置POI全件を認定するものではありません。"
+    },
+    {
+      "peak": "43.201, -91.152",
+      "ja": "ハーパーズ・フェリー",
+      "ref": {
+        "id": "4859862",
+        "name": "Harpers Ferry",
+        "country": "US",
+        "lon": -91.15319,
+        "lat": 43.20054,
+        "feature_code": "PPL",
+        "source_url": "https://download.geonames.org/export/dump/US.zip",
+        "distance_m": 105,
+        "supporting_pois": 37,
+        "support_share": 0.881
+      },
+      "batch": 2,
+      "policy": "address_review_85",
+      "review_note": "原名・登録日本語別名・複数の住所と施設名を確認。市内の誤位置POI全件を認定するものではありません。"
+    },
+    {
+      "peak": "45.488, -77.679",
+      "ja": "バリーズベイ",
+      "ref": {
+        "id": "5894340",
+        "name": "Barry's Bay",
+        "country": "CA",
+        "lon": -77.6828,
+        "lat": 45.48342,
+        "feature_code": "PPL",
+        "source_url": "https://download.geonames.org/export/dump/CA.zip",
+        "distance_m": 570,
+        "supporting_pois": 123,
+        "support_share": 0.854
+      },
+      "batch": 2,
+      "policy": "address_review_85",
+      "review_note": "原名・登録日本語別名・複数の住所と施設名を確認。市内の誤位置POI全件を認定するものではありません。"
+    },
+    {
+      "peak": "65.819, 15.086",
+      "ja": "ヘーマーバン",
+      "ref": {
+        "id": "2706755",
+        "name": "Hemavan",
+        "country": "SE",
+        "lon": 15.08663,
+        "lat": 65.81987,
+        "feature_code": "PPL",
+        "source_url": "https://download.geonames.org/export/dump/SE.zip",
+        "distance_m": 125,
+        "supporting_pois": 68,
+        "support_share": 0.883
+      },
+      "batch": 2,
+      "policy": "address_review_85",
+      "review_note": "原名・登録日本語別名・複数の住所と施設名を確認。市内の誤位置POI全件を認定するものではありません。"
+    },
+    {
+      "peak": "68.350, 18.832",
+      "ja": "アビスコ",
+      "ref": {
+        "id": "2727664",
+        "name": "Abisko",
+        "country": "SE",
+        "lon": 18.82868,
+        "lat": 68.34914,
+        "feature_code": "PPL",
+        "source_url": "https://download.geonames.org/export/dump/SE.zip",
+        "distance_m": 166,
+        "supporting_pois": 40,
+        "support_share": 0.889
+      },
+      "batch": 2,
+      "policy": "address_review_85",
+      "review_note": "原名・登録日本語別名・複数の住所と施設名を確認。市内の誤位置POI全件を認定するものではありません。"
+    },
+    {
+      "peak": "38.910, -123.692",
+      "ref": {
+        "id": "5383931",
+        "name": "Point Arena",
+        "country": "US",
+        "lon": -123.69307,
+        "lat": 38.9088,
+        "feature_code": "PPL",
+        "source_url": "https://download.geonames.org/export/dump/US.zip",
+        "distance_m": 116,
+        "supporting_pois": 67,
+        "support_share": 0.971
+      },
+      "ja_editorial": "ポイント・アリーナ",
+      "batch": 2,
+      "policy": "strong_address",
+      "review_note": "原名と住所の一致・参照地点の位置を確認。日本語はCodexによる編集音写で、公式の日本語名を確定した意味ではありません。"
+    },
+    {
+      "peak": "43.636, -123.566",
+      "ref": {
+        "id": "5725503",
+        "name": "Elkton",
+        "country": "US",
+        "lon": -123.56815,
+        "lat": 43.63762,
+        "feature_code": "PPL",
+        "source_url": "https://download.geonames.org/export/dump/US.zip",
+        "distance_m": 188,
+        "supporting_pois": 29,
+        "support_share": 0.935
+      },
+      "ja_editorial": "エルクトン",
+      "batch": 2,
+      "policy": "strong_address",
+      "review_note": "原名と住所の一致・参照地点の位置を確認。日本語はCodexによる編集音写で、公式の日本語名を確定した意味ではありません。"
+    },
+    {
+      "peak": "48.695, -122.907",
+      "ref": {
+        "id": "5793307",
+        "name": "Eastsound",
+        "country": "US",
+        "lon": -122.90546,
+        "lat": 48.69677,
+        "feature_code": "PPL",
+        "source_url": "https://download.geonames.org/export/dump/US.zip",
+        "distance_m": 178,
+        "supporting_pois": 277,
+        "support_share": 0.914
+      },
+      "ja_editorial": "イーストサウンド",
+      "batch": 2,
+      "policy": "strong_address",
+      "review_note": "原名と住所の一致・参照地点の位置を確認。日本語はCodexによる編集音写で、公式の日本語名を確定した意味ではありません。"
+    },
+    {
+      "peak": "39.566, -120.635",
+      "ref": {
+        "id": "5395577",
+        "name": "Sierra City",
+        "country": "US",
+        "lon": -120.63383,
+        "lat": 39.56573,
+        "feature_code": "PPL",
+        "source_url": "https://download.geonames.org/export/dump/US.zip",
+        "distance_m": 109,
+        "supporting_pois": 27,
+        "support_share": 0.964
+      },
+      "ja_editorial": "シエラ・シティ",
+      "batch": 2,
+      "policy": "strong_address",
+      "review_note": "原名と住所の一致・参照地点の位置を確認。日本語はCodexによる編集音写で、公式の日本語名を確定した意味ではありません。"
+    },
+    {
+      "peak": "46.760, -122.036",
+      "ref": {
+        "id": "5785926",
+        "name": "Ashford",
+        "country": "US",
+        "lon": -122.03094,
+        "lat": 46.75844,
+        "feature_code": "PPL",
+        "source_url": "https://download.geonames.org/export/dump/US.zip",
+        "distance_m": 471,
+        "supporting_pois": 30,
+        "support_share": 0.968
+      },
+      "ja_editorial": "アシュフォード",
+      "batch": 2,
+      "policy": "strong_address",
+      "review_note": "原名と住所の一致・参照地点の位置を確認。日本語はCodexによる編集音写で、公式の日本語名を確定した意味ではありません。"
+    },
+    {
+      "peak": "50.233, -121.581",
+      "ref": {
+        "id": "6062479",
+        "name": "Lytton",
+        "country": "CA",
+        "lon": -121.58196,
+        "lat": 50.23194,
+        "feature_code": "PPL",
+        "source_url": "https://download.geonames.org/export/dump/CA.zip",
+        "distance_m": 100,
+        "supporting_pois": 60,
+        "support_share": 0.938
+      },
+      "ja_editorial": "リットン",
+      "batch": 2,
+      "policy": "strong_address",
+      "review_note": "原名と住所の一致・参照地点の位置を確認。日本語はCodexによる編集音写で、公式の日本語名を確定した意味ではありません。"
+    },
+    {
+      "peak": "53.103, -121.569",
+      "ref": {
+        "id": "6177949",
+        "name": "Wells",
+        "country": "CA",
+        "lon": -121.57359,
+        "lat": 53.10552,
+        "feature_code": "PPL",
+        "source_url": "https://download.geonames.org/export/dump/CA.zip",
+        "distance_m": 425,
+        "supporting_pois": 28,
+        "support_share": 0.933
+      },
+      "ja_editorial": "ウェルズ",
+      "batch": 2,
+      "policy": "strong_address",
+      "review_note": "原名と住所の一致・参照地点の位置を確認。日本語はCodexによる編集音写で、公式の日本語名を確定した意味ではありません。"
+    },
+    {
+      "peak": "38.192, -119.995",
+      "ref": {
+        "id": "5383090",
+        "name": "Pinecrest",
+        "country": "US",
+        "lon": -119.99238,
+        "lat": 38.18885,
+        "feature_code": "PPL",
+        "source_url": "https://download.geonames.org/export/dump/US.zip",
+        "distance_m": 465,
+        "supporting_pois": 20,
+        "support_share": 0.909
+      },
+      "ja_editorial": "パインクレスト",
+      "batch": 2,
+      "policy": "strong_address",
+      "review_note": "原名と住所の一致・参照地点の位置を確認。日本語はCodexによる編集音写で、公式の日本語名を確定した意味ではありません。"
+    },
+    {
+      "peak": "42.693, -120.545",
+      "ref": {
+        "id": "5744730",
+        "name": "Paisley",
+        "country": "US",
+        "lon": -120.54608,
+        "lat": 42.69376,
+        "feature_code": "PPL",
+        "source_url": "https://download.geonames.org/export/dump/US.zip",
+        "distance_m": 95,
+        "supporting_pois": 18,
+        "support_share": 0.9
+      },
+      "ja_editorial": "ペイズリー",
+      "batch": 2,
+      "policy": "strong_address",
+      "review_note": "原名と住所の一致・参照地点の位置を確認。日本語はCodexによる編集音写で、公式の日本語名を確定した意味ではありません。"
+    },
+    {
+      "peak": "44.769, -117.168",
+      "ref": {
+        "id": "5748191",
+        "name": "Richland",
+        "country": "US",
+        "lon": -117.16851,
+        "lat": 44.76905,
+        "feature_code": "PPL",
+        "source_url": "https://download.geonames.org/export/dump/US.zip",
+        "distance_m": 42,
+        "supporting_pois": 16,
+        "support_share": 1.0
+      },
+      "ja_editorial": "リッチランド",
+      "batch": 2,
+      "policy": "strong_address",
+      "review_note": "原名と住所の一致・参照地点の位置を確認。日本語はCodexによる編集音写で、公式の日本語名を確定した意味ではありません。"
+    },
+    {
+      "peak": "46.568, -117.129",
+      "ref": {
+        "id": "5790598",
+        "name": "Colton",
+        "country": "US",
+        "lon": -117.1285,
+        "lat": 46.56794,
+        "feature_code": "PPL",
+        "source_url": "https://download.geonames.org/export/dump/US.zip",
+        "distance_m": 22,
+        "supporting_pois": 24,
+        "support_share": 1.0
+      },
+      "ja_editorial": "コルトン",
+      "batch": 2,
+      "policy": "strong_address",
+      "review_note": "原名と住所の一致・参照地点の位置を確認。日本語はCodexによる編集音写で、公式の日本語名を確定した意味ではありません。"
+    },
+    {
+      "peak": "48.917, -117.780",
+      "ref": {
+        "id": "5805313",
+        "name": "Northport",
+        "country": "US",
+        "lon": -117.78165,
+        "lat": 48.91602,
+        "feature_code": "PPL",
+        "source_url": "https://download.geonames.org/export/dump/US.zip",
+        "distance_m": 132,
+        "supporting_pois": 36,
+        "support_share": 0.973
+      },
+      "ja_editorial": "ノースポート",
+      "batch": 2,
+      "policy": "strong_address",
+      "review_note": "原名と住所の一致・参照地点の位置を確認。日本語はCodexによる編集音写で、公式の日本語名を確定した意味ではありません。"
+    },
+    {
+      "peak": "49.953, -117.357",
+      "ref": {
+        "id": "6147932",
+        "name": "Silverton",
+        "country": "CA",
+        "lon": -117.3605,
+        "lat": 49.95265,
+        "feature_code": "PPL",
+        "source_url": "https://download.geonames.org/export/dump/CA.zip",
+        "distance_m": 230,
+        "supporting_pois": 20,
+        "support_share": 0.909
+      },
+      "ja_editorial": "シルバートン",
+      "batch": 2,
+      "policy": "strong_address",
+      "review_note": "原名と住所の一致・参照地点の位置を確認。日本語はCodexによる編集音写で、公式の日本語名を確定した意味ではありません。"
+    },
+    {
+      "peak": "36.644, -116.397",
+      "ref": {
+        "id": "5499212",
+        "name": "Amargosa Valley",
+        "country": "US",
+        "lon": -116.40033,
+        "lat": 36.64384,
+        "feature_code": "PPL",
+        "source_url": "https://download.geonames.org/export/dump/US.zip",
+        "distance_m": 300,
+        "supporting_pois": 22,
+        "support_share": 0.957
+      },
+      "ja_editorial": "アマーゴサ・バレー",
+      "batch": 2,
+      "policy": "strong_address",
+      "review_note": "原名と住所の一致・参照地点の位置を確認。日本語はCodexによる編集音写で、公式の日本語名を確定した意味ではありません。"
+    },
+    {
+      "peak": "44.971, -116.284",
+      "ref": {
+        "id": "5602077",
+        "name": "New Meadows",
+        "country": "US",
+        "lon": -116.28402,
+        "lat": 44.97128,
+        "feature_code": "PPL",
+        "source_url": "https://download.geonames.org/export/dump/US.zip",
+        "distance_m": 34,
+        "supporting_pois": 69,
+        "support_share": 0.972
+      },
+      "ja_editorial": "ニュー・メドウズ",
+      "batch": 2,
+      "policy": "strong_address",
+      "review_note": "原名と住所の一致・参照地点の位置を確認。日本語はCodexによる編集音写で、公式の日本語名を確定した意味ではありません。"
+    },
+    {
+      "peak": "44.572, -116.676",
+      "ref": {
+        "id": "5587779",
+        "name": "Cambridge",
+        "country": "US",
+        "lon": -116.67599,
+        "lat": 44.57266,
+        "feature_code": "PPL",
+        "source_url": "https://download.geonames.org/export/dump/US.zip",
+        "distance_m": 18,
+        "supporting_pois": 52,
+        "support_share": 0.963
+      },
+      "ja_editorial": "ケンブリッジ",
+      "batch": 2,
+      "policy": "strong_address",
+      "review_note": "原名と住所の一致・参照地点の位置を確認。日本語はCodexによる編集音写で、公式の日本語名を確定した意味ではありません。"
+    },
+    {
+      "peak": "44.090, -115.952",
+      "ref": {
+        "id": "5593837",
+        "name": "Garden Valley",
+        "country": "US",
+        "lon": -115.95206,
+        "lat": 44.08989,
+        "feature_code": "PPL",
+        "source_url": "https://download.geonames.org/export/dump/US.zip",
+        "distance_m": 36,
+        "supporting_pois": 19,
+        "support_share": 0.95
+      },
+      "ja_editorial": "ガーデン・バレー",
+      "batch": 2,
+      "policy": "strong_address",
+      "review_note": "原名と住所の一致・参照地点の位置を確認。日本語はCodexによる編集音写で、公式の日本語名を確定した意味ではありません。"
+    },
+    {
+      "peak": "47.454, -116.786",
+      "ref": {
+        "id": "5595198",
+        "name": "Harrison",
+        "country": "US",
+        "lon": -116.78546,
+        "lat": 47.45435,
+        "feature_code": "PPL",
+        "source_url": "https://download.geonames.org/export/dump/US.zip",
+        "distance_m": 26,
+        "supporting_pois": 34,
+        "support_share": 1.0
+      },
+      "ja_editorial": "ハリソン",
+      "batch": 2,
+      "policy": "strong_address",
+      "review_note": "原名と住所の一致・参照地点の位置を確認。日本語はCodexによる編集音写で、公式の日本語名を確定した意味ではありません。"
+    },
+    {
+      "peak": "44.216, -114.937",
+      "ref": {
+        "id": "5608726",
+        "name": "Stanley",
+        "country": "US",
+        "lon": -114.93858,
+        "lat": 44.21742,
+        "feature_code": "PPL",
+        "source_url": "https://download.geonames.org/export/dump/US.zip",
+        "distance_m": 184,
+        "supporting_pois": 77,
+        "support_share": 0.987
+      },
+      "ja_editorial": "スタンリー",
+      "batch": 2,
+      "policy": "strong_address",
+      "review_note": "原名と住所の一致・参照地点の位置を確認。日本語はCodexによる編集音写で、公式の日本語名を確定した意味ではありません。"
+    },
+    {
+      "peak": "47.298, -115.099",
+      "ref": {
+        "id": "5676020",
+        "name": "Saint Regis",
+        "country": "US",
+        "lon": -115.10264,
+        "lat": 47.29937,
+        "feature_code": "PPL",
+        "source_url": "https://download.geonames.org/export/dump/US.zip",
+        "distance_m": 320,
+        "supporting_pois": 42,
+        "support_share": 0.933
+      },
+      "ja_editorial": "セント・レジス",
+      "batch": 2,
+      "policy": "strong_address",
+      "review_note": "原名と住所の一致・参照地点の位置を確認。日本語はCodexによる編集音写で、公式の日本語名を確定した意味ではありません。"
+    },
+    {
+      "peak": "47.003, -114.478",
+      "ref": {
+        "id": "5636723",
+        "name": "Alberton",
+        "country": "US",
+        "lon": -114.47345,
+        "lat": 47.00159,
+        "feature_code": "PPL",
+        "source_url": "https://download.geonames.org/export/dump/US.zip",
+        "distance_m": 414,
+        "supporting_pois": 32,
+        "support_share": 1.0
+      },
+      "ja_editorial": "アルバートン",
+      "batch": 2,
+      "policy": "strong_address",
+      "review_note": "原名と住所の一致・参照地点の位置を確認。日本語はCodexによる編集音写で、公式の日本語名を確定した意味ではありません。"
+    },
+    {
+      "peak": "51.591, -113.485",
+      "ref": {
+        "id": "6054313",
+        "name": "Linden",
+        "country": "CA",
+        "lon": -113.48525,
+        "lat": 51.59181,
+        "feature_code": "PPL",
+        "source_url": "https://download.geonames.org/export/dump/CA.zip",
+        "distance_m": 131,
+        "supporting_pois": 52,
+        "support_share": 1.0
+      },
+      "ja_editorial": "リンデン",
+      "batch": 2,
+      "policy": "strong_address",
+      "review_note": "原名と住所の一致・参照地点の位置を確認。日本語はCodexによる編集音写で、公式の日本語名を確定した意味ではありません。"
+    },
+    {
+      "peak": "37.694, -112.847",
+      "ref": {
+        "id": "5535799",
+        "name": "Brian Head",
+        "country": "US",
+        "lon": -112.85078,
+        "lat": 37.69276,
+        "feature_code": "PPL",
+        "source_url": "https://download.geonames.org/export/dump/US.zip",
+        "distance_m": 320,
+        "supporting_pois": 44,
+        "support_share": 0.957
+      },
+      "ja_editorial": "ブライアン・ヘッド",
+      "batch": 2,
+      "policy": "strong_address",
+      "review_note": "原名と住所の一致・参照地点の位置を確認。日本語はCodexによる編集音写で、公式の日本語名を確定した意味ではありません。"
+    },
+    {
+      "peak": "42.619, -112.011",
+      "ref": {
+        "id": "5598333",
+        "name": "Lava Hot Springs",
+        "country": "US",
+        "lon": -112.01107,
+        "lat": 42.61936,
+        "feature_code": "PPL",
+        "source_url": "https://download.geonames.org/export/dump/US.zip",
+        "distance_m": 24,
+        "supporting_pois": 116,
+        "support_share": 0.951
+      },
+      "ja_editorial": "ラバ・ホット・スプリングス",
+      "batch": 2,
+      "policy": "strong_address",
+      "review_note": "原名と住所の一致・参照地点の位置を確認。日本語はCodexによる編集音写で、公式の日本語名を確定した意味ではありません。"
+    },
+    {
+      "peak": "42.306, -113.369",
+      "ref": {
+        "id": "5600078",
+        "name": "Malta",
+        "country": "US",
+        "lon": -113.36917,
+        "lat": 42.3063,
+        "feature_code": "PPL",
+        "source_url": "https://download.geonames.org/export/dump/US.zip",
+        "distance_m": 19,
+        "supporting_pois": 19,
+        "support_share": 0.95
+      },
+      "ja_editorial": "マルタ",
+      "batch": 2,
+      "policy": "strong_address",
+      "review_note": "原名と住所の一致・参照地点の位置を確認。日本語はCodexによる編集音写で、公式の日本語名を確定した意味ではありません。"
+    },
+    {
+      "peak": "46.668, -113.146",
+      "ref": {
+        "id": "5649168",
+        "name": "Drummond",
+        "country": "US",
+        "lon": -113.14729,
+        "lat": 46.66743,
+        "feature_code": "PPL",
+        "source_url": "https://download.geonames.org/export/dump/US.zip",
+        "distance_m": 89,
+        "supporting_pois": 33,
+        "support_share": 0.971
+      },
+      "ja_editorial": "ドラモンド",
+      "batch": 2,
+      "policy": "strong_address",
+      "review_note": "原名と住所の一致・参照地点の位置を確認。日本語はCodexによる編集音写で、公式の日本語名を確定した意味ではありません。"
+    },
+    {
+      "peak": "47.493, -112.391",
+      "ref": {
+        "id": "5637902",
+        "name": "Augusta",
+        "country": "US",
+        "lon": -112.39225,
+        "lat": 47.49273,
+        "feature_code": "PPL",
+        "source_url": "https://download.geonames.org/export/dump/US.zip",
+        "distance_m": 92,
+        "supporting_pois": 33,
+        "support_share": 0.943
+      },
+      "ja_editorial": "オーガスタ",
+      "batch": 2,
+      "policy": "strong_address",
+      "review_note": "原名と住所の一致・参照地点の位置を確認。日本語はCodexによる編集音写で、公式の日本語名を確定した意味ではありません。"
+    },
+    {
+      "peak": "49.149, -112.086",
+      "ref": {
+        "id": "6073695",
+        "name": "Milk River",
+        "country": "CA",
+        "lon": -112.08508,
+        "lat": 49.14999,
+        "feature_code": "PPL",
+        "source_url": "https://download.geonames.org/export/dump/CA.zip",
+        "distance_m": 129,
+        "supporting_pois": 83,
+        "support_share": 0.954
+      },
+      "ja_editorial": "ミルク・リバー",
+      "batch": 2,
+      "policy": "strong_address",
+      "review_note": "原名と住所の一致・参照地点の位置を確認。日本語はCodexによる編集音写で、公式の日本語名を確定した意味ではありません。"
+    },
+    {
+      "peak": "49.282, -112.205",
+      "ref": {
+        "id": "6176250",
+        "name": "Warner",
+        "country": "CA",
+        "lon": -112.20178,
+        "lat": 49.2833,
+        "feature_code": "PPL",
+        "source_url": "https://download.geonames.org/export/dump/CA.zip",
+        "distance_m": 251,
+        "supporting_pois": 25,
+        "support_share": 0.962
+      },
+      "ja_editorial": "ワーナー",
+      "batch": 2,
+      "policy": "strong_address",
+      "review_note": "原名と住所の一致・参照地点の位置を確認。日本語はCodexによる編集音写で、公式の日本語名を確定した意味ではありません。"
+    },
+    {
+      "peak": "50.732, -111.905",
+      "ref": {
+        "id": "5943101",
+        "name": "Duchess",
+        "country": "CA",
+        "lon": -111.90543,
+        "lat": 50.73021,
+        "feature_code": "PPL",
+        "source_url": "https://download.geonames.org/export/dump/CA.zip",
+        "distance_m": 212,
+        "supporting_pois": 36,
+        "support_share": 0.923
+      },
+      "ja_editorial": "ダッチェス",
+      "batch": 2,
+      "policy": "strong_address",
+      "review_note": "原名と住所の一致・参照地点の位置を確認。日本語はCodexによる編集音写で、公式の日本語名を確定した意味ではありません。"
+    },
+    {
+      "peak": "51.486, -113.153",
+      "ref": {
+        "id": "5916711",
+        "name": "Carbon",
+        "country": "CA",
+        "lon": -113.15191,
+        "lat": 51.48343,
+        "feature_code": "PPL",
+        "source_url": "https://download.geonames.org/export/dump/CA.zip",
+        "distance_m": 336,
+        "supporting_pois": 21,
+        "support_share": 0.955
+      },
+      "ja_editorial": "カーボン",
+      "batch": 2,
+      "policy": "strong_address",
+      "review_note": "原名と住所の一致・参照地点の位置を確認。日本語はCodexによる編集音写で、公式の日本語名を確定した意味ではありません。"
+    },
+    {
+      "peak": "53.951, -113.108",
+      "ref": {
+        "id": "6118787",
+        "name": "Redwater",
+        "country": "CA",
+        "lon": -113.10199,
+        "lat": 53.95015,
+        "feature_code": "PPL",
+        "source_url": "https://download.geonames.org/export/dump/CA.zip",
+        "distance_m": 443,
+        "supporting_pois": 144,
+        "support_share": 0.917
+      },
+      "ja_editorial": "レッドウォーター",
+      "batch": 2,
+      "policy": "strong_address",
+      "review_note": "原名と住所の一致・参照地点の位置を確認。日本語はCodexによる編集音写で、公式の日本語名を確定した意味ではありません。"
+    },
+    {
+      "peak": "53.233, -112.234",
+      "ref": {
+        "id": "5976022",
+        "name": "Holden",
+        "country": "CA",
+        "lon": -112.23514,
+        "lat": 53.23344,
+        "feature_code": "PPL",
+        "source_url": "https://download.geonames.org/export/dump/CA.zip",
+        "distance_m": 50,
+        "supporting_pois": 28,
+        "support_share": 0.903
+      },
+      "ja_editorial": "ホールデン",
+      "batch": 2,
+      "policy": "strong_address",
+      "review_note": "原名と住所の一致・参照地点の位置を確認。日本語はCodexによる編集音写で、公式の日本語名を確定した意味ではありません。"
+    },
+    {
+      "peak": "38.374, -110.710",
+      "ref": {
+        "id": "5540148",
+        "name": "Hanksville",
+        "country": "US",
+        "lon": -110.71404,
+        "lat": 38.37304,
+        "feature_code": "PPL",
+        "source_url": "https://download.geonames.org/export/dump/US.zip",
+        "distance_m": 384,
+        "supporting_pois": 33,
+        "support_share": 0.943
+      },
+      "ja_editorial": "ハンクスビル",
+      "batch": 2,
+      "policy": "strong_address",
+      "review_note": "原名と住所の一致・参照地点の位置を確認。日本語はCodexによる編集音写で、公式の日本語名を確定した意味ではありません。"
+    },
+    {
+      "peak": "52.093, -111.449",
+      "ref": {
+        "id": "5928107",
+        "name": "Coronation",
+        "country": "CA",
+        "lon": -111.44621,
+        "lat": 52.09311,
+        "feature_code": "PPL",
+        "source_url": "https://download.geonames.org/export/dump/CA.zip",
+        "distance_m": 179,
+        "supporting_pois": 95,
+        "support_share": 0.95
+      },
+      "ja_editorial": "コロネーション",
+      "batch": 2,
+      "policy": "strong_address",
+      "review_note": "原名と住所の一致・参照地点の位置を確認。日本語はCodexによる編集音写で、公式の日本語名を確定した意味ではありません。"
+    },
+    {
+      "peak": "33.849, -109.145",
+      "ref": {
+        "id": "5551217",
+        "name": "Alpine",
+        "country": "US",
+        "lon": -109.14313,
+        "lat": 33.84811,
+        "feature_code": "PPL",
+        "source_url": "https://download.geonames.org/export/dump/US.zip",
+        "distance_m": 183,
+        "supporting_pois": 24,
+        "support_share": 0.923
+      },
+      "ja_editorial": "アルパイン",
+      "batch": 2,
+      "policy": "strong_address",
+      "review_note": "原名と住所の一致・参照地点の位置を確認。日本語はCodexによる編集音写で、公式の日本語名を確定した意味ではありません。"
+    },
+    {
+      "peak": "37.692, -108.032",
+      "ref": {
+        "id": "5436321",
+        "name": "Rico",
+        "country": "US",
+        "lon": -108.03035,
+        "lat": 37.69277,
+        "feature_code": "PPL",
+        "source_url": "https://download.geonames.org/export/dump/US.zip",
+        "distance_m": 133,
+        "supporting_pois": 40,
+        "support_share": 0.976
+      },
+      "ja_editorial": "リコ",
+      "batch": 2,
+      "policy": "strong_address",
+      "review_note": "原名と住所の一致・参照地点の位置を確認。日本語はCodexによる編集音写で、公式の日本語名を確定した意味ではありません。"
+    },
+    {
+      "peak": "37.283, -109.557",
+      "ref": {
+        "id": "5535638",
+        "name": "Bluff",
+        "country": "US",
+        "lon": -109.55179,
+        "lat": 37.28444,
+        "feature_code": "PPL",
+        "source_url": "https://download.geonames.org/export/dump/US.zip",
+        "distance_m": 476,
+        "supporting_pois": 28,
+        "support_share": 0.903
+      },
+      "ja_editorial": "ブラフ",
+      "batch": 2,
+      "policy": "strong_address",
+      "review_note": "原名と住所の一致・参照地点の位置を確認。日本語はCodexによる編集音写で、公式の日本語名を確定した意味ではありません。"
+    },
+    {
+      "peak": "45.359, -109.167",
+      "ref": {
+        "id": "5674162",
+        "name": "Roberts",
+        "country": "US",
+        "lon": -109.16765,
+        "lat": 45.35967,
+        "feature_code": "PPL",
+        "source_url": "https://download.geonames.org/export/dump/US.zip",
+        "distance_m": 69,
+        "supporting_pois": 23,
+        "support_share": 0.958
+      },
+      "ja_editorial": "ロバーツ",
+      "batch": 2,
+      "policy": "strong_address",
+      "review_note": "原名と住所の一致・参照地点の位置を確認。日本語はCodexによる編集音写で、公式の日本語名を確定した意味ではありません。"
+    },
+    {
+      "peak": "50.833, -108.039",
+      "ref": {
+        "id": "5994696",
+        "name": "Kyle",
+        "country": "CA",
+        "lon": -108.03467,
+        "lat": 50.83338,
+        "feature_code": "PPL",
+        "source_url": "https://download.geonames.org/export/dump/CA.zip",
+        "distance_m": 289,
+        "supporting_pois": 53,
+        "support_share": 0.914
+      },
+      "ja_editorial": "カイル",
+      "batch": 2,
+      "policy": "strong_address",
+      "review_note": "原名と住所の一致・参照地点の位置を確認。日本語はCodexによる編集音写で、公式の日本語名を確定した意味ではありません。"
+    },
+    {
+      "peak": "50.465, -109.481",
+      "ref": {
+        "id": "5957175",
+        "name": "Fox Valley",
+        "country": "CA",
+        "lon": -109.48482,
+        "lat": 50.4668,
+        "feature_code": "PPL",
+        "source_url": "https://download.geonames.org/export/dump/CA.zip",
+        "distance_m": 329,
+        "supporting_pois": 27,
+        "support_share": 0.931
+      },
+      "ja_editorial": "フォックス・バレー",
+      "batch": 2,
+      "policy": "strong_address",
+      "review_note": "原名と住所の一致・参照地点の位置を確認。日本語はCodexによる編集音写で、公式の日本語名を確定した意味ではありません。"
+    },
+    {
+      "peak": "50.735, -108.758",
+      "ref": {
+        "id": "5881774",
+        "name": "Abbey",
+        "country": "CA",
+        "lon": -108.75143,
+        "lat": 50.73339,
+        "feature_code": "PPL",
+        "source_url": "https://download.geonames.org/export/dump/CA.zip",
+        "distance_m": 476,
+        "supporting_pois": 21,
+        "support_share": 0.955
+      },
+      "ja_editorial": "アビー",
+      "batch": 2,
+      "policy": "strong_address",
+      "review_note": "原名と住所の一致・参照地点の位置を確認。日本語はCodexによる編集音写で、公式の日本語名を確定した意味ではありません。"
+    },
+    {
+      "peak": "45.326, -98.496",
+      "ref": {
+        "id": "5232711",
+        "name": "Warner",
+        "country": "US",
+        "lon": -98.49537,
+        "lat": 45.32581,
+        "feature_code": "PPL",
+        "source_url": "https://download.geonames.org/export/dump/US.zip",
+        "distance_m": 49,
+        "supporting_pois": 19,
+        "support_share": 0.95
+      },
+      "ja_editorial": "ワーナー",
+      "batch": 2,
+      "policy": "strong_address",
+      "review_note": "原名と住所の一致・参照地点の位置を確認。日本語はCodexによる編集音写で、公式の日本語名を確定した意味ではありません。"
+    },
+    {
+      "peak": "46.282, -66.741",
+      "ref": {
+        "id": "13580569",
+        "name": "Stanley",
+        "country": "CA",
+        "lon": -66.73978,
+        "lat": 46.2826,
+        "feature_code": "PPL",
+        "source_url": "https://download.geonames.org/export/dump/CA.zip",
+        "distance_m": 118,
+        "supporting_pois": 25,
+        "support_share": 0.926
+      },
+      "ja_editorial": "スタンリー",
+      "batch": 2,
+      "policy": "strong_address",
+      "review_note": "原名と住所の一致・参照地点の位置を確認。日本語はCodexによる編集音写で、公式の日本語名を確定した意味ではありません。"
+    }
+  ],
+  "rejected": [
+    {
+      "source_name": "Everglades City",
+      "registered_ja": "小さな町",
+      "reason": "一般名詞の意味訳のため不採用。原名との地名表記対応を再確認するまで保留。"
+    }
+  ]
+}

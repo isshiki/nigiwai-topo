@@ -1,0 +1,126 @@
+{
+  "complete": true,
+  "snapshot_id": "2325979374271449319",
+  "policy_sha256": "5fc03b0270e2333f5fe4ddd08b49425cffef0c14cbcffbd97694a20aed861cd5",
+  "excluded_ids": 5442,
+  "retained_count": 101729093,
+  "recomputed_chunks": 2,
+  "recomputed_packages": 1,
+  "unchanged_packages": 2946,
+  "targets": [
+    {
+      "peak": "22.106, 77.185",
+      "before": 3435,
+      "after": 0.406769473835745,
+      "max_within_2km": 166.9113696847646,
+      "peaks_800_within_2km": 0
+    },
+    {
+      "peak": "39.035, 35.244",
+      "before": 2995,
+      "after": 0.010328078906690838,
+      "max_within_2km": 8.38821804234195,
+      "peaks_800_within_2km": 0
+    },
+    {
+      "peak": "31.878, 53.438",
+      "before": 1697,
+      "after": 0.001379033211172619,
+      "max_within_2km": 3.979129954934902,
+      "peaks_800_within_2km": 0
+    },
+    {
+      "peak": "-13.001, -54.000",
+      "before": 1338,
+      "after": 0.14371812227950592,
+      "max_within_2km": 17.500445722497027,
+      "peaks_800_within_2km": 0
+    },
+    {
+      "peak": "22.106, 72.577",
+      "before": 1150,
+      "after": 0.0,
+      "max_within_2km": 5.0532897881231005,
+      "peaks_800_within_2km": 0
+    },
+    {
+      "peak": "22.106, 72.565",
+      "before": 1135,
+      "after": 0.0,
+      "max_within_2km": 1.508020734055027,
+      "peaks_800_within_2km": 0
+    },
+    {
+      "peak": "-20.000, 145.000",
+      "before": 1118,
+      "after": 0.027978430171944332,
+      "max_within_2km": 7.123135576302613,
+      "peaks_800_within_2km": 0
+    },
+    {
+      "peak": "-33.000, 146.000",
+      "before": 1076,
+      "after": 3.480894976850982e-05,
+      "max_within_2km": 7.860791847331607,
+      "peaks_800_within_2km": 0
+    },
+    {
+      "peak": "39.062, 35.124",
+      "before": 967,
+      "after": 0.15482689012546985,
+      "max_within_2km": 19.9470544662548,
+      "peaks_800_within_2km": 0
+    },
+    {
+      "peak": "-14.235, -51.925",
+      "before": 948,
+      "after": 0.17141395394737424,
+      "max_within_2km": 12.78529798977175,
+      "peaks_800_within_2km": 0
+    },
+    {
+      "peak": "39.761, -98.501",
+      "before": 948,
+      "after": 0.39962693986153364,
+      "max_within_2km": 27.108981015524527,
+      "peaks_800_within_2km": 0
+    },
+    {
+      "peak": "22.106, 73.866",
+      "before": 883,
+      "after": 0.1134328347658178,
+      "max_within_2km": 340.84097482724144,
+      "peaks_800_within_2km": 0
+    },
+    {
+      "peak": "-0.788, 113.921",
+      "before": 847,
+      "after": 1.2851831020468532,
+      "max_within_2km": 140.75206629325152,
+      "peaks_800_within_2km": 0
+    }
+  ],
+  "checks": [
+    {
+      "chunk": [
+        212,
+        266
+      ],
+      "changed_cells": 323,
+      "excluded_input_count": 1,
+      "max_reduction": 3.979079029271226,
+      "original_density_reproduced": true
+    },
+    {
+      "chunk": [
+        212,
+        267
+      ],
+      "changed_cells": 323,
+      "excluded_input_count": 1,
+      "max_reduction": 3.979079029271226,
+      "original_density_reproduced": true
+    }
+  ],
+  "root": "data\\distribution\\foursquare-world-v5"
+}

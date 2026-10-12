@@ -1,0 +1,54 @@
+{
+  "batch": 390,
+  "expected_adopted": 910,
+  "items": [
+    {
+      "peak": "49.052, -113.909",
+      "ja_editorial": "ウォータートン（推定）",
+      "reading_status": "inferred",
+      "review_note": "推定音写。Subway307WindflowerAveとWienersofWaterton301WindFlowerAveの公式本文が元施設住所に対応。公式住所のWatertonParkとGeoNames短名WatertonはParksCanadaのtownsite資料を併せた本峰の参考名として扱う。PizzaofWatertonは現在CameronFallsDriveへ移転し元303Windflowerとは不一致なのでアンカーから除外。107/123本文支持。",
+      "anchors": [
+        {
+          "poi_id": "5006fe5ce4b07575b865ff81",
+          "facility_key": "Waterton-Subway307",
+          "source_url": "https://restaurants.subway.com/canada/ab/waterton-park/307-windflower-avenue",
+          "official_address": "307WindflowerAvenue,WatertonParkABT0K2M0",
+          "verification": "public_page_body",
+          "limitation": "Townsite referenceWaterton corresponds to operatorpostalWatertonPark; not legalboundary proof."
+        },
+        {
+          "poi_id": "4c929f27418ea1cd3e8ca685",
+          "facility_key": "Waterton-Wieners301",
+          "source_url": "https://www.wienersofwaterton.com/privacy-policy",
+          "official_address": "301WindFlowerAve,WatertonParkABT0K2M0",
+          "verification": "public_page_body",
+          "limitation": "Operatorfooter address checked; pharmacy/medical contents not relevant."
+        }
+      ]
+    },
+    {
+      "peak": "39.183, -107.238",
+      "ja_editorial": "レッドストーン（推定）",
+      "reading_status": "inferred",
+      "review_note": "推定音写。GeneralStore292RedstoneBoulevardの州公式登録表とRedstoneInn82RedstoneBlvdの公式州観光情報を元2施設に照合。前者は2021年資料なので現在の営業認定には用いず、地域と住所対応の証拠として使用。31/36本文支持。施設名による票の追加はしない。",
+      "anchors": [
+        {
+          "poi_id": "6681a6a2198ecd288fd0394e",
+          "facility_key": "Redstone-GeneralStore292",
+          "source_url": "https://sbg.colorado.gov/sites/sbg/files/Liquor_List_10.1.21.pdf",
+          "official_address": "RedstoneGeneralStore,292RedstoneBoulevard,RedstoneCO81623",
+          "verification": "official_search_excerpt",
+          "limitation": "Historical2021state licensingrow; currentcommunitytourism listing corroborates sameaddress, not proof currentlicense."
+        },
+        {
+          "poi_id": "4bc3ef1fdce4eee1cfd2719d",
+          "facility_key": "Redstone-Inn82",
+          "source_url": "https://www.colorado.com/redstone/accommodations/motels-lodges/redstone-inn",
+          "official_address": "82RedstoneBlvd,RedstoneCO81623",
+          "verification": "official_search_excerpt",
+          "limitation": "OfficialColorado tourismsearch body confirms82RedstoneBlvd; directwebopen returnedtitleonly, notaddressbody."
+        }
+      ]
+    }
+  ]
+}

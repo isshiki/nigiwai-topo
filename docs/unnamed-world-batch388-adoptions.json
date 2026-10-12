@@ -1,0 +1,30 @@
+{
+  "batch": 388,
+  "adopted": 1,
+  "total_adopted": 909,
+  "remaining": 4445,
+  "items": [
+    {
+      "peak": "45.018, -76.365",
+      "ref": {
+        "id": "8556292",
+        "name": "Lanark",
+        "country": "CA",
+        "lon": -76.36588,
+        "lat": 45.01888,
+        "feature_code": "PPL",
+        "source_url": "https://download.geonames.org/export/dump/CA.zip",
+        "distance_m": 120,
+        "supporting_pois": 56,
+        "support_share": 0.949
+      },
+      "ja_editorial": "ラナーク（推定）",
+      "batch": 388,
+      "policy": "reviewed_address_text_anchors",
+      "reading_status": "inferred",
+      "reviewed_by": "Codex",
+      "review_note": "推定音写。図書館75GeorgeStreetとLCBO99ClarenceStreetの独立2施設2発行元公式住所を確認。図書館の元localityLanarkHighlandsは広域名のため本峰の近隣住所と個別照合し全域には拡張しない。56/59本文支持。",
+      "official_anchor_review": "docs/unnamed-world-official-anchor-reviews.json"
+    }
+  ]
+}

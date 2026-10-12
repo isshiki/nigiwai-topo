@@ -1,0 +1,15 @@
+{
+  "batch": 410,
+  "expected_adopted": 922,
+  "items": [
+    {
+      "peak": "35.062, -118.970",
+      "ja_editorial": "メトラー（推定）",
+      "reading_status": "inferred",
+      "policy": "reviewed_census_place_boundary",
+      "cartographic_review": "docs/unnamed-world-batch409-census-review.json",
+      "review_note": "推定音写。CensusTIGERweb2026MettlerCDP/GEOID0647164の境界に峰が含まれることを原座標で検証。境界距離39.57m。郵便表記Bakersfieldを保持し街道名だけでなく公的統計地区を照合。全POI位置品質や法的市域を認定したものではない。",
+      "anchors": []
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "purpose": "Do not use individually flagged contradictory address text as place-support evidence; never automatically exclude from density.",
+  "records": [
+    {
+      "id": "5233341611d26cb3269412e5",
+      "peak": "50.350, -112.640",
+      "reference_id": "6058545",
+      "reason": "Helensburgh andLomondStreet address text contradictsCanadianplace-support interpretation",
+      "source_url": "https://deriv.nls.uk/dcn23/8554/85542807.23.pdf",
+      "verification": "official_search_excerpt",
+      "limits": "HistoricalHelensburghhouse directory corroborates10LomondStreet; notproof ofcurrentB&Boperation or exactcoordinates."
+    }
+  ]
+}

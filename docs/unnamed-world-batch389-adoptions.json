@@ -1,0 +1,30 @@
+{
+  "batch": 389,
+  "adopted": 1,
+  "total_adopted": 910,
+  "remaining": 4444,
+  "items": [
+    {
+      "peak": "48.370, -53.359",
+      "ref": {
+        "id": "6168945",
+        "name": "Trinity",
+        "country": "CA",
+        "lon": -53.36046,
+        "lat": 48.36891,
+        "feature_code": "PPL",
+        "source_url": "https://download.geonames.org/export/dump/CA.zip",
+        "distance_m": 121,
+        "supporting_pois": 34,
+        "support_share": 0.895
+      },
+      "ja_editorial": "トリニティ（推定）",
+      "batch": 389,
+      "policy": "reviewed_address_text_anchors",
+      "reading_status": "inferred",
+      "reviewed_by": "Codex",
+      "review_note": "推定音写。BishopWhiteManor16GallivansLaneとRisingTideTheatre40WestStを独立2運営者の公式本文で確認。宿泊施設のチェックイン住所8WestStを施設住所と取り違えない。TrinityBb/Tb/TrinityBay等の広域・略称の語一致だけでは採用せず、今回の近隣住所で本峰を個別確認。34/38本文支持。",
+      "official_anchor_review": "docs/unnamed-world-official-anchor-reviews.json"
+    }
+  ]
+}

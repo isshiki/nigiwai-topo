@@ -1,0 +1,30 @@
+{
+  "batch": 403,
+  "adopted": 1,
+  "total_adopted": 920,
+  "remaining": 4434,
+  "items": [
+    {
+      "peak": "-44.669, 167.927",
+      "ref": {
+        "id": "6202181",
+        "name": "Milford Sound",
+        "country": "NZ",
+        "lon": 167.92005,
+        "lat": -44.66836,
+        "feature_code": "PPL",
+        "source_url": "https://download.geonames.org/export/dump/NZ.zip",
+        "distance_m": 585,
+        "supporting_pois": 25,
+        "support_share": 0.862
+      },
+      "ja_editorial": "ミルフォードサウンド（推定）",
+      "batch": 403,
+      "policy": "reviewed_address_text_anchors",
+      "reading_status": "inferred",
+      "reviewed_by": "Codex",
+      "review_note": "推定音写。PureMilford公式VisitorCentre1MilfordSoundHighway住所とNZ運輸省空港登録NZMF公式WGS84座標を独立2施設として照合。空港は元住所nullを保持し、公式座標167.9233333333,-44.6733333333と元POIの差を100m以内で検証。共有ターミナルの複数会社は独立施設に数えない。近隣の観測所DalePointなど位置疑義は別途保持し、地名確認が全POI位置品質を保証するとは扱わない。",
+      "official_anchor_review": "docs/unnamed-world-official-anchor-reviews.json"
+    }
+  ]
+}

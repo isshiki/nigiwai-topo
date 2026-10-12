@@ -1,0 +1,30 @@
+{
+  "batch": 402,
+  "adopted": 1,
+  "total_adopted": 919,
+  "remaining": 4435,
+  "items": [
+    {
+      "peak": "35.860, 12.863",
+      "ref": {
+        "id": "2524381",
+        "name": "Linosa",
+        "country": "IT",
+        "lon": 12.86272,
+        "lat": 35.85918,
+        "feature_code": "PPL",
+        "source_url": "https://download.geonames.org/export/dump/IT.zip",
+        "distance_m": 47,
+        "supporting_pois": 29,
+        "support_share": 0.935
+      },
+      "ja_editorial": "リノーザ（推定）",
+      "batch": 402,
+      "policy": "reviewed_address_text_anchors",
+      "reading_status": "inferred",
+      "reviewed_by": "Codex",
+      "review_note": "推定音写。Pelaghea公式住所ViaReginaElenaLinosaとSiremar運営公式Linosa代理店ViaPrincipeUmbertoを独立施設として照合。LampedusaeLinosa複合自治体名だけではなく島名と具体街路の対応を確認。Siremarの公式資料に番地1はなく街路までの一致。発券代理店と船着場BanchinaPozzolanaは同じ地点と解釈しない。",
+      "official_anchor_review": "docs/unnamed-world-official-anchor-reviews.json"
+    }
+  ]
+}

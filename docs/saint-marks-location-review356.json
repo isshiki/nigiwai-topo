@@ -1,0 +1,30 @@
+{
+  "snapshot": "2325979374271449319",
+  "peak": "30.155, -84.203",
+  "reference_id": "GeoNames:4171315",
+  "fsq_place_id": "4f1e4b2fe4b03ae3651832db",
+  "raw_poi": {
+    "id": "4f1e4b2fe4b03ae3651832db",
+    "name": "古奈屋 | Konaya (Curry Udon & Tempura)",
+    "address": "4th Fl., Terminal 21",
+    "locality": "Saint Marks",
+    "country": "US",
+    "longitude": -84.20354278844815,
+    "latitude": 30.1587926534211
+  },
+  "decision": "approved_location_quality_quarantine_next_release",
+  "basis": "元POIは古奈屋Konaya CurryUdonTempura/Terminal21第四階を示すがcountryUS/SaintMarks座標。TheNation2013-07-12の記者による経営者インタビュー本文はBangkokのKonaya紹介にTerminal21第四階支店を明示。タイ政府観光庁は当該Terminal21をBangkokアソークと示す。施設名・ブランド・階・建物の対応から米国地点の裏付けに使えず、ID単位で計算保留が妥当。精密なタイ店舗座標を推測して移動しない。現在営業・閉店時期の判断ではない。",
+  "sources": [
+    "https://www.nationthailand.com/life/30210303",
+    "https://www.thailandtravel.or.jp/terminal21/"
+  ],
+  "other_nearby_pois": "未監査。他の米国施設を一括除外しない。",
+  "production_applied": false,
+  "sensitivity_test": {
+    "report": "data/name-research/reading-sources/saint-marks-density-probe357.json",
+    "original_density": 80.50523940926975,
+    "after_density": 79.96174925228577,
+    "peak_survives": true,
+    "production_applied": false
+  }
+}

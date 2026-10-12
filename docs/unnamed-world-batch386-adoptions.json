@@ -1,0 +1,74 @@
+{
+  "batch": 386,
+  "adopted": 3,
+  "total_adopted": 907,
+  "remaining": 4447,
+  "items": [
+    {
+      "peak": "67.963, 15.930",
+      "ref": {
+        "id": "9409181",
+        "name": "Innhavet",
+        "country": "NO",
+        "lon": 15.93176,
+        "lat": 67.96322,
+        "feature_code": "PPL",
+        "source_url": "https://download.geonames.org/export/dump/NO.zip",
+        "distance_m": 80,
+        "supporting_pois": 16,
+        "support_share": 0.889
+      },
+      "ja_editorial": "インハヴェット（推定）",
+      "batch": 386,
+      "policy": "reviewed_address_text_anchors",
+      "reading_status": "inferred",
+      "reviewed_by": "Codex",
+      "review_note": "推定音写。St1Hamarøyveien3068とAVISNordsaltenSentralverksted/Straumenesの公式公開住所を元POIに照合。旧Shell名はShell公式の国内St1改称説明と対応し、別施設に数えない。16/18件本文支持。全POI位置や発音の認定ではない。",
+      "official_anchor_review": "docs/unnamed-world-official-anchor-reviews.json"
+    },
+    {
+      "peak": "44.925, -78.725",
+      "ref": {
+        "id": "8556036",
+        "name": "Minden",
+        "country": "CA",
+        "lon": -78.72597,
+        "lat": 44.92696,
+        "feature_code": "PPL",
+        "source_url": "https://download.geonames.org/export/dump/CA.zip",
+        "distance_m": 206,
+        "supporting_pois": 140,
+        "support_share": 0.897
+      },
+      "ja_editorial": "ミンデン（推定）",
+      "batch": 386,
+      "policy": "reviewed_address_text_anchors",
+      "reading_status": "inferred",
+      "reviewed_by": "Codex",
+      "review_note": "推定音写。RisingThymes124BobcaygeonRdとDominionHotel113Bobcaygeon/MainStreetを運営者の公式公開住所で確認。後者の元localityはHaliburtonで公式Mindenと相違するため、そのPOIの地名欄一致には数えず独立住所照合として使用。MindenHills全域の一括改名ではなく本峰の参考地名。",
+      "official_anchor_review": "docs/unnamed-world-official-anchor-reviews.json"
+    },
+    {
+      "peak": "44.931, -78.716",
+      "ref": {
+        "id": "8556036",
+        "name": "Minden",
+        "country": "CA",
+        "lon": -78.72597,
+        "lat": 44.92696,
+        "feature_code": "PPL",
+        "source_url": "https://download.geonames.org/export/dump/CA.zip",
+        "distance_m": 904,
+        "supporting_pois": 71,
+        "support_share": 0.866
+      },
+      "ja_editorial": "ミンデン（推定）",
+      "batch": 386,
+      "policy": "reviewed_address_text_anchors",
+      "reading_status": "inferred",
+      "reviewed_by": "Codex",
+      "review_note": "推定音写。別峰を独立にSubway12621Highway35とCanadianTireGas12627Highway35の公式公開住所で確認。同じGeoNamesIDによる同一参考地名として扱い別の街名を創作しない。",
+      "official_anchor_review": "docs/unnamed-world-official-anchor-reviews.json"
+    }
+  ]
+}

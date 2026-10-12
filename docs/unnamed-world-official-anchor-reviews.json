@@ -1,0 +1,889 @@
+{
+  "snapshot": "2325979374271449319",
+  "items": [
+    {
+      "peak": "45.121, -79.579",
+      "reference_id": "8593694",
+      "decision": "adopt",
+      "anchors": [
+        {
+          "facility_key": "LCBO-store-403",
+          "poi_id": "a9bf0ec881024721f835bd31",
+          "raw_address": "115 Medora St",
+          "raw_identity": [
+            "Liquor Control Board of Ontario",
+            "115 Medora St",
+            "Port Carling",
+            "CA"
+          ],
+          "official_address": "115 Medora Street, Port Carling ON P0B1J0",
+          "official_locality": "Port Carling",
+          "source_url": "https://www.lcbo.com/en/stores/highway-118-medora-403",
+          "verification": "official_search_excerpt",
+          "limitation": "Direct retrieval returned403; official search result corroborates address. DuplicateLCBO ID not counted independently."
+        },
+        {
+          "facility_key": "MLPL-Port-Carling",
+          "poi_id": "510af575e4b01d3addeb9dd0",
+          "raw_address": "69 Joseph",
+          "raw_identity": [
+            "Muskoka Lakes Public Library",
+            "69 Joseph",
+            "Port Carling",
+            "CA"
+          ],
+          "official_address": "69 Joseph Street, Port Carling Ontario P0B1J0",
+          "official_locality": "Port Carling",
+          "source_url": "https://www.muskokalakes.ca/library/locations-and-hours/",
+          "verification": "public_page_body",
+          "limitation": "Second library ID is same facility, not independent."
+        }
+      ],
+      "rationale": "169/211 locality support; first official facility27m from peak, independent library370m. Broader municipality labels not automatically recoded. Reference label, not legal boundary containment or proof all POI positions correct."
+    },
+    {
+      "peak": "45.016, -75.646",
+      "reference_id": "5990737",
+      "decision": "adopt",
+      "anchors": [
+        {
+          "facility_key": "CIBC-Kemptville-00596",
+          "poi_id": "55b689bb498ef87895450ff7",
+          "raw_address": "116 Prescott St",
+          "raw_identity": [
+            "CIBC",
+            "116 Prescott St",
+            "Kemptville",
+            "CA"
+          ],
+          "official_address": "116 Prescott St., Kemptville ON K0G1J0",
+          "official_locality": "Kemptville",
+          "source_url": "https://locations.cibc.com/on/kemptville/00596",
+          "verification": "official_search_excerpt",
+          "limitation": "Official search result body used; direct web open failed."
+        },
+        {
+          "facility_key": "Douvris-Kemptville",
+          "poi_id": "437dfb383f5a4979e38732b1",
+          "raw_address": "200 Sanders St",
+          "raw_identity": [
+            "Douvris Family Martial Arts",
+            "200 Sanders St",
+            "Kemptville",
+            "CA"
+          ],
+          "official_address": "200 Sanders Street, Kemptville ON K0G1J0",
+          "official_locality": "Kemptville",
+          "source_url": "https://www.douvris.com/locations/kemptville",
+          "verification": "public_page_body",
+          "limitation": "Official page body checked."
+        }
+      ],
+      "rationale": "247/303 locality support, CIBC68m and independent dojo257m with matched street addresses; broad North Grenville not reassigned. Historical library and East/West-conflicting brokerage addresses not used."
+    },
+    {
+      "peak": "51.110, -112.982",
+      "reference_id": "6155100",
+      "decision": "adopt",
+      "anchors": [
+        {
+          "facility_key": "Gates-Standard",
+          "poi_id": "1db6dc8397bc4a81ecd9256e",
+          "raw_address": "811 the Broadway",
+          "raw_identity": [
+            "Gates Agencies Ltd",
+            "811 the Broadway",
+            "Standard",
+            "CA"
+          ],
+          "official_address": "Gates Agencies - 811 The Broadway, Standard",
+          "official_locality": "Standard",
+          "source_url": "https://www.villageofstandard.ca/services",
+          "verification": "public_page_body",
+          "limitation": "Official municipality identifies this facility and street number.",
+          "distance_m": 32
+        },
+        {
+          "facility_key": "Standard-Library",
+          "poi_id": "69b589d980dbfd541cdaa409",
+          "raw_address": "822 Broadway St",
+          "raw_identity": [
+            "Standard Municipal Library",
+            "822 Broadway St",
+            "Standard",
+            "CA"
+          ],
+          "official_address": "822 The Broadway, Standard AB T0J3G0",
+          "official_locality": "Standard",
+          "source_url": "https://www.standardlibrary.ca/",
+          "verification": "official_search_excerpt",
+          "limitation": "Raw Broadway St corresponds to municipality-confirmed822 The Broadway; library direct retrieval403.",
+          "distance_m": 32
+        }
+      ],
+      "rationale": "Full nearby POI text support above85%, plus two independently reviewed facility addresses and publishers; no boundary containment claim."
+    },
+    {
+      "peak": "50.531, -114.232",
+      "reference_id": "6059898",
+      "decision": "adopt",
+      "anchors": [
+        {
+          "facility_key": "Longview-Library",
+          "poi_id": "bf035ba8639e42f08384cb53",
+          "raw_address": "128 Morrison Pl",
+          "raw_identity": [
+            "Longview Municipal Library",
+            "128 Morrison Pl",
+            "Longview",
+            "CA"
+          ],
+          "official_address": "128 Morrison Place, Longview AB T0L1H0",
+          "official_locality": "Longview",
+          "source_url": "https://longviewlibrary.ca/",
+          "verification": "official_search_excerpt",
+          "limitation": "Direct retrieval403; official search body corroborates address.",
+          "distance_m": 65
+        },
+        {
+          "facility_key": "Longview-School",
+          "poi_id": "201444020414403dcaa1aa7a",
+          "raw_address": "101 Morrison Rd",
+          "raw_identity": [
+            "Foothills School Division No 38",
+            "101 Morrison Rd",
+            "Longview",
+            "CA"
+          ],
+          "official_address": "Longview School, 101 Morrison Road, Longview T0L1H0",
+          "official_locality": "Longview",
+          "source_url": "https://foothillsschooldivision.ca/longview",
+          "verification": "official_search_excerpt",
+          "limitation": "Raw parent school-division name at school street address; official district identifies Longview School. Does not certify parent-office name or every POI position.",
+          "distance_m": 46
+        }
+      ],
+      "rationale": "Full nearby POI text support above85%, plus two independently reviewed facility addresses and publishers; no boundary containment claim."
+    },
+    {
+      "peak": "46.577, -63.929",
+      "reference_id": "6171537",
+      "decision": "adopt",
+      "anchors": [
+        {
+          "facility_key": "Dillons-Tyne-Valley",
+          "poi_id": "752a0f748d6f42f1eb13bc0d",
+          "raw_address": "1329 Porthill Station Rd",
+          "raw_identity": [
+            "Dillon's Convenience & Pizzeria",
+            "1329 Porthill Station Rd",
+            "Tyne Valley",
+            "CA"
+          ],
+          "official_address": "1329 chemin Port Hill Station, Tyne Valley",
+          "official_locality": "Tyne Valley",
+          "source_url": "https://www.tourismpei.com/fr/attractions/dillons-convenience-pizzeria",
+          "verification": "official_search_excerpt",
+          "limitation": "Government tourism facility listing; direct open cache miss.",
+          "distance_m": 5
+        },
+        {
+          "facility_key": "Backwoods-Tyne-Valley",
+          "poi_id": "599463d593bd635a78077e9b",
+          "raw_address": "1327 PORT HILL STATION Rd",
+          "raw_identity": [
+            "Backwoods Burger",
+            "1327 PORT HILL STATION Rd",
+            "Tyne Valley",
+            "CA"
+          ],
+          "official_address": "1327 Port Hill Station Road, Tyne Valley PE",
+          "official_locality": "Tyne Valley",
+          "source_url": "https://www.backwoodsburger.com/",
+          "verification": "public_page_body",
+          "limitation": "Operator page body checked; other branches excluded.",
+          "distance_m": 26
+        }
+      ],
+      "rationale": "Full nearby POI text support above85%, plus two independently reviewed facility addresses and publishers; no boundary containment claim."
+    },
+    {
+      "peak": "67.963, 15.930",
+      "reference_id": "9409181",
+      "decision": "adopt",
+      "anchors": [
+        {
+          "poi_id": "51d0501d498e81b28545d352",
+          "facility_key": "Innhavet-St1",
+          "source_url": "https://st1.no/stasjon/innhavet",
+          "official_address": "Hamarøyveien3068 E6,8260 Innhavet",
+          "verification": "public_page_body",
+          "limitation": "RawShellbrand changed toSt1; shell.no confirms Norway station rename.",
+          "raw_identity": [
+            "Shell",
+            "Hamarøyveien 3068",
+            "Innhavet",
+            "NO"
+          ],
+          "raw_address": "Hamarøyveien 3068",
+          "official_locality": "Innhavet",
+          "distance_m": 45
+        },
+        {
+          "poi_id": "5b3a9d97b6eedb003901b7e4",
+          "facility_key": "Innhavet-Avis",
+          "source_url": "https://www.avis.no/produkter-og-tjenester/utleiestasjoner/europa/norge/innhavet/innhavet-hamaroy-sentrum",
+          "official_address": "Nordsalten Sentralverksted As,Straumenes,Innhavet8260",
+          "verification": "public_page_body",
+          "limitation": "Official public page body checked.",
+          "raw_identity": [
+            "AVIS Leiebil - Hamar΀y",
+            "Nordsalten Sentralverksted As, Straumenes",
+            "Innhavet",
+            "NO"
+          ],
+          "raw_address": "Nordsalten Sentralverksted As, Straumenes",
+          "official_locality": "Innhavet",
+          "distance_m": 46
+        }
+      ],
+      "rationale": "推定音写。St1Hamarøyveien3068とAVISNordsaltenSentralverksted/Straumenesの公式公開住所を元POIに照合。旧Shell名はShell公式の国内St1改称説明と対応し、別施設に数えない。16/18件本文支持。全POI位置や発音の認定ではない。"
+    },
+    {
+      "peak": "44.925, -78.725",
+      "reference_id": "8556036",
+      "decision": "adopt",
+      "anchors": [
+        {
+          "poi_id": "69b5956880dbfd541cec1777",
+          "facility_key": "Minden-RisingThymes",
+          "source_url": "https://www.risingthymes.ca/faq-s",
+          "official_address": "124BobcaygeonRoad,MindenON",
+          "verification": "public_page_body",
+          "limitation": "Official public page body checked.",
+          "raw_identity": [
+            "Rising Thymes",
+            "124 Bobcaygeon Rd",
+            "Minden Hills",
+            "CA"
+          ],
+          "raw_address": "124 Bobcaygeon Rd",
+          "official_locality": "Minden",
+          "distance_m": 14
+        },
+        {
+          "poi_id": "4c83ffdb74d7b60cdd088fd8",
+          "facility_key": "Minden-Dominion",
+          "source_url": "https://dominionhotelpub.ca/Contact/index.php",
+          "official_address": "113MainStreet or113BobcaygeonRd,MindenOntario",
+          "verification": "public_page_body",
+          "limitation": "RawlocalityHaliburton differs; operator confirms address inMinden and warns about unrelatedBobcaygeon town.",
+          "raw_identity": [
+            "Dominion Hotel",
+            "113 Bobcaygeon",
+            "Haliburton",
+            "CA"
+          ],
+          "raw_address": "113 Bobcaygeon",
+          "official_locality": "Minden",
+          "distance_m": 21
+        }
+      ],
+      "rationale": "推定音写。RisingThymes124BobcaygeonRdとDominionHotel113Bobcaygeon/MainStreetを運営者の公式公開住所で確認。後者の元localityはHaliburtonで公式Mindenと相違するため、そのPOIの地名欄一致には数えず独立住所照合として使用。MindenHills全域の一括改名ではなく本峰の参考地名。"
+    },
+    {
+      "peak": "44.931, -78.716",
+      "reference_id": "8556036",
+      "decision": "adopt",
+      "anchors": [
+        {
+          "poi_id": "4c12758777cea5938014cd60",
+          "facility_key": "Minden-Subway",
+          "source_url": "https://restaurants.subway.com/canada/on/minden/12621-highway-35",
+          "official_address": "12621Highway35,MindenONK0M2K0",
+          "verification": "public_page_body",
+          "limitation": "Official public page body checked.",
+          "raw_identity": [
+            "Subway",
+            "12621 Highway 35",
+            "Minden",
+            "CA"
+          ],
+          "raw_address": "12621 Highway 35",
+          "official_locality": "Minden",
+          "distance_m": 31
+        },
+        {
+          "poi_id": "52226c0d11d2e0c8385acb6d",
+          "facility_key": "Minden-CanadianTireGas",
+          "source_url": "https://www.canadiantire.ca/en/store-details/on/minden-on-1047.html",
+          "official_address": "12627Highway35,MindenOntarioK0M2K0",
+          "verification": "public_page_body",
+          "limitation": "Official public page body checked.",
+          "raw_identity": [
+            "Canadian Tire Gas+",
+            "12627 HWY 35,HWY 35",
+            "Minden",
+            "CA"
+          ],
+          "raw_address": "12627 HWY 35,HWY 35",
+          "official_locality": "Minden",
+          "distance_m": 43
+        }
+      ],
+      "rationale": "推定音写。別峰を独立にSubway12621Highway35とCanadianTireGas12627Highway35の公式公開住所で確認。同じGeoNamesIDによる同一参考地名として扱い別の街名を創作しない。"
+    },
+    {
+      "peak": "62.852, 12.792",
+      "reference_id": "2694549",
+      "decision": "adopt",
+      "anchors": [
+        {
+          "poi_id": "1cfd9176ad7941c6efd8314a",
+          "facility_key": "ICA-Ljungdalen700",
+          "source_url": "https://www.apoteket.se/apotek/ombud-ica-nara-ljungdalen-ljungdalen/",
+          "official_address": "Ljungdalen700,84599Ljungdalen",
+          "verification": "official_search_excerpt",
+          "limitation": "OfficialApoteket agentaddress; ICA andagentcount asonefacility. Directopencachemiss.",
+          "raw_identity": [
+            "ICA Nära",
+            "Ljungdalen 700",
+            "Ljungdalen",
+            "SE"
+          ],
+          "raw_address": "Ljungdalen 700",
+          "official_locality": "Ljungdalen",
+          "distance_m": 64
+        },
+        {
+          "poi_id": "447cfd19b1424cfa26380a6f",
+          "facility_key": "Tourist-Ljungdalen163",
+          "source_url": "https://berg.se/download/18.6477de52195848c7f82afe3/1742307449137/Kommunstyrelsens%20utvecklingsutskotts%20protokoll%202025-03-13%20f%C3%B6r%20delning.pdf",
+          "official_address": "Ljungdalsfjällens turistförening,Ljungdalen163,84599Ljungdalen",
+          "verification": "public_page_body",
+          "limitation": "Municipalgrantrecord confirms current associationaddress; rawPOI usesolder associationdescription.",
+          "raw_identity": [
+            "Ljungdalens Friluftsförening Turist- & Inf.Byrå",
+            "Ljungdalen 163",
+            "Ljungdalen",
+            "SE"
+          ],
+          "raw_address": "Ljungdalen 163",
+          "official_locality": "Ljungdalen",
+          "distance_m": 84
+        }
+      ],
+      "rationale": "推定音写。ICA店舗Ljungdalen700をApoteket公式代理店住所で確認。Ljungdalen163の観光協会をBerg自治体2025-03-13議事録の8673-2024行で対応確認。元POIは旧称FriluftsföreningTurist-/Inf.Byråで、住所照合に用いるが現行正式団体名の認定はしない。22/25本文支持、独立2施設2発行元。"
+    },
+    {
+      "peak": "45.018, -76.365",
+      "reference_id": "8556292",
+      "decision": "adopt",
+      "anchors": [
+        {
+          "poi_id": "69b5976180dbfd541cef7cb7",
+          "facility_key": "Lanark-Library75George",
+          "source_url": "https://lanarklibrary.ca/about-us/",
+          "official_address": "75GeorgeStreet,LanarkOntario",
+          "verification": "public_page_body",
+          "limitation": "Library operator address; broadmunicipalityrawlabel not automatically replaced elsewhere.",
+          "raw_identity": [
+            "Lanark Highlands Public Library",
+            "75 George St",
+            "Lanark Highlands",
+            "CA"
+          ],
+          "raw_address": "75 George St",
+          "official_locality": "Lanark",
+          "distance_m": 11
+        },
+        {
+          "poi_id": "4b6c9c60f964a52079462ce3",
+          "facility_key": "Lanark-LCBO479",
+          "source_url": "https://www.lcbo.com/en/stores/george-clarence-479",
+          "official_address": "99ClarenceStreet,LanarkONK0G1K0",
+          "verification": "official_search_excerpt",
+          "limitation": "OfficialLCBOsearchaddress; directopenInternalError. Duplicate municipal75Georgefirehall notcounted.",
+          "raw_identity": [
+            "LCBO",
+            "99 Clarence St.",
+            "Lanark",
+            "CA"
+          ],
+          "raw_address": "99 Clarence St.",
+          "official_locality": "Lanark",
+          "distance_m": 41
+        }
+      ],
+      "rationale": "推定音写。図書館75GeorgeStreetとLCBO99ClarenceStreetの独立2施設2発行元公式住所を確認。図書館の元localityLanarkHighlandsは広域名のため本峰の近隣住所と個別照合し全域には拡張しない。56/59本文支持。"
+    },
+    {
+      "peak": "48.370, -53.359",
+      "reference_id": "6168945",
+      "decision": "adopt",
+      "anchors": [
+        {
+          "poi_id": "695fffb4f781bc7ec0d59940",
+          "facility_key": "Trinity-BishopWhiteManor",
+          "source_url": "https://mytrinityexperience.com/bishop-white-manor/",
+          "official_address": "16GallivansLane,TrinityNL",
+          "verification": "public_page_body",
+          "limitation": "RawGallvan typo preserved; operator explicitly separates manor16 fromcheck-in8WestSt.",
+          "raw_identity": [
+            "Bishop White Manor",
+            "16 Gallvan's Lane",
+            "Trinity Bb",
+            "CA"
+          ],
+          "raw_address": "16 Gallvan's Lane",
+          "official_locality": "Trinity",
+          "distance_m": 73
+        },
+        {
+          "poi_id": "5043d02de4b08d95c28ef3a1",
+          "facility_key": "Trinity-RisingTide",
+          "source_url": "https://www.risingtidetheatre.com/home-backup.html",
+          "official_address": "40WestSt,TrinityNL A0C2S0",
+          "verification": "public_page_body",
+          "limitation": "Operator page is2025season backup; location matchesrawstreet, not proof currenthours.",
+          "raw_identity": [
+            "Rising Tide Theatre",
+            "40 West St",
+            "Trinity Tb",
+            "CA"
+          ],
+          "raw_address": "40 West St",
+          "official_locality": "Trinity",
+          "distance_m": 245
+        }
+      ],
+      "rationale": "推定音写。BishopWhiteManor16GallivansLaneとRisingTideTheatre40WestStを独立2運営者の公式本文で確認。宿泊施設のチェックイン住所8WestStを施設住所と取り違えない。TrinityBb/Tb/TrinityBay等の広域・略称の語一致だけでは採用せず、今回の近隣住所で本峰を個別確認。34/38本文支持。"
+    },
+    {
+      "peak": "49.052, -113.909",
+      "reference_id": "6176887",
+      "decision": "adopt",
+      "anchors": [
+        {
+          "poi_id": "5006fe5ce4b07575b865ff81",
+          "facility_key": "Waterton-Subway307",
+          "source_url": "https://restaurants.subway.com/canada/ab/waterton-park/307-windflower-avenue",
+          "official_address": "307WindflowerAvenue,WatertonParkABT0K2M0",
+          "verification": "public_page_body",
+          "limitation": "Townsite referenceWaterton corresponds to operatorpostalWatertonPark; not legalboundary proof.",
+          "raw_identity": [
+            "Subway",
+            "307 Windflower Ave",
+            "Waterton Park",
+            "CA"
+          ],
+          "raw_address": "307 Windflower Ave",
+          "official_locality": "Waterton",
+          "distance_m": 34
+        },
+        {
+          "poi_id": "4c929f27418ea1cd3e8ca685",
+          "facility_key": "Waterton-Wieners301",
+          "source_url": "https://www.wienersofwaterton.com/privacy-policy",
+          "official_address": "301WindFlowerAve,WatertonParkABT0K2M0",
+          "verification": "public_page_body",
+          "limitation": "Operatorfooter address checked; pharmacy/medical contents not relevant.",
+          "raw_identity": [
+            "Wieners of Waterton",
+            "301 WIND FLOWER Ave",
+            "Waterton Park",
+            "CA"
+          ],
+          "raw_address": "301 WIND FLOWER Ave",
+          "official_locality": "Waterton",
+          "distance_m": 52
+        }
+      ],
+      "rationale": "推定音写。Subway307WindflowerAveとWienersofWaterton301WindFlowerAveの公式本文が元施設住所に対応。公式住所のWatertonParkとGeoNames短名WatertonはParksCanadaのtownsite資料を併せた本峰の参考名として扱う。PizzaofWatertonは現在CameronFallsDriveへ移転し元303Windflowerとは不一致なのでアンカーから除外。107/123本文支持。"
+    },
+    {
+      "peak": "39.183, -107.238",
+      "reference_id": "5436117",
+      "decision": "adopt",
+      "anchors": [
+        {
+          "poi_id": "6681a6a2198ecd288fd0394e",
+          "facility_key": "Redstone-GeneralStore292",
+          "source_url": "https://sbg.colorado.gov/sites/sbg/files/Liquor_List_10.1.21.pdf",
+          "official_address": "RedstoneGeneralStore,292RedstoneBoulevard,RedstoneCO81623",
+          "verification": "official_search_excerpt",
+          "limitation": "Historical2021state licensingrow; currentcommunitytourism listing corroborates sameaddress, not proof currentlicense.",
+          "raw_identity": [
+            "Redstone General Store",
+            "292 Redstone Blvd",
+            "Redstone",
+            "US"
+          ],
+          "raw_address": "292 Redstone Blvd",
+          "official_locality": "Redstone",
+          "distance_m": 36
+        },
+        {
+          "poi_id": "4bc3ef1fdce4eee1cfd2719d",
+          "facility_key": "Redstone-Inn82",
+          "source_url": "https://www.colorado.com/redstone/accommodations/motels-lodges/redstone-inn",
+          "official_address": "82RedstoneBlvd,RedstoneCO81623",
+          "verification": "official_search_excerpt",
+          "limitation": "OfficialColorado tourismsearch body confirms82RedstoneBlvd; directwebopen returnedtitleonly, notaddressbody.",
+          "raw_identity": [
+            "Redstone Inn",
+            "82 Redstone Blvd",
+            "Redstone",
+            "US"
+          ],
+          "raw_address": "82 Redstone Blvd",
+          "official_locality": "Redstone",
+          "distance_m": 387
+        }
+      ],
+      "rationale": "推定音写。GeneralStore292RedstoneBoulevardの州公式登録表とRedstoneInn82RedstoneBlvdの公式州観光情報を元2施設に照合。前者は2021年資料なので現在の営業認定には用いず、地域と住所対応の証拠として使用。31/36本文支持。施設名による票の追加はしない。"
+    },
+    {
+      "peak": "60.934, 13.361",
+      "reference_id": "2695029",
+      "decision": "adopt",
+      "anchors": [
+        {
+          "poi_id": "943974967a194f109ee5ef0b",
+          "facility_key": "Lima-Youth104",
+          "source_url": "https://malung-salen.se/download/18.11f787b01943ff5023b2cc34/1736425045412/Broschyr%20D%C3%B6lg%C3%A5rden.pdf",
+          "official_address": "LimaUG,Kyrkbyn104,Lima",
+          "verification": "official_search_excerpt",
+          "limitation": "Municipalitydocumentsearchtext; directopencachemiss. Exactsame104housingproviderpage independentlycorroboratesstreet, notcounted asanotherfacility.",
+          "raw_identity": [
+            "Lima UG",
+            "Kyrkbyn 104",
+            "Lima",
+            "SE"
+          ],
+          "raw_address": "Kyrkbyn 104",
+          "official_locality": "Lima",
+          "distance_m": 23
+        },
+        {
+          "poi_id": "866ddbb9e10548d928affbb7",
+          "facility_key": "Lima-Forest106",
+          "source_url": "https://www.limaskog.com/kontakt/",
+          "official_address": "LimaBesparingsskog,Kyrkbyn106,78064Lima",
+          "verification": "public_page_body",
+          "limitation": "OperatorLimaoffice address; workshopÖstraÄrnäs139 excluded.",
+          "raw_identity": [
+            "Lima Besparingsskog",
+            "Kyrkbyn 106",
+            "Lima",
+            "SE"
+          ],
+          "raw_address": "Kyrkbyn 106",
+          "official_locality": "Lima",
+          "distance_m": 49
+        }
+      ],
+      "rationale": "推定音写。スウェーデンMalung-Sälen自治体のLimaUG,Kyrkbyn104を公式青少年施設資料で確認し、LimaBesparingsskogのKyrkbyn106を運営者公開住所で確認。PeruのLimaと混同せずGeoNames国SEの参照IDで本峰を照合。24/28本文支持。同行104にある銀行・住宅・林業の別POIは独立施設として数えない。"
+    },
+    {
+      "peak": "44.260, -66.129",
+      "reference_id": "6141406",
+      "decision": "adopt",
+      "anchors": [
+        {
+          "poi_id": "5d89edd0f9a0ea0008b25ab0",
+          "facility_key": "Saulnierville-Foodland10029",
+          "source_url": "https://openinformation.novascotia.ca/api/views/f3f7-h4mx/files/6d3bb00b-5629-468f-b7a2-c728efa1e759?filename=2016-02656-ENV_PublicPackage.pdf",
+          "official_address": "ClarencesFoodland,10029MainSt,SaulniervilleNSB0W2Z0",
+          "verification": "official_search_excerpt",
+          "limitation": "HistoricalNovaScotiapublicdisclosure facilityrow; rawFoodland10029Highway1 andmunicipalreport ClarencesFoodlandSaulnierville corroborate samebranch.",
+          "raw_identity": [
+            "Foodland - Saulnierville",
+            "10029 Highway 1",
+            "Saulnierville",
+            "CA"
+          ],
+          "raw_address": "10029 Highway 1",
+          "official_locality": "Saulnierville",
+          "distance_m": 17
+        },
+        {
+          "poi_id": "89441caa0b044b1e3cd53df8",
+          "facility_key": "Saulnierville-Pharmacy9999",
+          "source_url": "https://www.pharmachoice.com/locations/saulnierville-pharmacy/",
+          "official_address": "9999Hwy1,SaulniervilleNSB0W2Z0",
+          "verification": "public_page_body",
+          "limitation": "Pharmachoiceandduplicatepharmacyrowcountasonefacility; no medicaladvice drawn frompage.",
+          "raw_identity": [
+            "Saulnierville Pharmacy Ltd",
+            "9999 Hwy 1",
+            "Saulnierville",
+            "CA"
+          ],
+          "raw_address": "9999 Hwy 1",
+          "official_locality": "Saulnierville",
+          "distance_m": 163
+        }
+      ],
+      "rationale": "推定音写。州公開2016資料のClarencesFoodland10029MainSt,SaulniervilleとPharmaChoice9999Hwy1の公式店舗住所を元スーパー・薬局に照合。MainSt/Highway1表記差は保持し、メーカー各社が10029を使う登録を独立店舗証拠として数えない。州資料は歴史的住所根拠で現在営業の認定ではない。"
+    },
+    {
+      "peak": "46.384, -71.410",
+      "reference_id": "8617398",
+      "decision": "adopt",
+      "anchors": [
+        {
+          "poi_id": "4646f3bf5c7c40fc78d86b54",
+          "facility_key": "SteAgathe-Coop119",
+          "source_url": "https://www.bmr.ca/media/com/bmr-grattez-et-epargnez-reglements-officiels.pdf",
+          "official_address": "COOPAGRICLASEIGNEURIE/STEAGATHE,119RUE STGEORGES,SAINTEAGATHEDELOTBINIERE QCG0S2A0",
+          "verification": "official_search_excerpt",
+          "limitation": "Historicaloperatorlist. CurrentBMR2321RueSaintGeorges; no assumedmove orrenumber proof.",
+          "raw_identity": [
+            "Cooperative Agricole la Seigneurie",
+            "119 Saint Georges Rue",
+            "Sainte-Agathe-De-Lotbiniere",
+            "CA"
+          ],
+          "raw_address": "119 Saint Georges Rue",
+          "official_locality": "Sainte-Agathe",
+          "distance_m": 69
+        },
+        {
+          "poi_id": "035ec6b8537b44b192ee00d5",
+          "facility_key": "SteAgathe-Municipal254",
+          "source_url": "https://www.canada.ca/fr/nouvelles/archive/2015/07/municipalite-sainte-agathe-lotbiniere-obtient-appui-financier-gouvernement-canada.html",
+          "official_address": "CentreMunicipal,254RueSaintPierre,SainteAgathedeLotbiniereQuebec",
+          "verification": "official_search_excerpt",
+          "limitation": "2015officialgovernmentsearchaddress; directwebopen cachemiss. Quebecmunicipaldirectory andGazette independently correlateformerVillageandfullmunicipalname; notcurrenthours orallPOIpositionproof.",
+          "raw_identity": [
+            "Municipalité de Sainte-Agathe-de-Lotbinière",
+            "254 Saint Pierre Rue",
+            "Sainte-Agathe-De-Lotbiniere",
+            "CA"
+          ],
+          "raw_address": "254 Saint Pierre Rue",
+          "official_locality": "Sainte-Agathe",
+          "distance_m": 628
+        }
+      ],
+      "rationale": "推定音写。BMR公式の歴史的加盟店表はCoopAgricLaSeigneurie119RueStGeorgesをSainteAgathedeLotbiniereとして記載。自治体254RueSaintPierreをCanada.ca2015公式告知で確認。GeoNames短名SainteAgatheは州官報の旧Village/Paroisse統合記述を併せた個別地域対応。現BMRは2321RueSaintGeorgesであり移転/改番を未確定のまま旧住所と同一地点とは断定しない。34/37本文支持。"
+    },
+    {
+      "peak": "54.159, -113.125",
+      "reference_id": "6165620",
+      "decision": "adopt",
+      "anchors": [
+        {
+          "poi_id": "37f062ee172a49fb89921dab",
+          "facility_key": "Thorhild-HighMark606",
+          "source_url": "https://newsreleases.cooperators.ca/index.php?item=43540&s=5651",
+          "official_address": "High Mark Agencies,606 1 Street,Thorhild",
+          "verification": "public_page_body",
+          "limitation": "2011 historical operator address, not current operating status. Duplicate Co-operators registrations do not constitute independent facilities.",
+          "raw_identity": [
+            "Co-operators - High Mark Agencies Ltd",
+            "606 1 St",
+            "Thorhild",
+            "CA"
+          ],
+          "raw_address": "606 1 St",
+          "official_locality": "Thorhild",
+          "distance_m": 48
+        },
+        {
+          "poi_id": "4f46a51be4b0426db8d9646b",
+          "facility_key": "Thorhild-CountyAdmin801",
+          "source_url": "https://www.thorhildcounty.com/Contact-Us",
+          "official_address": "Admin Building,801 - 1st Street,Thorhild,AB T0A3J0",
+          "verification": "public_page_body",
+          "limitation": "Original address retains duplicated St token; street number and 1st Street correspond. This does not verify all surrounding POI locations.",
+          "raw_identity": [
+            "County Of Thorhild No. 7",
+            "801 1 St St",
+            "Thorhild",
+            "CA"
+          ],
+          "raw_address": "801 1 St St",
+          "official_locality": "Thorhild",
+          "distance_m": 170
+        }
+      ],
+      "rationale": "推定音写。自治体Admin Building801-1stStreetの公式住所と2011年Cooperators公式事業所表HighMarkAgencies6061StreetThorhildを独立2施設として照合。County Of Thorhild No.7の元住所8011StStは末尾St重複を保持し番号と通りの対応のみ確認。歴史的事業所情報で現在の営業確認ではない。広いThorhildCounty表記だけで採用せず街内の具体施設住所を確認。"
+    },
+    {
+      "peak": "50.887, -109.542",
+      "reference_id": "6051040",
+      "decision": "adopt",
+      "anchors": [
+        {
+          "poi_id": "5b213015da7080002c381063",
+          "facility_key": "Leader-Pharmacy100",
+          "source_url": "https://eatonia.ca/pdfs/newsbulletin/2018/August-2018.pdf",
+          "official_address": "Leader Pharmacy,100 1st Avenue West,Leader,Saskatchewan",
+          "verification": "official_search_excerpt",
+          "limitation": "Municipal 2018 bulletin contains pharmacy advertisement, search excerpt page7. Pharmacy operator website returned403; no bypass attempted. Historical address only.",
+          "raw_identity": [
+            "Guardian - Leader Pharmacy",
+            "100 1st Ave W,",
+            "Leader",
+            "CA"
+          ],
+          "raw_address": "100 1st Ave W,",
+          "official_locality": "Leader",
+          "distance_m": 98
+        },
+        {
+          "poi_id": "34d9895f92bf4e2762b32293",
+          "facility_key": "Leader-TownOffice151",
+          "source_url": "https://leader.ca/contact/",
+          "official_address": "Town of Leader,151 1st Street West,Leader,SK",
+          "verification": "public_page_body",
+          "limitation": "Raw address retains duplicated St. Not evidence for unrelated POI positions.",
+          "raw_identity": [
+            "Town of Leader",
+            "151 1 St St W",
+            "Leader",
+            "CA"
+          ],
+          "raw_address": "151 1 St St W",
+          "official_locality": "Leader",
+          "distance_m": 112
+        }
+      ],
+      "rationale": "推定音写。町庁舎1511stStreetWest公式ページとEatonia自治体2018年広報のLeaderPharmacy広告1001stAvenueWestを照合。元POIのSt重複と末尾コンマを保持。薬局資料は歴史的広告で営業状況の認定ではない。水泳場の201MainStreetは商工会119MainStreetと一致しないため住所アンカーから除外。"
+    },
+    {
+      "peak": "47.209, -124.202",
+      "reference_id": "5805996",
+      "decision": "adopt",
+      "anchors": [
+        {
+          "poi_id": "5f3968c77d31e304d83dc4f8",
+          "facility_key": "PacificBeach-Clipper45",
+          "source_url": "https://clipperinn.net/",
+          "official_address": "Clipper Inn,45 Main St,Pacific Beach,WA98571",
+          "verification": "public_page_body",
+          "limitation": "Confirms this inn address, not FedEx registration sharing street number.",
+          "raw_identity": [
+            "Clipper Inn",
+            "45 Main St",
+            "Pacific Beach",
+            "US"
+          ],
+          "raw_address": "45 Main St",
+          "official_locality": "Pacific Beach",
+          "distance_m": 11
+        },
+        {
+          "poi_id": "4c37cfb91e06d13ae9b7763e",
+          "facility_key": "PacificBeach-StatePark49",
+          "source_url": "https://wa.gov/recreation/parks/pacific-beach-state-park",
+          "official_address": "Pacific Beach State Park,49 Second Street,Pacific Beach,WA98571",
+          "verification": "official_search_excerpt",
+          "limitation": "WA.gov search body reports47.2057,-124.2025. Direct source open404 and parks agency403; no bypass attempted. Park point is not town boundary.",
+          "raw_identity": [
+            "Pacific Beach State Park",
+            "49 Second Street",
+            "Pacific Beach",
+            "US"
+          ],
+          "raw_address": "49 Second Street",
+          "official_locality": "Pacific Beach",
+          "distance_m": 295
+        }
+      ],
+      "rationale": "推定音写。ClipperInn公式45MainStreetとWA州公式公園情報49SecondStreetを独立2施設として照合。ClipperInnは同名NY施設と区別してPacificBeachWA公式サイトを確認。州ページの公開検索本文には位置47.2057,-124.2025もあり、公園元POI47.205978,-124.202398と約32m差。公園位置を街の境界とは解釈しない。FedEx45Mainは同一住所だから確認済みとは扱わない。 GettyTGN2116452の階層本文でHighlandHeightsはPacificBeachのpart of inhabited placeと確認。子地区の1票は支持票へ加算せず保持。"
+    },
+    {
+      "peak": "35.860, 12.863",
+      "reference_id": "2524381",
+      "decision": "adopt",
+      "anchors": [
+        {
+          "poi_id": "4e44e105b61cac6fc75ae415",
+          "facility_key": "Linosa-SiremarOffice",
+          "source_url": "https://www.carontetourist.it/it/isole-sicilia/informazioni-viaggio/porti-biglietterie",
+          "official_address": "Linosa,Agenzia Gaetano Cavallaro,Via Principe Umberto,92010",
+          "verification": "public_page_body",
+          "limitation": "Official town and street correspond; source street number1 not independently confirmed. Departure quay is a different facility, not used as agency coordinate.",
+          "raw_identity": [
+            "Siremar",
+            "Via Principe Umberto 1",
+            "Lampedusa e Linosa",
+            "IT"
+          ],
+          "raw_address": "Via Principe Umberto 1",
+          "official_locality": "Linosa",
+          "distance_m": 77
+        },
+        {
+          "poi_id": "b4fe60c150534976292bb546",
+          "facility_key": "Linosa-PelagheaHotel",
+          "source_url": "https://www.pelaghealinosa.it/contatti-hotel-linosa-vacanza-in-sicilia/",
+          "official_address": "Pelaghea,Via Regina Elena,Linosa",
+          "verification": "public_page_body",
+          "limitation": "Town and street correspond, no house number supplied. Website generic distance-from-center statement not used as geographic boundary.",
+          "raw_identity": [
+            "Hotel Pelaghea",
+            "Via Regina Elena",
+            "Lampedusa e Linosa",
+            "IT"
+          ],
+          "raw_address": "Via Regina Elena",
+          "official_locality": "Linosa",
+          "distance_m": 139
+        }
+      ],
+      "rationale": "推定音写。Pelaghea公式住所ViaReginaElenaLinosaとSiremar運営公式Linosa代理店ViaPrincipeUmbertoを独立施設として照合。LampedusaeLinosa複合自治体名だけではなく島名と具体街路の対応を確認。Siremarの公式資料に番地1はなく街路までの一致。発券代理店と船着場BanchinaPozzolanaは同じ地点と解釈しない。"
+    },
+    {
+      "peak": "-44.669, 167.927",
+      "reference_id": "6202181",
+      "decision": "adopt",
+      "anchors": [
+        {
+          "poi_id": "5adec5441acf1119afaaf8c2",
+          "facility_key": "Milford-VisitorCentre",
+          "source_url": "https://puremilford.co.nz/contact-us",
+          "official_address": "Milford Sound Visitor Centre,1 Milford Sound Highway,Milford Sound9679",
+          "verification": "public_page_body",
+          "limitation": "Shared terminal is one physical facility regardless of multiple cruise companies.",
+          "raw_identity": [
+            "Milford Sound Visitor Centre",
+            "1 Milford Sound Hwy",
+            "Milford Sound",
+            "NZ"
+          ],
+          "raw_address": "1 Milford Sound Hwy",
+          "official_locality": "Milford Sound",
+          "distance_m": 75
+        },
+        {
+          "poi_id": "50238871e4b0578fd36386c2",
+          "facility_key": "Milford-NZMF-Aerodrome",
+          "source_url": "https://www.ansr.transport.govt.nz/about-us/queries/how-to-access-milford-sound-piopiotahi-aerodrome",
+          "official_address": "NZMF aerodrome official WGS84 reference point; no street address",
+          "evidence_kind": "official_facility_coordinates",
+          "coordinate_crs": "WGS84",
+          "official_coordinates": [
+            167.92333333333332,
+            -44.67333333333333
+          ],
+          "verification": "public_page_body",
+          "limitation": "Aerodrome reference point not building entrance. Raw street address remains null; coordinates verify facility location, not settlement boundary.",
+          "raw_identity": [
+            "Milford Sound Airport (MFN)",
+            null,
+            "Milford Sound",
+            "NZ"
+          ],
+          "raw_address": null,
+          "official_locality": "Milford Sound",
+          "distance_m": 549
+        }
+      ],
+      "rationale": "推定音写。PureMilford公式VisitorCentre1MilfordSoundHighway住所とNZ運輸省空港登録NZMF公式WGS84座標を独立2施設として照合。空港は元住所nullを保持し、公式座標167.9233333333,-44.6733333333と元POIの差を100m以内で検証。共有ターミナルの複数会社は独立施設に数えない。近隣の観測所DalePointなど位置疑義は別途保持し、地名確認が全POI位置品質を保証するとは扱わない。"
+    }
+  ]
+}

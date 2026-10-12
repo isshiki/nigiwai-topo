@@ -1,0 +1,21 @@
+{
+  "batch": 172,
+  "items": [
+    {
+      "name": "Willow Bunch",
+      "status": "hold",
+      "note": "州SLGA2026一覧に21EdwardBeaupreStreetのWillowBunchFineFoodを発見。ただし元SouthlandCoop同番地との営業者継承と原施設同一性は未確認。別名店舗一致と断定しない。",
+      "source_url": "https://www.slga.com/-/media/slga/files/liquor/for-suppliers/retailer-details/saskatchewan-rsps/list-of-saskatchewan-retail-store-permittees-rsps-jan-1-2026.pdf"
+    },
+    {
+      "name": "Canwood",
+      "status": "hold",
+      "note": "元RMofCanwood621MainStの公式住所直接照合に未到達。モデル読みを採用しない。"
+    },
+    {
+      "name": "Imperial",
+      "status": "hold",
+      "note": "元施設住所と公式資料の照合に未到達。モデル読みだけでは採用しない。"
+    }
+  ]
+}

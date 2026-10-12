@@ -1,0 +1,30 @@
+{
+  "batch": 387,
+  "adopted": 1,
+  "total_adopted": 908,
+  "remaining": 4446,
+  "items": [
+    {
+      "peak": "62.852, 12.792",
+      "ref": {
+        "id": "2694549",
+        "name": "Ljungdalen",
+        "country": "SE",
+        "lon": 12.79092,
+        "lat": 62.85291,
+        "feature_code": "PPL",
+        "source_url": "https://download.geonames.org/export/dump/SE.zip",
+        "distance_m": 69,
+        "supporting_pois": 22,
+        "support_share": 0.88
+      },
+      "ja_editorial": "ユングダーレン（推定）",
+      "batch": 387,
+      "policy": "reviewed_address_text_anchors",
+      "reading_status": "inferred",
+      "reviewed_by": "Codex",
+      "review_note": "推定音写。ICA店舗Ljungdalen700をApoteket公式代理店住所で確認。Ljungdalen163の観光協会をBerg自治体2025-03-13議事録の8673-2024行で対応確認。元POIは旧称FriluftsföreningTurist-/Inf.Byråで、住所照合に用いるが現行正式団体名の認定はしない。22/25本文支持、独立2施設2発行元。",
+      "official_anchor_review": "docs/unnamed-world-official-anchor-reviews.json"
+    }
+  ]
+}

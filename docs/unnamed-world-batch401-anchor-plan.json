@@ -1,0 +1,30 @@
+{
+  "batch": 401,
+  "expected_adopted": 917,
+  "items": [
+    {
+      "peak": "47.209, -124.202",
+      "ja_editorial": "パシフィックビーチ（推定）",
+      "reading_status": "inferred",
+      "review_note": "推定音写。ClipperInn公式45MainStreetとWA州公式公園情報49SecondStreetを独立2施設として照合。ClipperInnは同名NY施設と区別してPacificBeachWA公式サイトを確認。州ページの公開検索本文には位置47.2057,-124.2025もあり、公園元POI47.205978,-124.202398と約32m差。公園位置を街の境界とは解釈しない。FedEx45Mainは同一住所だから確認済みとは扱わない。 GettyTGN2116452の階層本文でHighlandHeightsはPacificBeachのpart of inhabited placeと確認。子地区の1票は支持票へ加算せず保持。",
+      "anchors": [
+        {
+          "poi_id": "5f3968c77d31e304d83dc4f8",
+          "facility_key": "PacificBeach-Clipper45",
+          "source_url": "https://clipperinn.net/",
+          "official_address": "Clipper Inn,45 Main St,Pacific Beach,WA98571",
+          "verification": "public_page_body",
+          "limitation": "Confirms this inn address, not FedEx registration sharing street number."
+        },
+        {
+          "poi_id": "4c37cfb91e06d13ae9b7763e",
+          "facility_key": "PacificBeach-StatePark49",
+          "source_url": "https://wa.gov/recreation/parks/pacific-beach-state-park",
+          "official_address": "Pacific Beach State Park,49 Second Street,Pacific Beach,WA98571",
+          "verification": "official_search_excerpt",
+          "limitation": "WA.gov search body reports47.2057,-124.2025. Direct source open404 and parks agency403; no bypass attempted. Park point is not town boundary."
+        }
+      ]
+    }
+  ]
+}

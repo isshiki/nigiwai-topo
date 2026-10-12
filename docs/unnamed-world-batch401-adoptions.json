@@ -1,0 +1,30 @@
+{
+  "batch": 401,
+  "adopted": 1,
+  "total_adopted": 918,
+  "remaining": 4436,
+  "items": [
+    {
+      "peak": "47.209, -124.202",
+      "ref": {
+        "id": "5805996",
+        "name": "Pacific Beach",
+        "country": "US",
+        "lon": -124.20323,
+        "lat": 47.20897,
+        "feature_code": "PPL",
+        "source_url": "https://download.geonames.org/export/dump/US.zip",
+        "distance_m": 116,
+        "supporting_pois": 52,
+        "support_share": 0.852
+      },
+      "ja_editorial": "パシフィックビーチ（推定）",
+      "batch": 401,
+      "policy": "reviewed_address_text_anchors",
+      "reading_status": "inferred",
+      "reviewed_by": "Codex",
+      "review_note": "推定音写。ClipperInn公式45MainStreetとWA州公式公園情報49SecondStreetを独立2施設として照合。ClipperInnは同名NY施設と区別してPacificBeachWA公式サイトを確認。州ページの公開検索本文には位置47.2057,-124.2025もあり、公園元POI47.205978,-124.202398と約32m差。公園位置を街の境界とは解釈しない。FedEx45Mainは同一住所だから確認済みとは扱わない。 GettyTGN2116452の階層本文でHighlandHeightsはPacificBeachのpart of inhabited placeと確認。子地区の1票は支持票へ加算せず保持。",
+      "official_anchor_review": "docs/unnamed-world-official-anchor-reviews.json"
+    }
+  ]
+}

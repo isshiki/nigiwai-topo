@@ -1,0 +1,31 @@
+{
+  "batch": 410,
+  "adopted": 1,
+  "total_adopted": 923,
+  "remaining": 4431,
+  "items": [
+    {
+      "peak": "35.062, -118.970",
+      "ref": {
+        "id": "5372576",
+        "name": "Mettler",
+        "country": "US",
+        "lon": -118.9701,
+        "lat": 35.06386,
+        "feature_code": "PPL",
+        "source_url": "https://download.geonames.org/export/dump/US.zip",
+        "distance_m": 184,
+        "supporting_pois": 25,
+        "support_share": 0.962
+      },
+      "ja_editorial": "メトラー（推定）",
+      "batch": 410,
+      "policy": "reviewed_census_place_boundary",
+      "reading_status": "inferred",
+      "reviewed_by": "Codex",
+      "review_note": "推定音写。CensusTIGERweb2026MettlerCDP/GEOID0647164の境界に峰が含まれることを原座標で検証。境界距離39.57m。郵便表記Bakersfieldを保持し街道名だけでなく公的統計地区を照合。全POI位置品質や法的市域を認定したものではない。",
+      "official_anchor_review": "docs/unnamed-world-official-anchor-reviews.json",
+      "cartographic_review": "docs/unnamed-world-batch409-census-review.json"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "batch": 390,
+  "adopted": 2,
+  "total_adopted": 912,
+  "remaining": 4442,
+  "items": [
+    {
+      "peak": "49.052, -113.909",
+      "ref": {
+        "id": "6176887",
+        "name": "Waterton",
+        "country": "CA",
+        "lon": -113.91864,
+        "lat": 49.04995,
+        "feature_code": "PPL",
+        "source_url": "https://download.geonames.org/export/dump/CA.zip",
+        "distance_m": 769,
+        "supporting_pois": 107,
+        "support_share": 0.87
+      },
+      "ja_editorial": "ウォータートン（推定）",
+      "batch": 390,
+      "policy": "reviewed_address_text_anchors",
+      "reading_status": "inferred",
+      "reviewed_by": "Codex",
+      "review_note": "推定音写。Subway307WindflowerAveとWienersofWaterton301WindFlowerAveの公式本文が元施設住所に対応。公式住所のWatertonParkとGeoNames短名WatertonはParksCanadaのtownsite資料を併せた本峰の参考名として扱う。PizzaofWatertonは現在CameronFallsDriveへ移転し元303Windflowerとは不一致なのでアンカーから除外。107/123本文支持。",
+      "official_anchor_review": "docs/unnamed-world-official-anchor-reviews.json"
+    },
+    {
+      "peak": "39.183, -107.238",
+      "ref": {
+        "id": "5436117",
+        "name": "Redstone",
+        "country": "US",
+        "lon": -107.23977,
+        "lat": 39.18082,
+        "feature_code": "PPL",
+        "source_url": "https://download.geonames.org/export/dump/US.zip",
+        "distance_m": 328,
+        "supporting_pois": 31,
+        "support_share": 0.861
+      },
+      "ja_editorial": "レッドストーン（推定）",
+      "batch": 390,
+      "policy": "reviewed_address_text_anchors",
+      "reading_status": "inferred",
+      "reviewed_by": "Codex",
+      "review_note": "推定音写。GeneralStore292RedstoneBoulevardの州公式登録表とRedstoneInn82RedstoneBlvdの公式州観光情報を元2施設に照合。前者は2021年資料なので現在の営業認定には用いず、地域と住所対応の証拠として使用。31/36本文支持。施設名による票の追加はしない。",
+      "official_anchor_review": "docs/unnamed-world-official-anchor-reviews.json"
+    }
+  ]
+}

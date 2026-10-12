@@ -1,0 +1,15 @@
+{
+  "batch": 408,
+  "expected_adopted": 921,
+  "items": [
+    {
+      "peak": "-13.690, -50.799",
+      "ja_editorial": "サンジョゼ・ドス・バンデイランテス（推定）",
+      "reading_status": "inferred",
+      "policy": "reviewed_public_cartographic_area",
+      "cartographic_review": "docs/unnamed-world-batch407-map-fit.json",
+      "review_note": "推定音写。UFG図3.2の格子から読取調査範囲を再計算し、峰が境界216.8m内側、80m縮小後も内側。図面積0.458km2は本文0.48km2と対応。Goias州公式地名座標約269mと対応。周辺54件中46件支持。調査範囲は行政区域ではなく、80mは感度シナリオで測量誤差上限ではない。全POI位置品質の認定ではない。",
+      "anchors": []
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "batch": 402,
+  "expected_adopted": 918,
+  "items": [
+    {
+      "peak": "35.860, 12.863",
+      "ja_editorial": "リノーザ（推定）",
+      "reading_status": "inferred",
+      "review_note": "推定音写。Pelaghea公式住所ViaReginaElenaLinosaとSiremar運営公式Linosa代理店ViaPrincipeUmbertoを独立施設として照合。LampedusaeLinosa複合自治体名だけではなく島名と具体街路の対応を確認。Siremarの公式資料に番地1はなく街路までの一致。発券代理店と船着場BanchinaPozzolanaは同じ地点と解釈しない。",
+      "anchors": [
+        {
+          "poi_id": "4e44e105b61cac6fc75ae415",
+          "facility_key": "Linosa-SiremarOffice",
+          "source_url": "https://www.carontetourist.it/it/isole-sicilia/informazioni-viaggio/porti-biglietterie",
+          "official_address": "Linosa,Agenzia Gaetano Cavallaro,Via Principe Umberto,92010",
+          "verification": "public_page_body",
+          "limitation": "Official town and street correspond; source street number1 not independently confirmed. Departure quay is a different facility, not used as agency coordinate."
+        },
+        {
+          "poi_id": "b4fe60c150534976292bb546",
+          "facility_key": "Linosa-PelagheaHotel",
+          "source_url": "https://www.pelaghealinosa.it/contatti-hotel-linosa-vacanza-in-sicilia/",
+          "official_address": "Pelaghea,Via Regina Elena,Linosa",
+          "verification": "public_page_body",
+          "limitation": "Town and street correspond, no house number supplied. Website generic distance-from-center statement not used as geographic boundary."
+        }
+      ]
+    }
+  ]
+}

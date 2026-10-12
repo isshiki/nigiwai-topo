@@ -1,0 +1,249 @@
+{
+  "GeoNames:1841988": {
+    "original": "Guri-si",
+    "country": "KR",
+    "name": "クリ",
+    "source": "韓国観光公社 日本語地名読み",
+    "source_url": "https://japanese.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=111393",
+    "basis": "公式資料の九里（クリ）からカタカナ表記を採用。"
+  },
+  "GeoNames:1842859": {
+    "original": "Koch'ang",
+    "country": "KR",
+    "name": "コチャン",
+    "source": "韓国観光公社 日本語地名読み",
+    "source_url": "https://japanese.visitkorea.or.kr/svc/whereToGo/hdrdslt/hdrdsltView.do?crsSn=248323",
+    "basis": "公式資料の高敞（コチャン）を採用。巨済への誤置換を修正。"
+  },
+  "GeoNames:1809858": {
+    "original": "Guangzhou",
+    "country": "CN",
+    "name": "広州",
+    "source": "在広州日本国総領事館",
+    "source_url": "https://www.guangzhou.cn.emb-japan.go.jp/itprtop_ja/",
+    "basis": "日本語の公的資料で使われる漢字表記を採用。"
+  },
+  "GeoNames:1805753": {
+    "original": "Jinan",
+    "country": "CN",
+    "name": "済南",
+    "source": "和歌山県 日本語資料",
+    "source_url": "https://www.pref.wakayama.lg.jp/prefg/022300/kokusaikouryu/mailmagazine/mailmagazine_d/fil/mailmagazine9.pdf",
+    "basis": "山東省済南市の公的日本語表記を採用。"
+  },
+  "GeoNames:4498303": {
+    "original": "West Raleigh",
+    "country": "US",
+    "name": "ウェスト・ローリー",
+    "source": "Brand USA 日本語都市名 + reviewed transliteration",
+    "source_url": "https://www.visittheusa.com/ja/destinations/north-carolina/raleigh/",
+    "basis": "Raleighの日本語表記ローリーを確認。Westの音写を組み合わせた編集表記で、地区の公式日本語名ではありません。"
+  },
+  "GeoNames:1835553": {
+    "original": "Suwon",
+    "country": "KR",
+    "name": "スウォン",
+    "source": "韓国観光公社 日本語都市名",
+    "source_url": "https://japanese.visitkorea.or.kr/svc/contents/contentsView.do?dataSetId=143&menuSn=923&vcontsId=218394",
+    "basis": "公的日本語旅行ガイドの都市名・駅名のカタカナ表記と同じGeoNames参照地点を照合。"
+  },
+  "GeoNames:1835329": {
+    "original": "Daegu",
+    "country": "KR",
+    "name": "テグ",
+    "source": "ソウル市 日本語旅行ガイド",
+    "source_url": "https://english.seoul.go.kr/wp-content/uploads/2026/03/guidebook_jp.pdf",
+    "basis": "公的日本語旅行ガイドの都市名・駅名のカタカナ表記と同じGeoNames参照地点を照合。"
+  },
+  "GeoNames:1835235": {
+    "original": "Daejeon",
+    "country": "KR",
+    "name": "テジョン",
+    "source": "韓国観光公社 日本語都市名",
+    "source_url": "https://japanese.visitkorea.or.kr/svc/contents/contentsView.do?dataSetId=143&menuSn=923&vcontsId=218394",
+    "basis": "公的日本語旅行ガイドの都市名・駅名のカタカナ表記と同じGeoNames参照地点を照合。"
+  },
+  "GeoNames:1842616": {
+    "original": "Gongju",
+    "country": "KR",
+    "name": "コンジュ",
+    "source": "韓国観光公社 日本語都市名",
+    "source_url": "https://japanese.visitkorea.or.kr/svc/contents/contentsView.do?dataSetId=143&menuSn=923&vcontsId=218394",
+    "basis": "公的日本語旅行ガイドの都市名・駅名のカタカナ表記と同じGeoNames参照地点を照合。"
+  },
+  "GeoNames:1843564": {
+    "original": "Incheon",
+    "country": "KR",
+    "name": "インチョン",
+    "source": "韓国観光公社 日本語都市名",
+    "source_url": "https://japanese.visitkorea.or.kr/svc/contents/contentsView.do?dataSetId=143&menuSn=923&vcontsId=218394",
+    "basis": "公式日本語資料の仁川（インチョン）とGeoNamesの韓国・仁川参照地点を照合。"
+  },
+  "GeoNames:13308739": {
+    "original": "Huafu",
+    "country": "CN",
+    "name": "華富",
+    "lon": 114.06491,
+    "lat": 22.55457,
+    "source": "自治体または運営主体の原語地名 + reviewed Japanese glyphs",
+    "source_url": "https://www.szft.gov.cn/fthfjdbsc/gkmlpt/content/12/12722/post_12722500.html",
+    "basis": "公的資料または運営主体の原語名と参照地点の地域・位置を照合して日本語字形へ整理。日本語の公式慣用名を確認したという意味ではありません。",
+    "matching_method": "manual original/context/location review; not an external GeoNames-ID claim"
+  },
+  "GeoNames:13308733": {
+    "original": "Nanyou, Shenzhen",
+    "country": "CN",
+    "name": "南油",
+    "lon": 113.92314,
+    "lat": 22.50036,
+    "source": "自治体または運営主体の原語地名 + reviewed Japanese glyphs",
+    "source_url": "https://pnr.sz.gov.cn/ywzy/ghzs/nsfqgh/content/post_10501788.html",
+    "basis": "公的資料または運営主体の原語名と参照地点の地域・位置を照合して日本語字形へ整理。日本語の公式慣用名を確認したという意味ではありません。",
+    "matching_method": "manual original/context/location review; not an external GeoNames-ID claim"
+  },
+  "GeoNames:13308738": {
+    "original": "Huaqingbei",
+    "country": "CN",
+    "name": "華強北",
+    "lon": 114.08734,
+    "lat": 22.54706,
+    "source": "自治体または運営主体の原語地名 + reviewed Japanese glyphs",
+    "source_url": "https://www.szft.gov.cn/xxgk/ztbd/yshj/bslc/content/post_8704244.html",
+    "basis": "公的資料または運営主体の原語名と参照地点の地域・位置を照合して日本語字形へ整理。日本語の公式慣用名を確認したという意味ではありません。",
+    "matching_method": "manual original/context/location review; not an external GeoNames-ID claim"
+  },
+  "GeoNames:13308745": {
+    "original": "Xinzhou",
+    "country": "CN",
+    "name": "新洲",
+    "lon": 114.04804,
+    "lat": 22.5241,
+    "source": "自治体または運営主体の原語地名 + reviewed Japanese glyphs",
+    "source_url": "https://www.szft.gov.cn/xxgk/ztbd/yshj/bslc/content/post_8704244.html",
+    "basis": "公的資料または運営主体の原語名と参照地点の地域・位置を照合して日本語字形へ整理。日本語の公式慣用名を確認したという意味ではありません。",
+    "matching_method": "manual original/context/location review; not an external GeoNames-ID claim"
+  },
+  "GeoNames:13308748": {
+    "original": "Zhuzilin",
+    "country": "CN",
+    "name": "竹子林",
+    "lon": 114.01504,
+    "lat": 22.53811,
+    "source": "自治体または運営主体の原語地名 + reviewed Japanese glyphs",
+    "source_url": "https://www.szft.gov.cn/xxgk/ztbd/yshj/bslc/content/post_8704244.html",
+    "basis": "公的資料または運営主体の原語名と参照地点の地域・位置を照合して日本語字形へ整理。日本語の公式慣用名を確認したという意味ではありません。",
+    "matching_method": "manual original/context/location review; not an external GeoNames-ID claim"
+  },
+  "GeoNames:13308752": {
+    "original": "Yanhanshan",
+    "country": "CN",
+    "name": "燕晗山",
+    "lon": 113.98249,
+    "lat": 22.53685,
+    "source": "自治体または運営主体の原語地名 + reviewed Japanese glyphs",
+    "source_url": "https://cgj.sz.gov.cn/xsmh/gysz/twf/jytb/content/post_10840030.html",
+    "basis": "公的資料または運営主体の原語名と参照地点の地域・位置を照合して日本語字形へ整理。日本語の公式慣用名を確認したという意味ではありません。",
+    "matching_method": "manual original/context/location review; not an external GeoNames-ID claim"
+  },
+  "GeoNames:13308730": {
+    "original": "Shenzhen Bay Park",
+    "country": "CN",
+    "name": "深圳湾公園",
+    "lon": 113.95171,
+    "lat": 22.49943,
+    "source": "自治体または運営主体の原語地名 + reviewed Japanese glyphs",
+    "source_url": "https://www.szns.gov.cn/mlns/stns/kh/bhgy/content/post_12595646.html",
+    "basis": "公的資料または運営主体の原語名と参照地点の地域・位置を照合して日本語字形へ整理。日本語の公式慣用名を確認したという意味ではありません。",
+    "matching_method": "manual original/context/location review; not an external GeoNames-ID claim"
+  },
+  "GeoNames:13308722": {
+    "original": "Happy Harbour",
+    "country": "CN",
+    "name": "歓楽港湾",
+    "lon": 113.88727,
+    "lat": 22.54702,
+    "source": "自治体または運営主体の原語地名 + reviewed Japanese glyphs",
+    "source_url": "https://www.octohbay.net/",
+    "basis": "公的資料または運営主体の原語名と参照地点の地域・位置を照合して日本語字形へ整理。日本語の公式慣用名を確認したという意味ではありません。",
+    "matching_method": "manual original/context/location review; not an external GeoNames-ID claim"
+  },
+  "GeoNames:1281048": {
+    "original": "Heshun",
+    "country": "CN",
+    "name": "和順",
+    "lon": 98.46667,
+    "lat": 25.01667,
+    "source": "自治体または運営主体の原語地名 + reviewed Japanese glyphs",
+    "source_url": "https://www.baoshan.gov.cn/info/8046/9872314.htm",
+    "basis": "公的資料または運営主体の原語名と参照地点の地域・位置を照合して日本語字形へ整理。日本語の公式慣用名を確認したという意味ではありません。",
+    "matching_method": "manual original/context/location review; not an external GeoNames-ID claim"
+  },
+  "GeoNames:1804525": {
+    "original": "Langmusi",
+    "country": "CN",
+    "name": "郎木寺",
+    "lon": 102.62806,
+    "lat": 34.08778,
+    "source": "自治体または運営主体の原語地名 + reviewed Japanese glyphs",
+    "source_url": "https://www.luqu.gov.cn/info/1007/12656.htm",
+    "basis": "公的資料または運営主体の原語名と参照地点の地域・位置を照合して日本語字形へ整理。日本語の公式慣用名を確認したという意味ではありません。",
+    "matching_method": "manual original/context/location review; not an external GeoNames-ID claim"
+  },
+  "GeoNames:2036337": {
+    "original": "Kaiyuan",
+    "country": "CN",
+    "name": "開原",
+    "lon": 124.04028,
+    "lat": 42.53306,
+    "source": "自治体または運営主体の原語地名 + reviewed Japanese glyphs",
+    "source_url": "https://slt.ln.gov.cn/slt/ztbd/zthd/2026n/srlx_jstx/2026020911125471120/index.shtml",
+    "basis": "公的資料または運営主体の原語名と参照地点の地域・位置を照合して日本語字形へ整理。日本語の公式慣用名を確認したという意味ではありません。",
+    "matching_method": "manual original/context/location review; not an external GeoNames-ID claim"
+  },
+  "GeoNames:2034638": {
+    "original": "Sujiatun",
+    "country": "CN",
+    "name": "蘇家屯",
+    "lon": 123.33917,
+    "lat": 41.65917,
+    "source": "自治体または運営主体の原語地名 + reviewed Japanese glyphs",
+    "source_url": "https://www.shenyang.gov.cn/zt/zxxtp/gzdt/202308/t20230809_4509355.html",
+    "basis": "公的資料または運営主体の原語名と参照地点の地域・位置を照合して日本語字形へ整理。日本語の公式慣用名を確認したという意味ではありません。",
+    "matching_method": "manual original/context/location review; not an external GeoNames-ID claim"
+  },
+  "GeoNames:2050970": {
+    "original": "Hondlon",
+    "country": "CN",
+    "name": "昆都侖",
+    "lon": 109.79389,
+    "lat": 40.64833,
+    "source": "自治体または運営主体の原語地名 + reviewed Japanese glyphs",
+    "source_url": "https://kdl.gov.cn/mlkdl/",
+    "basis": "公的資料または運営主体の原語名と参照地点の地域・位置を照合して日本語字形へ整理。日本語の公式慣用名を確認したという意味ではありません。",
+    "matching_method": "manual original/context/location review; not an external GeoNames-ID claim"
+  },
+  "GeoNames:6621166": {
+    "original": "Seogwipo",
+    "country": "KR",
+    "name": "ソグィポ",
+    "source": "韓国観光公社 日本語地名",
+    "source_url": "https://japanese.visitkorea.or.kr/svc/contents/contentsView.do?dataSetId=143&menuSn=923&vcontsId=218394",
+    "basis": "韓国観光公社の公式日本語地名と参照地点の地域を照合。"
+  },
+  "GeoNames:1845020": {
+    "original": "Tongyeong",
+    "country": "KR",
+    "name": "トンヨン",
+    "source": "韓国観光公社 日本語地名",
+    "source_url": "https://japanese.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=251530",
+    "basis": "韓国観光公社の公式日本語地名と参照地点の地域を照合。"
+  },
+  "GeoNames:1838722": {
+    "original": "Buan",
+    "country": "KR",
+    "name": "プアン",
+    "source": "韓国観光公社 日本語地名",
+    "source_url": "https://japanese.visitkorea.or.kr/public/contents/columns/LeafletKTO100.pdf",
+    "basis": "韓国観光公社の公式日本語地名と参照地点の地域を照合。"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "batch": 398,
+  "expected_adopted": 916,
+  "items": [
+    {
+      "peak": "50.887, -109.542",
+      "ja_editorial": "リーダー（推定）",
+      "reading_status": "inferred",
+      "review_note": "推定音写。町庁舎1511stStreetWest公式ページとEatonia自治体2018年広報のLeaderPharmacy広告1001stAvenueWestを照合。元POIのSt重複と末尾コンマを保持。薬局資料は歴史的広告で営業状況の認定ではない。水泳場の201MainStreetは商工会119MainStreetと一致しないため住所アンカーから除外。",
+      "anchors": [
+        {
+          "poi_id": "5b213015da7080002c381063",
+          "facility_key": "Leader-Pharmacy100",
+          "source_url": "https://eatonia.ca/pdfs/newsbulletin/2018/August-2018.pdf",
+          "official_address": "Leader Pharmacy,100 1st Avenue West,Leader,Saskatchewan",
+          "verification": "official_search_excerpt",
+          "limitation": "Municipal 2018 bulletin contains pharmacy advertisement, search excerpt page7. Pharmacy operator website returned403; no bypass attempted. Historical address only."
+        },
+        {
+          "poi_id": "34d9895f92bf4e2762b32293",
+          "facility_key": "Leader-TownOffice151",
+          "source_url": "https://leader.ca/contact/",
+          "official_address": "Town of Leader,151 1st Street West,Leader,SK",
+          "verification": "public_page_body",
+          "limitation": "Raw address retains duplicated St. Not evidence for unrelated POI positions."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1771 @@
+{
+  "summary": {
+    "previous_holds": 94,
+    "resolved_previous_holds": 8,
+    "remaining_holds": 86,
+    "additional_peaks_reviewed": 231,
+    "adopted_additional_peaks": 3,
+    "added_total": 11
+  },
+  "policy": "保留94件から読み・発音の根拠を得た8件と、追加候補231峰から公的日本語表記3件を反映。残る86件の個別読み調査はこの回の終了時点では未完了。231峰全件の読み確認が完了した意味ではない。",
+  "items": [
+    {
+      "id": "GeoNames:5711124",
+      "original": "Alsea",
+      "country": "US",
+      "lon": -123.59649,
+      "lat": 44.38151,
+      "model_ja": "アルシア",
+      "model": "qwen3.5:9b",
+      "peak_keys": [
+        "44.382, -123.597"
+      ],
+      "decision": "hold",
+      "reason": "住所と参照ID・座標の対応は再確認済み。登録日本語別名なし。現地読みを確定する資料の個別確認が未完了。モデル候補だけでは採用しない。",
+      "rechecked_on": "2026-10-11",
+      "address_identity_rechecked": true,
+      "registered_ja_alias_found": false
+    },
+    {
+      "id": "GeoNames:5336303",
+      "original": "Chilcoot",
+      "country": "US",
+      "lon": -120.13965,
+      "lat": 39.79768,
+      "model_ja": "チルクー",
+      "model": "qwen3.5:9b",
+      "peak_keys": [
+        "39.798, -120.139"
+      ],
+      "decision": "hold",
+      "reason": "住所と参照ID・座標の対応は再確認済み。登録日本語別名なし。現地読みを確定する資料の個別確認が未完了。モデル候補だけでは採用しない。",
+      "rechecked_on": "2026-10-11",
+      "address_identity_rechecked": true,
+      "registered_ja_alias_found": false
+    },
+    {
+      "id": "GeoNames:5790707",
+      "original": "Conconully",
+      "country": "US",
+      "lon": -119.74979,
+      "lat": 48.55737,
+      "model_ja": "コンコニリ",
+      "model": "qwen3.5:9b",
+      "peak_keys": [
+        "48.559, -119.750"
+      ],
+      "decision": "adopt",
+      "reason": "地域史研究者による現地地名の発音 KAHN-kah-NUL-lee に基づく編集音写。モデルの コンコニリ を修正",
+      "rechecked_on": "2026-10-11",
+      "address_identity_rechecked": true,
+      "registered_ja_alias_found": false,
+      "ja": "コンコナリー",
+      "name_type": "editorial_transliteration",
+      "evidence_url": "https://www.historylink.org/File/23508"
+    },
+    {
+      "id": "GeoNames:5798370",
+      "original": "Ione",
+      "country": "US",
+      "lon": -117.41719,
+      "lat": 48.74103,
+      "model_ja": "アイオン",
+      "model": "qwen3.5:9b",
+      "peak_keys": [
+        "48.740, -117.419"
+      ],
+      "decision": "hold",
+      "reason": "住所と参照ID・座標の対応は再確認済み。登録日本語別名なし。現地読みを確定する資料の個別確認が未完了。モデル候補だけでは採用しない。",
+      "rechecked_on": "2026-10-11",
+      "address_identity_rechecked": true,
+      "registered_ja_alias_found": false
+    },
+    {
+      "id": "GeoNames:5320914",
+      "original": "Wikieup",
+      "country": "US",
+      "lon": -113.61132,
+      "lat": 34.70335,
+      "model_ja": "ウィキユープ",
+      "model": "qwen3.5:9b",
+      "peak_keys": [
+        "34.700, -113.610"
+      ],
+      "decision": "hold",
+      "reason": "住所と参照ID・座標の対応は再確認済み。登録日本語別名なし。現地読みを確定する資料の個別確認が未完了。モデル候補だけでは採用しない。",
+      "rechecked_on": "2026-10-11",
+      "address_identity_rechecked": true,
+      "registered_ja_alias_found": false
+    },
+    {
+      "id": "GeoNames:5832055",
+      "original": "Meeteetse",
+      "country": "US",
+      "lon": -108.87152,
+      "lat": 44.15718,
+      "model_ja": "ミートーセ",
+      "model": "qwen3.5:9b",
+      "peak_keys": [
+        "44.158, -108.871"
+      ],
+      "decision": "hold",
+      "reason": "住所と参照ID・座標の対応は再確認済み。登録日本語別名なし。現地読みを確定する資料の個別確認が未完了。モデル候補だけでは採用しない。",
+      "rechecked_on": "2026-10-11",
+      "address_identity_rechecked": true,
+      "registered_ja_alias_found": false
+    },
+    {
+      "id": "GeoNames:5946259",
+      "original": "Eatonia",
+      "country": "CA",
+      "lon": -109.38956,
+      "lat": 51.22397,
+      "model_ja": "エートニア",
+      "model": "qwen3.5:9b",
+      "peak_keys": [
+        "51.223, -109.390"
+      ],
+      "decision": "hold",
+      "reason": "住所と参照ID・座標の対応は再確認済み。登録日本語別名なし。現地読みを確定する資料の個別確認が未完了。モデル候補だけでは採用しない。",
+      "rechecked_on": "2026-10-11",
+      "address_identity_rechecked": true,
+      "registered_ja_alias_found": false
+    },
+    {
+      "id": "GeoNames:5496513",
+      "original": "Vaughn",
+      "country": "US",
+      "lon": -105.20833,
+      "lat": 34.60173,
+      "model_ja": "ヴァーン",
+      "model": "qwen3.5:9b",
+      "peak_keys": [
+        "34.601, -105.208"
+      ],
+      "decision": "hold",
+      "reason": "住所と参照ID・座標の対応は再確認済み。登録日本語別名なし。現地読みを確定する資料の個別確認が未完了。モデル候補だけでは採用しない。",
+      "rechecked_on": "2026-10-11",
+      "address_identity_rechecked": true,
+      "registered_ja_alias_found": false
+    },
+    {
+      "id": "GeoNames:6085582",
+      "original": "Naicam",
+      "country": "CA",
+      "lon": -104.50102,
+      "lat": 52.41672,
+      "model_ja": "ナイカム",
+      "model": "qwen3.5:9b",
+      "peak_keys": [
+        "52.417, -104.495"
+      ],
+      "decision": "hold",
+      "reason": "住所と参照ID・座標の対応は再確認済み。登録日本語別名なし。現地読みを確定する資料の個別確認が未完了。モデル候補だけでは採用しない。",
+      "rechecked_on": "2026-10-11",
+      "address_identity_rechecked": true,
+      "registered_ja_alias_found": false
+    },
+    {
+      "id": "GeoNames:5489619",
+      "original": "San Jon",
+      "country": "US",
+      "lon": -103.32856,
+      "lat": 35.10756,
+      "model_ja": "サン・ホン",
+      "model": "qwen3.5:9b",
+      "peak_keys": [
+        "35.109, -103.332"
+      ],
+      "decision": "hold",
+      "reason": "住所と参照ID・座標の対応は再確認済み。登録日本語別名なし。現地読みを確定する資料の個別確認が未完了。モデル候補だけでは採用しない。",
+      "rechecked_on": "2026-10-11",
+      "address_identity_rechecked": true,
+      "registered_ja_alias_found": false
+    },
+    {
+      "id": "GeoNames:5695881",
+      "original": "Gurley",
+      "country": "US",
+      "lon": -102.97076,
+      "lat": 41.3222,
+      "model_ja": "グルリー",
+      "model": "qwen3.5:9b",
+      "peak_keys": [
+        "41.321, -102.973"
+      ],
+      "decision": "hold",
+      "reason": "住所と参照ID・座標の対応は再確認済み。登録日本語別名なし。現地読みを確定する資料の個別確認が未完了。モデル候補だけでは採用しない。",
+      "rechecked_on": "2026-10-11",
+      "address_identity_rechecked": true,
+      "registered_ja_alias_found": false
+    },
+    {
+      "id": "GeoNames:5901898",
+      "original": "Birtle",
+      "country": "CA",
+      "lon": -101.0484,
+      "lat": 50.4225,
+      "model_ja": "ビルトル",
+      "model": "qwen3.5:9b",
+      "peak_keys": [
+        "50.422, -101.047"
+      ],
+      "decision": "hold",
+      "reason": "住所と参照ID・座標の対応は再確認済み。登録日本語別名なし。現地読みを確定する資料の個別確認が未完了。モデル候補だけでは採用しない。",
+      "rechecked_on": "2026-10-11",
+      "address_identity_rechecked": true,
+      "registered_ja_alias_found": false
+    },
+    {
+      "id": "GeoNames:5933900",
+      "original": "Cumberland House",
+      "country": "CA",
+      "lon": -102.267,
+      "lat": 53.955,
+      "model_ja": null,
+      "model": "qwen3.5:9b",
+      "peak_keys": [
+        "53.955, -102.268"
+      ],
+      "decision": "hold",
+      "reason": "住所と参照ID・座標の対応は再確認済み。登録日本語別名なし。現地読みを確定する資料の個別確認が未完了。モデル候補だけでは採用しない。",
+      "rechecked_on": "2026-10-11",
+      "address_identity_rechecked": true,
+      "registered_ja_alias_found": false
+    },
+    {
+      "id": "GeoNames:6140599",
+      "original": "Sandy Bay",
+      "country": "CA",
+      "lon": -102.315,
+      "lat": 55.526,
+      "model_ja": null,
+      "model": "qwen3.5:9b",
+      "peak_keys": [
+        "55.525, -102.315"
+      ],
+      "decision": "hold",
+      "reason": "住所と参照ID・座標の対応は再確認済み。登録日本語別名なし。現地読みを確定する資料の個別確認が未完了。モデル候補だけでは採用しない。",
+      "rechecked_on": "2026-10-11",
+      "address_identity_rechecked": true,
+      "registered_ja_alias_found": false
+    },
+    {
+      "id": "GeoNames:6062333",
+      "original": "Lynn Lake",
+      "country": "CA",
+      "lon": -101.04734,
+      "lat": 56.85194,
+      "model_ja": null,
+      "model": "qwen3.5:9b",
+      "peak_keys": [
+        "56.852, -101.047"
+      ],
+      "decision": "hold",
+      "reason": "住所と参照ID・座標の対応は再確認済み。登録日本語別名なし。現地読みを確定する資料の個別確認が未完了。モデル候補だけでは採用しない。",
+      "rechecked_on": "2026-10-11",
+      "address_identity_rechecked": true,
+      "registered_ja_alias_found": false
+    },
+    {
+      "id": "GeoNames:4540858",
+      "original": "Leedey",
+      "country": "US",
+      "lon": -99.34677,
+      "lat": 35.87005,
+      "model_ja": null,
+      "model": "qwen3.5:9b",
+      "peak_keys": [
+        "35.869, -99.347"
+      ],
+      "decision": "hold",
+      "reason": "住所と参照ID・座標の対応は再確認済み。登録日本語別名なし。現地読みを確定する資料の個別確認が未完了。モデル候補だけでは採用しない。",
+      "rechecked_on": "2026-10-11",
+      "address_identity_rechecked": true,
+      "registered_ja_alias_found": false
+    },
+    {
+      "id": "GeoNames:4277796",
+      "original": "Protection",
+      "country": "US",
+      "lon": -99.48401,
+      "lat": 37.20141,
+      "model_ja": null,
+      "model": "qwen3.5:9b",
+      "peak_keys": [
+        "37.203, -99.484"
+      ],
+      "decision": "hold",
+      "reason": "住所と参照ID・座標の対応は再確認済み。登録日本語別名なし。現地読みを確定する資料の個別確認が未完了。モデル候補だけでは採用しない。",
+      "rechecked_on": "2026-10-11",
+      "address_identity_rechecked": true,
+      "registered_ja_alias_found": false
+    },
+    {
+      "id": "GeoNames:5523101",
+      "original": "Higgins",
+      "country": "US",
+      "lon": -100.02429,
+      "lat": 36.11976,
+      "model_ja": null,
+      "model": "qwen3.5:9b",
+      "peak_keys": [
+        "36.121, -100.025"
+      ],
+      "decision": "hold",
+      "reason": "住所と参照ID・座標の対応は再確認済み。登録日本語別名なし。現地読みを確定する資料の個別確認が未完了。モデル候補だけでは採用しない。",
+      "rechecked_on": "2026-10-11",
+      "address_identity_rechecked": true,
+      "registered_ja_alias_found": false
+    },
+    {
+      "id": "GeoNames:5521670",
+      "original": "Follett",
+      "country": "US",
+      "lon": -100.14152,
+      "lat": 36.43392,
+      "model_ja": null,
+      "model": "qwen3.5:9b",
+      "peak_keys": [
+        "36.433, -100.141"
+      ],
+      "decision": "hold",
+      "reason": "住所と参照ID・座標の対応は再確認済み。登録日本語別名なし。現地読みを確定する資料の個別確認が未完了。モデル候補だけでは採用しない。",
+      "rechecked_on": "2026-10-11",
+      "address_identity_rechecked": true,
+      "registered_ja_alias_found": false
+    },
+    {
+      "id": "GeoNames:4276077",
+      "original": "Natoma",
+      "country": "US",
+      "lon": -99.0287,
+      "lat": 39.19084,
+      "model_ja": null,
+      "model": "qwen3.5:9b",
+      "peak_keys": [
+        "39.190, -99.024"
+      ],
+      "decision": "hold",
+      "reason": "住所と参照ID・座標の対応は再確認済み。登録日本語別名なし。現地読みを確定する資料の個別確認が未完了。モデル候補だけでは採用しない。",
+      "rechecked_on": "2026-10-11",
+      "address_identity_rechecked": true,
+      "registered_ja_alias_found": false
+    },
+    {
+      "id": "GeoNames:5070125",
+      "original": "Hildreth",
+      "country": "US",
+      "lon": -99.0437,
+      "lat": 40.33723,
+      "model_ja": "ヒルドレズ",
+      "model": "qwen3.5:9b",
+      "peak_keys": [
+        "40.338, -99.043"
+      ],
+      "decision": "hold",
+      "reason": "住所と参照ID・座標の対応は再確認済み。登録日本語別名なし。現地読みを確定する資料の個別確認が未完了。モデル候補だけでは採用しない。",
+      "rechecked_on": "2026-10-11",
+      "address_identity_rechecked": true,
+      "registered_ja_alias_found": false
+    },
+    {
+      "id": "GeoNames:5226988",
+      "original": "Colome",
+      "country": "US",
+      "lon": -99.71511,
+      "lat": 43.26056,
+      "model_ja": "コロメ",
+      "model": "qwen3.5:9b",
+      "peak_keys": [
+        "43.260, -99.715"
+      ],
+      "decision": "hold",
+      "reason": "住所と参照ID・座標の対応は再確認済み。登録日本語別名なし。現地読みを確定する資料の個別確認が未完了。モデル候補だけでは採用しない。",
+      "rechecked_on": "2026-10-11",
+      "address_identity_rechecked": true,
+      "registered_ja_alias_found": false
+    },
+    {
+      "id": "GeoNames:6069090",
+      "original": "McCreary",
+      "country": "CA",
+      "lon": -99.493,
+      "lat": 50.77312,
+      "model_ja": "マックリー",
+      "model": "qwen3.5:9b",
+      "peak_keys": [
+        "50.773, -99.492"
+      ],
+      "decision": "hold",
+      "reason": "住所と参照ID・座標の対応は再確認済み。登録日本語別名なし。現地読みを確定する資料の個別確認が未完了。モデル候補だけでは採用しない。",
+      "rechecked_on": "2026-10-11",
+      "address_identity_rechecked": true,
+      "registered_ja_alias_found": false
+    },
+    {
+      "id": "GeoNames:6093761",
+      "original": "Onanole",
+      "country": "CA",
+      "lon": -99.96893,
+      "lat": 50.62252,
+      "model_ja": "オナノール",
+      "model": "qwen3.5:9b",
+      "peak_keys": [
+        "50.622, -99.969"
+      ],
+      "decision": "hold",
+      "reason": "住所と参照ID・座標の対応は再確認済み。登録日本語別名なし。現地読みを確定する資料の個別確認が未完了。モデル候補だけでは採用しない。",
+      "rechecked_on": "2026-10-11",
+      "address_identity_rechecked": true,
+      "registered_ja_alias_found": false
+    },
+    {
+      "id": "GeoNames:6140809",
+      "original": "Sandy Lake",
+      "country": "CA",
+      "lon": -100.17914,
+      "lat": 50.52721,
+      "model_ja": "サンディレイク",
+      "model": "qwen3.5:9b",
+      "peak_keys": [
+        "50.528, -100.177"
+      ],
+      "decision": "hold",
+      "reason": "住所と参照ID・座標の対応は再確認済み。登録日本語別名なし。現地読みを確定する資料の個別確認が未完了。モデル候補だけでは採用しない。",
+      "rechecked_on": "2026-10-11",
+      "address_identity_rechecked": true,
+      "registered_ja_alias_found": false
+    },
+    {
+      "id": "GeoNames:4270029",
+      "original": "Courtland",
+      "country": "US",
+      "lon": -97.89282,
+      "lat": 39.7814,
+      "model_ja": "コートランド",
+      "model": "qwen3.5:9b",
+      "peak_keys": [
+        "39.783, -97.896"
+      ],
+      "decision": "hold",
+      "reason": "住所と参照ID・座標の対応は再確認済み。登録日本語別名なし。現地読みを確定する資料の個別確認が未完了。モデル候補だけでは採用しない。",
+      "rechecked_on": "2026-10-11",
+      "address_identity_rechecked": true,
+      "registered_ja_alias_found": false
+    },
+    {
+      "id": "GeoNames:5065502",
+      "original": "Chambers",
+      "country": "US",
+      "lon": -98.74898,
+      "lat": 42.20501,
+      "model_ja": "チェンバーズ",
+      "model": "qwen3.5:9b",
+      "peak_keys": [
+        "42.205, -98.748"
+      ],
+      "decision": "hold",
+      "reason": "住所と参照ID・座標の対応は再確認済み。登録日本語別名なし。現地読みを確定する資料の個別確認が未完了。モデル候補だけでは採用しない。",
+      "rechecked_on": "2026-10-11",
+      "address_identity_rechecked": true,
+      "registered_ja_alias_found": false
+    },
+    {
+      "id": "GeoNames:6168694",
+      "original": "Treherne",
+      "country": "CA",
+      "lon": -98.69856,
+      "lat": 49.62941,
+      "model_ja": "トレヒーン",
+      "model": "qwen3.5:9b",
+      "peak_keys": [
+        "49.630, -98.698"
+      ],
+      "decision": "hold",
+      "reason": "住所と参照ID・座標の対応は再確認済み。登録日本語別名なし。現地読みを確定する資料の個別確認が未完了。モデル候補だけでは採用しない。",
+      "rechecked_on": "2026-10-11",
+      "address_identity_rechecked": true,
+      "registered_ja_alias_found": false
+    },
+    {
+      "id": "GeoNames:5887546",
+      "original": "Ashern",
+      "country": "CA",
+      "lon": -98.34633,
+      "lat": 51.18221,
+      "model_ja": "アシェン",
+      "model": "qwen3.5:9b",
+      "peak_keys": [
+        "51.182, -98.345"
+      ],
+      "decision": "hold",
+      "reason": "住所と参照ID・座標の対応は再確認済み。登録日本語別名なし。現地読みを確定する資料の個別確認が未完了。モデル候補だけでは採用しない。",
+      "rechecked_on": "2026-10-11",
+      "address_identity_rechecked": true,
+      "registered_ja_alias_found": false
+    },
+    {
+      "id": "GeoNames:5043838",
+      "original": "Rothsay",
+      "country": "US",
+      "lon": -96.28062,
+      "lat": 46.47496,
+      "model_ja": "ロースエイ",
+      "model": "qwen3.5:9b",
+      "peak_keys": [
+        "46.475, -96.283"
+      ],
+      "decision": "hold",
+      "reason": "住所と参照ID・座標の対応は再確認済み。登録日本語別名なし。現地読みを確定する資料の個別確認が未完了。モデル候補だけでは採用しない。",
+      "rechecked_on": "2026-10-11",
+      "address_identity_rechecked": true,
+      "registered_ja_alias_found": false
+    },
+    {
+      "id": "GeoNames:5229975",
+      "original": "New Effington",
+      "country": "US",
+      "lon": -96.92036,
+      "lat": 45.85635,
+      "model_ja": "ニューエフィンガトン",
+      "model": "qwen3.5:9b",
+      "peak_keys": [
+        "45.857, -96.919"
+      ],
+      "decision": "hold",
+      "reason": "住所と参照ID・座標の対応は再確認済み。登録日本語別名なし。現地読みを確定する資料の個別確認が未完了。モデル候補だけでは採用しない。",
+      "rechecked_on": "2026-10-11",
+      "address_identity_rechecked": true,
+      "registered_ja_alias_found": false
+    },
+    {
+      "id": "GeoNames:5021600",
+      "original": "Climax",
+      "country": "US",
+      "lon": -96.81702,
+      "lat": 47.60775,
+      "model_ja": "クライマックス",
+      "model": "qwen3.5:9b",
+      "peak_keys": [
+        "47.608, -96.816"
+      ],
+      "decision": "hold",
+      "reason": "住所と参照ID・座標の対応は再確認済み。登録日本語別名なし。現地読みを確定する資料の個別確認が未完了。モデル候補だけでは採用しない。",
+      "rechecked_on": "2026-10-11",
+      "address_identity_rechecked": true,
+      "registered_ja_alias_found": false
+    },
+    {
+      "id": "GeoNames:5028985",
+      "original": "Grygla",
+      "country": "US",
+      "lon": -95.61833,
+      "lat": 48.3008,
+      "model_ja": "グリグラ",
+      "model": "qwen3.5:9b",
+      "peak_keys": [
+        "48.301, -95.619"
+      ],
+      "decision": "hold",
+      "reason": "住所と参照ID・座標の対応は再確認済み。登録日本語別名なし。現地読みを確定する資料の個別確認が未完了。モデル候補だけでは採用しない。",
+      "rechecked_on": "2026-10-11",
+      "address_identity_rechecked": true,
+      "registered_ja_alias_found": false
+    },
+    {
+      "id": "GeoNames:5019235",
+      "original": "Bricelyn",
+      "country": "US",
+      "lon": -93.81189,
+      "lat": 43.56218,
+      "model_ja": "ブライスリン",
+      "model": "qwen3.5:9b",
+      "peak_keys": [
+        "43.562, -93.812"
+      ],
+      "decision": "hold",
+      "reason": "住所と参照ID・座標の対応は再確認済み。登録日本語別名なし。現地読みを確定する資料の個別確認が未完了。モデル候補だけでは採用しない。",
+      "rechecked_on": "2026-10-11",
+      "address_identity_rechecked": true,
+      "registered_ja_alias_found": false
+    },
+    {
+      "id": "GeoNames:5039068",
+      "original": "Nevis",
+      "country": "US",
+      "lon": -94.83946,
+      "lat": 46.96524,
+      "model_ja": "ネービス",
+      "model": "qwen3.5:9b",
+      "peak_keys": [
+        "46.965, -94.842"
+      ],
+      "decision": "hold",
+      "reason": "住所と参照ID・座標の対応は再確認済み。登録日本語別名なし。現地読みを確定する資料の個別確認が未完了。モデル候補だけでは採用しない。",
+      "rechecked_on": "2026-10-11",
+      "address_identity_rechecked": true,
+      "registered_ja_alias_found": false
+    },
+    {
+      "id": "GeoNames:4411510",
+      "original": "Theodosia",
+      "country": "US",
+      "lon": -92.676,
+      "lat": 36.58284,
+      "model_ja": "テオドシア",
+      "model": "qwen3.5:9b",
+      "peak_keys": [
+        "36.583, -92.676"
+      ],
+      "decision": "adopt",
+      "reason": "カンザス大学 Audio Reader の対象州発音資料 thee uh DOH shee uh に基づく編集音写",
+      "rechecked_on": "2026-10-11",
+      "address_identity_rechecked": true,
+      "registered_ja_alias_found": false,
+      "ja": "ティアドーシア",
+      "name_type": "editorial_transliteration",
+      "evidence_url": "https://reader.ku.edu/sites/reader/files/2024-12/Missouri%20Place%20Names.pdf"
+    },
+    {
+      "id": "GeoNames:4385495",
+      "original": "Ellsinore",
+      "country": "US",
+      "lon": -90.74679,
+      "lat": 36.93422,
+      "model_ja": "エリソノア",
+      "model": "qwen3.5:9b",
+      "peak_keys": [
+        "36.934, -90.747"
+      ],
+      "decision": "hold",
+      "reason": "住所と参照ID・座標の対応は再確認済み。登録日本語別名なし。現地読みを確定する資料の個別確認が未完了。モデル候補だけでは採用しない。",
+      "rechecked_on": "2026-10-11",
+      "address_identity_rechecked": true,
+      "registered_ja_alias_found": false
+    },
+    {
+      "id": "GeoNames:4397184",
+      "original": "Marquand",
+      "country": "US",
+      "lon": -90.16817,
+      "lat": 37.42922,
+      "model_ja": "マルクアンド",
+      "model": "qwen3.5:9b",
+      "peak_keys": [
+        "37.429, -90.168"
+      ],
+      "decision": "hold",
+      "reason": "住所と参照ID・座標の対応は再確認済み。登録日本語別名なし。現地読みを確定する資料の個別確認が未完了。モデル候補だけでは採用しない。",
+      "rechecked_on": "2026-10-11",
+      "address_identity_rechecked": true,
+      "registered_ja_alias_found": false
+    },
+    {
+      "id": "GeoNames:5050174",
+      "original": "Tofte",
+      "country": "US",
+      "lon": -90.83626,
+      "lat": 47.57379,
+      "model_ja": "トフト",
+      "model": "qwen3.5:9b",
+      "peak_keys": [
+        "47.573, -90.837"
+      ],
+      "decision": "hold",
+      "reason": "住所と参照ID・座標の対応は再確認済み。登録日本語別名なし。現地読みを確定する資料の個別確認が未完了。モデル候補だけでは採用しない。",
+      "rechecked_on": "2026-10-11",
+      "address_identity_rechecked": true,
+      "registered_ja_alias_found": false
+    },
+    {
+      "id": "GeoNames:5270327",
+      "original": "Saint Germain",
+      "country": "US",
+      "lon": -89.48736,
+      "lat": 45.90162,
+      "model_ja": "サン・ジェルメイン",
+      "model": "qwen3.5:9b",
+      "peak_keys": [
+        "45.900, -89.486"
+      ],
+      "decision": "hold",
+      "reason": "住所と参照ID・座標の対応は再確認済み。登録日本語別名なし。現地読みを確定する資料の個別確認が未完了。モデル候補だけでは採用しない。",
+      "rechecked_on": "2026-10-11",
+      "address_identity_rechecked": true,
+      "registered_ja_alias_found": false
+    },
+    {
+      "id": "GeoNames:5263759",
+      "original": "Mountain",
+      "country": "US",
+      "lon": -88.47372,
+      "lat": 45.1847,
+      "model_ja": "マウンテン",
+      "model": "qwen3.5:9b",
+      "peak_keys": [
+        "45.185, -88.475"
+      ],
+      "decision": "hold",
+      "reason": "住所と参照ID・座標の対応は再確認済み。登録日本語別名なし。現地読みを確定する資料の個別確認が未完了。モデル候補だけでは採用しない。",
+      "rechecked_on": "2026-10-11",
+      "address_identity_rechecked": true,
+      "registered_ja_alias_found": false
+    },
+    {
+      "id": "GeoNames:4095185",
+      "original": "Uriah",
+      "country": "US",
+      "lon": -87.50221,
+      "lat": 31.30517,
+      "model_ja": "ウリア",
+      "model": "qwen3.5:9b",
+      "peak_keys": [
+        "31.304, -87.502"
+      ],
+      "decision": "hold",
+      "reason": "住所と参照ID・座標の対応は再確認済み。登録日本語別名なし。現地読みを確定する資料の個別確認が未完了。モデル候補だけでは採用しない。",
+      "rechecked_on": "2026-10-11",
+      "address_identity_rechecked": true,
+      "registered_ja_alias_found": false
+    },
+    {
+      "id": "GeoNames:4262707",
+      "original": "Owensburg",
+      "country": "US",
+      "lon": -86.72972,
+      "lat": 38.9231,
+      "model_ja": "オウエンズバーグ",
+      "model": "qwen3.5:9b",
+      "peak_keys": [
+        "38.923, -86.729"
+      ],
+      "decision": "hold",
+      "reason": "住所と参照ID・座標の対応は再確認済み。登録日本語別名なし。現地読みを確定する資料の個別確認が未完了。モデル候補だけでは採用しない。",
+      "rechecked_on": "2026-10-11",
+      "address_identity_rechecked": true,
+      "registered_ja_alias_found": false
+    },
+    {
+      "id": "GeoNames:5000342",
+      "original": "Luther",
+      "country": "US",
+      "lon": -85.68256,
+      "lat": 44.04029,
+      "model_ja": null,
+      "model": "qwen3.5:9b",
+      "peak_keys": [
+        "44.037, -85.683"
+      ],
+      "decision": "adopt",
+      "reason": "州政府の発音ガイド LOO-thûr に基づく編集音写",
+      "rechecked_on": "2026-10-11",
+      "address_identity_rechecked": true,
+      "registered_ja_alias_found": false,
+      "ja": "ルーサー",
+      "name_type": "editorial_transliteration",
+      "evidence_url": "https://www.michigan.gov/leo/bureaus-agencies/bureau-of-services-for-blind-persons/btbl/pronunciation-guide-you-say-it-how-in-michigan"
+    },
+    {
+      "id": "GeoNames:4997244",
+      "original": "Irons",
+      "country": "US",
+      "lon": -85.9159,
+      "lat": 44.14001,
+      "model_ja": null,
+      "model": "qwen3.5:9b",
+      "peak_keys": [
+        "44.141, -85.914"
+      ],
+      "decision": "adopt",
+      "reason": "州政府の発音ガイド Ī-ûrnz に基づく編集音写",
+      "rechecked_on": "2026-10-11",
+      "address_identity_rechecked": true,
+      "registered_ja_alias_found": false,
+      "ja": "アイアンズ",
+      "name_type": "editorial_transliteration",
+      "evidence_url": "https://www.michigan.gov/leo/bureaus-agencies/bureau-of-services-for-blind-persons/btbl/pronunciation-guide-you-say-it-how-in-michigan"
+    },
+    {
+      "id": "GeoNames:5013942",
+      "original": "Walkerville",
+      "country": "US",
+      "lon": -86.12451,
+      "lat": 43.71446,
+      "model_ja": null,
+      "model": "qwen3.5:9b",
+      "peak_keys": [
+        "43.715, -86.123"
+      ],
+      "decision": "adopt",
+      "reason": "州政府の発音ガイド WÔ-kûr-vil に基づく編集音写",
+      "rechecked_on": "2026-10-11",
+      "address_identity_rechecked": true,
+      "registered_ja_alias_found": false,
+      "ja": "ウォーカーヴィル",
+      "name_type": "editorial_transliteration",
+      "evidence_url": "https://www.michigan.gov/leo/bureaus-agencies/bureau-of-services-for-blind-persons/btbl/pronunciation-guide-you-say-it-how-in-michigan"
+    },
+    {
+      "id": "GeoNames:4989605",
+      "original": "Copemish",
+      "country": "US",
+      "lon": -85.92258,
+      "lat": 44.48167,
+      "model_ja": null,
+      "model": "qwen3.5:9b",
+      "peak_keys": [
+        "44.481, -85.924"
+      ],
+      "decision": "hold",
+      "reason": "住所と参照ID・座標の対応は再確認済み。登録日本語別名なし。現地読みを確定する資料の個別確認が未完了。モデル候補だけでは採用しない。",
+      "rechecked_on": "2026-10-11",
+      "address_identity_rechecked": true,
+      "registered_ja_alias_found": false
+    },
+    {
+      "id": "GeoNames:4205457",
+      "original": "Leslie",
+      "country": "US",
+      "lon": -84.08657,
+      "lat": 31.95545,
+      "model_ja": "レスリー",
+      "model": "qwen3.5:9b",
+      "peak_keys": [
+        "31.955, -84.086"
+      ],
+      "decision": "hold",
+      "reason": "住所と参照ID・座標の対応は再確認済み。登録日本語別名なし。現地読みを確定する資料の個別確認が未完了。モデル候補だけでは採用しない。",
+      "rechecked_on": "2026-10-11",
+      "address_identity_rechecked": true,
+      "registered_ja_alias_found": false
+    },
+    {
+      "id": "GeoNames:4165503",
+      "original": "Myakka City",
+      "country": "US",
+      "lon": -82.16148,
+      "lat": 27.34977,
+      "model_ja": "マイアカ・シティ",
+      "model": "qwen3.5:9b",
+      "peak_keys": [
+        "27.349, -82.162"
+      ],
+      "decision": "adopt",
+      "reason": "フロリダ大学の Myakka の発音 My-yakah と原住所 Myakka City を照合。語尾 City は通常の英語音写",
+      "rechecked_on": "2026-10-11",
+      "address_identity_rechecked": true,
+      "registered_ja_alias_found": false,
+      "ja": "マイアッカ・シティ",
+      "name_type": "editorial_transliteration",
+      "evidence_url": "https://gardeningsolutions.ifas.ufl.edu/care/planting/florida-soil/"
+    },
+    {
+      "id": "GeoNames:6049933",
+      "original": "Larder Lake",
+      "country": "CA",
+      "lon": -79.71638,
+      "lat": 48.10017,
+      "model_ja": "ラーダーレイク",
+      "model": "qwen3.5:9b",
+      "peak_keys": [
+        "48.100, -79.713"
+      ],
+      "decision": "hold",
+      "reason": "住所と参照ID・座標の対応は再確認済み。登録日本語別名なし。現地読みを確定する資料の個別確認が未完了。モデル候補だけでは採用しない。",
+      "rechecked_on": "2026-10-11",
+      "address_identity_rechecked": true,
+      "registered_ja_alias_found": false
+    },
+    {
+      "id": "GeoNames:5991882",
+      "original": "Killaloe",
+      "country": "CA",
+      "lon": -77.41656,
+      "lat": 45.55512,
+      "model_ja": "キラロア",
+      "model": "qwen3.5:9b",
+      "peak_keys": [
+        "45.554, -77.416"
+      ],
+      "decision": "hold",
+      "reason": "住所と参照ID・座標の対応は再確認済み。登録日本語別名なし。現地読みを確定する資料の個別確認が未完了。モデル候補だけでは採用しない。",
+      "rechecked_on": "2026-10-11",
+      "address_identity_rechecked": true,
+      "registered_ja_alias_found": false
+    },
+    {
+      "id": "GeoNames:4461355",
+      "original": "Colerain",
+      "country": "US",
+      "lon": -76.76856,
+      "lat": 36.20127,
+      "model_ja": "コレイン",
+      "model": "qwen3.5:9b",
+      "peak_keys": [
+        "36.201, -76.768"
+      ],
+      "decision": "hold",
+      "reason": "住所と参照ID・座標の対応は再確認済み。登録日本語別名なし。現地読みを確定する資料の個別確認が未完了。モデル候補だけでは採用しない。",
+      "rechecked_on": "2026-10-11",
+      "address_identity_rechecked": true,
+      "registered_ja_alias_found": false
+    },
+    {
+      "id": "GeoNames:5924236",
+      "original": "Cloyne",
+      "country": "CA",
+      "lon": -77.18275,
+      "lat": 44.81682,
+      "model_ja": "クローヌ",
+      "model": "qwen3.5:9b",
+      "peak_keys": [
+        "44.819, -77.186"
+      ],
+      "decision": "hold",
+      "reason": "住所と参照ID・座標の対応は再確認済み。登録日本語別名なし。現地読みを確定する資料の個別確認が未完了。モデル候補だけでは採用しない。",
+      "rechecked_on": "2026-10-11",
+      "address_identity_rechecked": true,
+      "registered_ja_alias_found": false
+    },
+    {
+      "id": "GeoNames:6065427",
+      "original": "Manseau",
+      "country": "CA",
+      "lon": -71.99909,
+      "lat": 46.36675,
+      "model_ja": "マンスォ",
+      "model": "qwen3.5:9b",
+      "peak_keys": [
+        "46.368, -72.004"
+      ],
+      "decision": "hold",
+      "reason": "住所と参照ID・座標の対応は再確認済み。登録日本語別名なし。現地読みを確定する資料の個別確認が未完了。モデル候補だけでは採用しない。",
+      "rechecked_on": "2026-10-11",
+      "address_identity_rechecked": true,
+      "registered_ja_alias_found": false
+    },
+    {
+      "id": "GeoNames:11257142",
+      "original": "La Doré",
+      "country": "CA",
+      "lon": -72.64984,
+      "lat": 48.71226,
+      "model_ja": "ラ・ドレ",
+      "model": "qwen3.5:9b",
+      "peak_keys": [
+        "48.713, -72.648"
+      ],
+      "decision": "hold",
+      "reason": "住所と参照ID・座標の対応は再確認済み。登録日本語別名なし。現地読みを確定する資料の個別確認が未完了。モデル候補だけでは採用しない。",
+      "rechecked_on": "2026-10-11",
+      "address_identity_rechecked": true,
+      "registered_ja_alias_found": false
+    },
+    {
+      "id": "GeoNames:6945981",
+      "original": "Lac-Etchemin",
+      "country": "CA",
+      "lon": -70.50682,
+      "lat": 46.39951,
+      "model_ja": "ラ・シェミン",
+      "model": "qwen3.5:9b",
+      "peak_keys": [
+        "46.398, -70.506"
+      ],
+      "decision": "hold",
+      "reason": "住所と参照ID・座標の対応は再確認済み。登録日本語別名なし。現地読みを確定する資料の個別確認が未完了。モデル候補だけでは採用しない。",
+      "rechecked_on": "2026-10-11",
+      "address_identity_rechecked": true,
+      "registered_ja_alias_found": false
+    },
+    {
+      "id": "GeoNames:8593825",
+      "original": "Lyster",
+      "country": "CA",
+      "lon": -71.61266,
+      "lat": 46.36873,
+      "model_ja": null,
+      "model": "qwen3.5:9b",
+      "peak_keys": [
+        "46.372, -71.613"
+      ],
+      "decision": "hold",
+      "reason": "住所と参照ID・座標の対応は再確認済み。登録日本語別名なし。現地読みを確定する資料の個別確認が未完了。モデル候補だけでは採用しない。",
+      "rechecked_on": "2026-10-11",
+      "address_identity_rechecked": true,
+      "registered_ja_alias_found": false
+    },
+    {
+      "id": "GeoNames:6014124",
+      "original": "Lac-Drolet",
+      "country": "CA",
+      "lon": -70.84858,
+      "lat": 45.72046,
+      "model_ja": "ラクロワドレ",
+      "model": "qwen3.5:9b",
+      "peak_keys": [
+        "45.718, -70.848"
+      ],
+      "decision": "hold",
+      "reason": "住所と参照ID・座標の対応は再確認済み。登録日本語別名なし。現地読みを確定する資料の個別確認が未完了。モデル候補だけでは採用しない。",
+      "rechecked_on": "2026-10-11",
+      "address_identity_rechecked": true,
+      "registered_ja_alias_found": false
+    },
+    {
+      "id": "GeoNames:8593673",
+      "original": "Saint-Paul-de-Montminy",
+      "country": "CA",
+      "lon": -70.36091,
+      "lat": 46.73145,
+      "model_ja": "サン＝ポール＝ド＝モンミニ",
+      "model": "qwen3.5:9b",
+      "peak_keys": [
+        "46.730, -70.361"
+      ],
+      "decision": "hold",
+      "reason": "住所と参照ID・座標の対応は再確認済み。登録日本語別名なし。現地読みを確定する資料の個別確認が未完了。モデル候補だけでは採用しない。",
+      "rechecked_on": "2026-10-11",
+      "address_identity_rechecked": true,
+      "registered_ja_alias_found": false
+    },
+    {
+      "id": "GeoNames:10292222",
+      "original": "Saint-Just-de-Bretenières",
+      "country": "CA",
+      "lon": -70.0938,
+      "lat": 46.56711,
+      "model_ja": "サン＝ジユス＝ド＝ブレテニエール",
+      "model": "qwen3.5:9b",
+      "peak_keys": [
+        "46.567, -70.095"
+      ],
+      "decision": "hold",
+      "reason": "住所と参照ID・座標の対応は再確認済み。登録日本語別名なし。現地読みを確定する資料の個別確認が未完了。モデル候補だけでは採用しない。",
+      "rechecked_on": "2026-10-11",
+      "address_identity_rechecked": true,
+      "registered_ja_alias_found": false
+    },
+    {
+      "id": "GeoNames:13100074",
+      "original": "Auclair",
+      "country": "CA",
+      "lon": -68.64431,
+      "lat": 47.72639,
+      "model_ja": null,
+      "model": "qwen3.5:9b",
+      "peak_keys": [
+        "47.729, -68.645"
+      ],
+      "decision": "hold",
+      "reason": "住所と参照ID・座標の対応は再確認済み。登録日本語別名なし。現地読みを確定する資料の個別確認が未完了。モデル候補だけでは採用しない。",
+      "rechecked_on": "2026-10-11",
+      "address_identity_rechecked": true,
+      "registered_ja_alias_found": false
+    },
+    {
+      "id": "GeoNames:8593820",
+      "original": "Petit-Saguenay",
+      "country": "CA",
+      "lon": -70.06771,
+      "lat": 48.20946,
+      "model_ja": "ペティ＝サグネー",
+      "model": "qwen3.5:9b",
+      "peak_keys": [
+        "48.212, -70.071"
+      ],
+      "decision": "hold",
+      "reason": "住所と参照ID・座標の対応は再確認済み。登録日本語別名なし。現地読みを確定する資料の個別確認が未完了。モデル候補だけでは採用しない。",
+      "rechecked_on": "2026-10-11",
+      "address_identity_rechecked": true,
+      "registered_ja_alias_found": false
+    },
+    {
+      "id": "GeoNames:6052922",
+      "original": "Les Méchins",
+      "country": "CA",
+      "lon": -66.98214,
+      "lat": 49.00009,
+      "model_ja": "レメシヌ",
+      "model": "qwen3.5:9b",
+      "peak_keys": [
+        "49.000, -66.981"
+      ],
+      "decision": "hold",
+      "reason": "住所と参照ID・座標の対応は再確認済み。登録日本語別名なし。現地読みを確定する資料の個別確認が未完了。モデル候補だけでは採用しない。",
+      "rechecked_on": "2026-10-11",
+      "address_identity_rechecked": true,
+      "registered_ja_alias_found": false
+    },
+    {
+      "id": "GeoNames:9034825",
+      "original": "Baie-Des-Sables",
+      "country": "CA",
+      "lon": -67.89474,
+      "lat": 48.71985,
+      "model_ja": "バイ＝デ＝ザブル",
+      "model": "qwen3.5:9b",
+      "peak_keys": [
+        "48.721, -67.894"
+      ],
+      "decision": "hold",
+      "reason": "住所と参照ID・座標の対応は再確認済み。登録日本語別名なし。現地読みを確定する資料の個別確認が未完了。モデル候補だけでは採用しない。",
+      "rechecked_on": "2026-10-11",
+      "address_identity_rechecked": true,
+      "registered_ja_alias_found": false
+    },
+    {
+      "id": "GeoNames:6123007",
+      "original": "Rivière-au-Tonnerre",
+      "country": "CA",
+      "lon": -64.76934,
+      "lat": 50.27524,
+      "model_ja": "リヴィエールオトンヌール",
+      "model": "qwen3.5:9b",
+      "peak_keys": [
+        "50.276, -64.774"
+      ],
+      "decision": "hold",
+      "reason": "住所と参照ID・座標の対応は再確認済み。登録日本語別名なし。現地読みを確定する資料の個別確認が未完了。モデル候補だけでは採用しない。",
+      "rechecked_on": "2026-10-11",
+      "address_identity_rechecked": true,
+      "registered_ja_alias_found": false
+    },
+    {
+      "id": "GeoNames:2984257",
+      "original": "Recey-sur-Ource",
+      "country": "FR",
+      "lon": 4.86126,
+      "lat": 47.77947,
+      "model_ja": "レシーソルウルス",
+      "model": "qwen3.5:9b",
+      "peak_keys": [
+        "47.780, 4.862"
+      ],
+      "decision": "hold",
+      "reason": "住所と参照ID・座標の対応は再確認済み。登録日本語別名なし。現地読みを確定する資料の個別確認が未完了。モデル候補だけでは採用しない。",
+      "rechecked_on": "2026-10-11",
+      "address_identity_rechecked": true,
+      "registered_ja_alias_found": false
+    },
+    {
+      "id": "GeoNames:3038537",
+      "original": "Aignay-le-Duc",
+      "country": "FR",
+      "lon": 4.73324,
+      "lat": 47.6656,
+      "model_ja": "アイニイユルドゥク",
+      "model": "qwen3.5:9b",
+      "peak_keys": [
+        "47.666, 4.732"
+      ],
+      "decision": "hold",
+      "reason": "住所と参照ID・座標の対応は再確認済み。登録日本語別名なし。現地読みを確定する資料の個別確認が未完了。モデル候補だけでは採用しない。",
+      "rechecked_on": "2026-10-11",
+      "address_identity_rechecked": true,
+      "registered_ja_alias_found": false
+    },
+    {
+      "id": "GeoNames:2621830",
+      "original": "Frøstrup",
+      "country": "DK",
+      "lon": 8.99576,
+      "lat": 57.08671,
+      "model_ja": "フローストープ",
+      "model": "qwen3.5:9b",
+      "peak_keys": [
+        "57.087, 8.995"
+      ],
+      "decision": "hold",
+      "reason": "住所と参照ID・座標の対応は再確認済み。登録日本語別名なし。現地読みを確定する資料の個別確認が未完了。モデル候補だけでは採用しない。",
+      "rechecked_on": "2026-10-11",
+      "address_identity_rechecked": true,
+      "registered_ja_alias_found": false
+    },
+    {
+      "id": "GeoNames:2624692",
+      "original": "Anholt",
+      "country": "DK",
+      "lon": 11.54552,
+      "lat": 56.70361,
+      "model_ja": "アンホルト",
+      "model": "qwen3.5:9b",
+      "peak_keys": [
+        "56.704, 11.544"
+      ],
+      "decision": "adopt",
+      "reason": "大阪大学公開のデンマーク語固有名詞カナ表記小辞典で、Anholt の島・村落・教区の区別とアンホルトのカナ表記・発音を確認。行政当局の公式日本語名という認定ではない。",
+      "rechecked_on": "2026-10-11",
+      "address_identity_rechecked": true,
+      "registered_ja_alias_found": false,
+      "ja": "アンホルト",
+      "name_type": "editorial_transliteration",
+      "evidence_url": "https://www.sfs.osaka-u.ac.jp/user/danish/dictionary/det_hele.pdf"
+    },
+    {
+      "id": "GeoNames:2706983",
+      "original": "Hedekas",
+      "country": "SE",
+      "lon": 11.78399,
+      "lat": 58.64315,
+      "model_ja": "ヘデカス",
+      "model": "qwen3.5:9b",
+      "peak_keys": [
+        "58.645, 11.779"
+      ],
+      "decision": "hold",
+      "reason": "住所と参照ID・座標の対応は再確認済み。登録日本語別名なし。現地読みを確定する資料の個別確認が未完了。モデル候補だけでは採用しない。",
+      "rechecked_on": "2026-10-11",
+      "address_identity_rechecked": true,
+      "registered_ja_alias_found": false
+    },
+    {
+      "id": "GeoNames:2726412",
+      "original": "Alsterbro",
+      "country": "SE",
+      "lon": 15.91158,
+      "lat": 56.94242,
+      "model_ja": "アルスターブロ",
+      "model": "qwen3.5:9b",
+      "peak_keys": [
+        "56.942, 15.915"
+      ],
+      "decision": "hold",
+      "reason": "住所と参照ID・座標の対応は再確認済み。登録日本語別名なし。現地読みを確定する資料の個別確認が未完了。モデル候補だけでは採用しない。",
+      "rechecked_on": "2026-10-11",
+      "address_identity_rechecked": true,
+      "registered_ja_alias_found": false
+    },
+    {
+      "id": "GeoNames:2718873",
+      "original": "Bruzaholm",
+      "country": "SE",
+      "lon": 15.27328,
+      "lat": 57.64172,
+      "model_ja": "ブルザホルム",
+      "model": "qwen3.5:9b",
+      "peak_keys": [
+        "57.642, 15.274"
+      ],
+      "decision": "hold",
+      "reason": "住所と参照ID・座標の対応は再確認済み。登録日本語別名なし。現地読みを確定する資料の個別確認が未完了。モデル候補だけでは採用しない。",
+      "rechecked_on": "2026-10-11",
+      "address_identity_rechecked": true,
+      "registered_ja_alias_found": false
+    },
+    {
+      "id": "GeoNames:2713392",
+      "original": "Furudal",
+      "country": "SE",
+      "lon": 15.13333,
+      "lat": 61.16667,
+      "model_ja": "フルーダル",
+      "model": "qwen3.5:9b",
+      "peak_keys": [
+        "61.169, 15.135"
+      ],
+      "decision": "hold",
+      "reason": "住所と参照ID・座標の対応は再確認済み。登録日本語別名なし。現地読みを確定する資料の個別確認が未完了。モデル候補だけでは採用しない。",
+      "rechecked_on": "2026-10-11",
+      "address_identity_rechecked": true,
+      "registered_ja_alias_found": false
+    },
+    {
+      "id": "GeoNames:2702619",
+      "original": "Kälarne",
+      "country": "SE",
+      "lon": 16.08333,
+      "lat": 62.98333,
+      "model_ja": "カールネ",
+      "model": "qwen3.5:9b",
+      "peak_keys": [
+        "62.980, 16.088"
+      ],
+      "decision": "hold",
+      "reason": "住所と参照ID・座標の対応は再確認済み。登録日本語別名なし。現地読みを確定する資料の個別確認が未完了。モデル候補だけでは採用しない。",
+      "rechecked_on": "2026-10-11",
+      "address_identity_rechecked": true,
+      "registered_ja_alias_found": false
+    },
+    {
+      "id": "GeoNames:2669360",
+      "original": "Tärnaby",
+      "country": "SE",
+      "lon": 15.25838,
+      "lat": 65.7115,
+      "model_ja": "ターナビー",
+      "model": "qwen3.5:9b",
+      "peak_keys": [
+        "65.711, 15.251"
+      ],
+      "decision": "hold",
+      "reason": "住所と参照ID・座標の対応は再確認済み。登録日本語別名なし。現地読みを確定する資料の個別確認が未完了。モデル候補だけでは採用しない。",
+      "rechecked_on": "2026-10-11",
+      "address_identity_rechecked": true,
+      "registered_ja_alias_found": false
+    },
+    {
+      "id": "GeoNames:2717747",
+      "original": "Dikanäs",
+      "country": "SE",
+      "lon": 16.0,
+      "lat": 65.23333,
+      "model_ja": "ディカーナス",
+      "model": "qwen3.5:9b",
+      "peak_keys": [
+        "65.236, 15.992"
+      ],
+      "decision": "hold",
+      "reason": "住所と参照ID・座標の対応は再確認済み。登録日本語別名なし。現地読みを確定する資料の個別確認が未完了。モデル候補だけでは採用しない。",
+      "rechecked_on": "2026-10-11",
+      "address_identity_rechecked": true,
+      "registered_ja_alias_found": false
+    },
+    {
+      "id": "GeoNames:2718401",
+      "original": "Byxelkrok",
+      "country": "SE",
+      "lon": 17.00941,
+      "lat": 57.32666,
+      "model_ja": "バイセルクロク",
+      "model": "qwen3.5:9b",
+      "peak_keys": [
+        "57.327, 17.008"
+      ],
+      "decision": "hold",
+      "reason": "住所と参照ID・座標の対応は再確認済み。登録日本語別名なし。現地読みを確定する資料の個別確認が未完了。モデル候補だけでは採用しない。",
+      "rechecked_on": "2026-10-11",
+      "address_identity_rechecked": true,
+      "registered_ja_alias_found": false
+    },
+    {
+      "id": "GeoNames:2718716",
+      "original": "Burgsvik",
+      "country": "SE",
+      "lon": 18.28025,
+      "lat": 57.02999,
+      "model_ja": "ブルグスヴィク",
+      "model": "qwen3.5:9b",
+      "peak_keys": [
+        "57.031, 18.277"
+      ],
+      "decision": "hold",
+      "reason": "住所と参照ID・座標の対応は再確認済み。登録日本語別名なし。現地読みを確定する資料の個別確認が未完了。モデル候補だけでは採用しない。",
+      "rechecked_on": "2026-10-11",
+      "address_identity_rechecked": true,
+      "registered_ja_alias_found": false
+    },
+    {
+      "id": "GeoNames:2694593",
+      "original": "Ljugarn",
+      "country": "SE",
+      "lon": 18.71197,
+      "lat": 57.33273,
+      "model_ja": "ルジュガルン",
+      "model": "qwen3.5:9b",
+      "peak_keys": [
+        "57.332, 18.705"
+      ],
+      "decision": "hold",
+      "reason": "住所と参照ID・座標の対応は再確認済み。登録日本語別名なし。現地読みを確定する資料の個別確認が未完了。モデル候補だけでは採用しない。",
+      "rechecked_on": "2026-10-11",
+      "address_identity_rechecked": true,
+      "registered_ja_alias_found": false
+    },
+    {
+      "id": "GeoNames:2697052",
+      "original": "Långviksmon",
+      "country": "SE",
+      "lon": 18.69582,
+      "lat": 63.63029,
+      "model_ja": "ラングヴィクスモン",
+      "model": "qwen3.5:9b",
+      "peak_keys": [
+        "63.631, 18.695"
+      ],
+      "decision": "hold",
+      "reason": "住所と参照ID・座標の対応は再確認済み。登録日本語別名なし。現地読みを確定する資料の個別確認が未完了。モデル候補だけでは採用しない。",
+      "rechecked_on": "2026-10-11",
+      "address_identity_rechecked": true,
+      "registered_ja_alias_found": false
+    },
+    {
+      "id": "GeoNames:2682575",
+      "original": "Riksgränsen",
+      "country": "SE",
+      "lon": 18.1265,
+      "lat": 68.42643,
+      "model_ja": "リクスグレーネン",
+      "model": "qwen3.5:9b",
+      "peak_keys": [
+        "68.427, 18.123"
+      ],
+      "decision": "hold",
+      "reason": "住所と参照ID・座標の対応は再確認済み。登録日本語別名なし。現地読みを確定する資料の個別確認が未完了。モデル候補だけでは採用しない。",
+      "rechecked_on": "2026-10-11",
+      "address_identity_rechecked": true,
+      "registered_ja_alias_found": false
+    },
+    {
+      "id": "GeoNames:606354",
+      "original": "Bygdsiljum",
+      "country": "SE",
+      "lon": 20.50414,
+      "lat": 64.34924,
+      "model_ja": "ビュグズイルム",
+      "model": "qwen3.5:9b",
+      "peak_keys": [
+        "64.350, 20.504"
+      ],
+      "decision": "hold",
+      "reason": "住所と参照ID・座標の対応は再確認済み。登録日本語別名なし。現地読みを確定する資料の個別確認が未完了。モデル候補だけでは採用しない。",
+      "rechecked_on": "2026-10-11",
+      "address_identity_rechecked": true,
+      "registered_ja_alias_found": false
+    },
+    {
+      "id": "GeoNames:2684034",
+      "original": "Porjus",
+      "country": "SE",
+      "lon": 19.82071,
+      "lat": 66.95927,
+      "model_ja": "ポルジュス",
+      "model": "qwen3.5:9b",
+      "peak_keys": [
+        "66.958, 19.819"
+      ],
+      "decision": "hold",
+      "reason": "住所と参照ID・座標の対応は再確認済み。登録日本語別名なし。現地読みを確定する資料の個別確認が未完了。モデル候補だけでは採用しない。",
+      "rechecked_on": "2026-10-11",
+      "address_identity_rechecked": true,
+      "registered_ja_alias_found": false
+    },
+    {
+      "id": "GeoNames:2068155",
+      "original": "Kulin",
+      "country": "AU",
+      "lon": 118.15799,
+      "lat": -32.66684,
+      "model_ja": "クリン",
+      "model": "qwen3.5:9b",
+      "peak_keys": [
+        "-32.669, 118.156"
+      ],
+      "decision": "hold",
+      "reason": "住所と参照ID・座標の対応は再確認済み。登録日本語別名なし。現地読みを確定する資料の個別確認が未完了。モデル候補だけでは採用しない。",
+      "rechecked_on": "2026-10-11",
+      "address_identity_rechecked": true,
+      "registered_ja_alias_found": false
+    },
+    {
+      "id": "GeoNames:2065453",
+      "original": "Mukinbudin",
+      "country": "AU",
+      "lon": 118.20785,
+      "lat": -30.91414,
+      "model_ja": "ムキンブジン",
+      "model": "qwen3.5:9b",
+      "peak_keys": [
+        "-30.916, 118.208"
+      ],
+      "decision": "adopt",
+      "reason": "自治体の観光パンフレット Muck-in-boo-din に基づく編集音写。モデルの ムキンブジン を修正",
+      "rechecked_on": "2026-10-11",
+      "address_identity_rechecked": true,
+      "registered_ja_alias_found": false,
+      "ja": "マキンブーディン",
+      "name_type": "editorial_transliteration",
+      "evidence_url": "https://www.wheatbelttourism.com/wp-content/uploads/2024/06/mukinbudin-A3DLbrochure-print-ready-FINAL.pdf"
+    },
+    {
+      "id": "GeoNames:2057730",
+      "original": "Wyalkatchem",
+      "country": "AU",
+      "lon": 117.3836,
+      "lat": -31.18063,
+      "model_ja": "ワイアルチェム",
+      "model": "qwen3.5:9b",
+      "peak_keys": [
+        "-31.181, 117.382"
+      ],
+      "decision": "hold",
+      "reason": "住所と参照ID・座標の対応は再確認済み。登録日本語別名なし。現地読みを確定する資料の個別確認が未完了。モデル候補だけでは採用しない。",
+      "rechecked_on": "2026-10-11",
+      "address_identity_rechecked": true,
+      "registered_ja_alias_found": false
+    },
+    {
+      "id": "GeoNames:8358872",
+      "original": "Jerramungup",
+      "country": "AU",
+      "lon": 118.91732,
+      "lat": -33.94216,
+      "model_ja": "ジェラマングップ",
+      "model": "qwen3.5:9b",
+      "peak_keys": [
+        "-33.941, 118.920"
+      ],
+      "decision": "hold",
+      "reason": "住所と参照ID・座標の対応は再確認済み。登録日本語別名なし。現地読みを確定する資料の個別確認が未完了。モデル候補だけでは採用しない。",
+      "rechecked_on": "2026-10-11",
+      "address_identity_rechecked": true,
+      "registered_ja_alias_found": false
+    },
+    {
+      "id": "GeoNames:2059048",
+      "original": "Warooka",
+      "country": "AU",
+      "lon": 137.40115,
+      "lat": -34.99031,
+      "model_ja": "ワロウカ",
+      "model": "qwen3.5:9b",
+      "peak_keys": [
+        "-34.990, 137.400"
+      ],
+      "decision": "hold",
+      "reason": "住所と参照ID・座標の対応は再確認済み。登録日本語別名なし。現地読みを確定する資料の個別確認が未完了。モデル候補だけでは採用しない。",
+      "rechecked_on": "2026-10-11",
+      "address_identity_rechecked": true,
+      "registered_ja_alias_found": false
+    },
+    {
+      "id": "GeoNames:2155683",
+      "original": "Natimuk",
+      "country": "AU",
+      "lon": 141.94516,
+      "lat": -36.74028,
+      "model_ja": "ナティムク",
+      "model": "qwen3.5:9b",
+      "peak_keys": [
+        "-36.742, 141.943"
+      ],
+      "decision": "hold",
+      "reason": "住所と参照ID・座標の対応は再確認済み。登録日本語別名なし。現地読みを確定する資料の個別確認が未完了。モデル候補だけでは採用しない。",
+      "rechecked_on": "2026-10-11",
+      "address_identity_rechecked": true,
+      "registered_ja_alias_found": false
+    },
+    {
+      "id": "GeoNames:2169015",
+      "original": "Derrinallum",
+      "country": "AU",
+      "lon": 143.22029,
+      "lat": -37.94792,
+      "model_ja": "デリンアラム",
+      "model": "qwen3.5:9b",
+      "peak_keys": [
+        "-37.948, 143.223"
+      ],
+      "decision": "hold",
+      "reason": "住所と参照ID・座標の対応は再確認済み。登録日本語別名なし。現地読みを確定する資料の個別確認が未完了。モデル候補だけでは採用しない。",
+      "rechecked_on": "2026-10-11",
+      "address_identity_rechecked": true,
+      "registered_ja_alias_found": false
+    },
+    {
+      "id": "GeoNames:2146343",
+      "original": "Tooleybuc",
+      "country": "AU",
+      "lon": 143.3346,
+      "lat": -35.0318,
+      "model_ja": "トゥーリーバック",
+      "model": "qwen3.5:9b",
+      "peak_keys": [
+        "-35.030, 143.337"
+      ],
+      "decision": "hold",
+      "reason": "住所と参照ID・座標の対応は再確認済み。登録日本語別名なし。現地読みを確定する資料の個別確認が未完了。モデル候補だけでは採用しない。",
+      "rechecked_on": "2026-10-11",
+      "address_identity_rechecked": true,
+      "registered_ja_alias_found": false
+    },
+    {
+      "id": "GeoNames:2155315",
+      "original": "Nimmitabel",
+      "country": "AU",
+      "lon": 149.28381,
+      "lat": -36.51194,
+      "model_ja": "ニミタベル",
+      "model": "qwen3.5:9b",
+      "peak_keys": [
+        "-36.513, 149.284"
+      ],
+      "decision": "hold",
+      "reason": "住所と参照ID・座標の対応は再確認済み。登録日本語別名なし。現地読みを確定する資料の個別確認が未完了。モデル候補だけでは採用しない。",
+      "rechecked_on": "2026-10-11",
+      "address_identity_rechecked": true,
+      "registered_ja_alias_found": false
+    },
+    {
+      "id": "GeoNames:2144846",
+      "original": "Walwa",
+      "country": "AU",
+      "lon": 147.73401,
+      "lat": -35.9659,
+      "model_ja": "ウォルワ",
+      "model": "qwen3.5:9b",
+      "peak_keys": [
+        "-35.964, 147.736"
+      ],
+      "decision": "hold",
+      "reason": "住所と参照ID・座標の対応は再確認済み。登録日本語別名なし。現地読みを確定する資料の個別確認が未完了。モデル候補だけでは採用しない。",
+      "rechecked_on": "2026-10-11",
+      "address_identity_rechecked": true,
+      "registered_ja_alias_found": false
+    },
+    {
+      "id": "GeoNames:2146993",
+      "original": "Texas, Goodiwindi",
+      "country": "AU",
+      "lon": 151.16497,
+      "lat": -28.85415,
+      "model_ja": "テキサス・グーディウィンディ",
+      "model": "qwen3.5:9b",
+      "peak_keys": [
+        "-28.855, 151.168"
+      ],
+      "decision": "hold",
+      "reason": "住所と参照ID・座標の対応は再確認済み。登録日本語別名なし。現地読みを確定する資料の個別確認が未完了。モデル候補だけでは採用しない。",
+      "rechecked_on": "2026-10-11",
+      "address_identity_rechecked": true,
+      "registered_ja_alias_found": false
+    },
+    {
+      "id": "GeoNames:2164044",
+      "original": "Halls Gap",
+      "country": "AU",
+      "peak_keys": [
+        "-37.139, 142.519"
+      ],
+      "decision": "adopt",
+      "ja": "ホールズ・ギャップ",
+      "name_type": "official_japanese",
+      "evidence_url": "https://jp.visitmelbourne.com/regions/grampians",
+      "reason": "ビクトリア州観光局の公的日本語表記を確認。施設名・Grampians Rdの原住所と参照地点を照合",
+      "scope": "remaining_peaks",
+      "locality_counts": [
+        [
+          "Halls Gap",
+          91
+        ],
+        [
+          "(missing)",
+          11
+        ],
+        [
+          "HALLS GAP",
+          1
+        ],
+        [
+          "halls Gap",
+          1
+        ]
+      ],
+      "reference": {
+        "id": "2164044",
+        "name": "Halls Gap",
+        "country": "AU",
+        "lon": 142.52345,
+        "lat": -37.14646,
+        "feature_code": "PPL",
+        "source_url": "https://download.geonames.org/export/dump/AU.zip",
+        "distance_m": 859,
+        "supporting_pois": 93,
+        "support_share": 0.894
+      }
+    },
+    {
+      "id": "GeoNames:6087524",
+      "original": "New Denver",
+      "country": "CA",
+      "peak_keys": [
+        "49.991, -117.374"
+      ],
+      "decision": "adopt",
+      "ja": "ニュー・デンバー",
+      "name_type": "official_japanese",
+      "evidence_url": "https://www.vancouver.ca.emb-japan.go.jp/itpr_ja/00_000401.html",
+      "reason": "在バンクーバー日本国総領事館の公的日本語表記を確認。銀行・自治体周辺の6th Aveの原住所と参照地点を照合。少数のSilverton住所は不一致として割合に残す",
+      "scope": "remaining_peaks",
+      "locality_counts": [
+        [
+          "New Denver",
+          64
+        ],
+        [
+          "Silverton",
+          5
+        ],
+        [
+          "New Denver, BC",
+          2
+        ],
+        [
+          "(missing)",
+          1
+        ],
+        [
+          "Hills",
+          1
+        ]
+      ],
+      "reference": {
+        "id": "6087524",
+        "name": "New Denver",
+        "country": "CA",
+        "lon": -117.3758,
+        "lat": 49.99155,
+        "feature_code": "PPL",
+        "source_url": "https://download.geonames.org/export/dump/CA.zip",
+        "distance_m": 166,
+        "supporting_pois": 64,
+        "support_share": 0.877
+      }
+    },
+    {
+      "id": "GeoNames:5313723",
+      "original": "Seligman",
+      "country": "US",
+      "peak_keys": [
+        "35.329, -112.883"
+      ],
+      "decision": "adopt",
+      "ja": "セリグマン",
+      "name_type": "official_japanese",
+      "evidence_url": "https://www.gousa.jp/sites/default/files/itineraries/2024-01/RoadTripsUSA_HistoricRoute66_JP_v7_0.pdf",
+      "reason": "米国公式観光案内のルート66旅程でアリゾナ州セリグマンの日本語表記を確認。Chino St・Old Highway 66 の周辺施設住所と参照地点を照合。別の同名都市ではない。",
+      "scope": "remaining_peaks",
+      "reference": {
+        "id": "5313723",
+        "name": "Seligman",
+        "country": "US",
+        "lon": -112.87741,
+        "lat": 35.32556,
+        "feature_code": "PPL",
+        "source_url": "https://download.geonames.org/export/dump/US.zip",
+        "distance_m": 641,
+        "supporting_pois": 44,
+        "support_share": 0.917
+      },
+      "locality_counts": [
+        [
+          "Seligman",
+          43
+        ],
+        [
+          "セリグマン",
+          3
+        ],
+        [
+          "Ash Fork",
+          1
+        ],
+        [
+          "SELIGMAN",
+          1
+        ]
+      ]
+    }
+  ]
+}

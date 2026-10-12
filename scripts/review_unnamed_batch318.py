@@ -1,0 +1,80 @@
+"""Publish individually researched local readings, retaining unresolved records."""
+import json
+from collections import Counter
+from pathlib import Path
+
+WORK = Path('data/name-research/unnamed-world')
+CONFIRMED = {}
+
+RESEARCHED_HOLDS = {'6127700': ('自治体公式FenellaCommunityHall8071CountyRoad45のリンク対象経緯度44.1506858,-78.0886228を直接URLから確認。原a6cdb75d4799428456aed00f FenelaHall RR4の中心座標からWGS84 5293.8m。地図画像は取得失敗、測量座標保証ではない。屋号l1字差の同一施設候補だが、原RR4には番地がなく完全住所一致は認定しない。二次名簿Fenela/Fenellaは同電話9053522626だが別二次名簿11910CountyRoad24と自治体8071の不整合を確認。二次名簿の住所や原座標を実位置の根拠にしない。位置根拠不足のため名称追加・本番除外は保留。次は同住所集中の別施設を個別照合、図書館と消防の正当な同居2件は保持。', ['https://www.ahtwp.ca/fenella-community-hall', 'https://ca.411.info/business/Fenela-Hall-Roseneath-ON-22251547', 'https://verview.com/biz/9620832-fenella-hall-roseneath-ontario'])}
+
+
+def read(path):
+    return json.loads(Path(path).read_text(encoding='utf-8'))
+
+
+def save(path, obj):
+    Path(path).write_text(json.dumps(obj, ensure_ascii=False, indent=2)+'\n', encoding='utf-8')
+
+
+def main():
+    prior = read('docs/unnamed-world-batch317-review.json')
+    rows = [x for x in prior['items'] if x['decision']=='hold']
+    report = read(WORK/'address-name-review.json')
+    evidence = {x['peak']:x for x in report['items']}
+    approvals = read('docs/unnamed-world-name-approvals.json')
+    existing = {x['peak'] for x in approvals['items']}
+    assert not ({p for x in rows for p in x['peak_keys']} & existing), 'Prior report resurrected adopted peaks'
+    found = set()
+    for item in rows:
+        ident = item['id'].split(':')[1]
+        for peak in item['peak_keys']:
+            p = evidence[peak]
+            c = p['candidates'][0]
+            assert c == next(x['reference'] for x in item['evidence'] if x['peak']==peak)
+            assert p['status']=='candidate_supported' and c['id']==ident
+            assert c['support_share']>=.85 and c['supporting_pois']>=6 and c['distance_m']<=1000
+            assert p['distinct_coordinates']>=4 and p['with_address']>=4
+        item['address_rechecked_batch']=318
+        if ident not in CONFIRMED:
+            if ident in RESEARCHED_HOLDS:
+                note, urls = RESEARCHED_HOLDS[ident]
+                item.update(reason=note, research_urls=urls, external_research_batch=318)
+            continue
+        item.pop('next_research_lead', None)
+        ja,url,note = CONFIRMED[ident]
+        found.add(ident)
+        item.update(decision='adopt', ja=ja, source_url=url,
+            source_kind='dictionary_informed_editorial', reason=note,
+            japanese_label_type='editorial_transliteration')
+        for peak in item['peak_keys']:
+            assert peak not in existing, 'Already published; refusing duplicate approval'
+            approvals['items'].append(dict(peak=peak, ref=evidence[peak]['candidates'][0],
+                ja_editorial=ja, batch=318, policy='address_review_85', reviewed_by='Codex',
+                model='qwen3.5:9b', model_ja=item.get('model_ja'),
+                pronunciation_source_url=url, pronunciation_review_note=note, review_note=note))
+            existing.add(peak)
+    assert found==set(CONFIRMED)
+    summary = dict(candidate_peaks_before=23, previous_holds_before=6,
+        adopted_candidate_peaks=sum(len(x['peak_keys']) for x in rows if x['group']=='new_candidates' and x['decision']=='adopt'),
+        remaining_candidate_peaks=sum(len(x['peak_keys']) for x in rows if x['group']=='new_candidates' and x['decision']=='hold'),
+        resolved_previous_holds=sum(x['group']=='previous_holds' and x['decision']=='adopt' for x in rows),
+        remaining_previous_holds=sum(x['group']=='previous_holds' and x['decision']=='hold' for x in rows),
+        added_total=sum(len(x['peak_keys']) for x in rows if x['decision']=='adopt'),
+        published_total=len(existing), unnamed_remaining=5356-len(existing))
+    assert {x['id'].split(':')[1] for x in rows if x.get('external_research_batch')==318} == set(RESEARCHED_HOLDS)
+    summary['individually_researched_held_references'] = len(RESEARCHED_HOLDS)
+    save('docs/unnamed-world-batch318-review.json', dict(snapshot=report['snapshot'], summary=summary,
+        policy='自治体・施設運営者住所と元POIを照合。対象町の日本語学術・旅行用例を参考に編集表記を採用、公開検索本文と直接取得を区別。',items=rows))
+    save('docs/unnamed-world-name-approvals.json',approvals)
+    queue=read(WORK/'remaining-review-queue.json')
+    queue['items']=[x for x in queue['items'] if x['peak'] not in existing]
+    queue['remaining']=len(queue['items'])
+    queue['priority_counts']=dict(Counter(str(x['priority']) for x in queue['items']))
+    assert queue['remaining']==5356-len(existing)
+    save(WORK/'remaining-review-queue.json',queue)
+    print(json.dumps(summary,ensure_ascii=False))
+
+
+if __name__=='__main__':
+    main()

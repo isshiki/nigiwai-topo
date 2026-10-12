@@ -1,0 +1,350 @@
+{
+  "snapshot_id": "2325979374271449319",
+  "reviewed_at": "2026-10-10",
+  "scope": "world / all / sigma 200m; exact original summit coordinates",
+  "policy": "Suppress the 13 reviewed summit labels, triangles, ranking entries and search suggestions. Keep raw POIs and terrain unchanged. Eight strong cases and five provisional holds; not a finding that every record is incorrect. Reversible individual decisions; no radius blacklist or global automatic rule.",
+  "items": [
+    {
+      "peak": "22.106, 77.185",
+      "coordinates": [
+        77.18489999999997,
+        22.105800000000002
+      ],
+      "density": 3435,
+      "decision": "suppress_peak_annotation",
+      "confidence": "strong_location_artifact",
+      "reason": "近傍904件中、遠距離の都市名不整合候補876件。最多の同一座標には645件、そこから100m以内には794件。異なる住所902種・locality6種を含む。不整合候補全件除外の仮定で半径2km内の800以上の峰が消えるため、山としての位置・高さの解釈に強い問題がある。",
+      "statistics": {
+        "records": 904,
+        "status_counts": {
+          "locality_reference_far": 876,
+          "missing_locality": 27,
+          "unmatched_locality": 1
+        },
+        "max_identical_coordinates": 645,
+        "within_100m_of_dominant_coordinate": 794
+      },
+      "prior_evidence_record": "docs/held-peak-investigation.json#22.106, 77.185"
+    },
+    {
+      "peak": "39.035, 35.244",
+      "coordinates": [
+        35.244,
+        39.03479999999999
+      ],
+      "density": 2995,
+      "decision": "suppress_peak_annotation",
+      "confidence": "provisional_quality_hold",
+      "reason": "近傍761件中、遠距離の都市名不整合候補445件。最多の同一座標には723件、そこから100m以内には749件。異なる住所433種・locality200種を含む。住所欠損等が多く、不整合候補のみの除外で残る密度も正しい位置と保証できない。通常の山として採用する根拠が不足するため暫定保留。",
+      "statistics": {
+        "records": 761,
+        "status_counts": {
+          "missing_locality": 112,
+          "unmatched_locality": 170,
+          "locality_reference_far": 445,
+          "locality_reference_not_far": 34
+        },
+        "max_identical_coordinates": 723,
+        "within_100m_of_dominant_coordinate": 749
+      },
+      "prior_evidence_record": "docs/held-peak-investigation.json#39.035, 35.244"
+    },
+    {
+      "peak": "31.878, 53.438",
+      "coordinates": [
+        53.4375,
+        31.878
+      ],
+      "density": 1697,
+      "decision": "suppress_peak_annotation",
+      "confidence": "provisional_quality_hold",
+      "reason": "近傍431件中、遠距離の都市名不整合候補215件。最多の同一座標には412件、そこから100m以内には422件。異なる住所320種・locality95種を含む。住所欠損等が多く、不整合候補のみの除外で残る密度も正しい位置と保証できない。通常の山として採用する根拠が不足するため暫定保留。",
+      "statistics": {
+        "records": 431,
+        "status_counts": {
+          "missing_locality": 186,
+          "locality_reference_far": 215,
+          "unmatched_locality": 30
+        },
+        "max_identical_coordinates": 412,
+        "within_100m_of_dominant_coordinate": 422
+      },
+      "prior_evidence_record": "docs/held-peak-investigation.json#31.878, 53.438"
+    },
+    {
+      "peak": "-13.001, -54.000",
+      "coordinates": [
+        -54.0,
+        -13.000500000000002
+      ],
+      "density": 1338,
+      "decision": "suppress_peak_annotation",
+      "confidence": "provisional_quality_hold",
+      "reason": "近傍436件中、遠距離の都市名不整合候補42件。最多の同一座標には25件、そこから100m以内には281件。異なる住所47種・locality40種を含む。住所欠損等が多く、不整合候補のみの除外で残る密度も正しい位置と保証できない。通常の山として採用する根拠が不足するため暫定保留。",
+      "statistics": {
+        "records": 436,
+        "status_counts": {
+          "missing_locality": 386,
+          "locality_reference_far": 42,
+          "unmatched_locality": 8
+        },
+        "max_identical_coordinates": 25,
+        "within_100m_of_dominant_coordinate": 281
+      },
+      "prior_evidence_record": "docs/held-peak-investigation.json#-13.001, -54.000",
+      "additional_primary_check": {
+        "fsq_id": "4f9090c4e4b04fd33dd62bd7",
+        "name": "IFAL Campus PIn",
+        "address_components": [
+          "Palmeira",
+          "Fora"
+        ],
+        "locality": "Palmeira Dos Índios",
+        "postcode": null,
+        "source_url": "https://www2.ifal.edu.br/campus/palmeira/o-campus/estrutura",
+        "basis": "キャンパス略称だけでなく元住所のPalmeira de Foraと都市名も公式キャンパス資料に対応。"
+      }
+    },
+    {
+      "peak": "22.106, 72.577",
+      "coordinates": [
+        72.5769,
+        22.105800000000002
+      ],
+      "density": 1150,
+      "decision": "suppress_peak_annotation",
+      "confidence": "strong_location_artifact",
+      "reason": "近傍289件中、遠距離の都市名不整合候補289件。最多の同一座標には190件、そこから100m以内には289件。異なる住所289種・locality4種を含む。不整合候補全件除外の仮定で半径2km内の800以上の峰が消えるため、山としての位置・高さの解釈に強い問題がある。",
+      "statistics": {
+        "records": 289,
+        "status_counts": {
+          "locality_reference_far": 289
+        },
+        "max_identical_coordinates": 190,
+        "within_100m_of_dominant_coordinate": 289
+      },
+      "prior_evidence_record": "docs/held-peak-investigation.json#22.106, 72.577"
+    },
+    {
+      "peak": "22.106, 72.565",
+      "coordinates": [
+        72.5652,
+        22.105800000000002
+      ],
+      "density": 1135,
+      "decision": "suppress_peak_annotation",
+      "confidence": "strong_location_artifact",
+      "reason": "近傍368件中、遠距離の都市名不整合候補368件。最多の同一座標には120件、そこから100m以内には188件。異なる住所368種・locality5種を含む。不整合候補全件除外の仮定で半径2km内の800以上の峰が消えるため、山としての位置・高さの解釈に強い問題がある。",
+      "statistics": {
+        "records": 368,
+        "status_counts": {
+          "locality_reference_far": 368
+        },
+        "max_identical_coordinates": 120,
+        "within_100m_of_dominant_coordinate": 188
+      },
+      "prior_evidence_record": "docs/held-peak-investigation.json#22.106, 72.565"
+    },
+    {
+      "peak": "-20.000, 145.000",
+      "coordinates": [
+        144.99989999999997,
+        -19.999800000000008
+      ],
+      "density": 1118,
+      "decision": "suppress_peak_annotation",
+      "confidence": "strong_location_artifact",
+      "reason": "近傍306件中、遠距離の都市名不整合候補291件。最多の同一座標には213件、そこから100m以内には256件。異なる住所294種・locality133種を含む。不整合候補全件除外の仮定で半径2km内の800以上の峰が消えるため、山としての位置・高さの解釈に強い問題がある。",
+      "statistics": {
+        "records": 306,
+        "status_counts": {
+          "locality_reference_far": 291,
+          "missing_locality": 2,
+          "unmatched_locality": 13
+        },
+        "max_identical_coordinates": 213,
+        "within_100m_of_dominant_coordinate": 256
+      },
+      "prior_evidence_record": "docs/held-peak-investigation.json#-20.000, 145.000",
+      "additional_primary_check": {
+        "fsq_id": "688dd8474eb9e53c2abe7428",
+        "name": "RSEA Safety Gladstone",
+        "address_components": [
+          "55",
+          "Hanson"
+        ],
+        "locality": "Gladstone Central",
+        "postcode": "4680",
+        "source_url": "https://www.rsea.com.au/article/896/gladstone-store-relocates",
+        "basis": "2022年の公式移転記事の店舗名・番地・道路・都市・郵便番号が元住所と対応。"
+      }
+    },
+    {
+      "peak": "-33.000, 146.000",
+      "coordinates": [
+        145.9998,
+        -33.0003
+      ],
+      "density": 1076,
+      "decision": "suppress_peak_annotation",
+      "confidence": "strong_location_artifact",
+      "reason": "近傍307件中、遠距離の都市名不整合候補292件。最多の同一座標には170件、そこから100m以内には239件。異なる住所297種・locality206種を含む。不整合候補全件除外の仮定で半径2km内の800以上の峰が消えるため、山としての位置・高さの解釈に強い問題がある。",
+      "statistics": {
+        "records": 307,
+        "status_counts": {
+          "locality_reference_far": 292,
+          "unmatched_locality": 8,
+          "missing_locality": 7
+        },
+        "max_identical_coordinates": 170,
+        "within_100m_of_dominant_coordinate": 239
+      },
+      "prior_evidence_record": "docs/held-peak-investigation.json#-33.000, 146.000",
+      "additional_primary_check": {
+        "fsq_id": "5217489b7e48110568e421aa",
+        "name": "Cherrybrook Physiotherapy",
+        "address_components": [
+          "Appletree",
+          "Shopping",
+          "Centre"
+        ],
+        "locality": "Cherrybrook",
+        "postcode": "2126",
+        "source_url": "https://www.lifecare.com.au/clinic/cherrybrook-physiotherapy/",
+        "basis": "運営者の施設名・ショッピングセンター・都市・郵便番号が元住所と対応。"
+      }
+    },
+    {
+      "peak": "39.062, 35.124",
+      "coordinates": [
+        35.124300000000005,
+        39.061800000000005
+      ],
+      "density": 967,
+      "decision": "suppress_peak_annotation",
+      "confidence": "provisional_quality_hold",
+      "reason": "近傍275件中、遠距離の都市名不整合候補39件。最多の同一座標には85件、そこから100m以内には236件。異なる住所41種・locality29種を含む。住所欠損等が多く、不整合候補のみの除外で残る密度も正しい位置と保証できない。通常の山として採用する根拠が不足するため暫定保留。",
+      "statistics": {
+        "records": 275,
+        "status_counts": {
+          "country_only_locality": 4,
+          "missing_locality": 226,
+          "locality_reference_not_far": 2,
+          "locality_reference_far": 39,
+          "unmatched_locality": 4
+        },
+        "max_identical_coordinates": 85,
+        "within_100m_of_dominant_coordinate": 236
+      },
+      "prior_evidence_record": "docs/held-peak-investigation.json#39.062, 35.124"
+    },
+    {
+      "peak": "-14.235, -51.925",
+      "coordinates": [
+        -51.9255,
+        -14.235299999999995
+      ],
+      "density": 948,
+      "decision": "suppress_peak_annotation",
+      "confidence": "provisional_quality_hold",
+      "reason": "近傍292件中、遠距離の都市名不整合候補5件。最多の同一座標には6件、そこから100m以内には198件。異なる住所13種・locality7種を含む。住所欠損等が多く、不整合候補のみの除外で残る密度も正しい位置と保証できない。通常の山として採用する根拠が不足するため暫定保留。",
+      "statistics": {
+        "records": 292,
+        "status_counts": {
+          "locality_reference_far": 5,
+          "missing_locality": 258,
+          "country_only_locality": 28,
+          "unmatched_locality": 1
+        },
+        "max_identical_coordinates": 6,
+        "within_100m_of_dominant_coordinate": 198
+      },
+      "prior_evidence_record": "docs/held-peak-investigation.json#-14.235, -51.925",
+      "country_reference_proximity": {
+        "source_url": "https://developers.google.com/public-data/docs/canonical/countries_csv",
+        "reference_coordinates": [
+          -51.92528,
+          -14.235004
+        ],
+        "distance_m": 40,
+        "limits": "国の参照座標との近接はデフォルト座標の疑いを補強するだけで、取得経路や全POIの誤位置を確定しない。"
+      }
+    },
+    {
+      "peak": "39.761, -98.501",
+      "coordinates": [
+        -98.5005,
+        39.7611
+      ],
+      "density": 948,
+      "decision": "suppress_peak_annotation",
+      "confidence": "strong_location_artifact",
+      "reason": "近傍435件中、遠距離の都市名不整合候補328件。最多の同一座標には3件、そこから100m以内には75件。異なる住所368種・locality322種を含む。不整合候補全件除外の仮定で半径2km内の800以上の峰が消えるため、山としての位置・高さの解釈に強い問題がある。",
+      "statistics": {
+        "records": 435,
+        "status_counts": {
+          "missing_locality": 21,
+          "unmatched_locality": 76,
+          "country_only_locality": 6,
+          "locality_reference_far": 328,
+          "locality_reference_not_far": 4
+        },
+        "max_identical_coordinates": 3,
+        "within_100m_of_dominant_coordinate": 75
+      },
+      "prior_evidence_record": "docs/held-peak-investigation.json#39.761, -98.501"
+    },
+    {
+      "peak": "22.106, 73.866",
+      "coordinates": [
+        73.8657,
+        22.105800000000002
+      ],
+      "density": 883,
+      "decision": "suppress_peak_annotation",
+      "confidence": "strong_location_artifact",
+      "reason": "近傍222件中、遠距離の都市名不整合候補222件。最多の同一座標には82件、そこから100m以内には221件。異なる住所222種・locality3種を含む。不整合候補全件除外の仮定で半径2km内の800以上の峰が消えるため、山としての位置・高さの解釈に強い問題がある。",
+      "statistics": {
+        "records": 222,
+        "status_counts": {
+          "locality_reference_far": 222
+        },
+        "max_identical_coordinates": 82,
+        "within_100m_of_dominant_coordinate": 221
+      },
+      "prior_evidence_record": "docs/held-peak-investigation.json#22.106, 73.866"
+    },
+    {
+      "peak": "-0.788, 113.921",
+      "coordinates": [
+        113.92109999999997,
+        -0.7883999999999958
+      ],
+      "density": 847,
+      "decision": "suppress_peak_annotation",
+      "confidence": "strong_location_artifact",
+      "reason": "近傍410件中、遠距離の都市名不整合候補58件。最多の同一座標には20件、そこから100m以内には98件。異なる住所90種・locality65種を含む。不整合候補全件除外の仮定で半径2km内の800以上の峰が消えるため、山としての位置・高さの解釈に強い問題がある。",
+      "statistics": {
+        "records": 410,
+        "status_counts": {
+          "locality_reference_far": 58,
+          "missing_locality": 325,
+          "unmatched_locality": 23,
+          "country_only_locality": 4
+        },
+        "max_identical_coordinates": 20,
+        "within_100m_of_dominant_coordinate": 98
+      },
+      "prior_evidence_record": "docs/held-peak-investigation.json#-0.788, 113.921",
+      "country_reference_proximity": {
+        "source_url": "https://developers.google.com/public-data/docs/canonical/countries_csv",
+        "reference_coordinates": [
+          113.921327,
+          -0.789275
+        ],
+        "distance_m": 100,
+        "limits": "国の参照座標との近接はデフォルト座標の疑いを補強するだけで、取得経路や全POIの誤位置を確定しない。"
+      }
+    }
+  ]
+}

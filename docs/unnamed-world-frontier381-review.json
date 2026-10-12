@@ -1,0 +1,67 @@
+{
+  "scope": 4455,
+  "research_batch": 381,
+  "screened_candidates": 91,
+  "adopted": 0,
+  "items": [
+    {
+      "peak": "45.121, -79.579",
+      "name": "Port Carling",
+      "candidate_id": "8593694",
+      "poi_support": 169,
+      "poi_total": 211,
+      "ratio": 0.801,
+      "distinct_coordinates": 156,
+      "with_address": 180,
+      "official_matches": [
+        {
+          "poi_ids": [
+            "a9bf0ec881024721f835bd31",
+            "4c589e43b8b3c9b6ed4487b6"
+          ],
+          "facility": "LCBO",
+          "raw_address": "115 Medora St",
+          "official_address": "115 Medora Street, Port Carling ON P0B1J0",
+          "source": "https://www.lcbo.com/en/stores/highway-118-medora-403",
+          "verification": "official search excerpt; direct request 403",
+          "same_facility_count": 1
+        },
+        {
+          "poi_ids": [
+            "510af575e4b01d3addeb9dd0",
+            "510afa38e4b0bdbfec372a6a"
+          ],
+          "facility": "Muskoka Lakes Public Library",
+          "raw_address": "69 Joseph / 69 Joseph Street",
+          "official_address": "69 Joseph Street, Port Carling Ontario P0B1J0",
+          "source": "https://www.muskokalakes.ca/library/locations-and-hours/",
+          "verification": "public page body",
+          "same_facility_count": 1
+        }
+      ],
+      "decision": "geographic_identity_corroborated_pending_adoption_method",
+      "limits": "LCBO duplicates are one independent facility; library duplicates also one. Municipality label Muskoka Lakes is not reassigned to Port Carling automatically."
+    },
+    {
+      "peak": "45.016, -75.646",
+      "name": "Kemptville",
+      "candidate_id": "5990737",
+      "decision": "hold",
+      "finding": "246 locality Kemptville and 27 North Grenville. Primary municipality documents corroborate Kemptville but municipal office285CountyRoad44 is not one of the sampled downtown POIs. Do not count municipal office as same-facility match."
+    },
+    {
+      "peak": "15.459, 75.009",
+      "name": "Dharwad",
+      "candidate_id": "1272818",
+      "decision": "hold",
+      "finding": "AxisBank public PDF search identifies5CharantimathArcade/oppositeCBT/580001 matching raw5e3104d4d8155500082c57e4. Direct PDF body verification and second independent facility pending. Hubli-Dharwad compound locality is not all assigned to Dharwad.",
+      "direct_fetch": "Returned HTML instead of PDF; retained as dharwad-axis381-response.html, not treated as inspected PDF",
+      "web_pdf_verification": {
+        "source": "https://www.axisbank.com/docs/default-source/atm/karnataka.pdf?sfvrsn=9674b455_2",
+        "pdf_pages": 44,
+        "target_pdf_page": 36,
+        "finding": "公開PDFのWeb抽出本文でCITY DHARWAD、5 CHARANTIMATH ARCADE / VIJAY ROAD / OPPOSITE CBT BUS STAND / 580001を確認。元5e3104d4d8155500082c57e4の施設、建物番地、CBT向かい、郵便番号が対応。ローカル直接取得HTMLとは別経路の本文確認。"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "batch": 388,
+  "expected_adopted": 908,
+  "items": [
+    {
+      "peak": "45.018, -76.365",
+      "ja_editorial": "ラナーク（推定）",
+      "reading_status": "inferred",
+      "review_note": "推定音写。図書館75GeorgeStreetとLCBO99ClarenceStreetの独立2施設2発行元公式住所を確認。図書館の元localityLanarkHighlandsは広域名のため本峰の近隣住所と個別照合し全域には拡張しない。56/59本文支持。",
+      "anchors": [
+        {
+          "poi_id": "69b5976180dbfd541cef7cb7",
+          "facility_key": "Lanark-Library75George",
+          "source_url": "https://lanarklibrary.ca/about-us/",
+          "official_address": "75GeorgeStreet,LanarkOntario",
+          "verification": "public_page_body",
+          "limitation": "Library operator address; broadmunicipalityrawlabel not automatically replaced elsewhere."
+        },
+        {
+          "poi_id": "4b6c9c60f964a52079462ce3",
+          "facility_key": "Lanark-LCBO479",
+          "source_url": "https://www.lcbo.com/en/stores/george-clarence-479",
+          "official_address": "99ClarenceStreet,LanarkONK0G1K0",
+          "verification": "official_search_excerpt",
+          "limitation": "OfficialLCBOsearchaddress; directopenInternalError. Duplicate municipal75Georgefirehall notcounted."
+        }
+      ]
+    }
+  ]
+}

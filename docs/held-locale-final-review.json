@@ -1,0 +1,355 @@
+{
+  "reviewed_at": "2026-10-10",
+  "scope": "前回の476件監査で最終保留だった24参照ID。日本語表示の編集判断であり、参照座標の測量精度を保証しない。",
+  "items": [
+    {
+      "id": "GeoNames:1921372",
+      "decision": "adopt",
+      "name": "大連湾",
+      "native": "大连湾",
+      "source": "大連市図書館 地名史資料",
+      "source_url": "https://www.dl-library.net.cn/wenxian/dlnet/content.php?id=458661",
+      "basis": "柳樹屯・和尚島周辺の大連湾という集落名と海湾名の沿革を確認。湾全体や行政区域内という判定ではなく、元の近隣参照点の日本語表記。连・湾を連・湾へ整理。",
+      "original": "Dalianwan",
+      "country": "CN",
+      "lon": 121.695,
+      "lat": 39.02861
+    },
+    {
+      "id": "GeoNames:1842754",
+      "decision": "adopt",
+      "name": "コジェ（コジェミョン）",
+      "native": "거제면",
+      "source": "巨済市観光資料・韓国観光公社",
+      "source_url": "https://www.geoje.go.kr/user/smarttour/view.geoje?basicSid=1262&menuCd=",
+      "additional_source_urls": [
+        "https://japanese.visitkorea.or.kr/public/contents/columns/LeafletKTO100.pdf"
+      ],
+      "basis": "同じGeoNames IDのKoje/Kyosai別名と巨済面の旧邑内所在地を照合。現在の巨済市中心部・古県への置換を避け、コジェミョンと区別してカタカナ表示。",
+      "original": "Kyosai",
+      "country": "KR",
+      "lon": 128.58861,
+      "lat": 34.85028
+    },
+    {
+      "id": "GeoNames:2052474",
+      "decision": "adopt",
+      "name": "毫沁営",
+      "native": "毫沁营",
+      "source": "呼和浩特市新城区 公的登記・自然資源局地図",
+      "source_url": "https://hhht.nmgbb.gov.cn/xcq/xzd_xcq/zxdt_xcq/tzgg_xcq/202504/t20250402_332025.html",
+      "additional_source_urls": [
+        "https://zrzyj.huhhot.gov.cn/zwgk/tzgg/202505/P020250508607371433846.pdf"
+      ],
+      "basis": "同じGeoNames IDに毫沁营・毫沁营镇が登録されている。呼和浩特北東の毫沁営を公的所在地・地図でも確認し、Haoxinyingのxin/qin相違から別の漢字を推測しない。营を営へ整理。",
+      "original": "Haoxinying",
+      "country": "CN",
+      "lon": 111.715,
+      "lat": 40.88222
+    },
+    {
+      "id": "GeoNames:13308720",
+      "decision": "adopt",
+      "name": "牛湾",
+      "native": "牛湾新村",
+      "source": "深圳市宝安区 土地整備計画",
+      "source_url": "https://www.sz.gov.cn/szzt2010/wgkzl/jcgk/jcygk/zdzcjc/content/mpost_10630855.html",
+      "basis": "西郷街道塩田社区、宝安大道・銀田路側の牛湾新村を照合。江門市の同名牛湾とは区別した。",
+      "original": "Niuwan",
+      "country": "CN",
+      "lon": 113.85399,
+      "lat": 22.5805
+    },
+    {
+      "id": "GeoNames:1801850",
+      "decision": "adopt",
+      "name": "雒容",
+      "native": "雒容镇",
+      "source": "玲瓏タイヤ 環境保護検収報告（所在地座標付き）",
+      "source_url": "https://www.linglong.cn/Upload/202112/20211228090225_0763.pdf",
+      "additional_source_urls": [
+        "https://ldxq.liuzhou.gov.cn/xwzx/tzgg/202209/P020220923568033141467.pdf"
+      ],
+      "basis": "検収報告表3-1の雒容鎮参照点109.605961,24.402370と元参照点を照合。候補の洛容ではなく、現在の柳州市柳東新区の原表記雒容を採用。雒は同じ字形を維持。",
+      "original": "Luorong",
+      "country": "CN",
+      "lon": 109.60861,
+      "lat": 24.40583
+    },
+    {
+      "id": "GeoNames:1840379",
+      "decision": "adopt",
+      "name": "ナムウォン",
+      "native": "남원",
+      "source": "韓国観光公社 日本語地名資料",
+      "source_url": "https://japanese.visitkorea.or.kr/svc/contents/contentsView.do?dataSetId=262&menuSn=929&page=1&vcontsId=249747",
+      "additional_source_urls": [
+        "https://japanese.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=104426"
+      ],
+      "basis": "同じGeoNames IDのNamwon/Nangen別名と広寒楼苑周辺の南原を照合。公社日本語資料のナムウォンを採用し、旧外名Nangenをカタカナ化しない。",
+      "original": "Nangen",
+      "country": "KR",
+      "lon": 127.38583,
+      "lat": 35.41
+    },
+    {
+      "id": "GeoNames:12358475",
+      "decision": "adopt",
+      "name": "三棵樹",
+      "native": "三棵树镇",
+      "source": "凱里市人民政府 地名保護名録",
+      "source_url": "https://www.kaili.gov.cn/xwzx/tzgg/202401/P020240104529672745704.pdf",
+      "additional_source_urls": [
+        "https://www.kaili.gov.cn/zwgk/bmxxgkml/tyjrswj/zfxxgk_5682317/fdzdgknr_5682320/tyjrsw/202202/t20220224_72665976.html"
+      ],
+      "basis": "貴州省凱里市の三棵樹鎮を確認。別都市の同名地点には転用しない。树を樹へ整理。元の15km以内の近隣参照で、区域包含の断定ではない。",
+      "original": "Sankeshu",
+      "country": "CN",
+      "lon": 108.06585,
+      "lat": 26.5637
+    },
+    {
+      "id": "GeoNames:12358543",
+      "decision": "adopt",
+      "name": "蒲川",
+      "native": "蒲川乡",
+      "source": "騰衝市人民政府 蒲川郷概況",
+      "source_url": "https://www.tengchong.gov.cn/info/1731/36593.htm",
+      "basis": "騰衝市南部の蒲川郷と周辺関係を確認。行政中心の移転歴があるため所在地の厳密一致や峰の所属は断定せず、元の近隣参照名に限定。",
+      "original": "Puchuan",
+      "country": "CN",
+      "lon": 98.57007,
+      "lat": 24.7031
+    },
+    {
+      "id": "GeoNames:13308593",
+      "decision": "adopt",
+      "name": "沙井",
+      "native": "沙井街道",
+      "source": "深圳市规划和自然资源局 地名辞典・公示",
+      "source_url": "https://pnr.sz.gov.cn/ba/tzgg/content/post_11915056.html",
+      "basis": "沙井街道、沙井大街・蚝郷路周辺を確認。Residential Districtは住宅団地と直訳せず、街道の地名部分を表示。",
+      "original": "Shajing Residential District",
+      "country": "CN",
+      "lon": 113.81185,
+      "lat": 22.73177
+    },
+    {
+      "id": "GeoNames:13308598",
+      "decision": "adopt",
+      "name": "万豊",
+      "native": "万丰社区",
+      "source": "深圳市社会工作部 万豊社区・教育局所在地名録",
+      "source_url": "https://shgzb.sz.gov.cn/szshgzb/xxgk/sqdflz/content/post_1584064.html",
+      "additional_source_urls": [
+        "https://szeb.sz.gov.cn/attachment/1/1405/1405428/10052534.pdf"
+      ],
+      "basis": "宝安区新橋街道の万豊社区・仁愛路周辺を確認。丰を豊へ整理し、万は日本語字形を使用。",
+      "original": "Wanfeng",
+      "country": "CN",
+      "lon": 113.82638,
+      "lat": 22.72295
+    },
+    {
+      "id": "GeoNames:13308621",
+      "decision": "adopt",
+      "name": "労働社区",
+      "native": "劳动社区",
+      "source": "深圳市 西郷街道社区資料",
+      "source_url": "https://www.sz.gov.cn/cn/xxgk/zfxxgj/gqdt/content/post_12731070.html",
+      "additional_source_urls": [
+        "https://wjw.sz.gov.cn/attachment/1/1577/1577131/12147891.pdf"
+      ],
+      "basis": "西郷街道の新湖路・労働路周辺にある労働社区を照合。Laborを一般名詞として訳したものではない。劳动を労働へ整理。",
+      "original": "Labor Community",
+      "country": "CN",
+      "lon": 113.86377,
+      "lat": 22.57118
+    },
+    {
+      "id": "GeoNames:13308627",
+      "decision": "adopt",
+      "name": "福田街道",
+      "native": "福田街道",
+      "source": "深圳市福田区 街道公開情報",
+      "source_url": "https://www.szft.gov.cn/xxgk/zdly/sqxxgk/sqxxgk_ftb/",
+      "additional_source_urls": [
+        "https://www.szft.gov.cn/attachment/1/1582/1582928/12179364.pdf"
+      ],
+      "basis": "福田区全体ではなく、福民・海浜社区を含む福田街道として照合。Residential Districtを住宅団地と訳さない。",
+      "original": "Futian Residential District",
+      "country": "CN",
+      "lon": 114.06459,
+      "lat": 22.52484
+    },
+    {
+      "id": "GeoNames:13308680",
+      "decision": "adopt",
+      "name": "中興工業園",
+      "native": "中兴工业园",
+      "source": "中興通訊 企業開示・深圳市交通資料",
+      "source_url": "https://www.zte.com.cn/content/dam/zte-site/investorrelations/cn_announcement/a6b03f59bd962e8fdc312184681966ba.pdf",
+      "additional_source_urls": [
+        "https://www.sz.gov.cn/xxgk/sydwxxgk/jt/gj/ywxx/gjlx/content/post_10892753.html"
+      ],
+      "basis": "西麗街道・留仙大道の中興工業園と付近の門・宿舎の参照関係を確認。中興という市町村ではなく施設群の参照名として表示。兴・园を興・園へ整理。",
+      "original": "Zhongxing",
+      "country": "CN",
+      "lon": 113.93861,
+      "lat": 22.57674
+    },
+    {
+      "id": "GeoNames:13308682",
+      "decision": "adopt",
+      "name": "波托菲諾純水岸",
+      "native": "波托菲诺纯水岸",
+      "source": "深圳市南山区住房和建设局",
+      "source_url": "https://www.szns.gov.cn/nsqzjj/gkmlpt/content/12/12738/post_12738075.html?jump=true",
+      "basis": "沙河街道文昌街社区の小区名を照合。诺・纯を諾・純へ整理。都市名ではなく住宅施設群の近隣参照名。",
+      "original": "Botuofeinuochunshuian",
+      "country": "CN",
+      "lon": 113.97385,
+      "lat": 22.54606
+    },
+    {
+      "id": "GeoNames:13308737",
+      "decision": "adopt",
+      "name": "南園街道",
+      "native": "南园街道",
+      "source": "深圳市福田区 社区所在地資料",
+      "source_url": "https://www.szft.gov.cn/bmxx/qtjj/tzgg/content/post_11050174.html",
+      "basis": "華発南路・巴登・埔尾周辺の福田区南園街道を確認。南山区の同名南園社区とは区別。园を園へ整理。",
+      "original": "Nanyuan Residential",
+      "country": "CN",
+      "lon": 114.09526,
+      "lat": 22.54052
+    },
+    {
+      "id": "GeoNames:13308750",
+      "decision": "adopt",
+      "name": "北洲山",
+      "native": "北洲山",
+      "reference_kind": "natural_landmark",
+      "source": "深圳市標準地名辞典（2020年版）p.116 検索索引",
+      "source_url": "https://pnr.sz.gov.cn/attachment/1/1285/1285351/10537367.pdf",
+      "basis": "公式辞典p.116に北洲山/Běizhōu Shān、南山区沙河街道の湖水に囲まれた山として記載。都市名とみなさず自然地形の近隣参照名に修正。原表記と地区は照合できるが参照座標の厳密精度は保証しない。PDF本文の直接取得は404で、公開検索索引に残る当該項目で確認。",
+      "original": "Beizhoushan",
+      "country": "CN",
+      "lon": 113.97618,
+      "lat": 22.52629
+    },
+    {
+      "id": "GeoNames:13308754",
+      "decision": "adopt",
+      "name": "粤海街道",
+      "native": "粤海街道",
+      "source": "深圳市南山区 日本語街区紹介",
+      "source_url": "https://www.szns.gov.cn/JP/jp_nsgjhzq/content/post_10740698.html",
+      "additional_source_urls": [
+        "https://www.szns.gov.cn/main/mssspt/2023mswss/yhjdb/content/post_11119259.html"
+      ],
+      "basis": "南海大道・沙河西路・東浜路・北環路の間の粤海街道を確認。自治体の日本語資料と同じ粤海を採用。",
+      "original": "Yuehai Residential",
+      "country": "CN",
+      "lon": 113.92917,
+      "lat": 22.51388
+    },
+    {
+      "id": "GeoNames:13308757",
+      "decision": "adopt",
+      "name": "角咀",
+      "native": "角咀",
+      "reference_kind": "natural_landmark",
+      "source": "香港商報 地理志筆者の現地・古地図調査",
+      "source_url": "https://hkcd.com/content_app/2025-06/13/content_8699507.html",
+      "basis": "筆者の現地踏査・1960年航拍図・衛星図照合で、月亮湾大道西側の角咀を記載。教具などの同音漢字を推測しない。公式日本語名ではなく、所在地を確認した自然地形名の編集表示。測量点の厳密一致を保証しない。",
+      "original": "Jiaoju",
+      "country": "CN",
+      "lon": 113.89958,
+      "lat": 22.51018
+    },
+    {
+      "id": "GeoNames:1529574",
+      "decision": "adopt",
+      "name": "布爾津",
+      "native": "布尔津镇",
+      "source": "新疆維吾爾自治区 発展改革委員会・自治区政府",
+      "source_url": "https://xjdrc.xinjiang.gov.cn/xjfgw/c108379/201309/bdc69cf57f70440abd117d82ca31051b.shtml",
+      "additional_source_urls": [
+        "https://www.xinjiang.gov.cn/xinjiang/hbddc/202009/6593476e367c4bfd91ca13864d23baef.shtml"
+      ],
+      "basis": "阿勒泰地区布爾津県の布爾津鎮と同じ参照地点として照合。県全体の範囲を表すものではない。尔を爾へ整理。",
+      "original": "Burqin",
+      "country": "CN",
+      "lon": 86.86375,
+      "lat": 47.70283
+    },
+    {
+      "id": "GeoNames:6942880",
+      "decision": "adopt",
+      "name": "海闊天空雅居",
+      "native": "海阔天空雅居",
+      "source": "深圳市衛生健康委員会 所在地付き施設名録",
+      "source_url": "https://wjw.sz.gov.cn/attachment/1/1169/1169562/10021952.pdf",
+      "additional_source_urls": [
+        "https://gw.nscourt.gov.cn/nscourt/wzsy/swgk/sfwtxxgg/content/post_1448518.html"
+      ],
+      "basis": "南山区科苑南路の中信海闊天空雅居を確認。街名ではなく住宅施設群の参照名。阔を闊へ整理。",
+      "original": "Haikuotiankong",
+      "country": "CN",
+      "lon": 113.9399,
+      "lat": 22.52881
+    },
+    {
+      "id": "GeoNames:13308728",
+      "decision": "hold",
+      "candidate": "虎地",
+      "source": "深圳市標準地名辞典 p.116",
+      "source_url": "https://pnr.sz.gov.cn/attachment/1/1285/1285351/10537367.pdf",
+      "reason": "虎地/Hǔdìは招商街道・南海大道から鯨山別墅・泰格公寓間の山。元参照点は22.48184,113.90991で、辞典の山の範囲との一致を確認できない。龍華・大鵬の虎地排、香港の虎地も別地点。原表記を維持し、位置確認なしの採用をしない。",
+      "original": "Hudi",
+      "country": "CN",
+      "lon": 113.90991,
+      "lat": 22.48184
+    },
+    {
+      "id": "GeoNames:13308749",
+      "decision": "hold",
+      "candidate": "大嶺下",
+      "source": "深圳市標準地名辞典 p.114–115",
+      "source_url": "https://pnr.sz.gov.cn/attachment/1/1285/1285351/10537367.pdf",
+      "reason": "辞典p.114には香蜜湖街道の山・大岭下（東は上撑石、西と北は広深高速、標高87.6m）がある。p.115の蓮花山周辺の記述とは区別し、元参照点114.00428,22.54337がこの山を指すかは未確認。原表記だけから参照地形を確定しない。",
+      "original": "Dalingxia",
+      "country": "CN",
+      "lon": 114.00428,
+      "lat": 22.54337
+    },
+    {
+      "id": "GeoNames:13308605",
+      "decision": "hold",
+      "candidate": "蚝業",
+      "source": "深圳市 政務サービス所在地・蚝業小学用地公示",
+      "source_url": "https://wsbs.sz.gov.cn/shenzhen/project/phoneGuide?code=70000200169395646914440306",
+      "additional_source_urls": [
+        "https://pnr.sz.gov.cn/ba/tzgg/content/post_11915056.html"
+      ],
+      "reason": "蚝業社区は西郷街道興業路2010号で、元参照点113.8051,22.73538の沙井とは離れている。沙井の蚝業小学も存在するが、Haoyeという集落参照と同一か未確認。学校名や別街道の社区名を都市名として転用しない。",
+      "original": "Haoye",
+      "country": "CN",
+      "lon": 113.8051,
+      "lat": 22.73538
+    },
+    {
+      "id": "GeoNames:13308724",
+      "decision": "hold",
+      "candidate": "紅樹林",
+      "source": "深圳市规划和自然资源局 紅樹林分布資料",
+      "source_url": "https://pnr.sz.gov.cn/xxgk/ztzl/rdzt/hsl/szsdbh/content/post_10906282.html",
+      "reason": "紅樹林は深圳市内の複数の自然地形・公園に使われる。元参照点113.90058,22.53038に対応する固有地名を確認できず、福田の有名な紅樹林保護区や南山深圳湾湿地をこの点に転用しない。",
+      "original": "Hongshulin",
+      "country": "CN",
+      "lon": 113.90058,
+      "lat": 22.53038
+    }
+  ]
+}

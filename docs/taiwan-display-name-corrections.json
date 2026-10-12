@@ -1,0 +1,112 @@
+{
+  "items": [
+    {
+      "id": "GeoNames:7552914",
+      "source": "GeoNames",
+      "source_ids": [
+        "7552914"
+      ],
+      "original": "Nangan",
+      "country": "TW",
+      "lon": 119.93284,
+      "lat": 26.15039,
+      "reference_kind": "PPLA2",
+      "peak_count": 4,
+      "ja": null,
+      "status": "pending",
+      "name": "南竿",
+      "source_url": "https://travel.matsu.gov.tw/",
+      "basis": "GeoNames参照点の原表記・位置と自治体資料の名称を照合。行政区域の包含を判定した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:13118246",
+      "source": "GeoNames",
+      "source_ids": [
+        "13118246"
+      ],
+      "original": "Shangqi Village",
+      "country": "TW",
+      "lon": 118.21638,
+      "lat": 24.41141,
+      "reference_kind": "PPLF",
+      "peak_count": 1,
+      "ja": null,
+      "status": "pending",
+      "name": "上岐村",
+      "source_url": "https://lieyu.kinmen.gov.tw/cp.aspx?n=739C1E238AE53943",
+      "basis": "GeoNames参照点の原表記・位置と自治体資料の名称を照合。行政区域の包含を判定した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:13118247",
+      "source": "GeoNames",
+      "source_ids": [
+        "13118247"
+      ],
+      "original": "Xikou Village",
+      "country": "TW",
+      "lon": 118.23595,
+      "lat": 24.44324,
+      "reference_kind": "PPLF",
+      "peak_count": 4,
+      "ja": null,
+      "status": "pending",
+      "name": "西口村",
+      "source_url": "https://lieyu.kinmen.gov.tw/cp.aspx?n=739C1E238AE53943",
+      "basis": "GeoNames参照点の原表記・位置と自治体資料の名称を照合。行政区域の包含を判定した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:1679047",
+      "source": "GeoNames",
+      "source_ids": [
+        "1679047"
+      ],
+      "original": "Chaozhou",
+      "country": "TW",
+      "lon": 120.54067,
+      "lat": 22.54987,
+      "reference_kind": "PPL",
+      "peak_count": 8,
+      "ja": null,
+      "status": "pending",
+      "name": "潮州",
+      "source_url": "https://www.pthg.gov.tw/chaujou/default.aspx",
+      "basis": "GeoNames参照点の原表記・位置と自治体資料の名称を照合。行政区域の包含を判定した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:1679136",
+      "source": "GeoNames",
+      "source_ids": [
+        "1679136"
+      ],
+      "original": "Chang-hua",
+      "country": "TW",
+      "lon": 120.56276,
+      "lat": 24.07327,
+      "reference_kind": "PPLA2",
+      "peak_count": 4,
+      "ja": null,
+      "status": "pending",
+      "name": "彰化市",
+      "source_url": "https://civil.chcg.gov.tw/getFile.aspx?did=281048&file=2&file_id=527628&type=1",
+      "basis": "GeoNames参照点の原表記・位置と自治体資料の名称を照合。行政区域の包含を判定した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:1993459",
+      "source": "GeoNames",
+      "source_ids": [
+        "1993459"
+      ],
+      "original": "Changhua",
+      "country": "TW",
+      "lon": 120.5512,
+      "lat": 24.0692,
+      "reference_kind": "PPL",
+      "peak_count": 4,
+      "ja": null,
+      "status": "pending",
+      "name": "彰化市",
+      "source_url": "https://civil.chcg.gov.tw/getFile.aspx?did=281048&file=2&file_id=527628&type=1",
+      "basis": "GeoNames参照点の原表記・位置と自治体資料の名称を照合。行政区域の包含を判定した意味ではありません。"
+    }
+  ]
+}

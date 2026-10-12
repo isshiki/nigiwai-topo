@@ -1,0 +1,25 @@
+{
+  "peak": "35.062, -118.970",
+  "peak_coordinates": [
+    -118.9701,
+    35.06219999999999
+  ],
+  "reference_id": "5372576",
+  "census_geoid": "0647164",
+  "census_name": "Mettler CDP",
+  "vintage": "2026-01-01",
+  "source_url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/tigerWMS_Current/MapServer/30",
+  "query_where": "NAME LIKE 'Mettler%'",
+  "local_geojson": "data/name-research/reading-sources/mettler409-census.geojson",
+  "sha256": "172c97ab116c0bf4a7970439bfa1c09ec7ebb6d668299fb08f0d37c4a5999ce0",
+  "geometry_valid": true,
+  "contains_peak": true,
+  "distance_to_boundary_m": 39.57,
+  "limits": [
+    "CDP is statistical geography, not incorporated municipal legal boundary.",
+    "Bakersfield postal locality is not changed in source POIs.",
+    "Boundary containment does not validate every surrounding facility registration."
+  ],
+  "decision": "census_geographic_containment_reviewed_application_pending",
+  "name_applied": false
+}

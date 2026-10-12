@@ -1,0 +1,9 @@
+{
+  "CORSRules": [{
+    "AllowedOrigins": ["https://YOUR-ACCOUNT.github.io"],
+    "AllowedMethods": ["GET", "HEAD"],
+    "AllowedHeaders": ["Range", "If-Match"],
+    "ExposeHeaders": ["ETag", "Content-Range", "Accept-Ranges"],
+    "MaxAgeSeconds": 3000
+  }]
+}

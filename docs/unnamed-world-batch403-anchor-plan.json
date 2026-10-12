@@ -1,0 +1,36 @@
+{
+  "batch": 403,
+  "expected_adopted": 919,
+  "items": [
+    {
+      "peak": "-44.669, 167.927",
+      "ja_editorial": "ミルフォードサウンド（推定）",
+      "reading_status": "inferred",
+      "review_note": "推定音写。PureMilford公式VisitorCentre1MilfordSoundHighway住所とNZ運輸省空港登録NZMF公式WGS84座標を独立2施設として照合。空港は元住所nullを保持し、公式座標167.9233333333,-44.6733333333と元POIの差を100m以内で検証。共有ターミナルの複数会社は独立施設に数えない。近隣の観測所DalePointなど位置疑義は別途保持し、地名確認が全POI位置品質を保証するとは扱わない。",
+      "anchors": [
+        {
+          "poi_id": "5adec5441acf1119afaaf8c2",
+          "facility_key": "Milford-VisitorCentre",
+          "source_url": "https://puremilford.co.nz/contact-us",
+          "official_address": "Milford Sound Visitor Centre,1 Milford Sound Highway,Milford Sound9679",
+          "verification": "public_page_body",
+          "limitation": "Shared terminal is one physical facility regardless of multiple cruise companies."
+        },
+        {
+          "poi_id": "50238871e4b0578fd36386c2",
+          "facility_key": "Milford-NZMF-Aerodrome",
+          "source_url": "https://www.ansr.transport.govt.nz/about-us/queries/how-to-access-milford-sound-piopiotahi-aerodrome",
+          "official_address": "NZMF aerodrome official WGS84 reference point; no street address",
+          "evidence_kind": "official_facility_coordinates",
+          "coordinate_crs": "WGS84",
+          "official_coordinates": [
+            167.92333333333332,
+            -44.67333333333333
+          ],
+          "verification": "public_page_body",
+          "limitation": "Aerodrome reference point not building entrance. Raw street address remains null; coordinates verify facility location, not settlement boundary."
+        }
+      ]
+    }
+  ]
+}

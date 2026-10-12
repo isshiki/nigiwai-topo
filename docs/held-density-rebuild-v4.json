@@ -1,0 +1,256 @@
+{
+  "complete": true,
+  "snapshot_id": "2325979374271449319",
+  "policy_sha256": "66782f100de0aa121049e854847487766e0a24ea7f5bb38245299ffe69a467b0",
+  "excluded_ids": 5441,
+  "retained_count": 101729094,
+  "recomputed_chunks": 15,
+  "recomputed_packages": 14,
+  "unchanged_packages": 2933,
+  "targets": [
+    {
+      "peak": "22.106, 77.185",
+      "before": 3435,
+      "after": 0.406769473835745,
+      "max_within_2km": 166.9113696847646,
+      "peaks_800_within_2km": 0
+    },
+    {
+      "peak": "39.035, 35.244",
+      "before": 2995,
+      "after": 0.010328078906690838,
+      "max_within_2km": 8.38821804234195,
+      "peaks_800_within_2km": 0
+    },
+    {
+      "peak": "31.878, 53.438",
+      "before": 1697,
+      "after": 0.001379033211172619,
+      "max_within_2km": 3.979129954934902,
+      "peaks_800_within_2km": 0
+    },
+    {
+      "peak": "-13.001, -54.000",
+      "before": 1338,
+      "after": 0.14371812227950592,
+      "max_within_2km": 17.500445722497027,
+      "peaks_800_within_2km": 0
+    },
+    {
+      "peak": "22.106, 72.577",
+      "before": 1150,
+      "after": 0.0,
+      "max_within_2km": 5.0532897881231005,
+      "peaks_800_within_2km": 0
+    },
+    {
+      "peak": "22.106, 72.565",
+      "before": 1135,
+      "after": 0.0,
+      "max_within_2km": 1.508020734055027,
+      "peaks_800_within_2km": 0
+    },
+    {
+      "peak": "-20.000, 145.000",
+      "before": 1118,
+      "after": 0.027978430171944332,
+      "max_within_2km": 7.123135576302613,
+      "peaks_800_within_2km": 0
+    },
+    {
+      "peak": "-33.000, 146.000",
+      "before": 1076,
+      "after": 3.480894976850982e-05,
+      "max_within_2km": 7.860791847331607,
+      "peaks_800_within_2km": 0
+    },
+    {
+      "peak": "39.062, 35.124",
+      "before": 967,
+      "after": 0.15482689012546985,
+      "max_within_2km": 19.9470544662548,
+      "peaks_800_within_2km": 0
+    },
+    {
+      "peak": "-14.235, -51.925",
+      "before": 948,
+      "after": 0.17141395394737424,
+      "max_within_2km": 12.78529798977175,
+      "peaks_800_within_2km": 0
+    },
+    {
+      "peak": "39.761, -98.501",
+      "before": 948,
+      "after": 0.39962693986153364,
+      "max_within_2km": 27.108981015524527,
+      "peaks_800_within_2km": 0
+    },
+    {
+      "peak": "22.106, 73.866",
+      "before": 883,
+      "after": 0.1134328347658178,
+      "max_within_2km": 340.84097482724144,
+      "peaks_800_within_2km": 0
+    },
+    {
+      "peak": "-0.788, 113.921",
+      "before": 847,
+      "after": 1.2851831020468532,
+      "max_within_2km": 140.75206629325152,
+      "peaks_800_within_2km": 0
+    }
+  ],
+  "checks": [
+    {
+      "chunk": [
+        167,
+        318
+      ],
+      "changed_cells": 405,
+      "excluded_input_count": 1,
+      "max_reduction": 3.9796670394044114,
+      "original_density_reproduced": true
+    },
+    {
+      "chunk": [
+        181,
+        288
+      ],
+      "changed_cells": 900,
+      "excluded_input_count": 435,
+      "max_reduction": 947.8493568010684,
+      "original_density_reproduced": true
+    },
+    {
+      "chunk": [
+        269,
+        171
+      ],
+      "changed_cells": 289,
+      "excluded_input_count": 4,
+      "max_reduction": 15.916242337960817,
+      "original_density_reproduced": true
+    },
+    {
+      "chunk": [
+        279,
+        171
+      ],
+      "changed_cells": 648,
+      "excluded_input_count": 436,
+      "max_reduction": 1338.2284046403543,
+      "original_density_reproduced": true
+    },
+    {
+      "chunk": [
+        280,
+        171
+      ],
+      "changed_cells": 648,
+      "excluded_input_count": 436,
+      "max_reduction": 1338.2284046403543,
+      "original_density_reproduced": true
+    },
+    {
+      "chunk": [
+        284,
+        168
+      ],
+      "changed_cells": 621,
+      "excluded_input_count": 292,
+      "max_reduction": 948.2138990957988,
+      "original_density_reproduced": true
+    },
+    {
+      "chunk": [
+        477,
+        286
+      ],
+      "changed_cells": 834,
+      "excluded_input_count": 1036,
+      "max_reduction": 966.6183264730545,
+      "original_density_reproduced": true
+    },
+    {
+      "chunk": [
+        478,
+        286
+      ],
+      "changed_cells": 1603,
+      "excluded_input_count": 1036,
+      "max_reduction": 2995.338271195369,
+      "original_density_reproduced": true
+    },
+    {
+      "chunk": [
+        518,
+        270
+      ],
+      "changed_cells": 454,
+      "excluded_input_count": 431,
+      "max_reduction": 1697.2808966893049,
+      "original_density_reproduced": true
+    },
+    {
+      "chunk": [
+        561,
+        249
+      ],
+      "changed_cells": 578,
+      "excluded_input_count": 657,
+      "max_reduction": 1149.523335768583,
+      "original_density_reproduced": true
+    },
+    {
+      "chunk": [
+        564,
+        249
+      ],
+      "changed_cells": 340,
+      "excluded_input_count": 222,
+      "max_reduction": 882.9274922676461,
+      "original_density_reproduced": true
+    },
+    {
+      "chunk": [
+        571,
+        249
+      ],
+      "changed_cells": 476,
+      "excluded_input_count": 904,
+      "max_reduction": 3434.6649830006986,
+      "original_density_reproduced": true
+    },
+    {
+      "chunk": [
+        653,
+        198
+      ],
+      "changed_cells": 757,
+      "excluded_input_count": 410,
+      "max_reduction": 845.5680283173402,
+      "original_density_reproduced": true
+    },
+    {
+      "chunk": [
+        722,
+        155
+      ],
+      "changed_cells": 670,
+      "excluded_input_count": 306,
+      "max_reduction": 1118.2414863615109,
+      "original_density_reproduced": true
+    },
+    {
+      "chunk": [
+        724,
+        126
+      ],
+      "changed_cells": 842,
+      "excluded_input_count": 307,
+      "max_reduction": 1075.7684920290785,
+      "original_density_reproduced": true
+    }
+  ],
+  "root": "data\\distribution\\foursquare-world-v4"
+}

@@ -1,0 +1,26 @@
+{
+  "peak": "50.350, -112.640",
+  "decision": "continued_investigation",
+  "names_applied": false,
+  "official_local_facility": {
+    "url": "https://www.lomondlibrary.ca/about-us/contact-and-hours",
+    "address": "2 Railway Ave N,Lomond AB T0L1G0"
+  },
+  "contradictory_source_poi": "5233341611d26cb3269412e5",
+  "historical_primary_confirmation": {
+    "url": "https://deriv.nls.uk/dcn23/8554/85542807.23.pdf",
+    "address": "Killin Cottage,10 Lomond Street,Helensburgh"
+  },
+  "current_secondary_confirmations": [
+    "https://www.yell.com/biz/killin-cottage-helensburgh-3231523/",
+    "https://www.tripadvisor.com/Hotel_Review-g551937-d1102027-Reviews-Killin_Cottage_B_B-Helensburgh_Argyll_and_Bute_Scotland.html"
+  ],
+  "limitations": [
+    "Secondary directories do not establish current operation or independent exact coordinates.",
+    "Historic cottage address alone does not establish continuity of B&B business.",
+    "Do not count this foreign street name as Canadian place support."
+  ],
+  "next_action": "Verify operator historical website or public geographic address record for exact-ID location-quality decision",
+  "density_release": "v6",
+  "density_changed": false
+}

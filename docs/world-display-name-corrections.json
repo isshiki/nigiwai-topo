@@ -1,0 +1,6274 @@
+{
+  "items": [
+    {
+      "id": "GeoNames:5174035",
+      "source": "GeoNames",
+      "source_ids": [
+        "5174035"
+      ],
+      "original": "Toledo",
+      "country": "US",
+      "lon": -83.55521,
+      "lat": 41.66394,
+      "reference_kind": "PPLA2",
+      "peak_count": 28,
+      "ja": "トレド",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:4180386",
+      "source": "GeoNames",
+      "source_ids": [
+        "4180386"
+      ],
+      "original": "Athens",
+      "country": "US",
+      "lon": -83.37794,
+      "lat": 33.96095,
+      "reference_kind": "PPLA2",
+      "peak_count": 23,
+      "ja": "アセンズ",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:6177869",
+      "source": "GeoNames",
+      "source_ids": [
+        "6177869"
+      ],
+      "original": "Welland",
+      "country": "CA",
+      "lon": -79.24958,
+      "lat": 42.98342,
+      "reference_kind": "PPL",
+      "peak_count": 17,
+      "ja": "ウェランド",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:3445578",
+      "source": "GeoNames",
+      "source_ids": [
+        "3445578"
+      ],
+      "original": "Valinhos",
+      "country": "BR",
+      "lon": -46.99583,
+      "lat": -22.97056,
+      "reference_kind": "PPL",
+      "peak_count": 16,
+      "ja": "ヴァリーニョス",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:3450144",
+      "source": "GeoNames",
+      "source_ids": [
+        "3450144"
+      ],
+      "original": "Santa Luzia",
+      "country": "BR",
+      "lon": -43.85139,
+      "lat": -19.76972,
+      "reference_kind": "PPL",
+      "peak_count": 16,
+      "ja": "サンタ・ルジア",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:3526700",
+      "source": "GeoNames",
+      "source_ids": [
+        "3526700"
+      ],
+      "original": "Iztacalco",
+      "country": "MX",
+      "lon": -99.09778,
+      "lat": 19.39528,
+      "reference_kind": "PPL",
+      "peak_count": 14,
+      "ja": "イスタカルコ",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:4522586",
+      "source": "GeoNames",
+      "source_ids": [
+        "4522586"
+      ],
+      "original": "Riverside",
+      "country": "US",
+      "lon": -84.1241,
+      "lat": 39.77978,
+      "reference_kind": "PPL",
+      "peak_count": 14,
+      "ja": "リバーサイド",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:7315256",
+      "source": "GeoNames",
+      "source_ids": [
+        "7315256"
+      ],
+      "original": "McConnell AFB",
+      "country": "US",
+      "lon": -97.25869,
+      "lat": 37.63007,
+      "reference_kind": "PPL",
+      "peak_count": 14,
+      "ja": "マコーネル空軍基地",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:1631905",
+      "source": "GeoNames",
+      "source_ids": [
+        "1631905"
+      ],
+      "original": "Payakumbuh",
+      "country": "ID",
+      "lon": 100.6334,
+      "lat": -0.2159,
+      "reference_kind": "PPLA2",
+      "peak_count": 13,
+      "ja": "パヤクンブ",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:5387877",
+      "source": "GeoNames",
+      "source_ids": [
+        "5387877"
+      ],
+      "original": "Riverside",
+      "country": "US",
+      "lon": -117.39616,
+      "lat": 33.95335,
+      "reference_kind": "PPLA2",
+      "peak_count": 13,
+      "ja": "リバーサイド",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:4154205",
+      "source": "GeoNames",
+      "source_ids": [
+        "4154205"
+      ],
+      "original": "Edgewater",
+      "country": "US",
+      "lon": -80.90228,
+      "lat": 28.98888,
+      "reference_kind": "PPL",
+      "peak_count": 12,
+      "ja": "エッジウォーター",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:4405795",
+      "source": "GeoNames",
+      "source_ids": [
+        "4405795"
+      ],
+      "original": "Riverside",
+      "country": "US",
+      "lon": -94.61301,
+      "lat": 39.1775,
+      "reference_kind": "PPL",
+      "peak_count": 12,
+      "ja": "リバーサイド",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:4603284",
+      "source": "GeoNames",
+      "source_ids": [
+        "4603284"
+      ],
+      "original": "Athens",
+      "country": "US",
+      "lon": -84.59299,
+      "lat": 35.44285,
+      "reference_kind": "PPLA2",
+      "peak_count": 12,
+      "ja": "アセンズ",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:5097844",
+      "source": "GeoNames",
+      "source_ids": [
+        "5097844"
+      ],
+      "original": "Farmingdale",
+      "country": "US",
+      "lon": -74.16848,
+      "lat": 40.1965,
+      "reference_kind": "PPL",
+      "peak_count": 12,
+      "ja": "ファーミングデール",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:11101805",
+      "source": "GeoNames",
+      "source_ids": [
+        "11101805"
+      ],
+      "original": "Geoje",
+      "country": "KR",
+      "lon": 128.70556,
+      "lat": 34.81379,
+      "reference_kind": "PPL",
+      "peak_count": 11,
+      "ja": "コジェ",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:11103211",
+      "source": "GeoNames",
+      "source_ids": [
+        "11103211"
+      ],
+      "original": "Valdezorras",
+      "country": "ES",
+      "lon": -5.92629,
+      "lat": 37.42939,
+      "reference_kind": "PPL",
+      "peak_count": 11,
+      "ja": "バルデソラス",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:4505542",
+      "source": "GeoNames",
+      "source_ids": [
+        "4505542"
+      ],
+      "original": "Athens",
+      "country": "US",
+      "lon": -82.10126,
+      "lat": 39.32924,
+      "reference_kind": "PPLA2",
+      "peak_count": 11,
+      "ja": "アセンズ",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:9018327",
+      "source": "GeoNames",
+      "source_ids": [
+        "9018327"
+      ],
+      "original": "Pontianak Barat",
+      "country": "ID",
+      "lon": 109.31868,
+      "lat": -0.01894,
+      "reference_kind": "PPLA3",
+      "peak_count": 11,
+      "ja": "ポンティアナック・バラット",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:2614933",
+      "source": "GeoNames",
+      "source_ids": [
+        "2614933"
+      ],
+      "original": "Ravnsbjerg",
+      "country": "DK",
+      "lon": 8.43892,
+      "lat": 55.53225,
+      "reference_kind": "PPL",
+      "peak_count": 9,
+      "ja": "ラウンズビェア",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:3446370",
+      "source": "GeoNames",
+      "source_ids": [
+        "3446370"
+      ],
+      "original": "Toledo",
+      "country": "BR",
+      "lon": -53.74306,
+      "lat": -24.71361,
+      "reference_kind": "PPL",
+      "peak_count": 9,
+      "ja": "トレド",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:4366930",
+      "source": "GeoNames",
+      "source_ids": [
+        "4366930"
+      ],
+      "original": "Riverside",
+      "country": "US",
+      "lon": -76.88525,
+      "lat": 39.17344,
+      "reference_kind": "PPL",
+      "peak_count": 9,
+      "ja": "リバーサイド",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:2510409",
+      "source": "GeoNames",
+      "source_ids": [
+        "2510409"
+      ],
+      "original": "Toledo",
+      "country": "ES",
+      "lon": -4.02263,
+      "lat": 39.8581,
+      "reference_kind": "PPLA",
+      "peak_count": 8,
+      "ja": "トレド",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:2617543",
+      "source": "GeoNames",
+      "source_ids": [
+        "2617543"
+      ],
+      "original": "Lisbjerg",
+      "country": "DK",
+      "lon": 10.16861,
+      "lat": 56.22075,
+      "reference_kind": "PPL",
+      "peak_count": 8,
+      "ja": "リスビェア",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:2655664",
+      "source": "GeoNames",
+      "source_ids": [
+        "2655664"
+      ],
+      "original": "Billingham",
+      "country": "GB",
+      "lon": -1.29034,
+      "lat": 54.58881,
+      "reference_kind": "PPL",
+      "peak_count": 8,
+      "ja": "ビリンガム",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:4830668",
+      "source": "GeoNames",
+      "source_ids": [
+        "4830668"
+      ],
+      "original": "Athens",
+      "country": "US",
+      "lon": -86.97219,
+      "lat": 34.80243,
+      "reference_kind": "PPLA2",
+      "peak_count": 8,
+      "ja": "アセンズ",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:5420859",
+      "source": "GeoNames",
+      "source_ids": [
+        "5420859"
+      ],
+      "original": "Edgewater",
+      "country": "US",
+      "lon": -105.06415,
+      "lat": 39.75304,
+      "reference_kind": "PPL",
+      "peak_count": 8,
+      "ja": "エッジウォーター",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:2901588",
+      "source": "GeoNames",
+      "source_ids": [
+        "2901588"
+      ],
+      "original": "Hohen Neuendorf",
+      "country": "DE",
+      "lon": 13.27887,
+      "lat": 52.67737,
+      "reference_kind": "PPLA4",
+      "peak_count": 7,
+      "ja": "ホーエン・ノイエンドルフ",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:4885418",
+      "source": "GeoNames",
+      "source_ids": [
+        "4885418"
+      ],
+      "original": "Bradley",
+      "country": "US",
+      "lon": -87.86115,
+      "lat": 41.14198,
+      "reference_kind": "PPL",
+      "peak_count": 7,
+      "ja": "ブラッドリー",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:5202938",
+      "source": "GeoNames",
+      "source_ids": [
+        "5202938"
+      ],
+      "original": "Nazareth",
+      "country": "US",
+      "lon": -75.30962,
+      "lat": 40.74038,
+      "reference_kind": "PPL",
+      "peak_count": 7,
+      "ja": "ナザレス",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:7259649",
+      "source": "GeoNames",
+      "source_ids": [
+        "7259649"
+      ],
+      "original": "Wright-Patterson AFB",
+      "country": "US",
+      "lon": -84.05731,
+      "lat": 39.81113,
+      "reference_kind": "PPL",
+      "peak_count": 7,
+      "ja": "ライト・パターソン空軍基地",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:8602585",
+      "source": "GeoNames",
+      "source_ids": [
+        "8602585"
+      ],
+      "original": "Frei Vital - Porto do Capim - Quinze de Nov - Nassau e Nova II",
+      "country": "BR",
+      "lon": -34.8918,
+      "lat": -7.11502,
+      "reference_kind": "PPLX",
+      "peak_count": 7,
+      "ja": "フレイ・ヴィタル・ポルト・ド・カピン・キンゼ・デ・ノヴ・ナッサウ・エ・ノーヴァ・ツー",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:2953355",
+      "source": "GeoNames",
+      "source_ids": [
+        "2953355"
+      ],
+      "original": "Bad Sassendorf",
+      "country": "DE",
+      "lon": 8.16667,
+      "lat": 51.58333,
+      "reference_kind": "PPLA4",
+      "peak_count": 6,
+      "ja": "バート・ザッセンドルフ",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:4671545",
+      "source": "GeoNames",
+      "source_ids": [
+        "4671545"
+      ],
+      "original": "Athens",
+      "country": "US",
+      "lon": -95.85552,
+      "lat": 32.20487,
+      "reference_kind": "PPLA2",
+      "peak_count": 6,
+      "ja": "アセンズ",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:5221705",
+      "source": "GeoNames",
+      "source_ids": [
+        "5221705"
+      ],
+      "original": "Cumberland Hill",
+      "country": "US",
+      "lon": -71.467,
+      "lat": 41.97454,
+      "reference_kind": "PPL",
+      "peak_count": 6,
+      "ja": "カンバーランド・ヒル",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:1152919",
+      "source": "GeoNames",
+      "source_ids": [
+        "1152919"
+      ],
+      "original": "Khao Yoi",
+      "country": "TH",
+      "lon": 99.82428,
+      "lat": 13.24025,
+      "reference_kind": "PPLA2",
+      "peak_count": 5,
+      "ja": "カオ・ヨーイ",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:1716198",
+      "source": "GeoNames",
+      "source_ids": [
+        "1716198"
+      ],
+      "original": "Dagupan",
+      "country": "PH",
+      "lon": 120.33325,
+      "lat": 16.04313,
+      "reference_kind": "PPLA3",
+      "peak_count": 5,
+      "ja": "ダグパン",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:2790433",
+      "source": "GeoNames",
+      "source_ids": [
+        "2790433"
+      ],
+      "original": "Nazareth",
+      "country": "BE",
+      "lon": 3.59425,
+      "lat": 50.95686,
+      "reference_kind": "PPL",
+      "peak_count": 5,
+      "ja": "ナザレス",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:4366929",
+      "source": "GeoNames",
+      "source_ids": [
+        "4366929"
+      ],
+      "original": "Riverside",
+      "country": "US",
+      "lon": -76.24134,
+      "lat": 39.47372,
+      "reference_kind": "PPL",
+      "peak_count": 5,
+      "ja": "リバーサイド",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:5092485",
+      "source": "GeoNames",
+      "source_ids": [
+        "5092485"
+      ],
+      "original": "Seabrook",
+      "country": "US",
+      "lon": -70.87116,
+      "lat": 42.89481,
+      "reference_kind": "PPL",
+      "peak_count": 5,
+      "ja": "シーブルック",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:13157034",
+      "source": "GeoNames",
+      "source_ids": [
+        "13157034"
+      ],
+      "original": "GSFC Complex INA",
+      "country": "IN",
+      "lon": 73.15473,
+      "lat": 22.37262,
+      "reference_kind": "PPL",
+      "peak_count": 4,
+      "ja": "ジーエスエフシー・コンプレックス・アイエヌエー",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:264371",
+      "source": "GeoNames",
+      "source_ids": [
+        "264371"
+      ],
+      "original": "Athens",
+      "country": "GR",
+      "lon": 23.72784,
+      "lat": 37.98376,
+      "reference_kind": "PPLC",
+      "peak_count": 4,
+      "ja": "アセンズ",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:2647074",
+      "source": "GeoNames",
+      "source_ids": [
+        "2647074"
+      ],
+      "original": "Hereford",
+      "country": "GB",
+      "lon": -2.71482,
+      "lat": 52.05684,
+      "reference_kind": "PPLA2",
+      "peak_count": 4,
+      "ja": "ヘレフォード",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:2654984",
+      "source": "GeoNames",
+      "source_ids": [
+        "2654984"
+      ],
+      "original": "Bradley",
+      "country": "GB",
+      "lon": -0.13333,
+      "lat": 53.55,
+      "reference_kind": "PPLA3",
+      "peak_count": 4,
+      "ja": "ブラッドリー",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:2866861",
+      "source": "GeoNames",
+      "source_ids": [
+        "2866861"
+      ],
+      "original": "Naunhof",
+      "country": "DE",
+      "lon": 12.58827,
+      "lat": 51.2777,
+      "reference_kind": "PPL",
+      "peak_count": 4,
+      "ja": "ナウンホーフ",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:2913713",
+      "source": "GeoNames",
+      "source_ids": [
+        "2913713"
+      ],
+      "original": "Gundelfingen",
+      "country": "DE",
+      "lon": 7.8657,
+      "lat": 48.04246,
+      "reference_kind": "PPLA4",
+      "peak_count": 4,
+      "ja": "グンデルフィンゲン",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:2953322",
+      "source": "GeoNames",
+      "source_ids": [
+        "2953322"
+      ],
+      "original": "Bad Überkingen",
+      "country": "DE",
+      "lon": 9.79586,
+      "lat": 48.59991,
+      "reference_kind": "PPLA4",
+      "peak_count": 4,
+      "ja": "バート・ユーバーキンゲン",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:3389535",
+      "source": "GeoNames",
+      "source_ids": [
+        "3389535"
+      ],
+      "original": "Santa Luzia do Norte",
+      "country": "BR",
+      "lon": -35.8225,
+      "lat": -9.60333,
+      "reference_kind": "PPL",
+      "peak_count": 4,
+      "ja": "サンタ・ルジア・ド・ノルテ",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:4595249",
+      "source": "GeoNames",
+      "source_ids": [
+        "4595249"
+      ],
+      "original": "Seabrook Island",
+      "country": "US",
+      "lon": -80.17065,
+      "lat": 32.57713,
+      "reference_kind": "PPL",
+      "peak_count": 4,
+      "ja": "シーブルック・アイランド",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:4841527",
+      "source": "GeoNames",
+      "source_ids": [
+        "4841527"
+      ],
+      "original": "Riverside",
+      "country": "US",
+      "lon": -73.57818,
+      "lat": 41.03371,
+      "reference_kind": "PPL",
+      "peak_count": 4,
+      "ja": "リバーサイド",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:5114357",
+      "source": "GeoNames",
+      "source_ids": [
+        "5114357"
+      ],
+      "original": "Cumberland Head",
+      "country": "US",
+      "lon": -73.40263,
+      "lat": 44.71643,
+      "reference_kind": "PPL",
+      "peak_count": 4,
+      "ja": "カンバーランド・ヘッド",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:5280523",
+      "source": "GeoNames",
+      "source_ids": [
+        "5280523"
+      ],
+      "original": "New Cumberland",
+      "country": "US",
+      "lon": -80.60674,
+      "lat": 40.49673,
+      "reference_kind": "PPLA2",
+      "peak_count": 4,
+      "ja": "ニュー・カンバーランド",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:5523074",
+      "source": "GeoNames",
+      "source_ids": [
+        "5523074"
+      ],
+      "original": "Hereford",
+      "country": "US",
+      "lon": -102.39932,
+      "lat": 34.81521,
+      "reference_kind": "PPLA2",
+      "peak_count": 4,
+      "ja": "ヘレフォード",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:622428",
+      "source": "GeoNames",
+      "source_ids": [
+        "622428"
+      ],
+      "original": "Soligorsk",
+      "country": "BY",
+      "lon": 27.53583,
+      "lat": 52.78981,
+      "reference_kind": "PPLA2",
+      "peak_count": 4,
+      "ja": "ソリゴルスク",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:7315164",
+      "source": "GeoNames",
+      "source_ids": [
+        "7315164"
+      ],
+      "original": "Avenue B and C",
+      "country": "US",
+      "lon": -114.66005,
+      "lat": 32.71904,
+      "reference_kind": "PPL",
+      "peak_count": 4,
+      "ja": "アベニュー・ビー・アンド・シー",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:7315420",
+      "source": "GeoNames",
+      "source_ids": [
+        "7315420"
+      ],
+      "original": "North Fort Lewis",
+      "country": "US",
+      "lon": -122.59452,
+      "lat": 47.12131,
+      "reference_kind": "PPL",
+      "peak_count": 4,
+      "ja": "ノース・フォート・ルイス",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:8347752",
+      "source": "GeoNames",
+      "source_ids": [
+        "8347752"
+      ],
+      "original": "Seabrook",
+      "country": "AU",
+      "lon": 144.75866,
+      "lat": -37.88092,
+      "reference_kind": "PPLX",
+      "peak_count": 4,
+      "ja": "シーブルック",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "国土数値情報 N02:001571",
+      "source": "国土数値情報 N02",
+      "source_ids": [
+        "001571"
+      ],
+      "original": "Jヴィレッジ",
+      "country": null,
+      "lon": 141.003,
+      "lat": 37.244699999999995,
+      "reference_kind": "station",
+      "peak_count": 4,
+      "ja": "ジェイヴィレッジ",
+      "status": "existing",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:10375669",
+      "source": "GeoNames",
+      "source_ids": [
+        "10375669"
+      ],
+      "original": "Merkez",
+      "country": "TR",
+      "lon": 26.42075,
+      "lat": 40.12954,
+      "reference_kind": "PPLA2",
+      "peak_count": 3,
+      "ja": "メルケズ",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:1106294",
+      "source": "GeoNames",
+      "source_ids": [
+        "1106294"
+      ],
+      "original": "Bairro 25 de Junho B",
+      "country": "MZ",
+      "lon": 32.5775,
+      "lat": -25.90111,
+      "reference_kind": "PPLA3",
+      "peak_count": 3,
+      "ja": "バイロ・ヴィンテ・イ・シンコ・デ・ジューニョ・ビー",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:11280534",
+      "source": "GeoNames",
+      "source_ids": [
+        "11280534"
+      ],
+      "original": "White River Junction VA Medical Center",
+      "country": "US",
+      "lon": -72.56786,
+      "lat": 42.83049,
+      "reference_kind": "PPL",
+      "peak_count": 3,
+      "ja": "ホワイト・リバー・ジャンクション退役軍人医療センター",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:11670107",
+      "source": "GeoNames",
+      "source_ids": [
+        "11670107"
+      ],
+      "original": "Lenningen",
+      "country": "DE",
+      "lon": 9.47674,
+      "lat": 48.55048,
+      "reference_kind": "PPLA4",
+      "peak_count": 3,
+      "ja": "レンニンゲン",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:12156827",
+      "source": "GeoNames",
+      "source_ids": [
+        "12156827"
+      ],
+      "original": "Centennial Scarborough",
+      "country": "CA",
+      "lon": -79.15084,
+      "lat": 43.78238,
+      "reference_kind": "PPLX",
+      "peak_count": 3,
+      "ja": "センテニアル・スカーバラ",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:12156903",
+      "source": "GeoNames",
+      "source_ids": [
+        "12156903"
+      ],
+      "original": "Downsview-Roding-CFB",
+      "country": "CA",
+      "lon": -79.49049,
+      "lat": 43.73329,
+      "reference_kind": "PPLX",
+      "peak_count": 3,
+      "ja": "ダウンズビュー・ロディング・シーエフビー",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:13157048",
+      "source": "GeoNames",
+      "source_ids": [
+        "13157048"
+      ],
+      "original": "Vithal Udyognagar INA",
+      "country": "IN",
+      "lon": 72.92538,
+      "lat": 22.53396,
+      "reference_kind": "PPL",
+      "peak_count": 3,
+      "ja": "ヴィタル・ウディヨグナガル・アイエヌエー",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:13157133",
+      "source": "GeoNames",
+      "source_ids": [
+        "13157133"
+      ],
+      "original": "Anklesvar INA",
+      "country": "IN",
+      "lon": 73.02759,
+      "lat": 21.61675,
+      "reference_kind": "PPL",
+      "peak_count": 3,
+      "ja": "アンクレーシュワル・アイエヌエー",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:13157138",
+      "source": "GeoNames",
+      "source_ids": [
+        "13157138"
+      ],
+      "original": "Vapi INA",
+      "country": "IN",
+      "lon": 72.93106,
+      "lat": 20.36006,
+      "reference_kind": "PPL",
+      "peak_count": 3,
+      "ja": "ヴァピ・アイエヌエー",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:1572585",
+      "source": "GeoNames",
+      "source_ids": [
+        "1572585"
+      ],
+      "original": "Nghĩa Đô",
+      "country": "VN",
+      "lon": 105.8,
+      "lat": 21.05,
+      "reference_kind": "PPL",
+      "peak_count": 3,
+      "ja": "ギア・ドー",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:2750452",
+      "source": "GeoNames",
+      "source_ids": [
+        "2750452"
+      ],
+      "original": "Neerbeek",
+      "country": "NL",
+      "lon": 5.81528,
+      "lat": 50.95,
+      "reference_kind": "PPL",
+      "peak_count": 3,
+      "ja": "ネールベーク",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:2783784",
+      "source": "GeoNames",
+      "source_ids": [
+        "2783784"
+      ],
+      "original": "Westmeerbeek",
+      "country": "BE",
+      "lon": 4.83835,
+      "lat": 51.06127,
+      "reference_kind": "PPL",
+      "peak_count": 3,
+      "ja": "ウェストメールベーク",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:2790178",
+      "source": "GeoNames",
+      "source_ids": [
+        "2790178"
+      ],
+      "original": "Nieuwerkerken",
+      "country": "BE",
+      "lon": 4.00433,
+      "lat": 50.92386,
+      "reference_kind": "PPL",
+      "peak_count": 3,
+      "ja": "ニーウェルケルケン",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:2792034",
+      "source": "GeoNames",
+      "source_ids": [
+        "2792034"
+      ],
+      "original": "Lubbeek",
+      "country": "BE",
+      "lon": 4.83896,
+      "lat": 50.88278,
+      "reference_kind": "PPL",
+      "peak_count": 3,
+      "ja": "ルベーク",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:2792301",
+      "source": "GeoNames",
+      "source_ids": [
+        "2792301"
+      ],
+      "original": "Linkebeek",
+      "country": "BE",
+      "lon": 4.33688,
+      "lat": 50.76781,
+      "reference_kind": "PPL",
+      "peak_count": 3,
+      "ja": "リンケベーク",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:2801483",
+      "source": "GeoNames",
+      "source_ids": [
+        "2801483"
+      ],
+      "original": "Boortmeerbeek",
+      "country": "BE",
+      "lon": 4.57443,
+      "lat": 50.97929,
+      "reference_kind": "PPL",
+      "peak_count": 3,
+      "ja": "ボールトメールベーク",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:2848175",
+      "source": "GeoNames",
+      "source_ids": [
+        "2848175"
+      ],
+      "original": "Renningen",
+      "country": "DE",
+      "lon": 8.93871,
+      "lat": 48.76974,
+      "reference_kind": "PPL",
+      "peak_count": 3,
+      "ja": "レンニンゲン",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:2867608",
+      "source": "GeoNames",
+      "source_ids": [
+        "2867608"
+      ],
+      "original": "Munderkingen",
+      "country": "DE",
+      "lon": 9.64398,
+      "lat": 48.23568,
+      "reference_kind": "PPL",
+      "peak_count": 3,
+      "ja": "ムンダーキンゲン",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:2913711",
+      "source": "GeoNames",
+      "source_ids": [
+        "2913711"
+      ],
+      "original": "Gundelfingen",
+      "country": "DE",
+      "lon": 10.37223,
+      "lat": 48.55347,
+      "reference_kind": "PPL",
+      "peak_count": 3,
+      "ja": "グンデルフィンゲン",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:2949777",
+      "source": "GeoNames",
+      "source_ids": [
+        "2949777"
+      ],
+      "original": "Bestensee",
+      "country": "DE",
+      "lon": 13.63732,
+      "lat": 52.23978,
+      "reference_kind": "PPLA4",
+      "peak_count": 3,
+      "ja": "ベステンゼー",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:2973524",
+      "source": "GeoNames",
+      "source_ids": [
+        "2973524"
+      ],
+      "original": "Taissy",
+      "country": "FR",
+      "lon": 4.09406,
+      "lat": 49.21509,
+      "reference_kind": "PPL",
+      "peak_count": 3,
+      "ja": "テシー",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:307344",
+      "source": "GeoNames",
+      "source_ids": [
+        "307344"
+      ],
+      "original": "Kızılca",
+      "country": "TR",
+      "lon": 28.49684,
+      "lat": 37.68259,
+      "reference_kind": "PPL",
+      "peak_count": 3,
+      "ja": "クズルジャ",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:307347",
+      "source": "GeoNames",
+      "source_ids": [
+        "307347"
+      ],
+      "original": "Kızılca",
+      "country": "TR",
+      "lon": 29.13962,
+      "lat": 37.48692,
+      "reference_kind": "PPL",
+      "peak_count": 3,
+      "ja": "クズルジャ",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:3125082",
+      "source": "GeoNames",
+      "source_ids": [
+        "3125082"
+      ],
+      "original": "Ciempozuelos",
+      "country": "ES",
+      "lon": -3.62103,
+      "lat": 40.15913,
+      "reference_kind": "PPLA3",
+      "peak_count": 3,
+      "ja": "シエンポスエロス",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:3453732",
+      "source": "GeoNames",
+      "source_ids": [
+        "3453732"
+      ],
+      "original": "Pinheiros",
+      "country": "BR",
+      "lon": -46.69232,
+      "lat": -23.56729,
+      "reference_kind": "PPLX",
+      "peak_count": 3,
+      "ja": "ピニェイロス",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:3526992",
+      "source": "GeoNames",
+      "source_ids": [
+        "3526992"
+      ],
+      "original": "Huauchinango",
+      "country": "MX",
+      "lon": -98.05491,
+      "lat": 20.17376,
+      "reference_kind": "PPLA2",
+      "peak_count": 3,
+      "ja": "ワウチナンゴ",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:3641154",
+      "source": "GeoNames",
+      "source_ids": [
+        "3641154"
+      ],
+      "original": "El Valle del Espíritu Santo",
+      "country": "VE",
+      "lon": -63.88346,
+      "lat": 10.98325,
+      "reference_kind": "PPLA2",
+      "peak_count": 3,
+      "ja": "エル・バジェ・デル・エスピリトゥ・サント",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:3827264",
+      "source": "GeoNames",
+      "source_ids": [
+        "3827264"
+      ],
+      "original": "San Miguel Totocuitlapilco",
+      "country": "MX",
+      "lon": -99.59417,
+      "lat": 19.22889,
+      "reference_kind": "PPL",
+      "peak_count": 3,
+      "ja": "サン・ミゲル・トトクイトラピルコ",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:4086224",
+      "source": "GeoNames",
+      "source_ids": [
+        "4086224"
+      ],
+      "original": "Riverside",
+      "country": "US",
+      "lon": -86.20442,
+      "lat": 33.60621,
+      "reference_kind": "PPL",
+      "peak_count": 3,
+      "ja": "リバーサイド",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:4157680",
+      "source": "GeoNames",
+      "source_ids": [
+        "4157680"
+      ],
+      "original": "Gulf Stream",
+      "country": "US",
+      "lon": -80.05504,
+      "lat": 26.49368,
+      "reference_kind": "PPL",
+      "peak_count": 3,
+      "ja": "ガルフ・ストリーム",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:4354072",
+      "source": "GeoNames",
+      "source_ids": [
+        "4354072"
+      ],
+      "original": "Edgewater",
+      "country": "US",
+      "lon": -76.557,
+      "lat": 38.938,
+      "reference_kind": "PPL",
+      "peak_count": 3,
+      "ja": "エッジウォーター",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:4372630",
+      "source": "GeoNames",
+      "source_ids": [
+        "4372630"
+      ],
+      "original": "Walkersville",
+      "country": "US",
+      "lon": -77.35193,
+      "lat": 39.48621,
+      "reference_kind": "PPL",
+      "peak_count": 3,
+      "ja": "ウォーカーズビル",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:4497437",
+      "source": "GeoNames",
+      "source_ids": [
+        "4497437"
+      ],
+      "original": "Walnut Cove",
+      "country": "US",
+      "lon": -80.14171,
+      "lat": 36.29541,
+      "reference_kind": "PPL",
+      "peak_count": 3,
+      "ja": "ウォルナット・コーブ",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:4598650",
+      "source": "GeoNames",
+      "source_ids": [
+        "4598650"
+      ],
+      "original": "Tigerville",
+      "country": "US",
+      "lon": -82.36845,
+      "lat": 35.06845,
+      "reference_kind": "PPL",
+      "peak_count": 3,
+      "ja": "タイガービル",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:4722966",
+      "source": "GeoNames",
+      "source_ids": [
+        "4722966"
+      ],
+      "original": "Riverside",
+      "country": "US",
+      "lon": -95.40355,
+      "lat": 30.85297,
+      "reference_kind": "PPL",
+      "peak_count": 3,
+      "ja": "リバーサイド",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:4727596",
+      "source": "GeoNames",
+      "source_ids": [
+        "4727596"
+      ],
+      "original": "Seabrook",
+      "country": "US",
+      "lon": -95.02548,
+      "lat": 29.56412,
+      "reference_kind": "PPL",
+      "peak_count": 3,
+      "ja": "シーブルック",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:4873130",
+      "source": "GeoNames",
+      "source_ids": [
+        "4873130"
+      ],
+      "original": "Riverside",
+      "country": "US",
+      "lon": -91.58128,
+      "lat": 41.47974,
+      "reference_kind": "PPL",
+      "peak_count": 3,
+      "ja": "リバーサイド",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:4878703",
+      "source": "GeoNames",
+      "source_ids": [
+        "4878703"
+      ],
+      "original": "Toledo",
+      "country": "US",
+      "lon": -92.57686,
+      "lat": 41.99555,
+      "reference_kind": "PPLA2",
+      "peak_count": 3,
+      "ja": "トレド",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:4890701",
+      "source": "GeoNames",
+      "source_ids": [
+        "4890701"
+      ],
+      "original": "Edgewater",
+      "country": "US",
+      "lon": -87.66395,
+      "lat": 41.98337,
+      "reference_kind": "PPLX",
+      "peak_count": 3,
+      "ja": "エッジウォーター",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:5116931",
+      "source": "GeoNames",
+      "source_ids": [
+        "5116931"
+      ],
+      "original": "Farmingdale",
+      "country": "US",
+      "lon": -73.4454,
+      "lat": 40.7326,
+      "reference_kind": "PPL",
+      "peak_count": 3,
+      "ja": "ファーミングデール",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:5356722",
+      "source": "GeoNames",
+      "source_ids": [
+        "5356722"
+      ],
+      "original": "Hidden Meadows",
+      "country": "US",
+      "lon": -117.11253,
+      "lat": 33.22531,
+      "reference_kind": "PPL",
+      "peak_count": 3,
+      "ja": "ヒドゥン・メドーズ",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:5926760",
+      "source": "GeoNames",
+      "source_ids": [
+        "5926760"
+      ],
+      "original": "Connaught Heights",
+      "country": "CA",
+      "lon": -122.95,
+      "lat": 49.2,
+      "reference_kind": "PPLX",
+      "peak_count": 3,
+      "ja": "コノート・ハイツ",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:5974707",
+      "source": "GeoNames",
+      "source_ids": [
+        "5974707"
+      ],
+      "original": "Hidden Valley",
+      "country": "CA",
+      "lon": -114.1143,
+      "lat": 51.14856,
+      "reference_kind": "PPLX",
+      "peak_count": 3,
+      "ja": "ヒドゥン・バレー",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:8349054",
+      "source": "GeoNames",
+      "source_ids": [
+        "8349054"
+      ],
+      "original": "Edgewater",
+      "country": "AU",
+      "lon": 115.78223,
+      "lat": -31.76547,
+      "reference_kind": "PPLX",
+      "peak_count": 3,
+      "ja": "エッジウォーター",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:8355161",
+      "source": "GeoNames",
+      "source_ids": [
+        "8355161"
+      ],
+      "original": "Bagong Bayan II-A",
+      "country": "PH",
+      "lon": 121.3192,
+      "lat": 14.0682,
+      "reference_kind": "PPL",
+      "peak_count": 3,
+      "ja": "バゴン・バヤン・ツー・エー",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "OpenStreetMap:node/3825936573",
+      "source": "OpenStreetMap",
+      "source_ids": [
+        "node/3825936573"
+      ],
+      "original": "Orpington",
+      "country": null,
+      "lon": 0.099899999999991,
+      "lat": 51.37649999999999,
+      "reference_kind": "station",
+      "peak_count": 3,
+      "ja": "オーピントン",
+      "status": "existing",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:12626176",
+      "source": "GeoNames",
+      "source_ids": [
+        "12626176"
+      ],
+      "original": "Ile-des-Soeurs",
+      "country": "CA",
+      "lon": -73.54817,
+      "lat": 45.46033,
+      "reference_kind": "PPLX",
+      "peak_count": 2,
+      "ja": "イル・デ・スール",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:1275926",
+      "source": "GeoNames",
+      "source_ids": [
+        "1275926"
+      ],
+      "original": "Bhind",
+      "country": "IN",
+      "lon": 78.78728,
+      "lat": 26.56671,
+      "reference_kind": "PPL",
+      "peak_count": 2,
+      "ja": "ビンド",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:1276191",
+      "source": "GeoNames",
+      "source_ids": [
+        "1276191"
+      ],
+      "original": "Bhandāra",
+      "country": "IN",
+      "lon": 79.64885,
+      "lat": 21.16817,
+      "reference_kind": "PPL",
+      "peak_count": 2,
+      "ja": "バンダーラ",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:1276335",
+      "source": "GeoNames",
+      "source_ids": [
+        "1276335"
+      ],
+      "original": "Bhadohi",
+      "country": "IN",
+      "lon": 82.5703,
+      "lat": 25.39526,
+      "reference_kind": "PPL",
+      "peak_count": 2,
+      "ja": "バドーヒ",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:13680908",
+      "source": "GeoNames",
+      "source_ids": [
+        "13680908"
+      ],
+      "original": "CFB Kingston",
+      "country": "CA",
+      "lon": -76.4472,
+      "lat": 44.24379,
+      "reference_kind": "PPLX",
+      "peak_count": 2,
+      "ja": "カナダ軍基地キングストン",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:1681602",
+      "source": "GeoNames",
+      "source_ids": [
+        "1681602"
+      ],
+      "original": "Toledo",
+      "country": "PH",
+      "lon": 123.6386,
+      "lat": 10.3773,
+      "reference_kind": "PPL",
+      "peak_count": 2,
+      "ja": "トレド",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:1692529",
+      "source": "GeoNames",
+      "source_ids": [
+        "1692529"
+      ],
+      "original": "Pulong Gubat",
+      "country": "PH",
+      "lon": 120.90599,
+      "lat": 14.85938,
+      "reference_kind": "PPL",
+      "peak_count": 2,
+      "ja": "プロン・グバット",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:2261577",
+      "source": "GeoNames",
+      "source_ids": [
+        "2261577"
+      ],
+      "original": "Vila Viçosa",
+      "country": "PT",
+      "lon": -7.41793,
+      "lat": 38.7777,
+      "reference_kind": "PPLA2",
+      "peak_count": 2,
+      "ja": "ヴィラ・ヴィソーザ",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:2263518",
+      "source": "GeoNames",
+      "source_ids": [
+        "2263518"
+      ],
+      "original": "Santa Luzia",
+      "country": "PT",
+      "lon": -7.66202,
+      "lat": 37.10224,
+      "reference_kind": "PPL",
+      "peak_count": 2,
+      "ja": "サンタ・ルジア",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:2634586",
+      "source": "GeoNames",
+      "source_ids": [
+        "2634586"
+      ],
+      "original": "Welland",
+      "country": "GB",
+      "lon": -2.2994,
+      "lat": 52.05756,
+      "reference_kind": "PPL",
+      "peak_count": 2,
+      "ja": "ウェランド",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:2636031",
+      "source": "GeoNames",
+      "source_ids": [
+        "2636031"
+      ],
+      "original": "Theydon Bois",
+      "country": "GB",
+      "lon": 0.09781,
+      "lat": 51.67426,
+      "reference_kind": "PPL",
+      "peak_count": 2,
+      "ja": "セイドン・ボイス",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:2651915",
+      "source": "GeoNames",
+      "source_ids": [
+        "2651915"
+      ],
+      "original": "Crook",
+      "country": "GB",
+      "lon": -1.7497,
+      "lat": 54.71252,
+      "reference_kind": "PPL",
+      "peak_count": 2,
+      "ja": "クルック",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:2773215",
+      "source": "GeoNames",
+      "source_ids": [
+        "2773215"
+      ],
+      "original": "Laakirchen",
+      "country": "AT",
+      "lon": 13.82166,
+      "lat": 47.98188,
+      "reference_kind": "PPL",
+      "peak_count": 2,
+      "ja": "ラーキルヒェン",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:2777015",
+      "source": "GeoNames",
+      "source_ids": [
+        "2777015"
+      ],
+      "original": "Haidershofen",
+      "country": "AT",
+      "lon": 14.46131,
+      "lat": 48.07579,
+      "reference_kind": "PPLA3",
+      "peak_count": 2,
+      "ja": "ハイダースホーフェン",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:2787815",
+      "source": "GeoNames",
+      "source_ids": [
+        "2787815"
+      ],
+      "original": "Romershoven",
+      "country": "BE",
+      "lon": 5.45986,
+      "lat": 50.85635,
+      "reference_kind": "PPL",
+      "peak_count": 2,
+      "ja": "ローメルスホーフェン",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:2794989",
+      "source": "GeoNames",
+      "source_ids": [
+        "2794989"
+      ],
+      "original": "Jalhay",
+      "country": "BE",
+      "lon": 5.96764,
+      "lat": 50.55876,
+      "reference_kind": "PPL",
+      "peak_count": 2,
+      "ja": "ジャルエ",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:294098",
+      "source": "GeoNames",
+      "source_ids": [
+        "294098"
+      ],
+      "original": "Nazareth",
+      "country": "IL",
+      "lon": 35.29719,
+      "lat": 32.70087,
+      "reference_kind": "PPLA",
+      "peak_count": 2,
+      "ja": "ナザレス",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:3021920",
+      "source": "GeoNames",
+      "source_ids": [
+        "3021920"
+      ],
+      "original": "Dahlenheim",
+      "country": "FR",
+      "lon": 7.50706,
+      "lat": 48.58602,
+      "reference_kind": "PPL",
+      "peak_count": 2,
+      "ja": "ダーレンハイム",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:3037875",
+      "source": "GeoNames",
+      "source_ids": [
+        "3037875"
+      ],
+      "original": "els Banys d'Arles",
+      "country": "FR",
+      "lon": 2.66916,
+      "lat": 42.47289,
+      "reference_kind": "PPL",
+      "peak_count": 2,
+      "ja": "エルス・バニス・ダルラス",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:3047502",
+      "source": "GeoNames",
+      "source_ids": [
+        "3047502"
+      ],
+      "original": "Nagytétény",
+      "country": "HU",
+      "lon": 18.98566,
+      "lat": 47.39527,
+      "reference_kind": "PPLX",
+      "peak_count": 2,
+      "ja": "ナジテーテーニ",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:3067078",
+      "source": "GeoNames",
+      "source_ids": [
+        "3067078"
+      ],
+      "original": "Rajhrad",
+      "country": "CZ",
+      "lon": 16.60388,
+      "lat": 49.09021,
+      "reference_kind": "PPL",
+      "peak_count": 2,
+      "ja": "ライフラト",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:307343",
+      "source": "GeoNames",
+      "source_ids": [
+        "307343"
+      ],
+      "original": "Kızılca",
+      "country": "TR",
+      "lon": 34.35135,
+      "lat": 37.84024,
+      "reference_kind": "PPL",
+      "peak_count": 2,
+      "ja": "クズルジャ",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:307392",
+      "source": "GeoNames",
+      "source_ids": [
+        "307392"
+      ],
+      "original": "Kızıklı",
+      "country": "TR",
+      "lon": 27.03484,
+      "lat": 39.50219,
+      "reference_kind": "PPL",
+      "peak_count": 2,
+      "ja": "クズクル",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:307428",
+      "source": "GeoNames",
+      "source_ids": [
+        "307428"
+      ],
+      "original": "Kıvrıklı",
+      "country": "TR",
+      "lon": 35.72261,
+      "lat": 37.0815,
+      "reference_kind": "PPL",
+      "peak_count": 2,
+      "ja": "クヴルクル",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:307608",
+      "source": "GeoNames",
+      "source_ids": [
+        "307608"
+      ],
+      "original": "Kırkgeçit",
+      "country": "TR",
+      "lon": 43.49387,
+      "lat": 38.13558,
+      "reference_kind": "PPLA3",
+      "peak_count": 2,
+      "ja": "クルクゲチット",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:307625",
+      "source": "GeoNames",
+      "source_ids": [
+        "307625"
+      ],
+      "original": "Kırka",
+      "country": "TR",
+      "lon": 30.52639,
+      "lat": 39.27944,
+      "reference_kind": "PPLA3",
+      "peak_count": 2,
+      "ja": "クルカ",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:3141682",
+      "source": "GeoNames",
+      "source_ids": [
+        "3141682"
+      ],
+      "original": "Rjukan",
+      "country": "NO",
+      "lon": 8.59411,
+      "lat": 59.87891,
+      "reference_kind": "PPLA2",
+      "peak_count": 2,
+      "ja": "リューカン",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:3164179",
+      "source": "GeoNames",
+      "source_ids": [
+        "3164179"
+      ],
+      "original": "Villanova Mondovì",
+      "country": "IT",
+      "lon": 7.76752,
+      "lat": 44.34804,
+      "reference_kind": "PPLA3",
+      "peak_count": 2,
+      "ja": "ヴィッラノーヴァ・モンドヴィ",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:3171985",
+      "source": "GeoNames",
+      "source_ids": [
+        "3171985"
+      ],
+      "original": "Orbetello",
+      "country": "IT",
+      "lon": 11.2214,
+      "lat": 42.44158,
+      "reference_kind": "PPLA3",
+      "peak_count": 2,
+      "ja": "オルベテッロ",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:3455049",
+      "source": "GeoNames",
+      "source_ids": [
+        "3455049"
+      ],
+      "original": "Paranhos",
+      "country": "BR",
+      "lon": -55.43111,
+      "lat": -23.89278,
+      "reference_kind": "PPL",
+      "peak_count": 2,
+      "ja": "パラーニョス",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:3459435",
+      "source": "GeoNames",
+      "source_ids": [
+        "3459435"
+      ],
+      "original": "Juquitiba",
+      "country": "BR",
+      "lon": -47.06833,
+      "lat": -23.93167,
+      "reference_kind": "PPL",
+      "peak_count": 2,
+      "ja": "ジュキチバ",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:3533402",
+      "source": "GeoNames",
+      "source_ids": [
+        "3533402"
+      ],
+      "original": "San Lorenzo Acopilco",
+      "country": "MX",
+      "lon": -99.32721,
+      "lat": 19.33002,
+      "reference_kind": "PPLX",
+      "peak_count": 2,
+      "ja": "サン・ロレンソ・アコピルコ",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:3690654",
+      "source": "GeoNames",
+      "source_ids": [
+        "3690654"
+      ],
+      "original": "Yurimaguas",
+      "country": "PE",
+      "lon": -76.12234,
+      "lat": -5.90181,
+      "reference_kind": "PPLA3",
+      "peak_count": 2,
+      "ja": "ユリマグアス",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:3979563",
+      "source": "GeoNames",
+      "source_ids": [
+        "3979563"
+      ],
+      "original": "Islas Agrarias Grupo B",
+      "country": "MX",
+      "lon": -115.27111,
+      "lat": 32.59994,
+      "reference_kind": "PPL",
+      "peak_count": 2,
+      "ja": "イスラス・アグラリアス・グルポ・ビー",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:3981432",
+      "source": "GeoNames",
+      "source_ids": [
+        "3981432"
+      ],
+      "original": "Todos Santos",
+      "country": "MX",
+      "lon": -110.22308,
+      "lat": 23.44688,
+      "reference_kind": "PPL",
+      "peak_count": 2,
+      "ja": "トドス・サントス",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:4139989",
+      "source": "GeoNames",
+      "source_ids": [
+        "4139989"
+      ],
+      "original": "Pennsylvania Avenue SE",
+      "country": "US",
+      "lon": -76.95803,
+      "lat": 38.86817,
+      "reference_kind": "PPL",
+      "peak_count": 2,
+      "ja": "ペンシルベニア・アベニュー・サウスイースト",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:4355322",
+      "source": "GeoNames",
+      "source_ids": [
+        "4355322"
+      ],
+      "original": "Fort George G Mead Junction",
+      "country": "US",
+      "lon": -76.78914,
+      "lat": 39.12594,
+      "reference_kind": "PPL",
+      "peak_count": 2,
+      "ja": "フォート・ジョージ・ジー・ミード・ジャンクション",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:4561530",
+      "source": "GeoNames",
+      "source_ids": [
+        "4561530"
+      ],
+      "original": "Stonybrook",
+      "country": "US",
+      "lon": -76.64413,
+      "lat": 39.98704,
+      "reference_kind": "PPL",
+      "peak_count": 2,
+      "ja": "ストーニーブルック",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:4797549",
+      "source": "GeoNames",
+      "source_ids": [
+        "4797549"
+      ],
+      "original": "Athens",
+      "country": "US",
+      "lon": -81.0162,
+      "lat": 37.42234,
+      "reference_kind": "PPL",
+      "peak_count": 2,
+      "ja": "アセンズ",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:4799944",
+      "source": "GeoNames",
+      "source_ids": [
+        "4799944"
+      ],
+      "original": "Bradley",
+      "country": "US",
+      "lon": -81.19399,
+      "lat": 37.86539,
+      "reference_kind": "PPL",
+      "peak_count": 2,
+      "ja": "ブラッドリー",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:485699",
+      "source": "GeoNames",
+      "source_ids": [
+        "485699"
+      ],
+      "original": "Svetlogorsk",
+      "country": "RU",
+      "lon": 20.15479,
+      "lat": 54.93987,
+      "reference_kind": "PPLA2",
+      "peak_count": 2,
+      "ja": "スヴェトロゴルスク",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:4907706",
+      "source": "GeoNames",
+      "source_ids": [
+        "4907706"
+      ],
+      "original": "Riverside",
+      "country": "US",
+      "lon": -87.82284,
+      "lat": 41.83503,
+      "reference_kind": "PPL",
+      "peak_count": 2,
+      "ja": "リバーサイド",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:4964021",
+      "source": "GeoNames",
+      "source_ids": [
+        "4964021"
+      ],
+      "original": "Farmingdale",
+      "country": "US",
+      "lon": -69.77143,
+      "lat": 44.24451,
+      "reference_kind": "PPL",
+      "peak_count": 2,
+      "ja": "ファーミングデール",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:4990528",
+      "source": "GeoNames",
+      "source_ids": [
+        "4990528"
+      ],
+      "original": "Deckerville",
+      "country": "US",
+      "lon": -82.73521,
+      "lat": 43.52669,
+      "reference_kind": "PPL",
+      "peak_count": 2,
+      "ja": "デッカービル",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:5014278",
+      "source": "GeoNames",
+      "source_ids": [
+        "5014278"
+      ],
+      "original": "Webberville",
+      "country": "US",
+      "lon": -84.17413,
+      "lat": 42.66698,
+      "reference_kind": "PPL",
+      "peak_count": 2,
+      "ja": "ウェバービル",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:5092486",
+      "source": "GeoNames",
+      "source_ids": [
+        "5092486"
+      ],
+      "original": "Seabrook Beach",
+      "country": "US",
+      "lon": -70.81561,
+      "lat": 42.88676,
+      "reference_kind": "PPL",
+      "peak_count": 2,
+      "ja": "シーブルック・ビーチ",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:5111745",
+      "source": "GeoNames",
+      "source_ids": [
+        "5111745"
+      ],
+      "original": "Castleton-on-Hudson",
+      "country": "US",
+      "lon": -73.75123,
+      "lat": 42.51841,
+      "reference_kind": "PPL",
+      "peak_count": 2,
+      "ja": "キャッスルトン・オン・ハドソン",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:5112559",
+      "source": "GeoNames",
+      "source_ids": [
+        "5112559"
+      ],
+      "original": "Chittenango",
+      "country": "US",
+      "lon": -75.86658,
+      "lat": 43.04507,
+      "reference_kind": "PPL",
+      "peak_count": 2,
+      "ja": "チテナンゴ",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:513378",
+      "source": "GeoNames",
+      "source_ids": [
+        "513378"
+      ],
+      "original": "Ozëry",
+      "country": "RU",
+      "lon": 38.55062,
+      "lat": 54.85998,
+      "reference_kind": "PPL",
+      "peak_count": 2,
+      "ja": "オジョールィ",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:5176942",
+      "source": "GeoNames",
+      "source_ids": [
+        "5176942"
+      ],
+      "original": "Willoughby Hills",
+      "country": "US",
+      "lon": -81.41845,
+      "lat": 41.59838,
+      "reference_kind": "PPL",
+      "peak_count": 2,
+      "ja": "ウィロビー・ヒルズ",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:5178651",
+      "source": "GeoNames",
+      "source_ids": [
+        "5178651"
+      ],
+      "original": "Athens",
+      "country": "US",
+      "lon": -76.518,
+      "lat": 41.9573,
+      "reference_kind": "PPL",
+      "peak_count": 2,
+      "ja": "アセンズ",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:5193294",
+      "source": "GeoNames",
+      "source_ids": [
+        "5193294"
+      ],
+      "original": "Hereford",
+      "country": "US",
+      "lon": -75.55213,
+      "lat": 40.44926,
+      "reference_kind": "PPL",
+      "peak_count": 2,
+      "ja": "ヘレフォード",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:5203164",
+      "source": "GeoNames",
+      "source_ids": [
+        "5203164"
+      ],
+      "original": "New Cumberland",
+      "country": "US",
+      "lon": -76.8847,
+      "lat": 40.23231,
+      "reference_kind": "PPL",
+      "peak_count": 2,
+      "ja": "ニュー・カンバーランド",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:5204476",
+      "source": "GeoNames",
+      "source_ids": [
+        "5204476"
+      ],
+      "original": "Olyphant",
+      "country": "US",
+      "lon": -75.60297,
+      "lat": 41.46841,
+      "reference_kind": "PPL",
+      "peak_count": 2,
+      "ja": "オリファント",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:5356700",
+      "source": "GeoNames",
+      "source_ids": [
+        "5356700"
+      ],
+      "original": "Hidden Hills",
+      "country": "US",
+      "lon": -118.65231,
+      "lat": 34.16028,
+      "reference_kind": "PPL",
+      "peak_count": 2,
+      "ja": "ヒドゥン・ヒルズ",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:5356767",
+      "source": "GeoNames",
+      "source_ids": [
+        "5356767"
+      ],
+      "original": "Hidden Valley Lake",
+      "country": "US",
+      "lon": -122.55832,
+      "lat": 38.80796,
+      "reference_kind": "PPL",
+      "peak_count": 2,
+      "ja": "ヒドゥン・バレー・レイク",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:560255",
+      "source": "GeoNames",
+      "source_ids": [
+        "560255"
+      ],
+      "original": "Gorbunki",
+      "country": "RU",
+      "lon": 29.98478,
+      "lat": 59.81307,
+      "reference_kind": "PPL",
+      "peak_count": 2,
+      "ja": "ゴルブンキ",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:5813681",
+      "source": "GeoNames",
+      "source_ids": [
+        "5813681"
+      ],
+      "original": "Toledo",
+      "country": "US",
+      "lon": -122.84678,
+      "lat": 46.43983,
+      "reference_kind": "PPL",
+      "peak_count": 2,
+      "ja": "トレド",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:5835865",
+      "source": "GeoNames",
+      "source_ids": [
+        "5835865"
+      ],
+      "original": "Rafter J Ranch",
+      "country": "US",
+      "lon": -110.791,
+      "lat": 43.433,
+      "reference_kind": "PPL",
+      "peak_count": 2,
+      "ja": "ラフター・ジェイ・ランチ",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:5887942",
+      "source": "GeoNames",
+      "source_ids": [
+        "5887942"
+      ],
+      "original": "Athens",
+      "country": "CA",
+      "lon": -75.94936,
+      "lat": 44.63341,
+      "reference_kind": "PPL",
+      "peak_count": 2,
+      "ja": "アセンズ",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:5972961",
+      "source": "GeoNames",
+      "source_ids": [
+        "5972961"
+      ],
+      "original": "Headingley",
+      "country": "CA",
+      "lon": -97.40896,
+      "lat": 49.8753,
+      "reference_kind": "PPL",
+      "peak_count": 2,
+      "ja": "ヘディングリー",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:7315585",
+      "source": "GeoNames",
+      "source_ids": [
+        "7315585"
+      ],
+      "original": "Hidden Spring",
+      "country": "US",
+      "lon": -116.25093,
+      "lat": 43.72216,
+      "reference_kind": "PPL",
+      "peak_count": 2,
+      "ja": "ヒドゥン・スプリング",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:743064",
+      "source": "GeoNames",
+      "source_ids": [
+        "743064"
+      ],
+      "original": "Kızılca",
+      "country": "TR",
+      "lon": 35.76203,
+      "lat": 40.51629,
+      "reference_kind": "PPL",
+      "peak_count": 2,
+      "ja": "クズルジャ",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "国土数値情報 N02:005320",
+      "source": "国土数値情報 N02",
+      "source_ids": [
+        "005320"
+      ],
+      "original": "YRP野比",
+      "country": null,
+      "lon": 139.6845,
+      "lat": 35.21249999999999,
+      "reference_kind": "station",
+      "peak_count": 2,
+      "ja": "ワイアールピー野比",
+      "status": "existing",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:11746597",
+      "source": "GeoNames",
+      "source_ids": [
+        "11746597"
+      ],
+      "original": "2.Bezirk",
+      "country": "AT",
+      "lon": 14.3091,
+      "lat": 46.6251,
+      "reference_kind": "PPLX",
+      "peak_count": 1,
+      "ja": "第2区",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:11903672",
+      "source": "GeoNames",
+      "source_ids": [
+        "11903672"
+      ],
+      "original": "Ottendorf an der Rittschein",
+      "country": "AT",
+      "lon": 15.89745,
+      "lat": 47.04775,
+      "reference_kind": "PPL",
+      "peak_count": 1,
+      "ja": "オッテンドルフ・アン・デア・リットシャイン",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:11980060",
+      "source": "GeoNames",
+      "source_ids": [
+        "11980060"
+      ],
+      "original": "Riverside",
+      "country": "US",
+      "lon": -76.60688,
+      "lat": 39.27252,
+      "reference_kind": "PPLX",
+      "peak_count": 1,
+      "ja": "リバーサイド",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:12156833",
+      "source": "GeoNames",
+      "source_ids": [
+        "12156833"
+      ],
+      "original": "Corso Italia-Davenport",
+      "country": "CA",
+      "lon": -79.44747,
+      "lat": 43.67766,
+      "reference_kind": "PPLX",
+      "peak_count": 1,
+      "ja": "コルソ・イタリア・ダベンポート",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:1255616",
+      "source": "GeoNames",
+      "source_ids": [
+        "1255616"
+      ],
+      "original": "Srivilliputhur",
+      "country": "IN",
+      "lon": 77.63369,
+      "lat": 9.51272,
+      "reference_kind": "PPL",
+      "peak_count": 1,
+      "ja": "シュリーヴィッリプトゥール",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:1274989",
+      "source": "GeoNames",
+      "source_ids": [
+        "1274989"
+      ],
+      "original": "Candolim",
+      "country": "IN",
+      "lon": 73.76259,
+      "lat": 15.51807,
+      "reference_kind": "PPL",
+      "peak_count": 1,
+      "ja": "カンドリム",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:12958725",
+      "source": "GeoNames",
+      "source_ids": [
+        "12958725"
+      ],
+      "original": "Santa Luzia do Paruá",
+      "country": "BR",
+      "lon": -45.77546,
+      "lat": -2.54389,
+      "reference_kind": "PPL",
+      "peak_count": 1,
+      "ja": "サンタ・ルジア・ド・パルア",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:13132009",
+      "source": "GeoNames",
+      "source_ids": [
+        "13132009"
+      ],
+      "original": "Vanha-Nuuksio-Nupuri",
+      "country": "FI",
+      "lon": 24.59855,
+      "lat": 60.24084,
+      "reference_kind": "PPLX",
+      "peak_count": 1,
+      "ja": "ヴァンハ・ヌークシオ・ヌプリ",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:13156805",
+      "source": "GeoNames",
+      "source_ids": [
+        "13156805"
+      ],
+      "original": "Barbari (AMC Area)",
+      "country": "IN",
+      "lon": 94.93253,
+      "lat": 27.4914,
+      "reference_kind": "PPL",
+      "peak_count": 1,
+      "ja": "バルバリ（エーエムシー区域）",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:13157041",
+      "source": "GeoNames",
+      "source_ids": [
+        "13157041"
+      ],
+      "original": "Nandesari INA",
+      "country": "IN",
+      "lon": 73.09517,
+      "lat": 22.40624,
+      "reference_kind": "PPL",
+      "peak_count": 1,
+      "ja": "ナンデサリ・アイエヌエー",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:13157071",
+      "source": "GeoNames",
+      "source_ids": [
+        "13157071"
+      ],
+      "original": "Umbergaon INA",
+      "country": "IN",
+      "lon": 72.77502,
+      "lat": 20.16915,
+      "reference_kind": "PPL",
+      "peak_count": 1,
+      "ja": "ウンベルガオン・アイエヌエー",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:13526894",
+      "source": "GeoNames",
+      "source_ids": [
+        "13526894"
+      ],
+      "original": "H Street NE",
+      "country": "US",
+      "lon": -76.99587,
+      "lat": 38.90015,
+      "reference_kind": "PPL",
+      "peak_count": 1,
+      "ja": "エイチ・ストリート・ノースイースト",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:13589231",
+      "source": "GeoNames",
+      "source_ids": [
+        "13589231"
+      ],
+      "original": "Confederation Urban Centre",
+      "country": "CA",
+      "lon": -106.72291,
+      "lat": 52.13213,
+      "reference_kind": "PPLX",
+      "peak_count": 1,
+      "ja": "コンフェデレーション・アーバン・センター",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:13589445",
+      "source": "GeoNames",
+      "source_ids": [
+        "13589445"
+      ],
+      "original": "Merkez",
+      "country": "TR",
+      "lon": 31.31945,
+      "lat": 40.77353,
+      "reference_kind": "PPLX",
+      "peak_count": 1,
+      "ja": "メルケズ",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:13589489",
+      "source": "GeoNames",
+      "source_ids": [
+        "13589489"
+      ],
+      "original": "Merkez",
+      "country": "TR",
+      "lon": 30.94618,
+      "lat": 40.83882,
+      "reference_kind": "PPLX",
+      "peak_count": 1,
+      "ja": "メルケズ",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:13645743",
+      "source": "GeoNames",
+      "source_ids": [
+        "13645743"
+      ],
+      "original": "CIM",
+      "country": "GW",
+      "lon": -15.57808,
+      "lat": 11.86068,
+      "reference_kind": "PPLX",
+      "peak_count": 1,
+      "ja": "シーアイエム",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:13680015",
+      "source": "GeoNames",
+      "source_ids": [
+        "13680015"
+      ],
+      "original": "Đông Ngạc",
+      "country": "VN",
+      "lon": 105.77397,
+      "lat": 21.08063,
+      "reference_kind": "PPL",
+      "peak_count": 1,
+      "ja": "ドン・ガック",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:13680016",
+      "source": "GeoNames",
+      "source_ids": [
+        "13680016"
+      ],
+      "original": "Giảng Võ",
+      "country": "VN",
+      "lon": 105.81252,
+      "lat": 21.03066,
+      "reference_kind": "PPL",
+      "peak_count": 1,
+      "ja": "ザン・ヴォー",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:13680019",
+      "source": "GeoNames",
+      "source_ids": [
+        "13680019"
+      ],
+      "original": "Kiến Hưng",
+      "country": "VN",
+      "lon": 105.78972,
+      "lat": 20.95833,
+      "reference_kind": "PPL",
+      "peak_count": 1,
+      "ja": "キエン・フン",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:13680020",
+      "source": "GeoNames",
+      "source_ids": [
+        "13680020"
+      ],
+      "original": "Lĩnh Nam",
+      "country": "VN",
+      "lon": 105.89044,
+      "lat": 20.97966,
+      "reference_kind": "PPL",
+      "peak_count": 1,
+      "ja": "リン・ナム",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:1713857",
+      "source": "GeoNames",
+      "source_ids": [
+        "1713857"
+      ],
+      "original": "Enrique B. Magalona",
+      "country": "PH",
+      "lon": 122.97707,
+      "lat": 10.87879,
+      "reference_kind": "PPL",
+      "peak_count": 1,
+      "ja": "エンリケ・ビー・マガロナ",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:1735091",
+      "source": "GeoNames",
+      "source_ids": [
+        "1735091"
+      ],
+      "original": "Tanjung Piandang",
+      "country": "MY",
+      "lon": 100.38105,
+      "lat": 5.07236,
+      "reference_kind": "PPL",
+      "peak_count": 1,
+      "ja": "タンジュン・ピアンダン",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:1771606",
+      "source": "GeoNames",
+      "source_ids": [
+        "1771606"
+      ],
+      "original": "Anak Bukit",
+      "country": "MY",
+      "lon": 100.37752,
+      "lat": 6.184,
+      "reference_kind": "PPL",
+      "peak_count": 1,
+      "ja": "アナク・ブキット",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:1821294",
+      "source": "GeoNames",
+      "source_ids": [
+        "1821294"
+      ],
+      "original": "Zhuojiacun",
+      "country": "MO",
+      "lon": 113.55639,
+      "lat": 22.16139,
+      "reference_kind": "PPL",
+      "peak_count": 1,
+      "ja": "ジュオジアツン",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:1881952",
+      "source": "GeoNames",
+      "source_ids": [
+        "1881952"
+      ],
+      "original": "Jurong East",
+      "country": "SG",
+      "lon": 103.73995,
+      "lat": 1.32888,
+      "reference_kind": "PPL",
+      "peak_count": 1,
+      "ja": "ジュロン・イースト",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:2058710",
+      "source": "GeoNames",
+      "source_ids": [
+        "2058710"
+      ],
+      "original": "Welland",
+      "country": "AU",
+      "lon": 138.55841,
+      "lat": -34.90366,
+      "reference_kind": "PPL",
+      "peak_count": 1,
+      "ja": "ウェランド",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:2154496",
+      "source": "GeoNames",
+      "source_ids": [
+        "2154496"
+      ],
+      "original": "Barwon Heads",
+      "country": "AU",
+      "lon": 144.48853,
+      "lat": -38.27448,
+      "reference_kind": "PPL",
+      "peak_count": 1,
+      "ja": "バーウォン・ヘッズ",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:2155845",
+      "source": "GeoNames",
+      "source_ids": [
+        "2155845"
+      ],
+      "original": "Nanango",
+      "country": "AU",
+      "lon": 152.00211,
+      "lat": -26.67157,
+      "reference_kind": "PPL",
+      "peak_count": 1,
+      "ja": "ナナンゴ",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:2156053",
+      "source": "GeoNames",
+      "source_ids": [
+        "2156053"
+      ],
+      "original": "Murtoa",
+      "country": "AU",
+      "lon": 142.46677,
+      "lat": -36.62009,
+      "reference_kind": "PPL",
+      "peak_count": 1,
+      "ja": "マートア",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:2165771",
+      "source": "GeoNames",
+      "source_ids": [
+        "2165771"
+      ],
+      "original": "Gembrook",
+      "country": "AU",
+      "lon": 145.55536,
+      "lat": -37.95321,
+      "reference_kind": "PPLX",
+      "peak_count": 1,
+      "ja": "ジェムブルック",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:2169736",
+      "source": "GeoNames",
+      "source_ids": [
+        "2169736"
+      ],
+      "original": "Cundletown",
+      "country": "AU",
+      "lon": 152.52141,
+      "lat": -31.8941,
+      "reference_kind": "PPL",
+      "peak_count": 1,
+      "ja": "カンドルタウン",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:2263519",
+      "source": "GeoNames",
+      "source_ids": [
+        "2263519"
+      ],
+      "original": "Santa Luzia",
+      "country": "PT",
+      "lon": -16.9054,
+      "lat": 32.65675,
+      "reference_kind": "PPL",
+      "peak_count": 1,
+      "ja": "サンタ・ルジア",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:2510349",
+      "source": "GeoNames",
+      "source_ids": [
+        "2510349"
+      ],
+      "original": "Torralba de Calatrava",
+      "country": "ES",
+      "lon": -3.75105,
+      "lat": 39.01785,
+      "reference_kind": "PPL",
+      "peak_count": 1,
+      "ja": "トラルバ・デ・カラトラバ",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:2510746",
+      "source": "GeoNames",
+      "source_ids": [
+        "2510746"
+      ],
+      "original": "Tabernas",
+      "country": "ES",
+      "lon": -2.39084,
+      "lat": 37.04992,
+      "reference_kind": "PPLA3",
+      "peak_count": 1,
+      "ja": "タベルナス",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:2516944",
+      "source": "GeoNames",
+      "source_ids": [
+        "2516944"
+      ],
+      "original": "Guadassuar",
+      "country": "ES",
+      "lon": -0.47859,
+      "lat": 39.18663,
+      "reference_kind": "PPLA3",
+      "peak_count": 1,
+      "ja": "グアダスアル",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:2520713",
+      "source": "GeoNames",
+      "source_ids": [
+        "2520713"
+      ],
+      "original": "Burguillos de Toledo",
+      "country": "ES",
+      "lon": -3.99254,
+      "lat": 39.79635,
+      "reference_kind": "PPLA3",
+      "peak_count": 1,
+      "ja": "ブルギージョス・デ・トレド",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:2524745",
+      "source": "GeoNames",
+      "source_ids": [
+        "2524745"
+      ],
+      "original": "Fiumedinisi",
+      "country": "IT",
+      "lon": 15.38099,
+      "lat": 38.02596,
+      "reference_kind": "PPLA3",
+      "peak_count": 1,
+      "ja": "フィウメディニジ",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:2525633",
+      "source": "GeoNames",
+      "source_ids": [
+        "2525633"
+      ],
+      "original": "Badolato Marina",
+      "country": "IT",
+      "lon": 16.56527,
+      "lat": 38.57613,
+      "reference_kind": "PPL",
+      "peak_count": 1,
+      "ja": "バドラート・マリーナ",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:2610499",
+      "source": "GeoNames",
+      "source_ids": [
+        "2610499"
+      ],
+      "original": "Vestbjerg",
+      "country": "DK",
+      "lon": 9.95942,
+      "lat": 57.13166,
+      "reference_kind": "PPL",
+      "peak_count": 1,
+      "ja": "ヴェストビェア",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:2621805",
+      "source": "GeoNames",
+      "source_ids": [
+        "2621805"
+      ],
+      "original": "Fuglebjerg",
+      "country": "DK",
+      "lon": 11.54766,
+      "lat": 55.30604,
+      "reference_kind": "PPL",
+      "peak_count": 1,
+      "ja": "フーレビェア",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:2629833",
+      "source": "GeoNames",
+      "source_ids": [
+        "2629833"
+      ],
+      "original": "Norðurþing",
+      "country": "IS",
+      "lon": -17.33834,
+      "lat": 66.04148,
+      "reference_kind": "PPL",
+      "peak_count": 1,
+      "ja": "ノルズルシング",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:2633789",
+      "source": "GeoNames",
+      "source_ids": [
+        "2633789"
+      ],
+      "original": "Winteringham",
+      "country": "GB",
+      "lon": -0.59183,
+      "lat": 53.68727,
+      "reference_kind": "PPL",
+      "peak_count": 1,
+      "ja": "ウィンタリンガム",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:2635101",
+      "source": "GeoNames",
+      "source_ids": [
+        "2635101"
+      ],
+      "original": "Uppingham",
+      "country": "GB",
+      "lon": -0.72272,
+      "lat": 52.58803,
+      "reference_kind": "PPL",
+      "peak_count": 1,
+      "ja": "アッピンガム",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:2636850",
+      "source": "GeoNames",
+      "source_ids": [
+        "2636850"
+      ],
+      "original": "Stoke Hammond",
+      "country": "GB",
+      "lon": -0.719,
+      "lat": 51.95675,
+      "reference_kind": "PPL",
+      "peak_count": 1,
+      "ja": "ストーク・ハモンド",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:2640894",
+      "source": "GeoNames",
+      "source_ids": [
+        "2640894"
+      ],
+      "original": "Orpington",
+      "country": "GB",
+      "lon": 0.09785,
+      "lat": 51.37457,
+      "reference_kind": "PPL",
+      "peak_count": 1,
+      "ja": "オーピントン",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:2658344",
+      "source": "GeoNames",
+      "source_ids": [
+        "2658344"
+      ],
+      "original": "Töss (Kreis 4)",
+      "country": "CH",
+      "lon": 8.70215,
+      "lat": 47.4789,
+      "reference_kind": "PPLX",
+      "peak_count": 1,
+      "ja": "テス（第4区）",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:2736680",
+      "source": "GeoNames",
+      "source_ids": [
+        "2736680"
+      ],
+      "original": "Paranhos",
+      "country": "PT",
+      "lon": -8.59931,
+      "lat": 41.17289,
+      "reference_kind": "PPL",
+      "peak_count": 1,
+      "ja": "パラーニョス",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:2758908",
+      "source": "GeoNames",
+      "source_ids": [
+        "2758908"
+      ],
+      "original": "Binnenhof",
+      "country": "NL",
+      "lon": 4.53644,
+      "lat": 52.16418,
+      "reference_kind": "PPLX",
+      "peak_count": 1,
+      "ja": "ビネンホフ",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:2764881",
+      "source": "GeoNames",
+      "source_ids": [
+        "2764881"
+      ],
+      "original": "Sonntagberg",
+      "country": "AT",
+      "lon": 14.76065,
+      "lat": 47.99561,
+      "reference_kind": "PPLA3",
+      "peak_count": 1,
+      "ja": "ゾンタークベルク",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:2767214",
+      "source": "GeoNames",
+      "source_ids": [
+        "2767214"
+      ],
+      "original": "Rosenau am Sonntagberg",
+      "country": "AT",
+      "lon": 14.73927,
+      "lat": 48.00778,
+      "reference_kind": "PPL",
+      "peak_count": 1,
+      "ja": "ローゼナウ・アム・ゾンタークベルク",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:2768359",
+      "source": "GeoNames",
+      "source_ids": [
+        "2768359"
+      ],
+      "original": "Preitenegg",
+      "country": "AT",
+      "lon": 14.92583,
+      "lat": 46.94,
+      "reference_kind": "PPLA3",
+      "peak_count": 1,
+      "ja": "プライテネック",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:2774035",
+      "source": "GeoNames",
+      "source_ids": [
+        "2774035"
+      ],
+      "original": "Klein Sankt Paul",
+      "country": "AT",
+      "lon": 14.54139,
+      "lat": 46.83611,
+      "reference_kind": "PPLA3",
+      "peak_count": 1,
+      "ja": "クライン・ザンクト・パウル",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:2790179",
+      "source": "GeoNames",
+      "source_ids": [
+        "2790179"
+      ],
+      "original": "Nieuwerkerken",
+      "country": "BE",
+      "lon": 5.19467,
+      "lat": 50.8638,
+      "reference_kind": "PPL",
+      "peak_count": 1,
+      "ja": "ニーウェルケルケン",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:2790219",
+      "source": "GeoNames",
+      "source_ids": [
+        "2790219"
+      ],
+      "original": "Niel-bij-Sint-Truiden",
+      "country": "BE",
+      "lon": 5.14204,
+      "lat": 50.7404,
+      "reference_kind": "PPL",
+      "peak_count": 1,
+      "ja": "ニール・ベイ・シント・トロイデン",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:2963356",
+      "source": "GeoNames",
+      "source_ids": [
+        "2963356"
+      ],
+      "original": "Killeagh",
+      "country": "IE",
+      "lon": -7.99778,
+      "lat": 51.94222,
+      "reference_kind": "PPL",
+      "peak_count": 1,
+      "ja": "キリー",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:2966800",
+      "source": "GeoNames",
+      "source_ids": [
+        "2966800"
+      ],
+      "original": "Bagenalstown",
+      "country": "IE",
+      "lon": -6.96181,
+      "lat": 52.70031,
+      "reference_kind": "PPL",
+      "peak_count": 1,
+      "ja": "バゲナルズタウン",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:298433",
+      "source": "GeoNames",
+      "source_ids": [
+        "298433"
+      ],
+      "original": "Uludere",
+      "country": "TR",
+      "lon": 42.85236,
+      "lat": 37.44074,
+      "reference_kind": "PPLA2",
+      "peak_count": 1,
+      "ja": "ウルデレ",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:2989781",
+      "source": "GeoNames",
+      "source_ids": [
+        "2989781"
+      ],
+      "original": "Paris 14 Observatoire",
+      "country": "FR",
+      "lon": 2.3264,
+      "lat": 48.8331,
+      "reference_kind": "PPL",
+      "peak_count": 1,
+      "ja": "パリ第14区・オプセルヴァトワール",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:2989817",
+      "source": "GeoNames",
+      "source_ids": [
+        "2989817"
+      ],
+      "original": "Obenheim",
+      "country": "FR",
+      "lon": 7.692,
+      "lat": 48.35975,
+      "reference_kind": "PPL",
+      "peak_count": 1,
+      "ja": "オブネーム",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:2994773",
+      "source": "GeoNames",
+      "source_ids": [
+        "2994773"
+      ],
+      "original": "Médréac",
+      "country": "FR",
+      "lon": -2.06667,
+      "lat": 48.26769,
+      "reference_kind": "PPL",
+      "peak_count": 1,
+      "ja": "メドレアック",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:3014167",
+      "source": "GeoNames",
+      "source_ids": [
+        "3014167"
+      ],
+      "original": "Gundershoffen",
+      "country": "FR",
+      "lon": 7.66096,
+      "lat": 48.90648,
+      "reference_kind": "PPL",
+      "peak_count": 1,
+      "ja": "グンデルスホフェン",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:3115266",
+      "source": "GeoNames",
+      "source_ids": [
+        "3115266"
+      ],
+      "original": "Otxandio",
+      "country": "ES",
+      "lon": -2.65,
+      "lat": 43.03333,
+      "reference_kind": "PPLA3",
+      "peak_count": 1,
+      "ja": "オチャンディオ",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:3127048",
+      "source": "GeoNames",
+      "source_ids": [
+        "3127048"
+      ],
+      "original": "Calatañazor",
+      "country": "ES",
+      "lon": -2.81837,
+      "lat": 41.69879,
+      "reference_kind": "PPLA3",
+      "peak_count": 1,
+      "ja": "カラタニャソル",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:3129071",
+      "source": "GeoNames",
+      "source_ids": [
+        "3129071"
+      ],
+      "original": "Azkoitia",
+      "country": "ES",
+      "lon": -2.31129,
+      "lat": 43.17744,
+      "reference_kind": "PPLA3",
+      "peak_count": 1,
+      "ja": "アスコイティア",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:3130576",
+      "source": "GeoNames",
+      "source_ids": [
+        "3130576"
+      ],
+      "original": "Alcolea de Cinca",
+      "country": "ES",
+      "lon": 0.11716,
+      "lat": 41.71944,
+      "reference_kind": "PPLA3",
+      "peak_count": 1,
+      "ja": "アルコレア・デ・シンカ",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:3164385",
+      "source": "GeoNames",
+      "source_ids": [
+        "3164385"
+      ],
+      "original": "Vietri sul Mare",
+      "country": "IT",
+      "lon": 14.72661,
+      "lat": 40.6702,
+      "reference_kind": "PPLA3",
+      "peak_count": 1,
+      "ja": "ヴィエトリ・スル・マーレ",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:3168117",
+      "source": "GeoNames",
+      "source_ids": [
+        "3168117"
+      ],
+      "original": "San Lorenzo al Mare",
+      "country": "IT",
+      "lon": 7.96406,
+      "lat": 43.85378,
+      "reference_kind": "PPLA3",
+      "peak_count": 1,
+      "ja": "サン・ロレンツォ・アル・マーレ",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:3170087",
+      "source": "GeoNames",
+      "source_ids": [
+        "3170087"
+      ],
+      "original": "Porto Garibaldi",
+      "country": "IT",
+      "lon": 12.23678,
+      "lat": 44.68123,
+      "reference_kind": "PPL",
+      "peak_count": 1,
+      "ja": "ポルト・ガリバルディ",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:3170597",
+      "source": "GeoNames",
+      "source_ids": [
+        "3170597"
+      ],
+      "original": "Pizzighettone",
+      "country": "IT",
+      "lon": 9.78781,
+      "lat": 45.1869,
+      "reference_kind": "PPLA3",
+      "peak_count": 1,
+      "ja": "ピッツィゲットーネ",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:3198705",
+      "source": "GeoNames",
+      "source_ids": [
+        "3198705"
+      ],
+      "original": "Jelenje",
+      "country": "HR",
+      "lon": 14.45111,
+      "lat": 45.38611,
+      "reference_kind": "PPLA2",
+      "peak_count": 1,
+      "ja": "イェレニェ",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:3198913",
+      "source": "GeoNames",
+      "source_ids": [
+        "3198913"
+      ],
+      "original": "Jalžabet",
+      "country": "HR",
+      "lon": 16.475,
+      "lat": 46.26083,
+      "reference_kind": "PPLA2",
+      "peak_count": 1,
+      "ja": "ヤルジャベト",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:3198918",
+      "source": "GeoNames",
+      "source_ids": [
+        "3198918"
+      ],
+      "original": "Jalkovec",
+      "country": "HR",
+      "lon": 16.31972,
+      "lat": 46.28083,
+      "reference_kind": "PPL",
+      "peak_count": 1,
+      "ja": "ヤルコヴェツ",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:3198962",
+      "source": "GeoNames",
+      "source_ids": [
+        "3198962"
+      ],
+      "original": "Jadreški",
+      "country": "HR",
+      "lon": 13.91611,
+      "lat": 44.86889,
+      "reference_kind": "PPL",
+      "peak_count": 1,
+      "ja": "ヤドレシュキ",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:3198994",
+      "source": "GeoNames",
+      "source_ids": [
+        "3198994"
+      ],
+      "original": "Jablanovec",
+      "country": "HR",
+      "lon": 15.85361,
+      "lat": 45.87583,
+      "reference_kind": "PPL",
+      "peak_count": 1,
+      "ja": "ヤブラノヴェツ",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:3199020",
+      "source": "GeoNames",
+      "source_ids": [
+        "3199020"
+      ],
+      "original": "Izlake",
+      "country": "SI",
+      "lon": 14.95,
+      "lat": 46.15,
+      "reference_kind": "PPL",
+      "peak_count": 1,
+      "ja": "イズラケ",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:3199038",
+      "source": "GeoNames",
+      "source_ids": [
+        "3199038"
+      ],
+      "original": "Ivanska",
+      "country": "HR",
+      "lon": 16.81194,
+      "lat": 45.77889,
+      "reference_kind": "PPLA2",
+      "peak_count": 1,
+      "ja": "イヴァンスカ",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:3199044",
+      "source": "GeoNames",
+      "source_ids": [
+        "3199044"
+      ],
+      "original": "Ivanovec",
+      "country": "HR",
+      "lon": 16.47667,
+      "lat": 46.36833,
+      "reference_kind": "PPL",
+      "peak_count": 1,
+      "ja": "イヴァノヴェツ",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:3201030",
+      "source": "GeoNames",
+      "source_ids": [
+        "3201030"
+      ],
+      "original": "Duga Resa",
+      "country": "HR",
+      "lon": 15.49871,
+      "lat": 45.44614,
+      "reference_kind": "PPLA2",
+      "peak_count": 1,
+      "ja": "ドゥガ・レサ",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:32829",
+      "source": "GeoNames",
+      "source_ids": [
+        "32829"
+      ],
+      "original": "‘Alīābād",
+      "country": "IR",
+      "lon": 51.18232,
+      "lat": 35.44624,
+      "reference_kind": "PPL",
+      "peak_count": 1,
+      "ja": "アリアーバード",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:3389560",
+      "source": "GeoNames",
+      "source_ids": [
+        "3389560"
+      ],
+      "original": "Santa Luzia",
+      "country": "BR",
+      "lon": -36.91861,
+      "lat": -6.87222,
+      "reference_kind": "PPL",
+      "peak_count": 1,
+      "ja": "サンタ・ルジア",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:3450119",
+      "source": "GeoNames",
+      "source_ids": [
+        "3450119"
+      ],
+      "original": "Santa Luzia do Itanhy",
+      "country": "BR",
+      "lon": -37.44943,
+      "lat": -11.35525,
+      "reference_kind": "PPL",
+      "peak_count": 1,
+      "ja": "サンタ・ルジア・ド・イタニ",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:3454083",
+      "source": "GeoNames",
+      "source_ids": [
+        "3454083"
+      ],
+      "original": "Doresópolis",
+      "country": "BR",
+      "lon": -45.90294,
+      "lat": -20.28749,
+      "reference_kind": "PPLA2",
+      "peak_count": 1,
+      "ja": "ドレゾポリス",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:3454769",
+      "source": "GeoNames",
+      "source_ids": [
+        "3454769"
+      ],
+      "original": "Pinheiros",
+      "country": "BR",
+      "lon": -40.21488,
+      "lat": -18.41334,
+      "reference_kind": "PPLA2",
+      "peak_count": 1,
+      "ja": "ピニェイロス",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:3457360",
+      "source": "GeoNames",
+      "source_ids": [
+        "3457360"
+      ],
+      "original": "Medeiros Neto",
+      "country": "BR",
+      "lon": -40.22056,
+      "lat": -17.37389,
+      "reference_kind": "PPL",
+      "peak_count": 1,
+      "ja": "メデイロス・ネト",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:3457363",
+      "source": "GeoNames",
+      "source_ids": [
+        "3457363"
+      ],
+      "original": "Medeiros",
+      "country": "BR",
+      "lon": -46.22611,
+      "lat": -19.99556,
+      "reference_kind": "PPL",
+      "peak_count": 1,
+      "ja": "メデイロス",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:3463228",
+      "source": "GeoNames",
+      "source_ids": [
+        "3463228"
+      ],
+      "original": "Flórida Paulista",
+      "country": "BR",
+      "lon": -51.17235,
+      "lat": -21.61452,
+      "reference_kind": "PPLA2",
+      "peak_count": 1,
+      "ja": "フロリダ・パウリスタ",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:3515438",
+      "source": "GeoNames",
+      "source_ids": [
+        "3515438"
+      ],
+      "original": "Tlalmanalco",
+      "country": "MX",
+      "lon": -98.80115,
+      "lat": 19.20521,
+      "reference_kind": "PPLA2",
+      "peak_count": 1,
+      "ja": "トラルマナルコ",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:3518379",
+      "source": "GeoNames",
+      "source_ids": [
+        "3518379"
+      ],
+      "original": "San Mateo Ixtacalco",
+      "country": "MX",
+      "lon": -99.17159,
+      "lat": 19.6992,
+      "reference_kind": "PPL",
+      "peak_count": 1,
+      "ja": "サン・マテオ・イスタカルコ",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:3520922",
+      "source": "GeoNames",
+      "source_ids": [
+        "3520922"
+      ],
+      "original": "Quechultenango",
+      "country": "MX",
+      "lon": -99.2419,
+      "lat": 17.4147,
+      "reference_kind": "PPLA2",
+      "peak_count": 1,
+      "ja": "ケチュルテナンゴ",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:3521574",
+      "source": "GeoNames",
+      "source_ids": [
+        "3521574"
+      ],
+      "original": "Pichucalco",
+      "country": "MX",
+      "lon": -93.11591,
+      "lat": 17.51,
+      "reference_kind": "PPL",
+      "peak_count": 1,
+      "ja": "ピチュカルコ",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:353219",
+      "source": "GeoNames",
+      "source_ids": [
+        "353219"
+      ],
+      "original": "6th of October City",
+      "country": "EG",
+      "lon": 31.05,
+      "lat": 29.81667,
+      "reference_kind": "PPL",
+      "peak_count": 1,
+      "ja": "10月6日市",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:3532525",
+      "source": "GeoNames",
+      "source_ids": [
+        "3532525"
+      ],
+      "original": "Ayapango",
+      "country": "MX",
+      "lon": -98.79988,
+      "lat": 19.12692,
+      "reference_kind": "PPL",
+      "peak_count": 1,
+      "ja": "アヤパンゴ",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:3532803",
+      "source": "GeoNames",
+      "source_ids": [
+        "3532803"
+      ],
+      "original": "Apaxco de Ocampo",
+      "country": "MX",
+      "lon": -99.17112,
+      "lat": 19.97512,
+      "reference_kind": "PPLA2",
+      "peak_count": 1,
+      "ja": "アパスコ・デ・オカンポ",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:3532852",
+      "source": "GeoNames",
+      "source_ids": [
+        "3532852"
+      ],
+      "original": "Ángel R. Cabada",
+      "country": "MX",
+      "lon": -95.4458,
+      "lat": 18.59601,
+      "reference_kind": "PPLA2",
+      "peak_count": 1,
+      "ja": "アンヘル・アール・カバダ",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:3532856",
+      "source": "GeoNames",
+      "source_ids": [
+        "3532856"
+      ],
+      "original": "Jaltenango de la Paz",
+      "country": "MX",
+      "lon": -92.72469,
+      "lat": 15.87257,
+      "reference_kind": "PPLA2",
+      "peak_count": 1,
+      "ja": "ハルテナンゴ・デ・ラ・パス",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:3532895",
+      "source": "GeoNames",
+      "source_ids": [
+        "3532895"
+      ],
+      "original": "San Miguel Ameyalco",
+      "country": "MX",
+      "lon": -99.4588,
+      "lat": 19.30681,
+      "reference_kind": "PPL",
+      "peak_count": 1,
+      "ja": "サン・ミゲル・アメヤルコ",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:3595171",
+      "source": "GeoNames",
+      "source_ids": [
+        "3595171"
+      ],
+      "original": "Jocotenango",
+      "country": "GT",
+      "lon": -90.73804,
+      "lat": 14.57814,
+      "reference_kind": "PPLA2",
+      "peak_count": 1,
+      "ja": "ホコテナンゴ",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:3598655",
+      "source": "GeoNames",
+      "source_ids": [
+        "3598655"
+      ],
+      "original": "Chichicastenango",
+      "country": "GT",
+      "lon": -91.11116,
+      "lat": 14.94333,
+      "reference_kind": "PPLA2",
+      "peak_count": 1,
+      "ja": "チチカステナンゴ",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:3827586",
+      "source": "GeoNames",
+      "source_ids": [
+        "3827586"
+      ],
+      "original": "Melchor Ocampo",
+      "country": "MX",
+      "lon": -99.14485,
+      "lat": 19.70186,
+      "reference_kind": "PPLA2",
+      "peak_count": 1,
+      "ja": "メルチョル・オカンポ",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:3888214",
+      "source": "GeoNames",
+      "source_ids": [
+        "3888214"
+      ],
+      "original": "Hacienda La Calera",
+      "country": "CL",
+      "lon": -71.21667,
+      "lat": -32.78333,
+      "reference_kind": "PPLX",
+      "peak_count": 1,
+      "ja": "アシエンダ・ラ・カレラ",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:395628",
+      "source": "GeoNames",
+      "source_ids": [
+        "395628"
+      ],
+      "original": "Wed Alnkil",
+      "country": "SA",
+      "lon": 42.8343,
+      "lat": 25.4267,
+      "reference_kind": "PPL",
+      "peak_count": 1,
+      "ja": "ウェド・アルンキル",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:3979569",
+      "source": "GeoNames",
+      "source_ids": [
+        "3979569"
+      ],
+      "original": "Islas Agrarias Grupo A",
+      "country": "MX",
+      "lon": -115.33148,
+      "lat": 32.61141,
+      "reference_kind": "PPL",
+      "peak_count": 1,
+      "ja": "イスラス・アグラリアス・グルポ・エー",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:3987423",
+      "source": "GeoNames",
+      "source_ids": [
+        "3987423"
+      ],
+      "original": "San Cayetano",
+      "country": "MX",
+      "lon": -104.81479,
+      "lat": 21.44931,
+      "reference_kind": "PPL",
+      "peak_count": 1,
+      "ja": "サン・カジェタノ",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:3996626",
+      "source": "GeoNames",
+      "source_ids": [
+        "3996626"
+      ],
+      "original": "Maravatío de Ocampo",
+      "country": "MX",
+      "lon": -100.44192,
+      "lat": 19.8919,
+      "reference_kind": "PPLA2",
+      "peak_count": 1,
+      "ja": "マラバティオ・デ・オカンポ",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:401118",
+      "source": "GeoNames",
+      "source_ids": [
+        "401118"
+      ],
+      "original": "Showţ",
+      "country": "IR",
+      "lon": 44.77,
+      "lat": 39.2192,
+      "reference_kind": "PPLA2",
+      "peak_count": 1,
+      "ja": "ショウト",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:4013522",
+      "source": "GeoNames",
+      "source_ids": [
+        "4013522"
+      ],
+      "original": "Cojumatlán de Régules",
+      "country": "MX",
+      "lon": -102.85149,
+      "lat": 20.11829,
+      "reference_kind": "PPLA2",
+      "peak_count": 1,
+      "ja": "コフマトラン・デ・レグレス",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:4026608",
+      "source": "GeoNames",
+      "source_ids": [
+        "4026608"
+      ],
+      "original": "Amanalco de Becerra",
+      "country": "MX",
+      "lon": -100.0198,
+      "lat": 19.25374,
+      "reference_kind": "PPLA2",
+      "peak_count": 1,
+      "ja": "アマナルコ・デ・ベセラ",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:409611",
+      "source": "GeoNames",
+      "source_ids": [
+        "409611"
+      ],
+      "original": "Ḩilf",
+      "country": "OM",
+      "lon": 58.87408,
+      "lat": 20.66178,
+      "reference_kind": "PPLX",
+      "peak_count": 1,
+      "ja": "ヒルフ",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:4232997",
+      "source": "GeoNames",
+      "source_ids": [
+        "4232997"
+      ],
+      "original": "Athens",
+      "country": "US",
+      "lon": -89.72399,
+      "lat": 39.96088,
+      "reference_kind": "PPL",
+      "peak_count": 1,
+      "ja": "アセンズ",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:4251330",
+      "source": "GeoNames",
+      "source_ids": [
+        "4251330"
+      ],
+      "original": "Toledo",
+      "country": "US",
+      "lon": -88.24365,
+      "lat": 39.27365,
+      "reference_kind": "PPLA2",
+      "peak_count": 1,
+      "ja": "トレド",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:4369076",
+      "source": "GeoNames",
+      "source_ids": [
+        "4369076"
+      ],
+      "original": "Seabrook",
+      "country": "US",
+      "lon": -76.849,
+      "lat": 38.974,
+      "reference_kind": "PPL",
+      "peak_count": 1,
+      "ja": "シーブルック",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:4437935",
+      "source": "GeoNames",
+      "source_ids": [
+        "4437935"
+      ],
+      "original": "Myrtle",
+      "country": "US",
+      "lon": -89.11923,
+      "lat": 34.55843,
+      "reference_kind": "PPL",
+      "peak_count": 1,
+      "ja": "マートル",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:4504007",
+      "source": "GeoNames",
+      "source_ids": [
+        "4504007"
+      ],
+      "original": "Seabrook Farms",
+      "country": "US",
+      "lon": -75.21796,
+      "lat": 39.50095,
+      "reference_kind": "PPL",
+      "peak_count": 1,
+      "ja": "シーブルック・ファームズ",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:4839568",
+      "source": "GeoNames",
+      "source_ids": [
+        "4839568"
+      ],
+      "original": "Noank",
+      "country": "US",
+      "lon": -71.99063,
+      "lat": 41.32788,
+      "reference_kind": "PPL",
+      "peak_count": 1,
+      "ja": "ノアンク",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:4984489",
+      "source": "GeoNames",
+      "source_ids": [
+        "4984489"
+      ],
+      "original": "Athens",
+      "country": "US",
+      "lon": -85.23471,
+      "lat": 42.08866,
+      "reference_kind": "PPL",
+      "peak_count": 1,
+      "ja": "アセンズ",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:5044144",
+      "source": "GeoNames",
+      "source_ids": [
+        "5044144"
+      ],
+      "original": "Sacred Heart",
+      "country": "US",
+      "lon": -95.35168,
+      "lat": 44.7869,
+      "reference_kind": "PPL",
+      "peak_count": 1,
+      "ja": "セークリッド・ハート",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:5097575",
+      "source": "GeoNames",
+      "source_ids": [
+        "5097575"
+      ],
+      "original": "Edgewater",
+      "country": "US",
+      "lon": -73.97569,
+      "lat": 40.82704,
+      "reference_kind": "PPL",
+      "peak_count": 1,
+      "ja": "エッジウォーター",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:5107467",
+      "source": "GeoNames",
+      "source_ids": [
+        "5107467"
+      ],
+      "original": "Athens",
+      "country": "US",
+      "lon": -73.80957,
+      "lat": 42.26036,
+      "reference_kind": "PPL",
+      "peak_count": 1,
+      "ja": "アセンズ",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:5133934",
+      "source": "GeoNames",
+      "source_ids": [
+        "5133934"
+      ],
+      "original": "Riverside",
+      "country": "US",
+      "lon": -72.655,
+      "lat": 40.911,
+      "reference_kind": "PPL",
+      "peak_count": 1,
+      "ja": "リバーサイド",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:5208462",
+      "source": "GeoNames",
+      "source_ids": [
+        "5208462"
+      ],
+      "original": "Riverside",
+      "country": "US",
+      "lon": -76.62885,
+      "lat": 40.95536,
+      "reference_kind": "PPL",
+      "peak_count": 1,
+      "ja": "リバーサイド",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:5244312",
+      "source": "GeoNames",
+      "source_ids": [
+        "5244312"
+      ],
+      "original": "Athens",
+      "country": "US",
+      "lon": -90.07402,
+      "lat": 45.03302,
+      "reference_kind": "PPL",
+      "peak_count": 1,
+      "ja": "アセンズ",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:5305996",
+      "source": "GeoNames",
+      "source_ids": [
+        "5305996"
+      ],
+      "original": "Munds Park",
+      "country": "US",
+      "lon": -111.64016,
+      "lat": 34.94557,
+      "reference_kind": "PPL",
+      "peak_count": 1,
+      "ja": "マンズ・パーク",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:5605426",
+      "source": "GeoNames",
+      "source_ids": [
+        "5605426"
+      ],
+      "original": "Riverside",
+      "country": "US",
+      "lon": -112.43526,
+      "lat": 43.19686,
+      "reference_kind": "PPL",
+      "peak_count": 1,
+      "ja": "リバーサイド",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:5757007",
+      "source": "GeoNames",
+      "source_ids": [
+        "5757007"
+      ],
+      "original": "Toledo",
+      "country": "US",
+      "lon": -123.93845,
+      "lat": 44.62151,
+      "reference_kind": "PPL",
+      "peak_count": 1,
+      "ja": "トレド",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:5958945",
+      "source": "GeoNames",
+      "source_ids": [
+        "5958945"
+      ],
+      "original": "Gagetown",
+      "country": "CA",
+      "lon": -66.16166,
+      "lat": 45.77014,
+      "reference_kind": "PPL",
+      "peak_count": 1,
+      "ja": "ゲージタウン",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:621074",
+      "source": "GeoNames",
+      "source_ids": [
+        "621074"
+      ],
+      "original": "Svetlogorsk",
+      "country": "BY",
+      "lon": 29.7389,
+      "lat": 52.6329,
+      "reference_kind": "PPLA2",
+      "peak_count": 1,
+      "ja": "スヴェトロゴルスク",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:6318263",
+      "source": "GeoNames",
+      "source_ids": [
+        "6318263"
+      ],
+      "original": "Santa Luzia",
+      "country": "BR",
+      "lon": -45.65833,
+      "lat": -3.96333,
+      "reference_kind": "PPL",
+      "peak_count": 1,
+      "ja": "サンタ・ルジア",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:6534924",
+      "source": "GeoNames",
+      "source_ids": [
+        "6534924"
+      ],
+      "original": "Varano Borghi",
+      "country": "IT",
+      "lon": 8.70403,
+      "lat": 45.77407,
+      "reference_kind": "PPLA3",
+      "peak_count": 1,
+      "ja": "ヴァラーノ・ボルギ",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:6695788",
+      "source": "GeoNames",
+      "source_ids": [
+        "6695788"
+      ],
+      "original": "Hidden Trails",
+      "country": "US",
+      "lon": -117.02295,
+      "lat": 33.1395,
+      "reference_kind": "PPLS",
+      "peak_count": 1,
+      "ja": "ヒドゥン・トレイルズ",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:702417",
+      "source": "GeoNames",
+      "source_ids": [
+        "702417"
+      ],
+      "original": "Liubotyn",
+      "country": "UA",
+      "lon": 35.92907,
+      "lat": 49.94691,
+      "reference_kind": "PPL",
+      "peak_count": 1,
+      "ja": "リュボティン",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:7038057",
+      "source": "GeoNames",
+      "source_ids": [
+        "7038057"
+      ],
+      "original": "Pasinan Barat",
+      "country": "ID",
+      "lon": 114.2374,
+      "lat": -8.3147,
+      "reference_kind": "PPLA4",
+      "peak_count": 1,
+      "ja": "パシナン・バラット",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:7086880",
+      "source": "GeoNames",
+      "source_ids": [
+        "7086880"
+      ],
+      "original": "Anjani Barat",
+      "country": "ID",
+      "lon": 116.5056,
+      "lat": -8.6038,
+      "reference_kind": "PPLA4",
+      "peak_count": 1,
+      "ja": "アンジャニ・バラット",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:7258832",
+      "source": "GeoNames",
+      "source_ids": [
+        "7258832"
+      ],
+      "original": "Lanham-Seabrook",
+      "country": "US",
+      "lon": -76.85108,
+      "lat": 38.96835,
+      "reference_kind": "PPL",
+      "peak_count": 1,
+      "ja": "ラナム・シーブルック",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:7290238",
+      "source": "GeoNames",
+      "source_ids": [
+        "7290238"
+      ],
+      "original": "Shell Cove",
+      "country": "AU",
+      "lon": 150.86203,
+      "lat": -34.58994,
+      "reference_kind": "PPL",
+      "peak_count": 1,
+      "ja": "シェル・コーブ",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:7335745",
+      "source": "GeoNames",
+      "source_ids": [
+        "7335745"
+      ],
+      "original": "Penimbung Barat",
+      "country": "ID",
+      "lon": 116.1352,
+      "lat": -8.5475,
+      "reference_kind": "PPLA4",
+      "peak_count": 1,
+      "ja": "プニンブン・バラット",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:7911024",
+      "source": "GeoNames",
+      "source_ids": [
+        "7911024"
+      ],
+      "original": "Madifushi",
+      "country": "MV",
+      "lon": 73.35473,
+      "lat": 2.35582,
+      "reference_kind": "PPL",
+      "peak_count": 1,
+      "ja": "マディフシ",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:8023755",
+      "source": "GeoNames",
+      "source_ids": [
+        "8023755"
+      ],
+      "original": "Sukahaji",
+      "country": "ID",
+      "lon": 108.1984,
+      "lat": -7.2662,
+      "reference_kind": "PPLA4",
+      "peak_count": 1,
+      "ja": "スカハジ",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:8057305",
+      "source": "GeoNames",
+      "source_ids": [
+        "8057305"
+      ],
+      "original": "Cikabuyutan Barat",
+      "country": "ID",
+      "lon": 108.5422,
+      "lat": -7.3785,
+      "reference_kind": "PPLA4",
+      "peak_count": 1,
+      "ja": "チカブユタン・バラット",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:8531876",
+      "source": "GeoNames",
+      "source_ids": [
+        "8531876"
+      ],
+      "original": "La Isla Km 10",
+      "country": "MX",
+      "lon": -97.4995,
+      "lat": 20.60677,
+      "reference_kind": "PPL",
+      "peak_count": 1,
+      "ja": "ラ・イスラ・キロメトロ・ディエス",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:8861285",
+      "source": "GeoNames",
+      "source_ids": [
+        "8861285"
+      ],
+      "original": "Bajío 1ra. Sección A (Perifércio Sur)",
+      "country": "MX",
+      "lon": -93.35516,
+      "lat": 17.98453,
+      "reference_kind": "PPL",
+      "peak_count": 1,
+      "ja": "バヒオ・第1地区・エー（ペリフェリコ・スール）",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:8861545",
+      "source": "GeoNames",
+      "source_ids": [
+        "8861545"
+      ],
+      "original": "Rosendo G. Castro",
+      "country": "MX",
+      "lon": -109.05389,
+      "lat": 25.63528,
+      "reference_kind": "PPL",
+      "peak_count": 1,
+      "ja": "ロセンド・ヘー・カストロ",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:8862861",
+      "source": "GeoNames",
+      "source_ids": [
+        "8862861"
+      ],
+      "original": "San Cayetano",
+      "country": "MX",
+      "lon": -97.63278,
+      "lat": 18.92028,
+      "reference_kind": "PPL",
+      "peak_count": 1,
+      "ja": "サン・カジェタノ",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:8949184",
+      "source": "GeoNames",
+      "source_ids": [
+        "8949184"
+      ],
+      "original": "Cunettone-Villa",
+      "country": "IT",
+      "lon": 10.51756,
+      "lat": 45.58789,
+      "reference_kind": "PPL",
+      "peak_count": 1,
+      "ja": "クネットーネ・ヴィッラ",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:8949495",
+      "source": "GeoNames",
+      "source_ids": [
+        "8949495"
+      ],
+      "original": "Grotta dell'Olmo I",
+      "country": "IT",
+      "lon": 14.09198,
+      "lat": 40.89407,
+      "reference_kind": "PPL",
+      "peak_count": 1,
+      "ja": "グロッタ・デッロルモ・ウーノ",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:8949924",
+      "source": "GeoNames",
+      "source_ids": [
+        "8949924"
+      ],
+      "original": "Quadroni-Fontolfi-Impicciaturo-Maligni",
+      "country": "IT",
+      "lon": 14.37645,
+      "lat": 42.10926,
+      "reference_kind": "PPL",
+      "peak_count": 1,
+      "ja": "クアドローニ・フォントルフィ・インピッチャトゥーロ・マリーニ",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:9036373",
+      "source": "GeoNames",
+      "source_ids": [
+        "9036373"
+      ],
+      "original": "Falerna Scalo",
+      "country": "IT",
+      "lon": 16.15294,
+      "lat": 38.97285,
+      "reference_kind": "PPL",
+      "peak_count": 1,
+      "ja": "ファレルナ・スカーロ",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "GeoNames:9972722",
+      "source": "GeoNames",
+      "source_ids": [
+        "9972722"
+      ],
+      "original": "Anakaputhur",
+      "country": "IN",
+      "lon": 80.1264,
+      "lat": 12.9828,
+      "reference_kind": "PPLX",
+      "peak_count": 1,
+      "ja": "アナカプトゥール",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "OpenStreetMap:node/1639480363",
+      "source": "OpenStreetMap",
+      "source_ids": [
+        "node/1639480363"
+      ],
+      "original": "JBセントラル駅",
+      "country": null,
+      "lon": 103.76369999999997,
+      "lat": 1.4616000000000042,
+      "reference_kind": "station",
+      "peak_count": 1,
+      "ja": "ジェイビー・セントラル",
+      "status": "existing",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "OpenStreetMap:node/209451066",
+      "source": "OpenStreetMap",
+      "source_ids": [
+        "node/209451066"
+      ],
+      "original": "Jurong East",
+      "country": null,
+      "lon": 103.743,
+      "lat": 1.3337999999999965,
+      "reference_kind": "station",
+      "peak_count": 1,
+      "ja": "ジュロン・イースト",
+      "status": "existing",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "OpenStreetMap:node/3806727275",
+      "source": "OpenStreetMap",
+      "source_ids": [
+        "node/3806727275"
+      ],
+      "original": "Gates A1-A23",
+      "country": null,
+      "lon": -0.48689999999999145,
+      "lat": 51.471000000000004,
+      "reference_kind": "station",
+      "peak_count": 1,
+      "ja": "ゲート・エー1〜エー23",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "OpenStreetMap:node/3806727279",
+      "source": "OpenStreetMap",
+      "source_ids": [
+        "node/3806727279"
+      ],
+      "original": "Gates C52-C66",
+      "country": null,
+      "lon": -0.4697999999999922,
+      "lat": 51.459299999999985,
+      "reference_kind": "station",
+      "peak_count": 1,
+      "ja": "ゲート・シー52〜シー66",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "OpenStreetMap:node/4571439709",
+      "source": "OpenStreetMap",
+      "source_ids": [
+        "node/4571439709"
+      ],
+      "original": "Lewisham DLR",
+      "country": null,
+      "lon": -0.009900000000016007,
+      "lat": 51.46199999999999,
+      "reference_kind": "station",
+      "peak_count": 1,
+      "ja": "ルイシャム・ディーエルアール",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "OpenStreetMap:node/6353325014",
+      "source": "OpenStreetMap",
+      "source_ids": [
+        "node/6353325014"
+      ],
+      "original": "Theydon Bois",
+      "country": null,
+      "lon": 0.10079999999999245,
+      "lat": 51.67169999999999,
+      "reference_kind": "station",
+      "peak_count": 1,
+      "ja": "セイドン・ボイス",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "OpenStreetMap:node/7132087124",
+      "source": "OpenStreetMap",
+      "source_ids": [
+        "node/7132087124"
+      ],
+      "original": "Woolwich Arsenal DLR",
+      "country": null,
+      "lon": 0.06749999999999545,
+      "lat": 51.49080000000001,
+      "reference_kind": "station",
+      "peak_count": 1,
+      "ja": "ウーリッジ・アーセナル・ディーエルアール",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "OpenStreetMap:node/7351551721",
+      "source": "OpenStreetMap",
+      "source_ids": [
+        "node/7351551721"
+      ],
+      "original": "Station B",
+      "country": null,
+      "lon": -0.48330000000001405,
+      "lat": 51.482699999999994,
+      "reference_kind": "station",
+      "peak_count": 1,
+      "ja": "ステーション・ビー",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "OpenStreetMap:node/7351554622",
+      "source": "OpenStreetMap",
+      "source_ids": [
+        "node/7351554622"
+      ],
+      "original": "Station A",
+      "country": null,
+      "lon": -0.5022000000000162,
+      "lat": 51.4881,
+      "reference_kind": "station",
+      "peak_count": 1,
+      "ja": "ステーション・エー",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "OpenStreetMap:way/1101862890",
+      "source": "OpenStreetMap",
+      "source_ids": [
+        "way/1101862890"
+      ],
+      "original": "Woodlands North RTS",
+      "country": null,
+      "lon": 103.7853,
+      "lat": 1.4436000000000035,
+      "reference_kind": "station",
+      "peak_count": 1,
+      "ja": "ウッドランズ・ノース・アールティーエス",
+      "status": "pending",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "国土数値情報 N02:006498",
+      "source": "国土数値情報 N02",
+      "source_ids": [
+        "006498"
+      ],
+      "original": "JR総持寺",
+      "country": null,
+      "lon": 135.57509999999996,
+      "lat": 34.8381,
+      "reference_kind": "station",
+      "peak_count": 1,
+      "ja": "ジェイアール総持寺",
+      "status": "existing",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "国土数値情報 N02:006636",
+      "source": "国土数値情報 N02",
+      "source_ids": [
+        "006636"
+      ],
+      "original": "JR三山木",
+      "country": null,
+      "lon": 135.78480000000002,
+      "lat": 34.79849999999999,
+      "reference_kind": "station",
+      "peak_count": 1,
+      "ja": "ジェイアール三山木",
+      "status": "existing",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "国土数値情報 N02:007422",
+      "source": "国土数値情報 N02",
+      "source_ids": [
+        "007422"
+      ],
+      "original": "JR長瀬",
+      "country": null,
+      "lon": 135.5679,
+      "lat": 34.6473,
+      "reference_kind": "station",
+      "peak_count": 1,
+      "ja": "ジェイアール長瀬",
+      "status": "existing",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "国土数値情報 N02:007782",
+      "source": "国土数値情報 N02",
+      "source_ids": [
+        "007782"
+      ],
+      "original": "JR五位堂",
+      "country": null,
+      "lon": 135.7101,
+      "lat": 34.5249,
+      "reference_kind": "station",
+      "peak_count": 1,
+      "ja": "ジェイアール五位堂",
+      "status": "existing",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "国土数値情報 N02:008170",
+      "source": "国土数値情報 N02",
+      "source_ids": [
+        "008170"
+      ],
+      "original": "JA広島病院前",
+      "country": null,
+      "lon": 132.31169999999997,
+      "lat": 34.3485,
+      "reference_kind": "station",
+      "peak_count": 1,
+      "ja": "ジェイエー広島病院前",
+      "status": "existing",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    },
+    {
+      "id": "国土数値情報 N02:008758",
+      "source": "国土数値情報 N02",
+      "source_ids": [
+        "008758"
+      ],
+      "original": "JR松山駅前",
+      "country": null,
+      "lon": 132.7536,
+      "lat": 33.84089999999999,
+      "reference_kind": "station",
+      "peak_count": 1,
+      "ja": "ジェイアール松山駅前",
+      "status": "existing",
+      "model": "Codex",
+      "provider": "editorial",
+      "kind": "transliteration",
+      "basis": "元表記・国の言語を参照した編集音写または略称の日本語読み。公的日本語登録名として確認した意味ではありません。"
+    }
+  ]
+}

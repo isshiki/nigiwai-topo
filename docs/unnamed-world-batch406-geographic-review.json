@@ -1,0 +1,30 @@
+{
+  "peak": "-13.690, -50.799",
+  "peak_coordinates": [
+    -50.7987,
+    -13.689900000000009
+  ],
+  "reference_id": "3470919",
+  "country": "BR",
+  "government_locality_name": "Sao Jose dos Bandeirantes",
+  "municipality": "Nova Crixas",
+  "state": "Goias",
+  "government_coordinates": [
+    -50.79621738,
+    -13.68997848
+  ],
+  "peak_distance_m": 268.7,
+  "source_url": "https://goias.gov.br/governo/wp-content/uploads/sites/11/2025/09/TERMO-DE-REFERENCIA-TR-GOIAS-MAIS-DIGITAL.pdf",
+  "verification": "primary_pdf_body",
+  "source_date": "2025-09-16",
+  "source_context": "Annex locality coordinate table for telecommunications program; not an operating base station location",
+  "independent_map_evidence": "data/name-research/unnamed-world/bandeirantes-cartographic-review396.json",
+  "decision": "geographic_locality_identity_supported_pending_map_extent_validation",
+  "limitations": [
+    "Government coordinate represents locality; it is not a legal boundary or exact density summit.",
+    "University map influence boundary is research-defined, not administrative.",
+    "Existing reviewed street-point gate of50m is not satisfied; do not substitute government locality point for street endpoint."
+  ],
+  "name_applied": false,
+  "density_changed": false
+}

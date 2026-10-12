@@ -1,0 +1,36 @@
+name: Deploy GitHub Pages
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+permissions:
+  contents: read
+concurrency:
+  group: pages
+  cancel-in-progress: false
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+      - name: Package static frontend
+        run: python3 scripts/package_pages.py --data-url https://re.masahiko.info/nigiwai-topo/japan/2026-09-15-v2/ --config web/config.js
+      - name: Validate public files
+        run: python3 scripts/validate_site.py --root data/site
+      - uses: actions/upload-pages-artifact@v4
+        with:
+          path: data/site
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/configure-pages@v5
+      - name: Deploy
+        id: deployment
+        uses: actions/deploy-pages@v4

@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "peak": "47.209, -124.202",
+      "parent_reference_id": "5805996",
+      "parent_name": "Pacific Beach",
+      "child_reference_id": "5797316",
+      "child_name": "Highland Heights",
+      "country": "US",
+      "relationship": "part_of_inhabited_place",
+      "source_url": "https://www.getty.edu/vow/TGNFullDisplay?english=Y&find=&nation=&place=continent&subjectid=2116452",
+      "source_id": "TGN2116452",
+      "verification": "primary_search_body",
+      "source_coordinates": [
+        -124.2,
+        47.2167
+      ],
+      "observed_hierarchy": "United States > Washington > Grays Harbor > Pacific Beach > Highland Heights",
+      "competing_poi_id": "51dcb627498ebc8550219bb1",
+      "competing_poi_coordinates": [
+        -124.20337519738028,
+        47.21224884041277
+      ],
+      "limitations": [
+        "Getty hierarchy establishes a named-place relationship, not surveyed boundaries.",
+        "Child POI remains outside supporting votes; no conversion of its locality to Pacific Beach.",
+        "Naming requires both independent official-address anchors and existing support/distance safeguards."
+      ],
+      "reviewed_by": "Codex",
+      "decision": "hierarchy_relationship_confirmed_name_application_pending",
+      "name_applied": false
+    }
+  ]
+}

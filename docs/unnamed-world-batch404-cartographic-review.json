@@ -1,0 +1,33 @@
+{
+  "peak": "-15.844, -57.860",
+  "reference_id": "6316802",
+  "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/materialegislativa/2024/7761/projeto_de_lei_luiz_landim_-_nomeacao_das_ruas_do_distrito_do_caramujo.pdf",
+  "sha256": "00a83424ab89a93fd50935125eebbab028b1db23e6d7d490eb9ef470262093a5",
+  "pdf_pages": 174,
+  "verified_page": 22,
+  "article": 31,
+  "source_locality": "Distrito do Caramujo, Caceres, Mato Grosso",
+  "source_feature": "Rua do Antonio Garcia Duarte",
+  "street_start_coordinates": [
+    -57.859878,
+    -15.844693
+  ],
+  "peak_coordinates": [
+    -57.8601,
+    -15.8445
+  ],
+  "distance_to_street_start_m": 31.96,
+  "verification": [
+    "PDF primary legislative text extracted",
+    "Rendered page22 visually inspected; geocoordinate and satellite road overlay correspond"
+  ],
+  "limitations": [
+    "2024 proposed bill, not evidence enactment or current legal street name.",
+    "Coordinate datum not stated, not assumed surveyed WGS84.",
+    "Street endpoint is locality evidence, not independent business facility or legal settlement polygon.",
+    "School RuaPrincipal/RuaQuinze alternatives unresolved; health-service address cannot substitute for school."
+  ],
+  "decision": "strong_local_geographic_evidence_pending_reviewed_cartographic_adoption",
+  "name_applied": false,
+  "active_density_changed": false
+}

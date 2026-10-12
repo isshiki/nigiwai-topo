@@ -1,0 +1,30 @@
+{
+  "batch": 389,
+  "expected_adopted": 909,
+  "items": [
+    {
+      "peak": "48.370, -53.359",
+      "ja_editorial": "トリニティ（推定）",
+      "reading_status": "inferred",
+      "review_note": "推定音写。BishopWhiteManor16GallivansLaneとRisingTideTheatre40WestStを独立2運営者の公式本文で確認。宿泊施設のチェックイン住所8WestStを施設住所と取り違えない。TrinityBb/Tb/TrinityBay等の広域・略称の語一致だけでは採用せず、今回の近隣住所で本峰を個別確認。34/38本文支持。",
+      "anchors": [
+        {
+          "poi_id": "695fffb4f781bc7ec0d59940",
+          "facility_key": "Trinity-BishopWhiteManor",
+          "source_url": "https://mytrinityexperience.com/bishop-white-manor/",
+          "official_address": "16GallivansLane,TrinityNL",
+          "verification": "public_page_body",
+          "limitation": "RawGallvan typo preserved; operator explicitly separates manor16 fromcheck-in8WestSt."
+        },
+        {
+          "poi_id": "5043d02de4b08d95c28ef3a1",
+          "facility_key": "Trinity-RisingTide",
+          "source_url": "https://www.risingtidetheatre.com/home-backup.html",
+          "official_address": "40WestSt,TrinityNL A0C2S0",
+          "verification": "public_page_body",
+          "limitation": "Operator page is2025season backup; location matchesrawstreet, not proof currenthours."
+        }
+      ]
+    }
+  ]
+}

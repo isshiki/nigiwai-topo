@@ -1,0 +1,2169 @@
+{
+  "checked_at": "2026-10-10",
+  "summary": {
+    "investigated": 18,
+    "newly_named": 5,
+    "location_quality_held": 13,
+    "holds_with_primary_name_comparison": 10
+  },
+  "limits": "Official name/address comparisons support suspicion; they do not establish all nearby IDs are erroneous. Original snapshot lacks address/locality in local projection. No density or geometry removed/recomputed. OSM centres are bounding-box representative points, not polygon containment.",
+  "additional_evidence": {
+    "rsea": "https://www.rsea.com.au/articleview.aspx?id=35",
+    "osm_timestamp": {
+      "phayao": {
+        "timestamp_osm_base": "2026-10-10T09:48:36Z",
+        "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+      },
+      "ridge-camp": {
+        "timestamp_osm_base": "2026-10-10T09:49:36Z",
+        "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+      }
+    }
+  },
+  "sources": {
+    "IN": {
+      "url": "https://download.geonames.org/export/dump/IN.zip",
+      "sha256": "b3280a2a99ba7c10e66824fb82eee1af9e8d7511688b096e5e04ace6ae098335",
+      "license": "CC BY 4.0"
+    },
+    "TR": {
+      "url": "https://download.geonames.org/export/dump/TR.zip",
+      "sha256": "99a5bc11e955180db3ea3e654c6df00bcfd8aa02b8e1c1ab81cc8543652c264c",
+      "license": "CC BY 4.0"
+    },
+    "IR": {
+      "url": "https://download.geonames.org/export/dump/IR.zip",
+      "sha256": "e9c86a7589b8c9aa71d2bb930ab20e64be9fdb53ed08406b1d37fd079353a7e8",
+      "license": "CC BY 4.0"
+    },
+    "SA": {
+      "url": "https://download.geonames.org/export/dump/SA.zip",
+      "sha256": "d4a30c24dd08046ff929d9673b5f98e6f87b8a3d313fdee787da1e811033f794",
+      "license": "CC BY 4.0"
+    },
+    "BR": {
+      "url": "https://download.geonames.org/export/dump/BR.zip",
+      "sha256": "4a9ddffb465ccad219127146f0678087cfece414ca0240bee53a5ea6750eebd8",
+      "license": "CC BY 4.0"
+    },
+    "AU": {
+      "url": "https://download.geonames.org/export/dump/AU.zip",
+      "sha256": "106b42c201d0947157fbc5c09e490b8c705b13650e731d702676ed46a1b3f125",
+      "license": "CC BY 4.0"
+    },
+    "US": {
+      "url": "https://download.geonames.org/export/dump/US.zip",
+      "sha256": "06775ef2f48a8e80ced51afb160aedc9aafc6d0fdc7e770506e8e4bae61140b2",
+      "license": "CC BY 4.0"
+    },
+    "TH": {
+      "url": "https://download.geonames.org/export/dump/TH.zip",
+      "sha256": "d6a165288ccd670797d41e2a03e4d730709bd5517cf7115ebf4883d69ea0b84a",
+      "license": "CC BY 4.0"
+    },
+    "ID": {
+      "url": "https://download.geonames.org/export/dump/ID.zip",
+      "sha256": "b2af2da0f9ef096489621585808efcc165af1473c6c5585e86d03df632f49409",
+      "license": "CC BY 4.0"
+    },
+    "KW": {
+      "url": "https://download.geonames.org/export/dump/KW.zip",
+      "sha256": "3ac4bb34e22f70a7776a477014fa40b5e8e05296d67372328b826e448e5e7364",
+      "license": "CC BY 4.0"
+    }
+  },
+  "items": [
+    {
+      "peak": "22.106, 77.185",
+      "coordinates": [
+        77.18489999999997,
+        22.105800000000002
+      ],
+      "density": 3435,
+      "active_poi_count": 904,
+      "nearest_features": [
+        {
+          "id": "10504410",
+          "name": "Bhomka Bāba",
+          "alternates": "",
+          "class": "S",
+          "code": "SHRN",
+          "country": "IN",
+          "lon": 77.18672,
+          "lat": 22.11895,
+          "distance_m": 1468,
+          "modified": "2024-01-06"
+        },
+        {
+          "id": "10504403",
+          "name": "Singhora",
+          "alternates": "",
+          "class": "P",
+          "code": "PPL",
+          "country": "IN",
+          "lon": 77.20631,
+          "lat": 22.10836,
+          "distance_m": 2227,
+          "modified": "2024-01-06"
+        },
+        {
+          "id": "10504408",
+          "name": "Jāmaniya",
+          "alternates": "",
+          "class": "P",
+          "code": "PPL",
+          "country": "IN",
+          "lon": 77.16385,
+          "lat": 22.12175,
+          "distance_m": 2799,
+          "modified": "2024-01-06"
+        },
+        {
+          "id": "10504406",
+          "name": "Jāmūkhoh",
+          "alternates": "",
+          "class": "P",
+          "code": "PPL",
+          "country": "IN",
+          "lon": 77.15668,
+          "lat": 22.10434,
+          "distance_m": 2916,
+          "modified": "2024-01-06"
+        },
+        {
+          "id": "10504399",
+          "name": "Barjhiri",
+          "alternates": "",
+          "class": "P",
+          "code": "PPL",
+          "country": "IN",
+          "lon": 77.19141,
+          "lat": 22.0782,
+          "distance_m": 3129,
+          "modified": "2024-01-06"
+        },
+        {
+          "id": "10504412",
+          "name": "Bandi",
+          "alternates": "",
+          "class": "P",
+          "code": "PPL",
+          "country": "IN",
+          "lon": 77.20159,
+          "lat": 22.1333,
+          "distance_m": 3498,
+          "modified": "2024-01-06"
+        },
+        {
+          "id": "10504394",
+          "name": "Ghogra Nāla",
+          "alternates": "",
+          "class": "H",
+          "code": "STMI",
+          "country": "IN",
+          "lon": 77.22503,
+          "lat": 22.10621,
+          "distance_m": 4141,
+          "modified": "2015-08-09"
+        },
+        {
+          "id": "10504402",
+          "name": "Singhora Reserved Forest",
+          "alternates": "",
+          "class": "L",
+          "code": "RESF",
+          "country": "IN",
+          "lon": 77.22472,
+          "lat": 22.11283,
+          "distance_m": 4182,
+          "modified": "2015-08-09"
+        }
+      ],
+      "decision": "hold",
+      "classification": "location_quality",
+      "conclusion": "企業公式サイトはDelhiで設立と説明。対象点はDelhiから大きく南に離れる。個別店舗の住所・同一性は未確定。",
+      "primary_comparison": {
+        "poi": {
+          "id": "03a5dfcc19a44c52576bfc63",
+          "name": "Decon Lighting Pvt. Ltd.",
+          "lon": 77.182931,
+          "lat": 22.105938,
+          "country_file": "IN"
+        },
+        "source_url": "https://deconlighting.in/",
+        "matching": "name-based comparison; upstream address and historical identity not independently confirmed"
+      },
+      "reason": "企業公式サイトはDelhiで設立と説明。対象点はDelhiから大きく南に離れる。個別店舗の住所・同一性は未確定。 POIの位置精度を追加確認中。全レコードを誤位置と断定したものではありません。"
+    },
+    {
+      "peak": "39.035, 35.244",
+      "coordinates": [
+        35.244,
+        39.03479999999999
+      ],
+      "density": 2995,
+      "active_poi_count": 761,
+      "nearest_features": [
+        {
+          "id": "303090",
+          "name": "Ovakent",
+          "alternates": "Horan,Ovakent",
+          "class": "P",
+          "code": "PPL",
+          "country": "TR",
+          "lon": 35.23838,
+          "lat": 39.05602,
+          "distance_m": 2405,
+          "modified": "2025-05-11"
+        },
+        {
+          "id": "323347",
+          "name": "Aşağı Hasinli",
+          "alternates": "Asagi Hasilli,Asagi Hasinli,Aşağı Hasilli,Aşağı Hasinli,Aşağı Hasınlı",
+          "class": "P",
+          "code": "PPL",
+          "country": "TR",
+          "lon": 35.1989,
+          "lat": 39.05253,
+          "distance_m": 4373,
+          "modified": "2025-05-11"
+        },
+        {
+          "id": "296393",
+          "name": "Yukarıhasinli",
+          "alternates": "",
+          "class": "P",
+          "code": "PPL",
+          "country": "TR",
+          "lon": 35.21111,
+          "lat": 38.98839,
+          "distance_m": 5887,
+          "modified": "2025-05-11"
+        },
+        {
+          "id": "10958613",
+          "name": "Nohutluk Dağı",
+          "alternates": "Nohutluk Dagi,Nohutluk Dağı",
+          "class": "T",
+          "code": "MT",
+          "country": "TR",
+          "lon": 35.30524,
+          "lat": 39.00746,
+          "distance_m": 6111,
+          "modified": "2015-12-07"
+        },
+        {
+          "id": "308277",
+          "name": "Kel Dağ",
+          "alternates": "Kel Dag,Kel Dağ",
+          "class": "T",
+          "code": "MT",
+          "country": "TR",
+          "lon": 35.18721,
+          "lat": 39.08039,
+          "distance_m": 7055,
+          "modified": "2025-05-11"
+        },
+        {
+          "id": "10958653",
+          "name": "Çal Tepe",
+          "alternates": "Cal Tepe,Çal Tepe",
+          "class": "T",
+          "code": "HLL",
+          "country": "TR",
+          "lon": 35.28119,
+          "lat": 38.9774,
+          "distance_m": 7140,
+          "modified": "2015-12-07"
+        },
+        {
+          "id": "297378",
+          "name": "Yazıçepni",
+          "alternates": "Yazicepni,Yazıçepni",
+          "class": "P",
+          "code": "PPL",
+          "country": "TR",
+          "lon": 35.31854,
+          "lat": 39.07592,
+          "distance_m": 7904,
+          "modified": "2025-05-11"
+        },
+        {
+          "id": "308300",
+          "name": "Keklicek Dağı",
+          "alternates": "Keklicek Dagi,Keklicek Dağı",
+          "class": "T",
+          "code": "MT",
+          "country": "TR",
+          "lon": 35.24457,
+          "lat": 39.10896,
+          "distance_m": 8233,
+          "modified": "2025-05-11"
+        }
+      ],
+      "decision": "hold",
+      "classification": "location_quality",
+      "conclusion": "761件中723件が同一座標。POI名には離れた道路・個人名等が混在。一次資料での施設同一性は未確定。",
+      "primary_comparison": null,
+      "reason": "761件中723件が同一座標。POI名には離れた道路・個人名等が混在。一次資料での施設同一性は未確定。 POIの位置精度を追加確認中。全レコードを誤位置と断定したものではありません。"
+    },
+    {
+      "peak": "31.878, 53.438",
+      "coordinates": [
+        53.4375,
+        31.878
+      ],
+      "density": 1697,
+      "active_poi_count": 431,
+      "nearest_features": [
+        {
+          "id": "13712666",
+          "name": "Dargūk",
+          "alternates": "Darguk,Dargūk,drgwk,درگوک",
+          "class": "S",
+          "code": "RNCH",
+          "country": "IR",
+          "lon": 53.43636,
+          "lat": 31.88368,
+          "distance_m": 639,
+          "modified": "2026-09-14"
+        },
+        {
+          "id": "13712686",
+          "name": "Kūh-e Varāzīn",
+          "alternates": "Kuh-e Varazin,Kūh-e Varāzīn,kwh wrazyn,کوه ورازین",
+          "class": "T",
+          "code": "MTS",
+          "country": "IR",
+          "lon": 53.44966,
+          "lat": 31.87628,
+          "distance_m": 1166,
+          "modified": "2026-09-14"
+        },
+        {
+          "id": "66941",
+          "name": "Chāh-e Varāzīn",
+          "alternates": "Chah Rudah,Chah-e Rudeh,Chah-e Varazin,Chah-e Vazarin,Chāh Rūdah,Chāh-e Rūdeh,Chāh-e Varāzīn,Chāh-e Vazārīn,chah wrazyn,چاه ورازین",
+          "class": "H",
+          "code": "WLL",
+          "country": "IR",
+          "lon": 53.44542,
+          "lat": 31.865,
+          "distance_m": 1625,
+          "modified": "2026-09-11"
+        },
+        {
+          "id": "13712685",
+          "name": "Kūh-e Khārāmard",
+          "alternates": "Kuh-e Kharamard,Kūh-e Khārāmard,kwh kharamrd,کوه خارامرد",
+          "class": "T",
+          "code": "MT",
+          "country": "IR",
+          "lon": 53.39268,
+          "lat": 31.87364,
+          "distance_m": 4268,
+          "modified": "2026-09-14"
+        },
+        {
+          "id": "13712663",
+          "name": "Kūh-e Posht Marg",
+          "alternates": "Kuh-e Posht Marg,Kūh-e Posht Marg,kwh psht mrg,کوه پشت مرگ",
+          "class": "T",
+          "code": "MT",
+          "country": "IR",
+          "lon": 53.451,
+          "lat": 31.84017,
+          "distance_m": 4385,
+          "modified": "2026-09-14"
+        },
+        {
+          "id": "7927291",
+          "name": "Rūdashtegān",
+          "alternates": "Eslamabad,Eslamabad-e Rudashtegan,Eslāmābād,Eslāmābād-e Rūdashtegān,Rudashtegan,Rūdashtegān,aslam abad,aslam abad rwdshtgan,rwdshtgan,اسلام آباد,اسلام آباد رودشتگان,رودشتگان",
+          "class": "S",
+          "code": "FRM",
+          "country": "IR",
+          "lon": 53.47736,
+          "lat": 31.84763,
+          "distance_m": 5057,
+          "modified": "2026-09-11"
+        },
+        {
+          "id": "13712681",
+          "name": "Chāh-e Tansī",
+          "alternates": "Chah-e Tansi,Chāh-e Tansī,chah tnsy,چاه تنسی",
+          "class": "H",
+          "code": "WLL",
+          "country": "IR",
+          "lon": 53.44476,
+          "lat": 31.83272,
+          "distance_m": 5068,
+          "modified": "2026-09-14"
+        },
+        {
+          "id": "13712660",
+          "name": "Chāh-e Āb-e Sast Tey",
+          "alternates": "Chah-e Ab-e Sast Tey,Chāh-e Āb-e Sast Tey,chah ab sst ty,چاه آب سست تی",
+          "class": "H",
+          "code": "WLL",
+          "country": "IR",
+          "lon": 53.40463,
+          "lat": 31.83402,
+          "distance_m": 5784,
+          "modified": "2026-09-14"
+        }
+      ],
+      "decision": "hold",
+      "classification": "location_quality",
+      "conclusion": "431件中412件が同一座標。名称にはTabriz・Azerbaijanへの言及があるが、個別住所の一次照合は未完了。",
+      "primary_comparison": null,
+      "reason": "431件中412件が同一座標。名称にはTabriz・Azerbaijanへの言及があるが、個別住所の一次照合は未完了。 POIの位置精度を追加確認中。全レコードを誤位置と断定したものではありません。"
+    },
+    {
+      "peak": "24.854, 46.719",
+      "coordinates": [
+        46.718999999999994,
+        24.8544
+      ],
+      "density": 1624,
+      "active_poi_count": 1002,
+      "nearest_features": [
+        {
+          "id": "12456147",
+          "name": "Jāmi‘at al Amīrah Nūrah Bint ‘Abd ar Raḩmān",
+          "alternates": "Jami`atalAmirahNurahBint`AbdarRahman,Jāmi‘at al Amīrah Nūrah Bint ‘Abd ar Raḩmān,جامعة الاميرة نورة بنت عبد الرحمن",
+          "class": "S",
+          "code": "SCHC",
+          "country": "SA",
+          "lon": 46.72513,
+          "lat": 24.8468,
+          "distance_m": 1045,
+          "modified": "2022-04-20"
+        },
+        {
+          "id": "12456148",
+          "name": "Al Mustashfá al Jāmi‘ī- Ţawāri’",
+          "alternates": "Al Mustashfá al Jāmi‘ī- Ţawāri’,AlMustashfaalJami`i-Tawari',المستشفى الجامعي-طوارئ",
+          "class": "S",
+          "code": "HSP",
+          "country": "SA",
+          "lon": 46.72205,
+          "lat": 24.83653,
+          "distance_m": 2003,
+          "modified": "2022-04-20"
+        },
+        {
+          "id": "104046",
+          "name": "Nafūd Mu‘ayzīlah",
+          "alternates": "Nafud Mu`ayzilah,Nafūd Mu‘ayzīlah",
+          "class": "T",
+          "code": "SAND",
+          "country": "SA",
+          "lon": 46.73203,
+          "lat": 24.89009,
+          "distance_m": 4167,
+          "modified": "2012-01-16"
+        },
+        {
+          "id": "110752",
+          "name": "Wādī Abā al Jirfān",
+          "alternates": "Shaib Abu Jurfan,Wadi Aba al Jirfan,Wādī Abā al Jirfān",
+          "class": "H",
+          "code": "WAD",
+          "country": "SA",
+          "lon": 46.75782,
+          "lat": 24.84026,
+          "distance_m": 4225,
+          "modified": "2020-06-10"
+        },
+        {
+          "id": "448656",
+          "name": "Jāmi‘at al Imām Muḩammad Bin Su‘ūd al Islāmīyah",
+          "alternates": "Al Imam Muhammad Ibn Su`ud University,Al Imām Muḩammad Ibn Su‘ūd University,Jami`atalImamMuhammadBinSu`udalIslamiyah,Jāmi‘at al Imām Muḩammad Bin Su‘ūd al Islāmīyah,جامعة الإمام محمد بن سعود الإسلامية",
+          "class": "S",
+          "code": "SCHC",
+          "country": "SA",
+          "lon": 46.70884,
+          "lat": 24.81412,
+          "distance_m": 4579,
+          "modified": "2022-04-18"
+        },
+        {
+          "id": "12456157",
+          "name": "Mulayḩah",
+          "alternates": "Mulayhah,Mulayḩah,mlyht,مليحة",
+          "class": "R",
+          "code": "ST",
+          "country": "SA",
+          "lon": 46.73317,
+          "lat": 24.81486,
+          "distance_m": 4608,
+          "modified": "2022-04-20"
+        },
+        {
+          "id": "12456156",
+          "name": "Qurţubah al Gharbīyah",
+          "alternates": "QurtubahalGharbiyah,Qurţubah al Gharbīyah,qrtbtalghrbyt,قرطبة الغربية",
+          "class": "S",
+          "code": "HSP",
+          "country": "SA",
+          "lon": 46.74283,
+          "lat": 24.81777,
+          "distance_m": 4719,
+          "modified": "2022-04-20"
+        },
+        {
+          "id": "448532",
+          "name": "Qurţubah",
+          "alternates": "Qartabah,Qarţabah,Qurtubah,Qurţubah,qrtbt,قرطبة",
+          "class": "P",
+          "code": "PPLX",
+          "country": "SA",
+          "lon": 46.73512,
+          "lat": 24.81423,
+          "distance_m": 4739,
+          "modified": "2022-04-18"
+        }
+      ],
+      "decision": "adopt",
+      "classification": "reference_found",
+      "name": "ヌーラ王女大学付近",
+      "reference": {
+        "id": "12456147",
+        "name": "Jāmi‘at al Amīrah Nūrah Bint ‘Abd ar Raḩmān",
+        "alternates": "Jami`atalAmirahNurahBint`AbdarRahman,Jāmi‘at al Amīrah Nūrah Bint ‘Abd ar Raḩmān,جامعة الاميرة نورة بنت عبد الرحمن",
+        "class": "S",
+        "code": "SCHC",
+        "country": "SA",
+        "lon": 46.72513,
+        "lat": 24.8468,
+        "distance_m": 1045,
+        "modified": "2022-04-20"
+      },
+      "source_id": "GeoNames:12456147",
+      "source_url": "https://download.geonames.org/export/dump/SA.zip",
+      "corroboration_url": "https://pnu.edu.sa/en/Pages/Contact-US.aspx",
+      "basis": "GeoNames国別資料のJāmi‘at al Amīrah Nūrah Bint ‘Abd ar Raḩmān（ID 12456147）の参照地点。日本語は編集表記。近傍名であり行政境界への包含判定ではありません。大学公式資料と近隣POI名称も照合。 峰から参照点まで1,045m。",
+      "reference_distance_m": 1045
+    },
+    {
+      "peak": "-13.001, -54.000",
+      "coordinates": [
+        -54.0,
+        -13.000500000000002
+      ],
+      "density": 1338,
+      "active_poi_count": 436,
+      "nearest_features": [
+        {
+          "id": "12972843",
+          "name": "Salto da Alegria",
+          "alternates": "Salto da Alegria",
+          "class": "P",
+          "code": "PPL",
+          "country": "BR",
+          "lon": -54.08562,
+          "lat": -13.06337,
+          "distance_m": 11603,
+          "modified": "2024-08-14"
+        }
+      ],
+      "decision": "hold",
+      "classification": "location_quality",
+      "conclusion": "IFALの公式キャンパス資料はPalmeira dos Índios（Alagoas）。対象点は同州から離れる。PInの略称対応は推定。",
+      "primary_comparison": {
+        "poi": {
+          "id": "4f9090c4e4b04fd33dd62bd7",
+          "name": "IFAL Campus PIn",
+          "lon": -54.000002485872166,
+          "lat": -13.000002275624711,
+          "country_file": "BR"
+        },
+        "source_url": "https://www2.ifal.edu.br/campus/palmeira",
+        "matching": "name-based comparison; upstream address and historical identity not independently confirmed"
+      },
+      "reason": "IFALの公式キャンパス資料はPalmeira dos Índios（Alagoas）。対象点は同州から離れる。PInの略称対応は推定。 POIの位置精度を追加確認中。全レコードを誤位置と断定したものではありません。"
+    },
+    {
+      "peak": "26.146, 50.092",
+      "coordinates": [
+        50.09219999999999,
+        26.145899999999997
+      ],
+      "density": 1163,
+      "active_poi_count": 455,
+      "nearest_features": [
+        {
+          "id": "10128891",
+          "name": "Holiday Inn Resort Half Moon Bay",
+          "alternates": "",
+          "class": "S",
+          "code": "HTL",
+          "country": "SA",
+          "lon": 50.06623,
+          "lat": 26.17457,
+          "distance_m": 4103,
+          "modified": "2015-03-09"
+        },
+        {
+          "id": "412758",
+          "name": "Khalīj Nişf al Qamar",
+          "alternates": "Half Moon Bay,Khalij Nisf al Qamar,Khalīj Nişf al Qamar",
+          "class": "H",
+          "code": "BAY",
+          "country": "SA",
+          "lon": 50.03889,
+          "lat": 26.16528,
+          "distance_m": 5746,
+          "modified": "2020-06-11"
+        },
+        {
+          "id": "100279",
+          "name": "Dawḩat az̧ Z̧ulūm",
+          "alternates": "Adh Dhulum,Adh Dhulūm,Dawhat Zalum,Dawhat az Zulum,Dawḩat Z̧alūm,Dawḩat az̧ Z̧ulūm,Doha Dhalum,Dohat Dhalum,Dohat Ruhum,Dohat adh Dhulum,Dohat adh Dhulūm,Duhat Dhalum",
+          "class": "H",
+          "code": "BAY",
+          "country": "SA",
+          "lon": 50.05108,
+          "lat": 26.10452,
+          "distance_m": 6159,
+          "modified": "2020-06-10"
+        },
+        {
+          "id": "389736",
+          "name": "Sārūq al Khushubīyāt",
+          "alternates": "Saruq al Khushubiyat,Sārūq al Khushubīyāt",
+          "class": "L",
+          "code": "LCTY",
+          "country": "SA",
+          "lon": 50.0875,
+          "lat": 26.20889,
+          "distance_m": 6995,
+          "modified": "2012-01-19"
+        },
+        {
+          "id": "389730",
+          "name": "Jazīrat Şulayfīḩ",
+          "alternates": "Jazirat Sulayfih,Jazīrat Şulayfīḩ",
+          "class": "V",
+          "code": "SCRB",
+          "country": "SA",
+          "lon": 50.14639,
+          "lat": 26.19,
+          "distance_m": 7295,
+          "modified": "2012-01-19"
+        },
+        {
+          "id": "9963195",
+          "name": "Moevenpick Beach Resort Al Khobar",
+          "alternates": "",
+          "class": "S",
+          "code": "HTL",
+          "country": "SA",
+          "lon": 50.16167,
+          "lat": 26.11528,
+          "distance_m": 7731,
+          "modified": "2015-01-19"
+        },
+        {
+          "id": "10121231",
+          "name": "Movenpick Beach Resort Al Khobar",
+          "alternates": "",
+          "class": "S",
+          "code": "HTL",
+          "country": "SA",
+          "lon": 50.16167,
+          "lat": 26.11528,
+          "distance_m": 7731,
+          "modified": "2015-02-26"
+        },
+        {
+          "id": "10174693",
+          "name": "Mövenpick Beach Resort",
+          "alternates": "",
+          "class": "S",
+          "code": "HTL",
+          "country": "SA",
+          "lon": 50.16167,
+          "lat": 26.11528,
+          "distance_m": 7731,
+          "modified": "2015-03-27"
+        }
+      ],
+      "decision": "adopt",
+      "classification": "reference_found",
+      "name": "ムハンマド・ビン・ファハド王子大学付近",
+      "reference": {
+        "id": "pmu-contact-map",
+        "name": "Prince Mohammad Bin Fahd University",
+        "country": "SA",
+        "lon": 50.0926,
+        "lat": 26.146104
+      },
+      "source_id": "Official:pmu-contact-map",
+      "source_url": "https://www.pmu.edu.sa/about/contact_us",
+      "map_link": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14326.213204274838!2d50.092600000000004!3d26.14610399999999!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e49d950138d15c5%3A0xdc2e01b3cf357894!2sPrince+Mohammad+Bin+Fahd+University!5e0!3m2!1sen!2sus!4v1395737967546",
+      "basis": "大学公式問い合わせページの大学名付き埋込地図の参照地点。近隣の大学・学内施設POIとも照合。日本語は編集表記、行政境界への包含判定ではありません。 峰から参照点まで46m。",
+      "reference_distance_m": 46
+    },
+    {
+      "peak": "22.106, 72.577",
+      "coordinates": [
+        72.5769,
+        22.105800000000002
+      ],
+      "density": 1150,
+      "active_poi_count": 289,
+      "nearest_features": [
+        {
+          "id": "11184433",
+          "name": "Sigam",
+          "alternates": "",
+          "class": "P",
+          "code": "PPL",
+          "country": "IN",
+          "lon": 72.58667,
+          "lat": 22.14255,
+          "distance_m": 4192,
+          "modified": "2024-01-06"
+        },
+        {
+          "id": "1264034",
+          "name": "Mālpur",
+          "alternates": "",
+          "class": "P",
+          "code": "PPL",
+          "country": "IN",
+          "lon": 72.56225,
+          "lat": 22.04542,
+          "distance_m": 6855,
+          "modified": "2024-01-06"
+        },
+        {
+          "id": "1273331",
+          "name": "Degām",
+          "alternates": "",
+          "class": "P",
+          "code": "PPL",
+          "country": "IN",
+          "lon": 72.58987,
+          "lat": 22.18728,
+          "distance_m": 9121,
+          "modified": "2024-01-06"
+        },
+        {
+          "id": "1268098",
+          "name": "Kangām",
+          "alternates": "",
+          "class": "S",
+          "code": "RSTN",
+          "country": "IN",
+          "lon": 72.65086,
+          "lat": 22.1526,
+          "distance_m": 9224,
+          "modified": "2024-01-06"
+        },
+        {
+          "id": "1266145",
+          "name": "Kora",
+          "alternates": "",
+          "class": "S",
+          "code": "RSTN",
+          "country": "IN",
+          "lon": 72.68476,
+          "lat": 22.11338,
+          "distance_m": 11161,
+          "modified": "2024-01-06"
+        },
+        {
+          "id": "12681470",
+          "name": "Jambusar",
+          "alternates": "",
+          "class": "A",
+          "code": "ADM3",
+          "country": "IN",
+          "lon": 72.67786,
+          "lat": 22.05461,
+          "distance_m": 11862,
+          "modified": "2023-12-17"
+        },
+        {
+          "id": "1267383",
+          "name": "Kāvi",
+          "alternates": "Kavi,Kawi,Kāvi,Kāwi",
+          "class": "P",
+          "code": "PPL",
+          "country": "IN",
+          "lon": 72.63632,
+          "lat": 22.19939,
+          "distance_m": 12040,
+          "modified": "2024-01-06"
+        },
+        {
+          "id": "1264371",
+          "name": "Mahi River",
+          "alternates": "Mahi,Mahi River,Mahi-Sagar River,Mahi-Ságar River",
+          "class": "H",
+          "code": "STM",
+          "country": "IN",
+          "lon": 72.57562,
+          "lat": 22.23091,
+          "distance_m": 13854,
+          "modified": "2021-09-07"
+        }
+      ],
+      "decision": "hold",
+      "classification": "location_quality",
+      "conclusion": "HCPの公式事務所はAhmedabad、Pune、Chennai。対象点はこれらから離れる。会社名称の対応は有力だがFSQ住所照合待ち。",
+      "primary_comparison": {
+        "poi": {
+          "id": "07e56c1dbcdb4789dca9fa2c",
+          "name": "Hcp Interior Architecture Pvt. Ltd.",
+          "lon": 72.576826,
+          "lat": 22.105991,
+          "country_file": "IN"
+        },
+        "source_url": "https://hcp.co.in/contact",
+        "matching": "name-based comparison; upstream address and historical identity not independently confirmed"
+      },
+      "reason": "HCPの公式事務所はAhmedabad、Pune、Chennai。対象点はこれらから離れる。会社名称の対応は有力だがFSQ住所照合待ち。 POIの位置精度を追加確認中。全レコードを誤位置と断定したものではありません。"
+    },
+    {
+      "peak": "22.106, 72.565",
+      "coordinates": [
+        72.5652,
+        22.105800000000002
+      ],
+      "density": 1135,
+      "active_poi_count": 368,
+      "nearest_features": [
+        {
+          "id": "11184433",
+          "name": "Sigam",
+          "alternates": "",
+          "class": "P",
+          "code": "PPL",
+          "country": "IN",
+          "lon": 72.58667,
+          "lat": 22.14255,
+          "distance_m": 4633,
+          "modified": "2024-01-06"
+        },
+        {
+          "id": "1264034",
+          "name": "Mālpur",
+          "alternates": "",
+          "class": "P",
+          "code": "PPL",
+          "country": "IN",
+          "lon": 72.56225,
+          "lat": 22.04542,
+          "distance_m": 6693,
+          "modified": "2024-01-06"
+        },
+        {
+          "id": "1273331",
+          "name": "Degām",
+          "alternates": "",
+          "class": "P",
+          "code": "PPL",
+          "country": "IN",
+          "lon": 72.58987,
+          "lat": 22.18728,
+          "distance_m": 9374,
+          "modified": "2024-01-06"
+        },
+        {
+          "id": "1268098",
+          "name": "Kangām",
+          "alternates": "",
+          "class": "S",
+          "code": "RSTN",
+          "country": "IN",
+          "lon": 72.65086,
+          "lat": 22.1526,
+          "distance_m": 10245,
+          "modified": "2024-01-06"
+        },
+        {
+          "id": "1266145",
+          "name": "Kora",
+          "alternates": "",
+          "class": "S",
+          "code": "RSTN",
+          "country": "IN",
+          "lon": 72.68476,
+          "lat": 22.11338,
+          "distance_m": 12365,
+          "modified": "2024-01-06"
+        },
+        {
+          "id": "1267383",
+          "name": "Kāvi",
+          "alternates": "Kavi,Kawi,Kāvi,Kāwi",
+          "class": "P",
+          "code": "PPL",
+          "country": "IN",
+          "lon": 72.63632,
+          "lat": 22.19939,
+          "distance_m": 12697,
+          "modified": "2024-01-06"
+        },
+        {
+          "id": "12681470",
+          "name": "Jambusar",
+          "alternates": "",
+          "class": "A",
+          "code": "ADM3",
+          "country": "IN",
+          "lon": 72.67786,
+          "lat": 22.05461,
+          "distance_m": 12935,
+          "modified": "2023-12-17"
+        },
+        {
+          "id": "1264371",
+          "name": "Mahi River",
+          "alternates": "Mahi,Mahi River,Mahi-Sagar River,Mahi-Ságar River",
+          "class": "H",
+          "code": "STM",
+          "country": "IN",
+          "lon": 72.57562,
+          "lat": 22.23091,
+          "distance_m": 13895,
+          "modified": "2021-09-07"
+        }
+      ],
+      "decision": "hold",
+      "classification": "location_quality",
+      "conclusion": "公式住所はCivil Hospital Campus, Asarwa, Ahmedabad。対象点はAhmedabadから大きく南に離れる。",
+      "primary_comparison": {
+        "poi": {
+          "id": "0083cfd8cd244c59f6e5fd38",
+          "name": "Gujarat Cancer and Research Institute (gcri)",
+          "lon": 72.566011,
+          "lat": 22.10617,
+          "country_file": "IN"
+        },
+        "source_url": "https://gcriindia.org/contact.html",
+        "matching": "name-based comparison; upstream address and historical identity not independently confirmed"
+      },
+      "reason": "公式住所はCivil Hospital Campus, Asarwa, Ahmedabad。対象点はAhmedabadから大きく南に離れる。 POIの位置精度を追加確認中。全レコードを誤位置と断定したものではありません。"
+    },
+    {
+      "peak": "-20.000, 145.000",
+      "coordinates": [
+        144.99989999999997,
+        -19.999800000000008
+      ],
+      "density": 1118,
+      "active_poi_count": 306,
+      "nearest_features": [
+        {
+          "id": "2152274",
+          "name": "State of Queensland",
+          "alternates": "Kvinslando,Kvinslehnd,Kvinslend,QLD,Queensland,Shtat Kvinslend,State of Queensland,kavinazalainda,ku'inasalyanda,kuinzurando zhou,kuwinisilanidi,kwynzlnd,kwyynzlnd,Квинсленд,Квинслэнд,Штат Квинсленд,کوئنزلند,کوئینزلند,কুইনসল্যান্ড,ਕਵੀਨਜ਼ਲੈਂਡ,ኩዊንስላንድ,クイーンズランド州",
+          "class": "A",
+          "code": "ADM1",
+          "country": "AU",
+          "lon": 145.0,
+          "lat": -20.0,
+          "distance_m": 24,
+          "modified": "2026-04-16"
+        },
+        {
+          "id": "2175347",
+          "name": "Blanket Spring",
+          "alternates": "",
+          "class": "H",
+          "code": "SPNG",
+          "country": "AU",
+          "lon": 144.98333,
+          "lat": -20.08333,
+          "distance_m": 9408,
+          "modified": "2014-04-08"
+        },
+        {
+          "id": "8352170",
+          "name": "Ellenvale",
+          "alternates": "Ellenvale",
+          "class": "S",
+          "code": "HMSD",
+          "country": "AU",
+          "lon": 144.96666,
+          "lat": -19.91667,
+          "distance_m": 9839,
+          "modified": "2014-06-16"
+        },
+        {
+          "id": "2172315",
+          "name": "Cargoon",
+          "alternates": "Cargoon",
+          "class": "S",
+          "code": "HMSD",
+          "country": "AU",
+          "lon": 144.89999,
+          "lat": -20.01667,
+          "distance_m": 10620,
+          "modified": "2012-07-21"
+        },
+        {
+          "id": "2159431",
+          "name": "Low Holm",
+          "alternates": "Low Holm",
+          "class": "S",
+          "code": "HMSD",
+          "country": "AU",
+          "lon": 144.98334,
+          "lat": -20.1,
+          "distance_m": 11227,
+          "modified": "2012-07-21"
+        },
+        {
+          "id": "8352162",
+          "name": "Cuba Plains",
+          "alternates": "Cuba Plains",
+          "class": "S",
+          "code": "HMSD",
+          "country": "AU",
+          "lon": 145.06667,
+          "lat": -19.91667,
+          "distance_m": 11556,
+          "modified": "2014-06-16"
+        },
+        {
+          "id": "8598672",
+          "name": "Blanket Plain Bore",
+          "alternates": "Blanket Plain Bore",
+          "class": "H",
+          "code": "WLL",
+          "country": "AU",
+          "lon": 144.9298,
+          "lat": -20.09504,
+          "distance_m": 12843,
+          "modified": "2013-08-10"
+        },
+        {
+          "id": "2169549",
+          "name": "Daintrees Lookout",
+          "alternates": "",
+          "class": "T",
+          "code": "MT",
+          "country": "AU",
+          "lon": 145.11667,
+          "lat": -19.95,
+          "distance_m": 13407,
+          "modified": "2014-06-16"
+        }
+      ],
+      "decision": "hold",
+      "classification": "location_quality",
+      "conclusion": "施設公式サイトは9 Sherwood Road, Toowong, QLD 4066。RSEA Safety Gladstoneも公式住所55 Hanson Rd, Gladstoneと別途照合。両都市とも対象点から離れる。",
+      "primary_comparison": {
+        "poi": {
+          "id": "688d20c4bfffa54f8b9adc99",
+          "name": "Chatime Toowong Village",
+          "lon": 145.0,
+          "lat": -20.0,
+          "country_file": "AU"
+        },
+        "source_url": "https://www.toowongvillage.com.au/stores/chatime",
+        "matching": "name-based comparison; upstream address and historical identity not independently confirmed"
+      },
+      "reason": "施設公式サイトは9 Sherwood Road, Toowong, QLD 4066。RSEA Safety Gladstoneも公式住所55 Hanson Rd, Gladstoneと別途照合。両都市とも対象点から離れる。 POIの位置精度を追加確認中。全レコードを誤位置と断定したものではありません。"
+    },
+    {
+      "peak": "-33.000, 146.000",
+      "coordinates": [
+        145.9998,
+        -33.0003
+      ],
+      "density": 1076,
+      "active_poi_count": 307,
+      "nearest_features": [
+        {
+          "id": "2155400",
+          "name": "State of New South Wales",
+          "alternates": "Bretyn Yiass Noa,Cene Kantar Uehl's,De Cymru Newydd,ENew South Wales,Gallera Verociya Newi,Hegoaldeko Gales Berria,Jaundienvidvelsa,NSW,Naujasis Pietu Velsas,Naujasis Pietų Velsas,Nea Notia Oualia,Neuvo Galles do Sud,New Sooth Wales,New South Wales,Nieu-Suid-Wallis,Nieuw-Zuid-Wales,Nij-Sud-Wales,Nij-Súd-Wales,Niu Ceva Welesi,Niu Haute Wera,Niu Haute Wēra,Niu Sauele,Niu Saut Wels,Niu Saute Uelese,Niwe Suthwealas,Noeuv Galles del Sud,Nog Khussar Uehl's,Nor Haravayin Owels,Nou Galles de su Sud,Noul Wales de Sud,Nouvelle-Galles du Sud,Nov Juzhen Uels,Nov Juzhen Vels,Nova Cambria Australis,Nova Galas del Sud,Nova Gales do Sul,Nova Gales do Sur,Nova Gal·les del Sud,Nova Valisa dal Sid,Novi Juzhni Vels,Novi Juzni Wales,Novi Južni Wales,Novij Pivdennij Vel's,Novo Gales del Sud,Novsudkimrio,Novu Galles di u Sudu,Novu Galles du Sud,Novu Galles dû Sud,Novy Jizni Wales,Novy Juzny Wales,Novyj Juzhnyj Uehl's,Nový Jižní Wales,Nový Južný Wales,Nowa Poludniowa Walia,Nowa Południowa Walia,Nu Wale Hema,Nueva Galas d'o Sud,Nueva Gales del Sur,Nuovo Galles del Sud,Ny Sudur Wales,Nyja Sudur-Wales,Nyuu Sauth Wiels,Nòva Galas del Sud,Ný Suður Wales,Nýja Suður-Wales,Nīwe Sūþwealas,Nū Wale Hema,Od Ljambeshiren' Uehl's,Sabuwar Kudu Wales,Shtat Novyj Juzhnyj Uehl's,Sin Lam Wales,Sin Lâm Wales,Sing Nang Wales,State of New South Wales,Sukembre Nevez,Sĭng Nàng Wales,Tamurt n Yigaliyen n Wenzul,Tamurt n Yigaliyen n Wenẓul,Uellsi i Ri Jugor,Uj-Del-Wales,Uus-Louna-Wales,Uus-Lõuna-Wales,Uusi Etelae-Wales,Uusi Etelä-Wales,Valesa Atsimo Vaovao,Walesa Basur a Nu,Walesa Başûr a Nû,Yangi janubiy uels,Yeni Cənubi Uels,Yeni Gueney Galler,Yeni Güney Galler,Zhaңa Oңtүstik Uehl's,akhali obzhate uelsi,akhali samkhreti uelsi,n'yu sa'utha velsa,n'yu saut vels,ni'u sa'utha oyelsa,ni'u sa'utha velaza,niwseathwels,niyu cavut vels,nw sawth wlz,nyusauseuweilseuju,nyusausuueruzu zhou,nyussauseuweiljeuju,nyw sawt wlz,nyw sawth wylz,nywsawt wylz,nywsawth wylz,shtat Novy Paudnjovy Uehl's,xin nan wei er shi,xin nan wei er shi zhou,xin nan wei er si,xin nan wei er si zhou,yyny gwnyy wlz,Çĕнĕ Кăнтăр Уэльс,Új-Dél-Wales,Νέα Νότια Ουαλία,Жаңа Оңтүстік Уэльс,Нов Јужен Велс,Нов Южен Уелс,Нови Јужни Велс,Новий Південний Вельс,Новый Южный Уэльс,Ног Хуссар Уэльс,Од Лямбеширень Уэльс,Саҥа Соҕуруу Уэльс,Уэлси Ҷанубии Нав,Шинэ Өмнөд Вэльс,Штат Новый Южный Уэльс,Яңа Көньяк Велс,штат Новы Паўднёвы Уэльс,Նոր Հարավային Ուելս,ניו סאוט וויילס,ניו סאות' ויילס,نو ساوث ولز,نيو سائوٿ ويلز,نيو ساوث ويلز,نيوساوت ويلز,نيوساوث ويلز,نیو ساؤتھ ویلز,نیو ساؤتہ ویلز,نیو ساوت ولز,نیو ساوت وێلز,نیو ساوټ ولز,یئنی گونئی ولز,न्यू साउथ वेल्स,নিউ সাউথ ওয়েল্স,ਨਿਊ ਸਾਊਥ ਵੇਲਜ਼,ન્યૂ સાઉથ વેલ્સ,நியூ சவுத் வேல்ஸ்,న్యూ సౌత్ వేల్స్,ನ್ಯೂ ಸೌತ್ ವೇಲ್ಸ್,ന്യൂ സൗത്ത് വെയ്ൽസ്,නිව් සවුත් වේල්ස්,นิวเซาท์เวลส์,နယူးဆောက်ဝေးပြည်နယ်,ახალი ობჟათე უელსი,ახალი სამხრეთი უელსი,ኑ ሳውስ ዌልስ,ᎠᏤ ᏧᎦᎾᏮ Ꮹ⁠Ꮄ⁠Ꮝ,ニューサウスウェールズ州,新南威尔士州,新南威尔斯,新南威爾士,新南威爾士州,新南威爾斯州,뉴사우스웨일스주,뉴싸우스웨일즈주",
+          "class": "A",
+          "code": "ADM1",
+          "country": "AU",
+          "lon": 146.0,
+          "lat": -33.0,
+          "distance_m": 38,
+          "modified": "2026-04-16"
+        },
+        {
+          "id": "8613780",
+          "name": "Matakana",
+          "alternates": "Matakana",
+          "class": "P",
+          "code": "PPL",
+          "country": "AU",
+          "lon": 145.90627,
+          "lat": -32.98895,
+          "distance_m": 8831,
+          "modified": "2014-06-16"
+        },
+        {
+          "id": "2158522",
+          "name": "Matakana Station",
+          "alternates": "Matakana,Matakana Station",
+          "class": "S",
+          "code": "RSTN",
+          "country": "AU",
+          "lon": 145.90481,
+          "lat": -32.99056,
+          "distance_m": 8943,
+          "modified": "2017-05-08"
+        },
+        {
+          "id": "8831414",
+          "name": "Matakana Bore",
+          "alternates": "Matakana Bore",
+          "class": "H",
+          "code": "WLL",
+          "country": "AU",
+          "lon": 145.89813,
+          "lat": -32.99855,
+          "distance_m": 9503,
+          "modified": "2026-02-08"
+        },
+        {
+          "id": "8613782",
+          "name": "Mylone",
+          "alternates": "Mylone",
+          "class": "P",
+          "code": "PPL",
+          "country": "AU",
+          "lon": 145.94318,
+          "lat": -32.92728,
+          "distance_m": 9675,
+          "modified": "2017-05-08"
+        },
+        {
+          "id": "8802168",
+          "name": "Mylone",
+          "alternates": "Mylone",
+          "class": "S",
+          "code": "HMSD",
+          "country": "AU",
+          "lon": 145.94436,
+          "lat": -32.925,
+          "distance_m": 9829,
+          "modified": "2014-04-08"
+        },
+        {
+          "id": "2144573",
+          "name": "Warraway Mountain",
+          "alternates": "Mount Warraway,Warraway Mountain",
+          "class": "T",
+          "code": "HLL",
+          "country": "AU",
+          "lon": 146.05297,
+          "lat": -33.09282,
+          "distance_m": 11400,
+          "modified": "2026-02-08"
+        },
+        {
+          "id": "11079345",
+          "name": "Me",
+          "alternates": "Me,Whoey Tank",
+          "class": "S",
+          "code": "TRIG",
+          "country": "AU",
+          "lon": 146.14931,
+          "lat": -32.9624,
+          "distance_m": 14594,
+          "modified": "2016-06-22"
+        }
+      ],
+      "decision": "hold",
+      "classification": "location_quality",
+      "conclusion": "公式所在地はHaymarket NSW 2000等。対象点はHaymarketから離れる。分散型法律事務所のため全サービスの位置を代表するかは別途確認。",
+      "primary_comparison": {
+        "poi": {
+          "id": "53b283fd498e6360c18d084f",
+          "name": "Teddington Legal",
+          "lon": 146.0,
+          "lat": -33.0,
+          "country_file": "AU"
+        },
+        "source_url": "https://teddingtonlegal.com.au/contact-us/",
+        "matching": "name-based comparison; upstream address and historical identity not independently confirmed"
+      },
+      "reason": "公式所在地はHaymarket NSW 2000等。対象点はHaymarketから離れる。分散型法律事務所のため全サービスの位置を代表するかは別途確認。 POIの位置精度を追加確認中。全レコードを誤位置と断定したものではありません。"
+    },
+    {
+      "peak": "39.062, 35.124",
+      "coordinates": [
+        35.124300000000005,
+        39.061800000000005
+      ],
+      "density": 967,
+      "active_poi_count": 275,
+      "nearest_features": [
+        {
+          "id": "323180",
+          "name": "Özler",
+          "alternates": "Asagitaf,Aşağıtaf,Buyuk Taf,Buyukoz,Büyük Taf,Büyüköz,Kucuk Oz,Kucuk Taf,Küçük Taf,Küçük Öz,Ozler,Yukaritaf,Yukarıtaf,Özler",
+          "class": "P",
+          "code": "PPL",
+          "country": "TR",
+          "lon": 35.13333,
+          "lat": 39.08333,
+          "distance_m": 2515,
+          "modified": "2025-05-11"
+        },
+        {
+          "id": "10958000",
+          "name": "Çatalarkaç Tepesi",
+          "alternates": "Catalarkac Tepesi,Çatalarkaç Tepesi",
+          "class": "T",
+          "code": "HLL",
+          "country": "TR",
+          "lon": 35.07651,
+          "lat": 39.08638,
+          "distance_m": 4955,
+          "modified": "2025-05-11"
+        },
+        {
+          "id": "308277",
+          "name": "Kel Dağ",
+          "alternates": "Kel Dag,Kel Dağ",
+          "class": "T",
+          "code": "MT",
+          "country": "TR",
+          "lon": 35.18721,
+          "lat": 39.08039,
+          "distance_m": 5822,
+          "modified": "2025-05-11"
+        },
+        {
+          "id": "315688",
+          "name": "Elmalı",
+          "alternates": "",
+          "class": "P",
+          "code": "PPL",
+          "country": "TR",
+          "lon": 35.09222,
+          "lat": 39.01028,
+          "distance_m": 6358,
+          "modified": "2025-05-11"
+        },
+        {
+          "id": "323347",
+          "name": "Aşağı Hasinli",
+          "alternates": "Asagi Hasilli,Asagi Hasinli,Aşağı Hasilli,Aşağı Hasinli,Aşağı Hasınlı",
+          "class": "P",
+          "code": "PPL",
+          "country": "TR",
+          "lon": 35.1989,
+          "lat": 39.05253,
+          "distance_m": 6539,
+          "modified": "2025-05-11"
+        },
+        {
+          "id": "302833",
+          "name": "Paşalı İstasyonu",
+          "alternates": "Pasali Istasyonu,Paşalı İstasyonu",
+          "class": "S",
+          "code": "RSTN",
+          "country": "TR",
+          "lon": 35.04057,
+          "lat": 39.06078,
+          "distance_m": 7248,
+          "modified": "2015-11-08"
+        },
+        {
+          "id": "10958470",
+          "name": "Çayırözününaltı Deresi",
+          "alternates": "Cayirozununalti Deresi,Çayırözününaltı Deresi",
+          "class": "H",
+          "code": "STM",
+          "country": "TR",
+          "lon": 35.09024,
+          "lat": 38.99844,
+          "distance_m": 7627,
+          "modified": "2015-12-07"
+        },
+        {
+          "id": "446172",
+          "name": "Fehimli Barajı",
+          "alternates": "Fehimli Baraji,Fehimli Barajı",
+          "class": "S",
+          "code": "DAM",
+          "country": "TR",
+          "lon": 35.05779,
+          "lat": 39.10817,
+          "distance_m": 7721,
+          "modified": "2025-05-11"
+        }
+      ],
+      "decision": "hold",
+      "classification": "location_quality",
+      "conclusion": "公式サイトはNear East University Campus in Nicosia。対象点はNicosiaから離れる。275件中85件の同一座標集中もあり、単なる参照名不足から位置品質確認へ分類変更。",
+      "primary_comparison": {
+        "poi": {
+          "id": "574be5ee498edfad327d208e",
+          "name": "NEU Hospital (International Patients Department)",
+          "lon": 35.124582,
+          "lat": 39.061415,
+          "country_file": "TR"
+        },
+        "source_url": "https://medicine.neu.edu.tr/incoming/?lang=en",
+        "matching": "name-based comparison; upstream address and historical identity not independently confirmed"
+      },
+      "reason": "公式サイトはNear East University Campus in Nicosia。対象点はNicosiaから離れる。275件中85件の同一座標集中もあり、単なる参照名不足から位置品質確認へ分類変更。 POIの位置精度を追加確認中。全レコードを誤位置と断定したものではありません。"
+    },
+    {
+      "peak": "-14.235, -51.925",
+      "coordinates": [
+        -51.9255,
+        -14.235299999999995
+      ],
+      "density": 948,
+      "active_poi_count": 292,
+      "nearest_features": [
+        {
+          "id": "9964499",
+          "name": "Caesar Business Sao Paulo International Airport",
+          "alternates": "",
+          "class": "S",
+          "code": "HTL",
+          "country": "BR",
+          "lon": -51.92528,
+          "lat": -14.235,
+          "distance_m": 41,
+          "modified": "2015-01-20"
+        },
+        {
+          "id": "12975171",
+          "name": "Córrego da Paca",
+          "alternates": "Corrego da Paca,Córrego da Paca",
+          "class": "H",
+          "code": "STM",
+          "country": "BR",
+          "lon": -51.93865,
+          "lat": -14.22826,
+          "distance_m": 1619,
+          "modified": "2024-08-14"
+        },
+        {
+          "id": "12975126",
+          "name": "Córrego Manelão",
+          "alternates": "Corrego Manelao,Córrego Manelão",
+          "class": "H",
+          "code": "STM",
+          "country": "BR",
+          "lon": -51.94889,
+          "lat": -14.25623,
+          "distance_m": 3426,
+          "modified": "2024-08-14"
+        },
+        {
+          "id": "12975004",
+          "name": "Córrego do Cedro",
+          "alternates": "Corrego do Cedro,Córrego do Cedro",
+          "class": "H",
+          "code": "STM",
+          "country": "BR",
+          "lon": -51.93123,
+          "lat": -14.199,
+          "distance_m": 4064,
+          "modified": "2024-08-14"
+        },
+        {
+          "id": "12975123",
+          "name": "Córrego Areado",
+          "alternates": "Corrego Areado,Córrego Areado",
+          "class": "H",
+          "code": "STM",
+          "country": "BR",
+          "lon": -51.99706,
+          "lat": -14.21806,
+          "distance_m": 7955,
+          "modified": "2024-08-14"
+        },
+        {
+          "id": "12974859",
+          "name": "Ribeirão Jacu",
+          "alternates": "Ribeirao Jacu,Ribeirão Jacu",
+          "class": "H",
+          "code": "STM",
+          "country": "BR",
+          "lon": -51.9014,
+          "lat": -14.1542,
+          "distance_m": 9342,
+          "modified": "2024-08-14"
+        },
+        {
+          "id": "12975152",
+          "name": "Córrego Mutuca",
+          "alternates": "Corrego Mutuca,Córrego Mutuca",
+          "class": "H",
+          "code": "STM",
+          "country": "BR",
+          "lon": -52.01364,
+          "lat": -14.22674,
+          "distance_m": 9560,
+          "modified": "2024-08-14"
+        },
+        {
+          "id": "12975180",
+          "name": "Ribeirão Lajeado da Divisa",
+          "alternates": "Ribeirao Lajeado da Divisa,Ribeirão Lajeado da Divisa",
+          "class": "H",
+          "code": "STM",
+          "country": "BR",
+          "lon": -51.88444,
+          "lat": -14.12492,
+          "distance_m": 12992,
+          "modified": "2024-08-14"
+        }
+      ],
+      "decision": "hold",
+      "classification": "location_quality",
+      "conclusion": "公式本店はOliva esquina Chile, Asunción。ブラジル中央の対象点に対し国・都市が一致しない。個別支店は特定していない。",
+      "primary_comparison": {
+        "poi": {
+          "id": "5225f60711d22aec5796c65b",
+          "name": "Banco Itau Paraguay S.A.",
+          "lon": -51.92528,
+          "lat": -14.235004,
+          "country_file": "BR"
+        },
+        "source_url": "https://www.itau.com.py/paginas/atencionparavos",
+        "matching": "name-based comparison; upstream address and historical identity not independently confirmed"
+      },
+      "reason": "公式本店はOliva esquina Chile, Asunción。ブラジル中央の対象点に対し国・都市が一致しない。個別支店は特定していない。 POIの位置精度を追加確認中。全レコードを誤位置と断定したものではありません。"
+    },
+    {
+      "peak": "39.761, -98.501",
+      "coordinates": [
+        -98.5005,
+        39.7611
+      ],
+      "density": 948,
+      "active_poi_count": 435,
+      "nearest_features": [
+        {
+          "id": "6252001",
+          "name": "United States",
+          "alternates": "'Amelika,A.S,ABD,ABS,ABŞ,ACSH,AISH,AKSH,ALeaa-Oko ti Amerika,AMN,ANU,AQSH,AS,Amelika,America,Amerika,Amerika Birlesik Devletleri,Amerika Birleşik Devletleri,Amerika Sarikat,Amerikan Yhdysvallat,Amerikas Foerenta Stater,Amerikas Forenede Stater,Amerikas Förenta Stater,Amerikas Savienotas Valstis,Amerikas Savienotās Valstis,Amerikas forente stater,Amerikayi Miacʻeal Nahangner,Amerikayi Miacʻyal Nahangner,Ameriketako Estatu Batuak,Ameriki,Amurka,Amérika Sarikat,Amɛrika,Amẹrikà,Bandariki Nordur-Ameriku,Bandarikin,Bandaríki Norður-Ameríku,Bandaríkin,DYA,Dei amerikanske sambandsstatane,Dewleten Yekbuyi yen Amerikaye,Dewletên Yekbûyî yên Amerîkayê,Dowlaaji Dentuɗi Amerik,EUA,Estados Unidos,Estats Units,Estatu Batuak,Etaa Sini,Etats-Unis,Etazonia,Feriene Steaten,Forente stater,Hoa Ky,Hoa Kỳ,Hononga o Amerika,IM,IPA,JAV,Jungtines Amerikos Valstijos,Jungtines Valstijos,Jungtinės Amerikos Valstijos,Jungtinės Valstijos,Leta Zunze Ubumwe za Amerika,Maraykanka,Marekani,Miacʻeal Nahangner,Qo'shma Shtatlar,S.U.A.,SA,SAD,SAM,SASHH,SHBA,SSHA,SU,SUA,Sambandsstatane,Sjedinene Americke Drzave,Sjedinene Drzave,Sjedinjene Americke Drzave,Sjedinjene Američke Države,Soedinennye Shtaty,Spojene staty,Spojene staty americke,Spojené státy,Spojené státy americké,Spojené štáty,Spojené štáty americké,Spoluceni Stati Ameriki,Stadis Unids da l'America,Stadis Unids da l’America,Stany Zjednoczone,Statele Unite ale Americii,Stati Uniti,Statys Unys,Suedineni shhati,U.S.,U.S.A.,UDA,US,USA,USA nutome,United States,United States of America,Usono,VS,VSA,Vereenegt Staaten,Vereinigte Staaten,Vereinigten Staaten von Amerika,Verenigde Staten,Yhdysvallat,ZDA,Zdruzene drzave Amerike,Združene države Amerike,Zlucanya Staty Ameryki,Zluchanyja Shtaty,alawlayat almthdt alamrykyt,alwlayat almthdt,alwlayat almthdt alamrykyt,amerika,amryka,ashsh,ayalat mthdh,ayalat mthdh amryka,i'u esa,i-U.S,l-Istati Uniti,ma. yu.,mei guo,migug,mthdh ayalat,ps,sanyukta rajya amarika,sanyukta rajya amerika,sanyukta rajya:,shrath‡,wڵatە yەkgrtwwەkan,ya q sh,yu ʿesi,yu'es,yu.aisa.,yu.es,yu.es.,yu.esa.,yuktarastra,yuuaaatit,yuʿesi,yways,ywnayٹiڑ siٹyٹis,ÂLeaa-Ôko tî Amerika,États-Unis,ʻAmelika,ʼrh״b,ΗΠΑ,АИШ,АКШ,АНУ,АЦШ,АҚШ,Злучаныя Штаты,Злучаныя Штаты Амерыкі,ИМ,САД,САЩ,США,Соединенные Штаты,Сполучені Штати Америки,Съединени щати,Сједињене Америчке Државе,Сједињене Државе,ԱՄՆ,Ամերիկայի Միացեալ Նահանգներ,Ամերիկայի Միացյալ Նահանգներ,Միացեալ Նահանգներ,Միացյալ Նահանգներ,ארה״ב,פֿש,ئا ق ش,الاولايات المتحدة الامريكية,الولايات المتحدة,الولايات المتحدة الأمريكية,امریکا,ایالات متحده,ایالات متحدهٔ امریکا,متحده آيالات,وڵاتە یەکگرتووەکان,يوايس,یوٗنایٹِڑ سِٹیٹِس,अमेरिका,यू.एस.,संयुक्त राज्य अमरिका,संयुक्त राज्य अमेरिका,संयुक्त राज्य:,ইউ এস,মা. যু.,ਯੂ.ਐੱਸ.,યુ.એસ.,ଯୁକ୍ତରାଷ୍ଟ୍ର,யூஎஸ்,యు.ఎస్.,ಯು.ಎಸ್,യു.എസ്,එ.ජ,สหรัฐฯ,ສະຫະລດ,ສະຫະລັດ,ཡ་ཨས་ཨ,ཡུ་ཨེས་ཨེ,ཨ་མ་ར་ཀ།,ཨ་མེ་རི་ཀ།,ယူအက်စ်,აშშ,ዩ ኤስ,ዩኤስ,ស.រ.អ,アメリカ,美国,美國,ꂰꇩ,미국",
+          "class": "A",
+          "code": "PCLI",
+          "country": "US",
+          "lon": -98.5,
+          "lat": 39.76,
+          "distance_m": 129,
+          "modified": "2026-07-01"
+        },
+        {
+          "id": "4267581",
+          "name": "Andrew (historical)",
+          "alternates": "",
+          "class": "S",
+          "code": "",
+          "country": "US",
+          "lon": -98.5059,
+          "lat": 39.76112,
+          "distance_m": 463,
+          "modified": "2017-05-23"
+        },
+        {
+          "id": "4276576",
+          "name": "Odessa (historical)",
+          "alternates": "",
+          "class": "S",
+          "code": "",
+          "country": "US",
+          "lon": -98.48228,
+          "lat": 39.73529,
+          "distance_m": 3264,
+          "modified": "2017-05-23"
+        },
+        {
+          "id": "4281630",
+          "name": "Westside Community Center",
+          "alternates": "",
+          "class": "S",
+          "code": "",
+          "country": "US",
+          "lon": -98.48589,
+          "lat": 39.79946,
+          "distance_m": 4439,
+          "modified": "2017-05-23"
+        },
+        {
+          "id": "4280269",
+          "name": "Sweet Home (historical)",
+          "alternates": "",
+          "class": "S",
+          "code": "",
+          "country": "US",
+          "lon": -98.52229,
+          "lat": 39.79835,
+          "distance_m": 4538,
+          "modified": "2017-05-23"
+        },
+        {
+          "id": "4280266",
+          "name": "Sweet Home Cemetery",
+          "alternates": "",
+          "class": "S",
+          "code": "CMTY",
+          "country": "US",
+          "lon": -98.54654,
+          "lat": 39.78551,
+          "distance_m": 4786,
+          "modified": "2017-05-23"
+        },
+        {
+          "id": "4271142",
+          "name": "Township of Esbon",
+          "alternates": "Esbon Township,Ezbon Township,Township of Esbon",
+          "class": "A",
+          "code": "ADM3",
+          "country": "US",
+          "lon": -98.44813,
+          "lat": 39.78488,
+          "distance_m": 5206,
+          "modified": "2017-05-14"
+        },
+        {
+          "id": "4276577",
+          "name": "Odessa Church",
+          "alternates": "",
+          "class": "S",
+          "code": "CH",
+          "country": "US",
+          "lon": -98.4959,
+          "lat": 39.71223,
+          "distance_m": 5440,
+          "modified": "2017-05-23"
+        }
+      ],
+      "decision": "hold",
+      "classification": "location_quality",
+      "conclusion": "ホテル公式住所は20 Tak Fung Street, Hunghom, Kowloon（香港）。Kansasの対象点と国が一致しない。",
+      "primary_comparison": {
+        "poi": {
+          "id": "58aaaaae7ff1e46c189e5d43",
+          "name": "Harbour Grand Kowloon",
+          "lon": -98.50275997944907,
+          "lat": 39.76277702997367,
+          "country_file": "US"
+        },
+        "source_url": "https://www.harbourgrand.com/kowloon/en/contact-us/",
+        "matching": "name-based comparison; upstream address and historical identity not independently confirmed"
+      },
+      "reason": "ホテル公式住所は20 Tak Fung Street, Hunghom, Kowloon（香港）。Kansasの対象点と国が一致しない。 POIの位置精度を追加確認中。全レコードを誤位置と断定したものではありません。"
+    },
+    {
+      "peak": "19.031, 99.890",
+      "coordinates": [
+        99.89010000000002,
+        19.03139999999999
+      ],
+      "density": 910,
+      "active_poi_count": 496,
+      "nearest_features": [
+        {
+          "id": "9530643",
+          "name": "Huai Sai Daeng",
+          "alternates": "Huai Sai Daeng,hwy thray dæng,ห้วยทรายแดง",
+          "class": "H",
+          "code": "STMI",
+          "country": "TH",
+          "lon": 99.88128,
+          "lat": 19.0159,
+          "distance_m": 1951,
+          "modified": "2014-09-08"
+        },
+        {
+          "id": "9530662",
+          "name": "Huai Luang",
+          "alternates": "Huai Luang,hwy hlwng,ห้วยหลวง",
+          "class": "H",
+          "code": "STMI",
+          "country": "TH",
+          "lon": 99.90112,
+          "lat": 19.01717,
+          "distance_m": 1956,
+          "modified": "2014-09-08"
+        },
+        {
+          "id": "9530645",
+          "name": "Huai Na Poi",
+          "alternates": "Huai Na Poi,hwy na pxy,ห้วยนาปอย",
+          "class": "H",
+          "code": "STM",
+          "country": "TH",
+          "lon": 99.89264,
+          "lat": 19.01291,
+          "distance_m": 2064,
+          "modified": "2014-09-08"
+        },
+        {
+          "id": "9530660",
+          "name": "Huai Nong Meng",
+          "alternates": "Huai Nong Meng,hwy hnxng meng,ห้วยหนองเม็ง",
+          "class": "H",
+          "code": "STMI",
+          "country": "TH",
+          "lon": 99.91179,
+          "lat": 19.02099,
+          "distance_m": 2558,
+          "modified": "2014-09-08"
+        },
+        {
+          "id": "8332181",
+          "name": "Ban Mo Kaeng Thong",
+          "alternates": "Ban Mo Kaeng Thong,บ้านหม้อแกงทอง",
+          "class": "P",
+          "code": "PPL",
+          "country": "TH",
+          "lon": 99.90739,
+          "lat": 19.01358,
+          "distance_m": 2684,
+          "modified": "2023-12-11"
+        },
+        {
+          "id": "8332006",
+          "name": "Wat Mo Kaeng Thong",
+          "alternates": "Wat Mo Kaeng Thong,วัดหม้อแกงทอง",
+          "class": "S",
+          "code": "MSTY",
+          "country": "TH",
+          "lon": 99.90539,
+          "lat": 19.01175,
+          "distance_m": 2706,
+          "modified": "2023-12-11"
+        },
+        {
+          "id": "8332198",
+          "name": "Ban Mae Ka Tha Kham",
+          "alternates": "Ban Mae Ka Tha Kham,บ้านแม่กาท่าข้าม",
+          "class": "P",
+          "code": "PPL",
+          "country": "TH",
+          "lon": 99.91408,
+          "lat": 19.01736,
+          "distance_m": 2965,
+          "modified": "2023-12-11"
+        },
+        {
+          "id": "8332200",
+          "name": "Ban Mae Ka Rai Diao",
+          "alternates": "Ban Mae Ka Rai Diao,บ้านแม่กาไร่เดี่ยว",
+          "class": "P",
+          "code": "PPL",
+          "country": "TH",
+          "lon": 99.897,
+          "lat": 19.00281,
+          "distance_m": 3247,
+          "modified": "2023-12-11"
+        }
+      ],
+      "decision": "adopt",
+      "classification": "reference_found",
+      "name": "パヤオ大学付近",
+      "reference": {
+        "id": "579088013",
+        "name": "มหาวิทยาลัยพะเยา",
+        "country": "TH",
+        "lat": 19.0297134,
+        "lon": 99.8930301
+      },
+      "source_id": "OpenStreetMap:way/579088013",
+      "source_url": "https://www.openstreetmap.org/way/579088013",
+      "corroboration_url": "https://www.up.ac.th/contact.aspx",
+      "basis": "OpenStreetMap way/579088013の範囲の代表点（境界箱の中心）を参照し、公式施設資料と近隣POI名称を照合。日本語は編集表記。敷地内という包含判定ではありません。 峰から参照点まで361m。",
+      "reference_distance_m": 361
+    },
+    {
+      "peak": "22.106, 73.866",
+      "coordinates": [
+        73.8657,
+        22.105800000000002
+      ],
+      "density": 883,
+      "active_poi_count": 222,
+      "nearest_features": [
+        {
+          "id": "1265151",
+          "name": "Lālpur",
+          "alternates": "",
+          "class": "P",
+          "code": "PPL",
+          "country": "IN",
+          "lon": 73.89094,
+          "lat": 22.13174,
+          "distance_m": 3877,
+          "modified": "2024-01-06"
+        },
+        {
+          "id": "8477240",
+          "name": "Wandha",
+          "alternates": "",
+          "class": "P",
+          "code": "PPL",
+          "country": "IN",
+          "lon": 73.82995,
+          "lat": 22.13703,
+          "distance_m": 5056,
+          "modified": "2013-03-06"
+        },
+        {
+          "id": "1271846",
+          "name": "Gad Boriād",
+          "alternates": "",
+          "class": "P",
+          "code": "PPL",
+          "country": "IN",
+          "lon": 73.832,
+          "lat": 22.05572,
+          "distance_m": 6546,
+          "modified": "2024-01-06"
+        },
+        {
+          "id": "1260757",
+          "name": "Palāsni",
+          "alternates": "",
+          "class": "P",
+          "code": "PPL",
+          "country": "IN",
+          "lon": 73.79604,
+          "lat": 22.06671,
+          "distance_m": 8391,
+          "modified": "2024-01-06"
+        },
+        {
+          "id": "8476362",
+          "name": "Nawāgan",
+          "alternates": "",
+          "class": "P",
+          "code": "PPL",
+          "country": "IN",
+          "lon": 73.82995,
+          "lat": 22.02783,
+          "distance_m": 9389,
+          "modified": "2024-01-06"
+        },
+        {
+          "id": "1267871",
+          "name": "Karāli",
+          "alternates": "",
+          "class": "P",
+          "code": "PPL",
+          "country": "IN",
+          "lon": 73.84462,
+          "lat": 22.1929,
+          "distance_m": 9887,
+          "modified": "2024-01-06"
+        },
+        {
+          "id": "1252903",
+          "name": "Wāsna",
+          "alternates": "",
+          "class": "P",
+          "code": "PPL",
+          "country": "IN",
+          "lon": 73.74906,
+          "lat": 22.12086,
+          "distance_m": 12150,
+          "modified": "2024-01-06"
+        },
+        {
+          "id": "1255257",
+          "name": "Tādkachhla",
+          "alternates": "",
+          "class": "P",
+          "code": "PPL",
+          "country": "IN",
+          "lon": 73.95508,
+          "lat": 22.03387,
+          "distance_m": 12188,
+          "modified": "2024-01-06"
+        }
+      ],
+      "decision": "hold",
+      "classification": "location_quality",
+      "conclusion": "222件中82件が同一座標。別のインド3峰と緯度22.1058が共通。Puneを示唆する名称があるが一次資料で個別住所を確定できていない。",
+      "primary_comparison": null,
+      "reason": "222件中82件が同一座標。別のインド3峰と緯度22.1058が共通。Puneを示唆する名称があるが一次資料で個別住所を確定できていない。 POIの位置精度を追加確認中。全レコードを誤位置と断定したものではありません。"
+    },
+    {
+      "peak": "-0.788, 113.921",
+      "coordinates": [
+        113.92109999999997,
+        -0.7883999999999958
+      ],
+      "density": 847,
+      "active_poi_count": 410,
+      "nearest_features": [
+        {
+          "id": "12414951",
+          "name": "Desa Tanjung Rendan",
+          "alternates": "Desa Tanjung Rendan",
+          "class": "A",
+          "code": "ADM4",
+          "country": "ID",
+          "lon": 113.9475,
+          "lat": -0.76139,
+          "distance_m": 4190,
+          "modified": "2022-01-20"
+        },
+        {
+          "id": "12414946",
+          "name": "Desa Lawang Tamang",
+          "alternates": "Desa Lawang Tamang",
+          "class": "A",
+          "code": "ADM4",
+          "country": "ID",
+          "lon": 113.90333,
+          "lat": -0.75,
+          "distance_m": 4684,
+          "modified": "2022-01-20"
+        },
+        {
+          "id": "1636296",
+          "name": "Mantaak",
+          "alternates": "",
+          "class": "P",
+          "code": "PPL",
+          "country": "ID",
+          "lon": 113.93333,
+          "lat": -0.73333,
+          "distance_m": 6240,
+          "modified": "2022-12-30"
+        },
+        {
+          "id": "12414919",
+          "name": "Desa Katanjung",
+          "alternates": "Desa Katanjung",
+          "class": "A",
+          "code": "ADM4",
+          "country": "ID",
+          "lon": 113.90917,
+          "lat": -0.86639,
+          "distance_m": 8725,
+          "modified": "2022-01-20"
+        },
+        {
+          "id": "12414947",
+          "name": "Desa Karetau Manta’a",
+          "alternates": "Desa Karetau Manta'a,Desa Karetau Manta’a",
+          "class": "A",
+          "code": "ADM4",
+          "country": "ID",
+          "lon": 113.89722,
+          "lat": -0.71139,
+          "distance_m": 8921,
+          "modified": "2022-01-20"
+        },
+        {
+          "id": "12414917",
+          "name": "Desa Hurung Tampang",
+          "alternates": "Desa Hurung Tampang",
+          "class": "A",
+          "code": "ADM4",
+          "country": "ID",
+          "lon": 113.87111,
+          "lat": -0.85194,
+          "distance_m": 8962,
+          "modified": "2022-01-20"
+        },
+        {
+          "id": "1638277",
+          "name": "Lawanguwang",
+          "alternates": "Lawangoewang,Lawanguwang",
+          "class": "P",
+          "code": "PPL",
+          "country": "ID",
+          "lon": 113.86667,
+          "lat": -0.85,
+          "distance_m": 9116,
+          "modified": "2022-12-30"
+        },
+        {
+          "id": "12414914",
+          "name": "Desa Tumbang Puroh",
+          "alternates": "Desa Tumbang Puroh",
+          "class": "A",
+          "code": "ADM4",
+          "country": "ID",
+          "lon": 113.94139,
+          "lat": -0.88222,
+          "distance_m": 10617,
+          "modified": "2022-01-20"
+        }
+      ],
+      "decision": "hold",
+      "classification": "location_quality",
+      "conclusion": "州政府の病院サービス資料はPontianak。対象点はPontianakから東へ離れる。病院の同一性は名称照合による。",
+      "primary_comparison": {
+        "poi": {
+          "id": "4e4532e2d164821e116c2a5a",
+          "name": "RS. Soedarso",
+          "lon": 113.92134260290617,
+          "lat": -0.7892955864607212,
+          "country_file": "ID"
+        },
+        "source_url": "https://polise.kalbarprov.go.id/layanan/73/standar-pelayanan-rawat-jalan-rsud-dr-soedarso",
+        "matching": "name-based comparison; upstream address and historical identity not independently confirmed"
+      },
+      "reason": "州政府の病院サービス資料はPontianak。対象点はPontianakから東へ離れる。病院の同一性は名称照合による。 POIの位置精度を追加確認中。全レコードを誤位置と断定したものではありません。"
+    },
+    {
+      "peak": "28.649, 48.369",
+      "coordinates": [
+        48.36869999999999,
+        28.648799999999994
+      ],
+      "density": 832,
+      "active_poi_count": 587,
+      "nearest_features": [
+        {
+          "id": "285532",
+          "name": "Khawr al Mufattaḩ",
+          "alternates": "Khawr al Mufattah,Khawr al Mufattaḩ,Khawr al Mufattih,Khor al Mufatta,Khor el Muffata,Mufatta,khawr aalmufatah,خَوْر اَلْمُفَتَّح",
+          "class": "H",
+          "code": "INLT",
+          "country": "KW",
+          "lon": 48.37889,
+          "lat": 28.64611,
+          "distance_m": 1040,
+          "modified": "2020-06-10"
+        },
+        {
+          "id": "285750",
+          "name": "An Nāmī",
+          "alternates": "An Nami,An Nāmī,aalnaami,اَلنَّامِي",
+          "class": "P",
+          "code": "PPL",
+          "country": "KW",
+          "lon": 48.36444,
+          "lat": 28.63972,
+          "distance_m": 1089,
+          "modified": "2024-07-13"
+        },
+        {
+          "id": "285559",
+          "name": "Khawr al Mamlāḩah",
+          "alternates": "Khawr al Mamlahah,Khawr al Mamlāḩah,khawr aalmamlaahat,خَوْر اَلْمَمْلاَحَة",
+          "class": "H",
+          "code": "INLT",
+          "country": "KW",
+          "lon": 48.38056,
+          "lat": 28.65167,
+          "distance_m": 1202,
+          "modified": "2012-01-18"
+        },
+        {
+          "id": "285579",
+          "name": "Khawr al Mufattaḩ",
+          "alternates": "Aminoil Base Camp,Khawr al Mufattah,Khawr al Mufattaḩ,Khor al Mufattah,Khor el Muffata,khawr aalmufatah,خَوْر اَلْمُفَتَّح",
+          "class": "S",
+          "code": "CMPO",
+          "country": "KW",
+          "lon": 48.38333,
+          "lat": 28.65,
+          "distance_m": 1436,
+          "modified": "2020-06-10"
+        },
+        {
+          "id": "285790",
+          "name": "Al Khīrān",
+          "alternates": "Al Khiran,Al Khīrān,aalkhiran,اَلْخِيرَان",
+          "class": "P",
+          "code": "PPL",
+          "country": "KW",
+          "lon": 48.379,
+          "lat": 28.663,
+          "distance_m": 1868,
+          "modified": "2024-07-13"
+        },
+        {
+          "id": "285669",
+          "name": "Jabal al Banāyā",
+          "alternates": "Jabal al Banaya,Jabal al Banāyā,jabal aalbanaya,جَبَل اَلْبَنَايَا",
+          "class": "T",
+          "code": "HLL",
+          "country": "KW",
+          "lon": 48.38667,
+          "lat": 28.65972,
+          "distance_m": 2133,
+          "modified": "2012-01-18"
+        },
+        {
+          "id": "388159",
+          "name": "Ad Diyūd",
+          "alternates": "Ad Diyud,Ad Diyūd,aaldiyud,اَلدِّيُود",
+          "class": "T",
+          "code": "RDGE",
+          "country": "KW",
+          "lon": 48.37472,
+          "lat": 28.63028,
+          "distance_m": 2135,
+          "modified": "2024-07-14"
+        },
+        {
+          "id": "285758",
+          "name": "Khawr al A‘má",
+          "alternates": "Khawr al A`ma,Khawr al A‘má,Khawr al `Ami,Khawr al ‘Amī,Khor Al-Amah,Khor al A`ami,Khor al A`ma,Khor al A‘ma,Khor al A‘āmi,Khor-al-'Ami,Khor-al-’Ami,خَوْر اَلأَعْمَى",
+          "class": "H",
+          "code": "INLT",
+          "country": "KW",
+          "lon": 48.37417,
+          "lat": 28.67028,
+          "distance_m": 2440,
+          "modified": "2020-06-10"
+        }
+      ],
+      "decision": "adopt",
+      "classification": "reference_found",
+      "name": "アン・ナーミ付近",
+      "reference": {
+        "id": "285750",
+        "name": "An Nāmī",
+        "alternates": "An Nami,An Nāmī,aalnaami,اَلنَّامِي",
+        "class": "P",
+        "code": "PPL",
+        "country": "KW",
+        "lon": 48.36444,
+        "lat": 28.63972,
+        "distance_m": 1089,
+        "modified": "2024-07-13"
+      },
+      "source_id": "GeoNames:285750",
+      "source_url": "https://download.geonames.org/export/dump/KW.zip",
+      "corroboration_url": null,
+      "basis": "GeoNames国別資料のAn Nāmī（ID 285750）の参照地点。日本語は編集表記。近傍名であり行政境界への包含判定ではありません。KWファイルの587件を確認。前回のSA単独検査0件は国選択の漏れでした。 峰から参照点まで1,089m。",
+      "reference_distance_m": 1089
+    },
+    {
+      "peak": "-4.109, 137.101",
+      "coordinates": [
+        137.1006,
+        -4.1085000000000065
+      ],
+      "density": 826,
+      "active_poi_count": 385,
+      "nearest_features": [
+        {
+          "id": "11428055",
+          "name": "Carstensz bivak 9",
+          "alternates": "",
+          "class": "S",
+          "code": "CMPQ",
+          "country": "ID",
+          "lon": 137.09461,
+          "lat": -4.10777,
+          "distance_m": 670,
+          "modified": "2022-12-31"
+        },
+        {
+          "id": "11428054",
+          "name": "Carstensz bivak 8",
+          "alternates": "",
+          "class": "S",
+          "code": "CMPQ",
+          "country": "ID",
+          "lon": 137.08783,
+          "lat": -4.11384,
+          "distance_m": 1536,
+          "modified": "2022-12-31"
+        },
+        {
+          "id": "11428052",
+          "name": "Carstensz bivak 10",
+          "alternates": "",
+          "class": "S",
+          "code": "CMPQ",
+          "country": "ID",
+          "lon": 137.11178,
+          "lat": -4.09681,
+          "distance_m": 1792,
+          "modified": "2022-12-31"
+        },
+        {
+          "id": "9534488",
+          "name": "Gunung Platenspits",
+          "alternates": "Gunung Platenspits,Platen Spitsen",
+          "class": "T",
+          "code": "MT",
+          "country": "ID",
+          "lon": 137.11972,
+          "lat": -4.10778,
+          "distance_m": 2124,
+          "modified": "2022-12-31"
+        },
+        {
+          "id": "11428053",
+          "name": "Carstensz bivak 11",
+          "alternates": "",
+          "class": "S",
+          "code": "CMPQ",
+          "country": "ID",
+          "lon": 137.12105,
+          "lat": -4.09167,
+          "distance_m": 2936,
+          "modified": "2022-12-31"
+        },
+        {
+          "id": "11428045",
+          "name": "Dom",
+          "alternates": "",
+          "class": "T",
+          "code": "MT",
+          "country": "ID",
+          "lon": 137.1283,
+          "lat": -4.09865,
+          "distance_m": 3263,
+          "modified": "2022-12-31"
+        },
+        {
+          "id": "9534487",
+          "name": "Mount Zaagkam",
+          "alternates": "Kelanoengging,Mount Zaagkam,Zaagkam",
+          "class": "T",
+          "code": "MT",
+          "country": "ID",
+          "lon": 137.11889,
+          "lat": -4.1325,
+          "distance_m": 3342,
+          "modified": "2022-12-31"
+        },
+        {
+          "id": "1624232",
+          "name": "Tembagapura",
+          "alternates": "TIM,Tembagapura",
+          "class": "P",
+          "code": "PPL",
+          "country": "ID",
+          "lon": 137.08985,
+          "lat": -4.14244,
+          "distance_m": 3938,
+          "modified": "2022-12-31"
+        }
+      ],
+      "decision": "adopt",
+      "classification": "reference_found",
+      "name": "リッジ・キャンプ付近",
+      "reference": {
+        "id": "505668631",
+        "name": "Ridge Camp",
+        "country": "ID",
+        "lat": -4.1058927,
+        "lon": 137.1006397
+      },
+      "source_id": "OpenStreetMap:way/505668631",
+      "source_url": "https://www.openstreetmap.org/way/505668631",
+      "corroboration_url": "https://ptfi.co.id/id/news/detail/resmi-dibuka-mess-hall-kenanga-megah-di-super-block-ridge-camp",
+      "basis": "OpenStreetMap way/505668631の範囲の代表点（境界箱の中心）を参照し、公式施設資料と近隣POI名称を照合。日本語は編集表記。敷地内という包含判定ではありません。 峰から参照点まで288m。",
+      "reference_distance_m": 288
+    }
+  ]
+}

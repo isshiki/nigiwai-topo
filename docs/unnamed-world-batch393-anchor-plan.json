@@ -1,0 +1,30 @@
+{
+  "batch": 393,
+  "expected_adopted": 913,
+  "items": [
+    {
+      "peak": "44.260, -66.129",
+      "ja_editorial": "ソールニエルビル（推定）",
+      "reading_status": "inferred",
+      "review_note": "推定音写。州公開2016資料のClarencesFoodland10029MainSt,SaulniervilleとPharmaChoice9999Hwy1の公式店舗住所を元スーパー・薬局に照合。MainSt/Highway1表記差は保持し、メーカー各社が10029を使う登録を独立店舗証拠として数えない。州資料は歴史的住所根拠で現在営業の認定ではない。",
+      "anchors": [
+        {
+          "poi_id": "5d89edd0f9a0ea0008b25ab0",
+          "facility_key": "Saulnierville-Foodland10029",
+          "source_url": "https://openinformation.novascotia.ca/api/views/f3f7-h4mx/files/6d3bb00b-5629-468f-b7a2-c728efa1e759?filename=2016-02656-ENV_PublicPackage.pdf",
+          "official_address": "ClarencesFoodland,10029MainSt,SaulniervilleNSB0W2Z0",
+          "verification": "official_search_excerpt",
+          "limitation": "HistoricalNovaScotiapublicdisclosure facilityrow; rawFoodland10029Highway1 andmunicipalreport ClarencesFoodlandSaulnierville corroborate samebranch."
+        },
+        {
+          "poi_id": "89441caa0b044b1e3cd53df8",
+          "facility_key": "Saulnierville-Pharmacy9999",
+          "source_url": "https://www.pharmachoice.com/locations/saulnierville-pharmacy/",
+          "official_address": "9999Hwy1,SaulniervilleNSB0W2Z0",
+          "verification": "public_page_body",
+          "limitation": "Pharmachoiceandduplicatepharmacyrowcountasonefacility; no medicaladvice drawn frompage."
+        }
+      ]
+    }
+  ]
+}

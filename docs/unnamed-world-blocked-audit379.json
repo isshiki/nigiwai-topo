@@ -1,0 +1,48 @@
+{
+  "status": "blocked_awaiting_external_input",
+  "objective": "Original 203 peaks and 69 held references to zero; not complete",
+  "authoritative_review": "docs/unnamed-world-batch377-review.json",
+  "approved_names": 884,
+  "remaining_candidate_peaks": 14,
+  "remaining_previous_references": 3,
+  "unresolved_ids": [
+    "GeoNames:5992692",
+    "GeoNames:3988393",
+    "GeoNames:5965019",
+    "GeoNames:6085350",
+    "GeoNames:5939508",
+    "GeoNames:5936333",
+    "GeoNames:6174638",
+    "GeoNames:6149823",
+    "GeoNames:4171315",
+    "GeoNames:4229530",
+    "GeoNames:6127700",
+    "GeoNames:6318630",
+    "GeoNames:461640",
+    "GeoNames:458192",
+    "GeoNames:6140599",
+    "GeoNames:4276077",
+    "GeoNames:2702619"
+  ],
+  "consecutive_blocked_audit_turns": [
+    "377: targeted source lookup did not establish reading; requested pronunciation policy remains unanswered",
+    "378: current approvals and holds revalidated; AWS STS explicitly returned expired session",
+    "379: no intervening human policy answer or login confirmation; unresolved set unchanged"
+  ],
+  "blockers": [
+    {
+      "kind": "pronunciation_evidence",
+      "detail": "Available inspected source material does not establish remaining target readings. Pending question asks whether explicitly labeled standard-rule editorial transliterations are acceptable; no response received. Do not mark inferred forms as confirmed local readings."
+    },
+    {
+      "kind": "release_authentication",
+      "detail": "AWS STS profile nigiwai-topo returned expired session in preceding turn. Two density artifact retirements require published and selected validated v5; local build alone cannot retire active-release records."
+    }
+  ],
+  "existing_ready_work": "Local v5 density build, release validation, 884-name dictionary, frontend package and 714-condition v2/v5 name checks complete; no public update",
+  "next_after_input": [
+    "Apply only defensible names consistent with user pronunciation policy, retain provenance and uncertainty",
+    "After successful AWS login publish validated v5, verify Range/CORS and select it, then execute guarded two-peak retirement",
+    "Reaudit the entire original goal cohort; do not claim completion from partial counts"
+  ]
+}

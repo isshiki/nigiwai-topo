@@ -1,0 +1,14 @@
+{
+  "items": [
+    {
+      "id": "GeoNames:6079264",
+      "original": "Mossbank",
+      "decision": "hold",
+      "reason": "町公式事業一覧でNagelInsuranceServicesLtdは306MainStreet、元NagelAgenciesは318MainSt。318はAgritaxBusinessServicesLtdの住所なので同一住所として採用しない。移転履歴または別施設住所の確認が次の手順。大学地名資料はRobertJollyによる1909郵便局名からの町名転用を記すが発音資料ではない。",
+      "urls": [
+        "https://www.mossbank.ca/business/business-directory",
+        "https://esask.uregina.ca/entry/mossbank.html"
+      ]
+    }
+  ]
+}

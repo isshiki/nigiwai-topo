@@ -1,0 +1,188 @@
+{
+  "peak": "-13.690, -50.799",
+  "reference_id": "3470919",
+  "source_pdf": "data/name-research/reading-sources/bandeirantes396.pdf",
+  "source_pdf_sha256": "89f0305abf9ffd2349d31bd189f30974036bf05984348260ddbfc06340dca3ff",
+  "pdf_page": 57,
+  "figure": "3.2",
+  "image_coordinate_plane": [
+    1335,
+    1888
+  ],
+  "longitude_controls": [
+    [
+      238,
+      -50.81666666666667
+    ],
+    [
+      564,
+      -50.8
+    ],
+    [
+      890,
+      -50.78333333333333
+    ]
+  ],
+  "latitude_controls": [
+    [
+      550,
+      -13.666666666666666
+    ],
+    [
+      875,
+      -13.683333333333334
+    ]
+  ],
+  "manually_traced_pixels": [
+    [
+      558,
+      934
+    ],
+    [
+      582,
+      944
+    ],
+    [
+      607,
+      940
+    ],
+    [
+      630,
+      907
+    ],
+    [
+      690,
+      922
+    ],
+    [
+      694,
+      939
+    ],
+    [
+      681,
+      963
+    ],
+    [
+      653,
+      980
+    ],
+    [
+      638,
+      1000
+    ],
+    [
+      626,
+      1047
+    ],
+    [
+      613,
+      1070
+    ],
+    [
+      596,
+      1078
+    ],
+    [
+      574,
+      1080
+    ],
+    [
+      549,
+      1064
+    ],
+    [
+      549,
+      1020
+    ],
+    [
+      552,
+      975
+    ]
+  ],
+  "derived_polygon_lonlat": [
+    [
+      -50.80030674846621,
+      -13.686358974358976
+    ],
+    [
+      -50.79907975460119,
+      -13.686871794871797
+    ],
+    [
+      -50.797801635991775,
+      -13.686666666666667
+    ],
+    [
+      -50.796625766871124,
+      -13.68497435897436
+    ],
+    [
+      -50.79355828220855,
+      -13.685743589743591
+    ],
+    [
+      -50.79335378323104,
+      -13.686615384615386
+    ],
+    [
+      -50.79401840490793,
+      -13.687846153846156
+    ],
+    [
+      -50.79544989775047,
+      -13.68871794871795
+    ],
+    [
+      -50.79621676891611,
+      -13.68974358974359
+    ],
+    [
+      -50.79683026584863,
+      -13.692153846153847
+    ],
+    [
+      -50.79749488752552,
+      -13.693333333333333
+    ],
+    [
+      -50.79836400817992,
+      -13.69374358974359
+    ],
+    [
+      -50.799488752556194,
+      -13.693846153846154
+    ],
+    [
+      -50.8007668711656,
+      -13.693025641025642
+    ],
+    [
+      -50.8007668711656,
+      -13.690769230769233
+    ],
+    [
+      -50.80061349693247,
+      -13.68846153846154
+    ]
+  ],
+  "projected_crs": "EPSG:31982",
+  "peak_coordinates": [
+    -50.7987,
+    -13.689900000000009
+  ],
+  "inside": true,
+  "boundary_margin_m": 216.8,
+  "traced_area_km2": 0.458,
+  "report_stated_area_km2": 0.48,
+  "sensitivity_buffer_m": 80,
+  "inside_after_80m_erosion": true,
+  "limits": [
+    "Hand digitization from rendered map, not survey or administrative boundary.",
+    "80m is a conservative sensitivity scenario, not statistically established error bound.",
+    "Source map datum is not explicit in figure; projection is used only for approximate distance/area."
+  ],
+  "decision": "geographic_map_correspondence_confirmed_application_pending",
+  "name_applied": false,
+  "original_resolution_reviewed": true,
+  "independent_government_coordinate_review": "docs/unnamed-world-batch406-geographic-review.json"
+}

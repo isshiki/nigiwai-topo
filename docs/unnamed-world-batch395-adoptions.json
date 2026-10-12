@@ -1,0 +1,30 @@
+{
+  "batch": 395,
+  "adopted": 1,
+  "total_adopted": 915,
+  "remaining": 4439,
+  "items": [
+    {
+      "peak": "46.384, -71.410",
+      "ref": {
+        "id": "8617398",
+        "name": "Sainte-Agathe",
+        "country": "CA",
+        "lon": -71.40924,
+        "lat": 46.38365,
+        "feature_code": "PPL",
+        "source_url": "https://download.geonames.org/export/dump/CA.zip",
+        "distance_m": 67,
+        "supporting_pois": 34,
+        "support_share": 0.919
+      },
+      "ja_editorial": "サンタグアット・ド・ロトビニエール（推定）",
+      "batch": 395,
+      "policy": "reviewed_address_text_anchors",
+      "reading_status": "inferred",
+      "reviewed_by": "Codex",
+      "review_note": "推定音写。BMR公式の歴史的加盟店表はCoopAgricLaSeigneurie119RueStGeorgesをSainteAgathedeLotbiniereとして記載。自治体254RueSaintPierreをCanada.ca2015公式告知で確認。GeoNames短名SainteAgatheは州官報の旧Village/Paroisse統合記述を併せた個別地域対応。現BMRは2321RueSaintGeorgesであり移転/改番を未確定のまま旧住所と同一地点とは断定しない。34/37本文支持。",
+      "official_anchor_review": "docs/unnamed-world-official-anchor-reviews.json"
+    }
+  ]
+}

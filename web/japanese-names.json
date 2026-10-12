@@ -1,0 +1,2420 @@
+{
+  "sg-singapore": {
+    "node/10538809251": {
+      "name": "ハーバー・フロント駅",
+      "source": "https://www.wikidata.org/wiki/Q3272355"
+    },
+    "node/1316097199": {
+      "name": "リゾート・ワールド",
+      "source": "OSM name:ja"
+    },
+    "node/1547412240": {
+      "name": "ガル・サークル駅",
+      "source": "https://www.wikidata.org/wiki/Q5617139"
+    },
+    "way/1546945489": {
+      "name": "ガル・サークル駅",
+      "source": "https://www.wikidata.org/wiki/Q5617139"
+    },
+    "node/1547515539": {
+      "name": "トゥアス・クレセント駅",
+      "source": "https://www.wikidata.org/wiki/Q3537127"
+    },
+    "node/1547519833": {
+      "name": "トゥアス・ウエスト・ロード駅",
+      "source": "https://www.wikidata.org/wiki/Q3537087"
+    },
+    "node/1547550796": {
+      "name": "トゥアス・リンク駅",
+      "source": "https://www.wikidata.org/wiki/Q11149382"
+    },
+    "node/1619228568": {
+      "name": "ケンバンガン駅",
+      "source": "https://www.wikidata.org/wiki/Q3272325"
+    },
+    "node/1639480363": {
+      "name": "JBセントラル駅",
+      "source": "OSM name:ja"
+    },
+    "node/1767623973": {
+      "name": "シメイ駅",
+      "source": "https://www.wikidata.org/wiki/Q3272118"
+    },
+    "node/1839617627": {
+      "name": "ブキ・バトック駅",
+      "source": "https://www.wikidata.org/wiki/Q2057489"
+    },
+    "node/1840733395": {
+      "name": "アドミラルティ駅",
+      "source": "https://www.wikidata.org/wiki/Q3267849"
+    },
+    "node/1840733396": {
+      "name": "バンキット駅",
+      "source": "https://www.wikidata.org/wiki/Q4855189"
+    },
+    "node/1840733403": {
+      "name": "ブキ・ゴンバック駅",
+      "source": "OSM name:ja"
+    },
+    "node/1840733410": {
+      "name": "ファジャー駅",
+      "source": "https://www.wikidata.org/wiki/Q5431381"
+    },
+    "node/1840733418": {
+      "name": "キート・ホン駅",
+      "source": "https://www.wikidata.org/wiki/Q6382291"
+    },
+    "node/1840733423": {
+      "name": "クランジ駅",
+      "source": "https://www.wikidata.org/wiki/Q2598513"
+    },
+    "node/1840733426": {
+      "name": "マルシリン駅",
+      "source": "https://www.wikidata.org/wiki/Q2346222"
+    },
+    "node/1840733434": {
+      "name": "ペティール駅",
+      "source": "https://www.wikidata.org/wiki/Q7178343"
+    },
+    "node/1840733438": {
+      "name": "センバワン駅",
+      "source": "https://www.wikidata.org/wiki/Q2591642"
+    },
+    "node/1840733439": {
+      "name": "センジャ駅",
+      "source": "https://www.wikidata.org/wiki/Q7450771"
+    },
+    "node/1840733448": {
+      "name": "テック・ウィー駅",
+      "source": "https://www.wikidata.org/wiki/Q7692709"
+    },
+    "node/1840733455": {
+      "name": "ユー・ティー駅",
+      "source": "https://www.wikidata.org/wiki/Q2285411"
+    },
+    "node/1840733456": {
+      "name": "イーシュン駅",
+      "source": "https://www.wikidata.org/wiki/Q2944154"
+    },
+    "node/1840734595": {
+      "name": "カンカル駅",
+      "source": "https://www.wikidata.org/wiki/Q6362774"
+    },
+    "node/1840734605": {
+      "name": "ルンビア駅",
+      "source": "https://www.wikidata.org/wiki/Q7379161"
+    },
+    "node/2014918590": {
+      "name": "ウッドランズ・トレイン・チェックポイント",
+      "source": "OSM name:ja"
+    },
+    "node/206477134": {
+      "name": "アルジュニード駅",
+      "source": "https://www.wikidata.org/wiki/Q3272290"
+    },
+    "node/206493462": {
+      "name": "カラン駅",
+      "source": "https://www.wikidata.org/wiki/Q3272369"
+    },
+    "node/206529415": {
+      "name": "ヨー・チュー・カン駅",
+      "source": "https://www.wikidata.org/wiki/Q1903146"
+    },
+    "node/2066554828": {
+      "name": "ブキ・パンジャン駅",
+      "source": "https://www.wikidata.org/wiki/Q4265715"
+    },
+    "way/743551048": {
+      "name": "ブキ・パンジャン駅",
+      "source": "https://www.wikidata.org/wiki/Q4265715"
+    },
+    "node/207725957": {
+      "name": "ベドック駅",
+      "source": "https://www.wikidata.org/wiki/Q3272378"
+    },
+    "node/208526059": {
+      "name": "レッドヒル駅",
+      "source": "https://www.wikidata.org/wiki/Q1055296"
+    },
+    "node/208527368": {
+      "name": "クイーンズタウン駅",
+      "source": "https://www.wikidata.org/wiki/Q3272270"
+    },
+    "node/209390589": {
+      "name": "コモンウェルス駅",
+      "source": "https://www.wikidata.org/wiki/Q3272345"
+    },
+    "node/209451013": {
+      "name": "ドーヴァー駅",
+      "source": "https://www.wikidata.org/wiki/Q3272303"
+    },
+    "node/209451066": {
+      "name": "ジュロン・イースト駅",
+      "source": "https://www.wikidata.org/wiki/Q3121386"
+    },
+    "node/209451088": {
+      "name": "チャイニーズ・ガーデン駅",
+      "source": "https://www.wikidata.org/wiki/Q3272301"
+    },
+    "node/209451110": {
+      "name": "レイクサイド駅",
+      "source": "https://www.wikidata.org/wiki/Q3272255"
+    },
+    "node/2440006258": {
+      "name": "チョア・チュー・カン駅",
+      "source": "https://www.wikidata.org/wiki/Q2236720"
+    },
+    "node/4939484913": {
+      "name": "チョア・チュー・カン駅",
+      "source": "https://www.wikidata.org/wiki/Q2236720"
+    },
+    "node/268259662": {
+      "name": "ラングン駅",
+      "source": "https://www.wikidata.org/wiki/Q7292813"
+    },
+    "node/2957207984": {
+      "name": "ユーノス駅",
+      "source": "https://www.wikidata.org/wiki/Q3272360"
+    },
+    "node/385877670": {
+      "name": "ブーン・レイ駅",
+      "source": "https://www.wikidata.org/wiki/Q3272275"
+    },
+    "node/385878107": {
+      "name": "パイオニア駅",
+      "source": "https://www.wikidata.org/wiki/Q3271425"
+    },
+    "node/385878948": {
+      "name": "ジュー・クーン駅",
+      "source": "https://www.wikidata.org/wiki/Q3271443"
+    },
+    "node/391187489": {
+      "name": "ファーンベール駅",
+      "source": "https://www.wikidata.org/wiki/Q5445149"
+    },
+    "node/391188200": {
+      "name": "タンガン駅",
+      "source": "https://www.wikidata.org/wiki/Q7710307"
+    },
+    "node/391189922": {
+      "name": "トンカン駅",
+      "source": "https://www.wikidata.org/wiki/Q7821100"
+    },
+    "node/391190166": {
+      "name": "レンジョン駅",
+      "source": "https://www.wikidata.org/wiki/Q7313275"
+    },
+    "node/4538914740": {
+      "name": "カーティブ駅",
+      "source": "https://www.wikidata.org/wiki/Q2152805"
+    },
+    "node/6589739733": {
+      "name": "ビーチ",
+      "source": "OSM name:ja"
+    },
+    "node/7678872567": {
+      "name": "アン・モ・キオ駅",
+      "source": "https://www.wikidata.org/wiki/Q2266049"
+    },
+    "way/824832478": {
+      "name": "アン・モ・キオ駅",
+      "source": "https://www.wikidata.org/wiki/Q2266049"
+    },
+    "relation/13853747": {
+      "name": "アウトラム・パーク駅",
+      "source": "https://www.wikidata.org/wiki/Q2524803"
+    },
+    "relation/19196652": {
+      "name": "ホウガン駅",
+      "source": "https://www.wikidata.org/wiki/Q2057180"
+    },
+    "way/1008913159": {
+      "name": "ブキッ·ブラウン駅",
+      "source": "https://www.wikidata.org/wiki/Q4986886"
+    },
+    "way/1096259941": {
+      "name": "キング・アルバート・パーク駅",
+      "source": "https://www.wikidata.org/wiki/Q3524499"
+    },
+    "way/824481775": {
+      "name": "キング・アルバート・パーク駅",
+      "source": "https://www.wikidata.org/wiki/Q3524499"
+    },
+    "way/1096259943": {
+      "name": "クレメンティ駅",
+      "source": "https://www.wikidata.org/wiki/Q3272296"
+    },
+    "way/1113644053": {
+      "name": "プンゴル駅",
+      "source": "https://www.wikidata.org/wiki/Q3232625"
+    },
+    "way/1113659202": {
+      "name": "イライアス駅",
+      "source": "https://www.wikidata.org/wiki/Q96377155"
+    },
+    "way/1335904251": {
+      "name": "タナ・メラ駅",
+      "source": "OSM name:ja"
+    },
+    "way/159135584": {
+      "name": "サムデラ駅",
+      "source": "https://www.wikidata.org/wiki/Q7410678"
+    },
+    "way/172473528": {
+      "name": "スタジアム駅",
+      "source": "https://www.wikidata.org/wiki/Q1089469"
+    },
+    "way/231290543": {
+      "name": "チャンギ・エアポート駅",
+      "source": "https://www.wikidata.org/wiki/Q3268527"
+    },
+    "way/298087542": {
+      "name": "ベイショア駅",
+      "source": "https://www.wikidata.org/wiki/Q18209994"
+    },
+    "way/298087553": {
+      "name": "グレートワールド駅",
+      "source": "https://www.wikidata.org/wiki/Q5600268"
+    },
+    "way/298087555": {
+      "name": "ハブロック",
+      "source": "https://www.wikidata.org/wiki/Q5683584"
+    },
+    "way/298087561": {
+      "name": "レンター駅",
+      "source": "https://www.wikidata.org/wiki/Q6523392"
+    },
+    "way/298087577": {
+      "name": "マリン・パレード駅",
+      "source": "https://www.wikidata.org/wiki/Q17611609"
+    },
+    "way/298087578": {
+      "name": "マリン・テラス駅",
+      "source": "https://www.wikidata.org/wiki/Q17611611"
+    },
+    "way/298087580": {
+      "name": "メイフラワー駅",
+      "source": "https://www.wikidata.org/wiki/Q15693078"
+    },
+    "way/298087585": {
+      "name": "オーチャード駅",
+      "source": "https://www.wikidata.org/wiki/Q2641398"
+    },
+    "way/298087592": {
+      "name": "シグラップ駅",
+      "source": "https://www.wikidata.org/wiki/Q18378404"
+    },
+    "way/298087594": {
+      "name": "スプリングリーフ駅",
+      "source": "https://www.wikidata.org/wiki/Q7581151"
+    },
+    "way/298087596": {
+      "name": "スティーブンス駅",
+      "source": "https://www.wikidata.org/wiki/Q3524618"
+    },
+    "way/298087600": {
+      "name": "アッパー・トムソン駅",
+      "source": "https://www.wikidata.org/wiki/Q7898958"
+    },
+    "way/298087602": {
+      "name": "ブライト・ヒル駅",
+      "source": "https://www.wikidata.org/wiki/Q7521549"
+    },
+    "way/298087605": {
+      "name": "ウッドランズ・サウス駅",
+      "source": "https://www.wikidata.org/wiki/Q8032966"
+    },
+    "way/298087607": {
+      "name": "ウッドランズ駅",
+      "source": "https://www.wikidata.org/wiki/Q3267838"
+    },
+    "way/397901195": {
+      "name": "タンピネス駅",
+      "source": "https://www.wikidata.org/wiki/Q3272264"
+    },
+    "way/398116872": {
+      "name": "カキ·ブキット駅",
+      "source": "https://www.wikidata.org/wiki/Q3524442"
+    },
+    "way/429057527": {
+      "name": "キャンベラ駅",
+      "source": "https://www.wikidata.org/wiki/Q18209311"
+    },
+    "way/534060662": {
+      "name": "マッター駅",
+      "source": "https://www.wikidata.org/wiki/Q11007759"
+    },
+    "way/534060668": {
+      "name": "ウビ駅",
+      "source": "https://www.wikidata.org/wiki/Q3521374"
+    },
+    "way/534060671": {
+      "name": "タンピネスウエスト駅",
+      "source": "https://www.wikidata.org/wiki/Q7681810"
+    },
+    "way/534060674": {
+      "name": "タンピネスイースト駅",
+      "source": "https://www.wikidata.org/wiki/Q7681800"
+    },
+    "way/534060678": {
+      "name": "アッパーチャンギ駅",
+      "source": "https://www.wikidata.org/wiki/Q7898559"
+    },
+    "way/534060681": {
+      "name": "エキスポ駅",
+      "source": "OSM name:ja"
+    },
+    "way/534060687": {
+      "name": "ベドックノース駅",
+      "source": "https://www.wikidata.org/wiki/Q4879344"
+    },
+    "way/607376584": {
+      "name": "ベドックリザーバー駅",
+      "source": "https://www.wikidata.org/wiki/Q4879351"
+    },
+    "way/627548969": {
+      "name": "ゲイラン·バル駅",
+      "source": "https://www.wikidata.org/wiki/Q5554997"
+    },
+    "way/663177167": {
+      "name": "コールデコット駅",
+      "source": "https://www.wikidata.org/wiki/Q3521474"
+    },
+    "way/665451220": {
+      "name": "マリーナ・サウス・ピア駅",
+      "source": "https://www.wikidata.org/wiki/Q3536328"
+    },
+    "way/665452427": {
+      "name": "ビシャン駅",
+      "source": "https://www.wikidata.org/wiki/Q3234658"
+    },
+    "way/665452428": {
+      "name": "ブラッデル駅",
+      "source": "https://www.wikidata.org/wiki/Q1914874"
+    },
+    "way/739472746": {
+      "name": "ドビー・ゴート駅",
+      "source": "https://www.wikidata.org/wiki/Q3234475"
+    },
+    "way/743554288": {
+      "name": "ホランド·ヴィレッジ駅",
+      "source": "https://www.wikidata.org/wiki/Q1097460"
+    },
+    "way/743554290": {
+      "name": "ファラーロード駅",
+      "source": "https://www.wikidata.org/wiki/Q3524122"
+    },
+    "way/743554291": {
+      "name": "ボタニックガーデンズ駅",
+      "source": "https://www.wikidata.org/wiki/Q11117393"
+    },
+    "way/743561351": {
+      "name": "ティオン・バル駅",
+      "source": "https://www.wikidata.org/wiki/Q3272318"
+    },
+    "way/743563592": {
+      "name": "ラッフルズ・プレイス駅",
+      "source": "https://www.wikidata.org/wiki/Q3234430"
+    },
+    "way/743564833": {
+      "name": "ブギス駅",
+      "source": "https://www.wikidata.org/wiki/Q3268537"
+    },
+    "way/743566214": {
+      "name": "リトル・インディア駅",
+      "source": "https://www.wikidata.org/wiki/Q3194232"
+    },
+    "way/743566215": {
+      "name": "ファーラー・パーク駅",
+      "source": "https://www.wikidata.org/wiki/Q612284"
+    },
+    "way/743566216": {
+      "name": "ブーン・ケン駅",
+      "source": "https://www.wikidata.org/wiki/Q2512039"
+    },
+    "way/743596794": {
+      "name": "ラベンダー駅",
+      "source": "https://www.wikidata.org/wiki/Q3272337"
+    },
+    "way/743599219": {
+      "name": "チャイナタウン駅",
+      "source": "https://www.wikidata.org/wiki/Q3234439"
+    },
+    "way/743599220": {
+      "name": "クラーク・キー駅",
+      "source": "https://www.wikidata.org/wiki/Q2012051"
+    },
+    "way/743621008": {
+      "name": "シティホール駅",
+      "source": "https://www.wikidata.org/wiki/Q1901870"
+    },
+    "way/743622458": {
+      "name": "テロック·アヤ駅",
+      "source": "https://www.wikidata.org/wiki/Q7697794"
+    },
+    "way/743622459": {
+      "name": "ベイフロント駅",
+      "source": "https://www.wikidata.org/wiki/Q1106644"
+    },
+    "way/743648499": {
+      "name": "ポトン・パシール駅",
+      "source": "https://www.wikidata.org/wiki/Q2030579"
+    },
+    "way/743648500": {
+      "name": "ウッドレイ駅",
+      "source": "https://www.wikidata.org/wiki/Q2398515"
+    },
+    "way/743648501": {
+      "name": "セラングーン駅",
+      "source": "https://www.wikidata.org/wiki/Q2295436"
+    },
+    "way/743648502": {
+      "name": "コヴァン駅",
+      "source": "https://www.wikidata.org/wiki/Q2007528"
+    },
+    "way/743648503": {
+      "name": "バートリー駅",
+      "source": "https://www.wikidata.org/wiki/Q1089462"
+    },
+    "way/743648507": {
+      "name": "ダコタ駅",
+      "source": "https://www.wikidata.org/wiki/Q1089352"
+    },
+    "way/743648511": {
+      "name": "パシルパンジャン駅",
+      "source": "https://www.wikidata.org/wiki/Q7142160"
+    },
+    "way/743648513": {
+      "name": "ヒルビュー駅",
+      "source": "https://www.wikidata.org/wiki/Q3521438"
+    },
+    "way/743648514": {
+      "name": "ビューティー・ワールド駅",
+      "source": "https://www.wikidata.org/wiki/Q4877913"
+    },
+    "way/743648515": {
+      "name": "タン・カー・キー駅",
+      "source": "https://www.wikidata.org/wiki/Q12983052"
+    },
+    "way/743655241": {
+      "name": "ノベナ駅",
+      "source": "https://www.wikidata.org/wiki/Q2404134"
+    },
+    "way/743655242": {
+      "name": "トア・パヨ駅",
+      "source": "OSM name:ja"
+    },
+    "way/743763992": {
+      "name": "ブラス·バサ駅",
+      "source": "https://www.wikidata.org/wiki/Q1089384"
+    },
+    "way/768461440": {
+      "name": "オアシス駅",
+      "source": "https://www.wikidata.org/wiki/Q7074425"
+    },
+    "way/768464810": {
+      "name": "コーラル・エッジ駅",
+      "source": "https://www.wikidata.org/wiki/Q5169457"
+    },
+    "way/768464812": {
+      "name": "コーヴ駅",
+      "source": "https://www.wikidata.org/wiki/Q5178930"
+    },
+    "way/796380532": {
+      "name": "サマセット駅",
+      "source": "https://www.wikidata.org/wiki/Q2208305"
+    },
+    "way/796799968": {
+      "name": "ブアンコック駅",
+      "source": "https://www.wikidata.org/wiki/Q3268520"
+    },
+    "way/823046125": {
+      "name": "ブオナ・ヴィスタ駅",
+      "source": "https://www.wikidata.org/wiki/Q3272258"
+    },
+    "way/823759101": {
+      "name": "パヤ・レバー駅",
+      "source": "https://www.wikidata.org/wiki/Q3272113"
+    },
+    "way/823759102": {
+      "name": "エスプラネード駅",
+      "source": "https://www.wikidata.org/wiki/Q1089392"
+    },
+    "way/823759106": {
+      "name": "タイセン駅",
+      "source": "https://www.wikidata.org/wiki/Q1089339"
+    },
+    "way/823759107": {
+      "name": "ロロン·チュアン駅",
+      "source": "https://www.wikidata.org/wiki/Q1089345"
+    },
+    "way/823759108": {
+      "name": "メリーマウント駅",
+      "source": "https://www.wikidata.org/wiki/Q1089474"
+    },
+    "way/823759109": {
+      "name": "ワンノース駅",
+      "source": "https://www.wikidata.org/wiki/Q1097449"
+    },
+    "way/823759110": {
+      "name": "ケント·リッジ駅",
+      "source": "https://www.wikidata.org/wiki/Q6391878"
+    },
+    "way/823759111": {
+      "name": "ハウパーヴィラ駅",
+      "source": "https://www.wikidata.org/wiki/Q3524310"
+    },
+    "way/823789585": {
+      "name": "ラブラドール·パーク駅",
+      "source": "https://www.wikidata.org/wiki/Q3521325"
+    },
+    "way/823789586": {
+      "name": "テロック・ブランガ駅",
+      "source": "https://www.wikidata.org/wiki/Q7697798"
+    },
+    "way/824237598": {
+      "name": "センカン駅",
+      "source": "https://www.wikidata.org/wiki/Q3234147"
+    },
+    "way/824481777": {
+      "name": "シックス・アベニュー駅",
+      "source": "https://www.wikidata.org/wiki/Q3524567"
+    },
+    "way/824832473": {
+      "name": "パシール・リス",
+      "source": "https://www.wikidata.org/wiki/Q4259440"
+    },
+    "way/824832476": {
+      "name": "セラングーン・ノース駅",
+      "source": "https://www.wikidata.org/wiki/Q61014509"
+    },
+    "way/824832477": {
+      "name": "タヴィストック駅",
+      "source": "https://www.wikidata.org/wiki/Q61014512"
+    },
+    "way/824832479": {
+      "name": "テック・ギ―駅",
+      "source": "https://www.wikidata.org/wiki/Q61014529"
+    },
+    "node/1830761513": {
+      "name": "ジュロン・イースト",
+      "source": "https://www.wikidata.org/wiki/Q1714023"
+    },
+    "node/1830780094": {
+      "name": "ジュロン",
+      "source": "https://www.wikidata.org/wiki/Q14439130"
+    },
+    "node/2511002281": {
+      "name": "トゥアス",
+      "source": "https://www.wikidata.org/wiki/Q7850658"
+    },
+    "node/2970751698": {
+      "name": "チャンギ・ヴィレッジ",
+      "source": "https://www.wikidata.org/wiki/Q5072003"
+    },
+    "node/4664913689": {
+      "name": "タンジュン・プングリ",
+      "source": "https://www.wikidata.org/wiki/Q6131581"
+    },
+    "node/5317908677": {
+      "name": "パシルグダン",
+      "source": "https://www.wikidata.org/wiki/Q1018693"
+    },
+    "node/13348031319": {
+      "name": "セレター・エアロスペース・パーク",
+      "source": "https://www.wikidata.org/wiki/Q7447922"
+    },
+    "relation/19910115": {
+      "name": "ウェスタン・ウォーター・キャッチメント",
+      "source": "https://www.wikidata.org/wiki/Q7988434"
+    },
+    "relation/19910175": {
+      "name": "トゥアス",
+      "source": "https://www.wikidata.org/wiki/Q7850658"
+    },
+    "relation/19910205": {
+      "name": "チャンギ",
+      "source": "https://www.wikidata.org/wiki/Q1812824"
+    },
+    "relation/19910371": {
+      "name": "ブキット・バトック・ニュータウン",
+      "source": "https://www.wikidata.org/wiki/Q1906213"
+    }
+  },
+  "gb-london": {
+    "node/1104903773": {
+      "name": "ブッシー駅",
+      "source": "https://www.wikidata.org/wiki/Q19817"
+    },
+    "node/119274464": {
+      "name": "キングス・クロス・セント・パンクラス駅",
+      "source": "https://www.wikidata.org/wiki/Q826120"
+    },
+    "node/12286269903": {
+      "name": "リバプール・ストリート駅",
+      "source": "https://www.wikidata.org/wiki/Q801124"
+    },
+    "node/3637436407": {
+      "name": "リバプール・ストリート駅",
+      "source": "https://www.wikidata.org/wiki/Q801124"
+    },
+    "node/1256794": {
+      "name": "ウェスト・ドライトン駅",
+      "source": "https://www.wikidata.org/wiki/Q2033143"
+    },
+    "node/1389887370": {
+      "name": "アーチウェイ駅",
+      "source": "https://www.wikidata.org/wiki/Q636351"
+    },
+    "node/15026054": {
+      "name": "スローン・スクエア駅",
+      "source": "https://www.wikidata.org/wiki/Q1530578"
+    },
+    "node/1525365505": {
+      "name": "イースト・アクトン駅",
+      "source": "https://www.wikidata.org/wiki/Q1277721"
+    },
+    "node/1637578440": {
+      "name": "バンク駅・モニュメント駅",
+      "source": "https://www.wikidata.org/wiki/Q806704"
+    },
+    "node/1645907858": {
+      "name": "ヒースロー・ターミナル4駅 (ロンドン地下鉄)",
+      "source": "https://www.wikidata.org/wiki/Q1592614"
+    },
+    "node/248576871": {
+      "name": "ヒースロー・ターミナル4駅 (ロンドン地下鉄)",
+      "source": "https://www.wikidata.org/wiki/Q1592614"
+    },
+    "node/1651498764": {
+      "name": "バロンズ・コート駅",
+      "source": "https://www.wikidata.org/wiki/Q808729"
+    },
+    "node/1651504140": {
+      "name": "アーノス・グローヴ駅",
+      "source": "https://www.wikidata.org/wiki/Q697151"
+    },
+    "node/1670707904": {
+      "name": "エンジェル駅",
+      "source": "https://www.wikidata.org/wiki/Q531444"
+    },
+    "node/1670707917": {
+      "name": "カムデン・タウン駅",
+      "source": "https://www.wikidata.org/wiki/Q1028430"
+    },
+    "node/1670707933": {
+      "name": "イースト・フィンチリー駅",
+      "source": "https://www.wikidata.org/wiki/Q1277850"
+    },
+    "node/1670707949": {
+      "name": "ハイゲート駅",
+      "source": "https://www.wikidata.org/wiki/Q617824"
+    },
+    "node/1678368302": {
+      "name": "ヘンドン・セントラル駅",
+      "source": "https://www.wikidata.org/wiki/Q1308799"
+    },
+    "node/1687814967": {
+      "name": "ハイ・バーネット駅",
+      "source": "https://www.wikidata.org/wiki/Q671034"
+    },
+    "node/1693158540": {
+      "name": "ブレント・クロス駅",
+      "source": "https://www.wikidata.org/wiki/Q1828818"
+    },
+    "node/1736548313": {
+      "name": "グリーンフォード駅",
+      "source": "https://www.wikidata.org/wiki/Q800841"
+    },
+    "node/1742846162": {
+      "name": "レイトンストーン・ハイ・ロード駅",
+      "source": "https://www.wikidata.org/wiki/Q3500636"
+    },
+    "node/1785378837": {
+      "name": "ヴァージニア・ウォーター駅",
+      "source": "https://www.wikidata.org/wiki/Q976686"
+    },
+    "node/18049583": {
+      "name": "サイプレス駅",
+      "source": "https://www.wikidata.org/wiki/Q599724"
+    },
+    "node/18089211": {
+      "name": "ウィンブルドン駅",
+      "source": "https://www.wikidata.org/wiki/Q801616"
+    },
+    "node/181662604": {
+      "name": "ストックウェル駅",
+      "source": "https://www.wikidata.org/wiki/Q1549562"
+    },
+    "node/1825273032": {
+      "name": "ミル・ヒル・イースト駅",
+      "source": "https://www.wikidata.org/wiki/Q1670635"
+    },
+    "node/1825273052": {
+      "name": "ウェスト・フィンチリー駅",
+      "source": "https://www.wikidata.org/wiki/Q175436"
+    },
+    "node/1825273066": {
+      "name": "ウッドサイド・パーク駅",
+      "source": "https://www.wikidata.org/wiki/Q1974772"
+    },
+    "node/186194628": {
+      "name": "アーセナル駅",
+      "source": "OSM name:ja"
+    },
+    "node/1950186711": {
+      "name": "エピング",
+      "source": "https://www.wikidata.org/wiki/Q1347650"
+    },
+    "node/1981724789": {
+      "name": "イルフォード駅",
+      "source": "https://www.wikidata.org/wiki/Q587700"
+    },
+    "node/1981729187": {
+      "name": "セブン・キングス駅",
+      "source": "https://www.wikidata.org/wiki/Q2527615"
+    },
+    "node/2013971": {
+      "name": "フィンチリー・セントラル駅",
+      "source": "https://www.wikidata.org/wiki/Q1416721"
+    },
+    "node/20455533": {
+      "name": "ハーロウ&ウィールドストーン駅",
+      "source": "https://www.wikidata.org/wiki/Q800896"
+    },
+    "node/20455872": {
+      "name": "キングス・ラングレー駅",
+      "source": "https://www.wikidata.org/wiki/Q2206088"
+    },
+    "node/20792890": {
+      "name": "セント・オールバンズ・アビー駅",
+      "source": "https://www.wikidata.org/wiki/Q2693952"
+    },
+    "node/20795433": {
+      "name": "ワットフォード・ノース駅",
+      "source": "https://www.wikidata.org/wiki/Q19902"
+    },
+    "node/20992532": {
+      "name": "ワットフォード・ハイ・ストリート",
+      "source": "https://www.wikidata.org/wiki/Q19898"
+    },
+    "node/21123075": {
+      "name": "デンハム駅",
+      "source": "https://www.wikidata.org/wiki/Q2780894"
+    },
+    "node/21123677": {
+      "name": "ライスリップガーデンズ",
+      "source": "https://www.wikidata.org/wiki/Q1718915"
+    },
+    "node/21141346": {
+      "name": "ノース・ウェンブリー駅",
+      "source": "https://www.wikidata.org/wiki/Q730267"
+    },
+    "node/21442171": {
+      "name": "トゥーティング・ベク地下鉄駅",
+      "source": "https://www.wikidata.org/wiki/Q1424421"
+    },
+    "node/21507731": {
+      "name": "クラパム・ノース駅",
+      "source": "https://www.wikidata.org/wiki/Q1095082"
+    },
+    "node/21507733": {
+      "name": "オーヴァル駅",
+      "source": "https://www.wikidata.org/wiki/Q426804"
+    },
+    "node/21507827": {
+      "name": "ケニントン駅",
+      "source": "https://www.wikidata.org/wiki/Q1738951"
+    },
+    "node/2158280269": {
+      "name": "サウス・ハーロウ",
+      "source": "https://www.wikidata.org/wiki/Q946831"
+    },
+    "node/21596119": {
+      "name": "ダルストン・ジャンクション駅",
+      "source": "https://www.wikidata.org/wiki/Q800651"
+    },
+    "node/2266399032": {
+      "name": "アクトン・セントラル駅",
+      "source": "https://www.wikidata.org/wiki/Q2640985"
+    },
+    "node/2288456779": {
+      "name": "サドベリー・ヒル駅",
+      "source": "https://www.wikidata.org/wiki/Q2121603"
+    },
+    "node/2314512860": {
+      "name": "エッジウェア・ロード駅",
+      "source": "https://www.wikidata.org/wiki/Q1284426"
+    },
+    "node/5206774617": {
+      "name": "エッジウェア・ロード駅",
+      "source": "https://www.wikidata.org/wiki/Q1284426"
+    },
+    "node/2376594758": {
+      "name": "オンガー駅",
+      "source": "https://www.wikidata.org/wiki/Q450533"
+    },
+    "node/2438234411": {
+      "name": "ハジャーストン駅",
+      "source": "https://www.wikidata.org/wiki/Q1842102"
+    },
+    "node/2438262362": {
+      "name": "サーリー・クエイズ駅",
+      "source": "https://www.wikidata.org/wiki/Q801499"
+    },
+    "node/2438280276": {
+      "name": "Denmark Hill駅",
+      "source": "https://www.wikidata.org/wiki/Q1981385"
+    },
+    "node/2438286491": {
+      "name": "ワンズワース・ロード駅",
+      "source": "https://www.wikidata.org/wiki/Q2472566"
+    },
+    "node/25316887": {
+      "name": "ウォルサムストウ・クイーンズ・ロード駅",
+      "source": "https://www.wikidata.org/wiki/Q2546520"
+    },
+    "node/25532362": {
+      "name": "アイヴァー駅",
+      "source": "https://www.wikidata.org/wiki/Q6098724"
+    },
+    "node/26087536": {
+      "name": "クールズドン・タウン駅",
+      "source": "https://www.wikidata.org/wiki/Q2136840"
+    },
+    "node/26652919": {
+      "name": "ブリクストン駅",
+      "source": "https://www.wikidata.org/wiki/Q117586"
+    },
+    "node/2961311554": {
+      "name": "ブリクストン駅",
+      "source": "https://www.wikidata.org/wiki/Q117586"
+    },
+    "node/270091541": {
+      "name": "ウェスト・クロイドン",
+      "source": "https://www.wikidata.org/wiki/Q801592"
+    },
+    "node/29859288": {
+      "name": "ブラックホース・ロード駅",
+      "source": "https://www.wikidata.org/wiki/Q800541"
+    },
+    "node/302042289": {
+      "name": "イースト・クロイドン駅",
+      "source": "https://www.wikidata.org/wiki/Q800699"
+    },
+    "node/3076573913": {
+      "name": "ボンド・ストリート駅",
+      "source": "https://www.wikidata.org/wiki/Q892189"
+    },
+    "node/9754536755": {
+      "name": "ボンド・ストリート駅",
+      "source": "https://www.wikidata.org/wiki/Q892189"
+    },
+    "node/3076573915": {
+      "name": "チャンスリー・レーン駅",
+      "source": "https://www.wikidata.org/wiki/Q1061682"
+    },
+    "node/3076573916": {
+      "name": "チグウェル",
+      "source": "https://www.wikidata.org/wiki/Q597571"
+    },
+    "node/3076573917": {
+      "name": "デブデン",
+      "source": "https://www.wikidata.org/wiki/Q1181455"
+    },
+    "node/3076573925": {
+      "name": "ガンツ・ヒル駅",
+      "source": "https://www.wikidata.org/wiki/Q1493698"
+    },
+    "node/3076573926": {
+      "name": "グレンジヒル",
+      "source": "https://www.wikidata.org/wiki/Q646052"
+    },
+    "node/3076573927": {
+      "name": "ヘイノールト",
+      "source": "https://www.wikidata.org/wiki/Q1569388"
+    },
+    "node/3076574236": {
+      "name": "マイル・エンド駅",
+      "source": "https://www.wikidata.org/wiki/Q784876"
+    },
+    "node/31072288": {
+      "name": "ロムフォード駅",
+      "source": "https://www.wikidata.org/wiki/Q2299776"
+    },
+    "node/3139881254": {
+      "name": "ワットフォード・ジャンクション駅",
+      "source": "https://www.wikidata.org/wiki/Q10698"
+    },
+    "node/3220011612": {
+      "name": "チェシントン・サウス駅",
+      "source": "https://www.wikidata.org/wiki/Q1812549"
+    },
+    "node/3284103165": {
+      "name": "ファリンドン駅",
+      "source": "https://www.wikidata.org/wiki/Q800754"
+    },
+    "node/3370671078": {
+      "name": "レスター・スクウェア駅",
+      "source": "https://www.wikidata.org/wiki/Q2538959"
+    },
+    "node/3397249904": {
+      "name": "シェパートン駅",
+      "source": "https://www.wikidata.org/wiki/Q3246626"
+    },
+    "node/34006946": {
+      "name": "クラパム・サウス地下鉄駅",
+      "source": "https://www.wikidata.org/wiki/Q1095083"
+    },
+    "node/34007928": {
+      "name": "バラム駅",
+      "source": "https://www.wikidata.org/wiki/Q579345"
+    },
+    "node/3941256583": {
+      "name": "バラム駅",
+      "source": "https://www.wikidata.org/wiki/Q579345"
+    },
+    "node/34037748": {
+      "name": "トゥーティング・ブロードウェイ駅",
+      "source": "https://www.wikidata.org/wiki/Q685100"
+    },
+    "node/34037750": {
+      "name": "コリアーズ・ウッド駅",
+      "source": "https://www.wikidata.org/wiki/Q1109527"
+    },
+    "node/34037860": {
+      "name": "サウス・ウィンブルドン駅",
+      "source": "https://www.wikidata.org/wiki/Q1974760"
+    },
+    "node/3446641270": {
+      "name": "クイーンズタウン・ロード駅 (バタシー)",
+      "source": "https://www.wikidata.org/wiki/Q2685594"
+    },
+    "node/3446663141": {
+      "name": "ヴォクソール駅",
+      "source": "https://www.wikidata.org/wiki/Q86666660"
+    },
+    "node/3817850257": {
+      "name": "ヴォクソール駅",
+      "source": "https://www.wikidata.org/wiki/Q86666660"
+    },
+    "node/34595046": {
+      "name": "レッドブリッジ駅",
+      "source": "https://www.wikidata.org/wiki/Q1974732"
+    },
+    "node/35499361": {
+      "name": "サービトン駅",
+      "source": "https://www.wikidata.org/wiki/Q2526353"
+    },
+    "node/3627121536": {
+      "name": "バーンハースト駅",
+      "source": "https://www.wikidata.org/wiki/Q2152688"
+    },
+    "node/3627170668": {
+      "name": "ワンズワース・タウン駅",
+      "source": "https://www.wikidata.org/wiki/Q2834607"
+    },
+    "node/3631670349": {
+      "name": "マースタム駅",
+      "source": "https://www.wikidata.org/wiki/Q369575"
+    },
+    "node/3637436408": {
+      "name": "リバプール・ストリート駅",
+      "source": "https://www.wikidata.org/wiki/Q801124"
+    },
+    "node/3638795617": {
+      "name": "ロンドン・ウォータールー駅",
+      "source": "https://www.wikidata.org/wiki/Q795691"
+    },
+    "node/3655237096": {
+      "name": "ストリートハム駅",
+      "source": "https://www.wikidata.org/wiki/Q368336"
+    },
+    "node/3660623412": {
+      "name": "エレファント&キャッスル駅",
+      "source": "https://www.wikidata.org/wiki/Q13583357"
+    },
+    "node/3660623413": {
+      "name": "エレファント&キャッスル駅",
+      "source": "https://www.wikidata.org/wiki/Q13583357"
+    },
+    "node/3661349170": {
+      "name": "サットン駅",
+      "source": "https://www.wikidata.org/wiki/Q4437087"
+    },
+    "node/3671417635": {
+      "name": "バーンズ駅",
+      "source": "https://www.wikidata.org/wiki/Q1973974"
+    },
+    "node/3727407362": {
+      "name": "エフィングハム・ジャンクション駅",
+      "source": "https://www.wikidata.org/wiki/Q2164410"
+    },
+    "node/3735044726": {
+      "name": "ウィンブルドン・チェイス駅",
+      "source": "https://www.wikidata.org/wiki/Q2351064"
+    },
+    "node/3748134854": {
+      "name": "ウィンブルドン・パーク駅",
+      "source": "https://www.wikidata.org/wiki/Q1974778"
+    },
+    "node/3749159483": {
+      "name": "インペリアル・ワーフ駅",
+      "source": "https://www.wikidata.org/wiki/Q800954"
+    },
+    "node/3749254091": {
+      "name": "アールスフィールド駅",
+      "source": "https://www.wikidata.org/wiki/Q742411"
+    },
+    "node/3749263909": {
+      "name": "チェサント",
+      "source": "https://www.wikidata.org/wiki/Q3303565"
+    },
+    "node/3752485552": {
+      "name": "ウォキング駅",
+      "source": "https://www.wikidata.org/wiki/Q2119774"
+    },
+    "node/3752975773": {
+      "name": "トゥーティング駅",
+      "source": "https://www.wikidata.org/wiki/Q2181903"
+    },
+    "node/3752975780": {
+      "name": "ヘイドンズ・ロード駅",
+      "source": "https://www.wikidata.org/wiki/Q1909042"
+    },
+    "node/3757075887": {
+      "name": "ワンズワース・コモン駅",
+      "source": "https://www.wikidata.org/wiki/Q2398577"
+    },
+    "node/3768010552": {
+      "name": "ヴィクトリア駅",
+      "source": "https://www.wikidata.org/wiki/Q985210"
+    },
+    "node/441947584": {
+      "name": "ヴィクトリア駅",
+      "source": "https://www.wikidata.org/wiki/Q985210"
+    },
+    "node/3803245041": {
+      "name": "セブン・シスターズ駅",
+      "source": "https://www.wikidata.org/wiki/Q801433"
+    },
+    "node/3808897466": {
+      "name": "サウスフィールズ駅",
+      "source": "https://www.wikidata.org/wiki/Q1974786"
+    },
+    "node/3825936573": {
+      "name": "Orpington駅",
+      "source": "https://www.wikidata.org/wiki/Q1956050"
+    },
+    "node/3831844357": {
+      "name": "チャタム本線",
+      "source": "https://www.wikidata.org/wiki/Q2794382"
+    },
+    "node/3846904832": {
+      "name": "コブハム&ストーク・ダバノン駅",
+      "source": "https://www.wikidata.org/wiki/Q5138880"
+    },
+    "node/3854099069": {
+      "name": "レッドヒル駅",
+      "source": "https://www.wikidata.org/wiki/Q2383756"
+    },
+    "node/3942249071": {
+      "name": "モルトレイク駅",
+      "source": "https://www.wikidata.org/wiki/Q3401843"
+    },
+    "node/3956577242": {
+      "name": "サウス・イーリング駅",
+      "source": "https://www.wikidata.org/wiki/Q2304475"
+    },
+    "node/4290857012": {
+      "name": "ロンドン・ブリッジ駅",
+      "source": "https://www.wikidata.org/wiki/Q801125"
+    },
+    "node/5182456569": {
+      "name": "ロンドン・ブリッジ駅",
+      "source": "https://www.wikidata.org/wiki/Q801125"
+    },
+    "node/43450256": {
+      "name": "ヘンドン駅",
+      "source": "https://www.wikidata.org/wiki/Q2047351"
+    },
+    "node/443640800": {
+      "name": "アップミンスター駅",
+      "source": "https://www.wikidata.org/wiki/Q801547"
+    },
+    "node/4451063672": {
+      "name": "アプトン・パーク駅",
+      "source": "https://www.wikidata.org/wiki/Q1649850"
+    },
+    "node/4503057074": {
+      "name": "クラパム・コモン駅",
+      "source": "https://www.wikidata.org/wiki/Q1095075"
+    },
+    "node/469760990": {
+      "name": "ウエンブリー・パーク駅",
+      "source": "https://www.wikidata.org/wiki/Q956849"
+    },
+    "node/4816726094": {
+      "name": "フェルサム駅",
+      "source": "https://www.wikidata.org/wiki/Q969784"
+    },
+    "node/4820677220": {
+      "name": "セント・マーガレッツ駅",
+      "source": "https://www.wikidata.org/wiki/Q1845639"
+    },
+    "node/4860750355": {
+      "name": "サウスウッドフォード",
+      "source": "https://www.wikidata.org/wiki/Q2120068"
+    },
+    "node/4871686908": {
+      "name": "ハンプトン・コート駅",
+      "source": "https://www.wikidata.org/wiki/Q2313444"
+    },
+    "node/5107248193": {
+      "name": "パーソンズ・グリーン駅",
+      "source": "https://www.wikidata.org/wiki/Q1457814"
+    },
+    "node/5142610270": {
+      "name": "フラム・ブロードウェイ駅",
+      "source": "https://www.wikidata.org/wiki/Q1473616"
+    },
+    "node/5178413114": {
+      "name": "プラーストウ駅",
+      "source": "https://www.wikidata.org/wiki/Q1326180"
+    },
+    "node/5178413115": {
+      "name": "ボウ・ロード駅",
+      "source": "https://www.wikidata.org/wiki/Q895388"
+    },
+    "node/5178413116": {
+      "name": "ステップニー・グリーン駅",
+      "source": "https://www.wikidata.org/wiki/Q1891699"
+    },
+    "node/5182384967": {
+      "name": "オークウッド駅",
+      "source": "https://www.wikidata.org/wiki/Q1857872"
+    },
+    "node/5182384968": {
+      "name": "ウェスト・ケンジントン駅",
+      "source": "https://www.wikidata.org/wiki/Q944664"
+    },
+    "node/5182384970": {
+      "name": "ボストン・マナー駅",
+      "source": "https://www.wikidata.org/wiki/Q894569"
+    },
+    "node/5182384971": {
+      "name": "ヒースロー・ターミナルズ1,2,3駅",
+      "source": "https://www.wikidata.org/wiki/Q763293"
+    },
+    "node/6652280936": {
+      "name": "ヒースロー・ターミナルズ1,2,3駅",
+      "source": "https://www.wikidata.org/wiki/Q763293"
+    },
+    "node/5182384972": {
+      "name": "ヒースロー・ターミナル5駅",
+      "source": "https://www.wikidata.org/wiki/Q800907"
+    },
+    "node/6539853773": {
+      "name": "ヒースロー・ターミナル5駅",
+      "source": "https://www.wikidata.org/wiki/Q800907"
+    },
+    "node/5182384973": {
+      "name": "ナイツブリッジ駅",
+      "source": "https://www.wikidata.org/wiki/Q1757120"
+    },
+    "node/5182384974": {
+      "name": "ハウンズロー・ウェスト駅",
+      "source": "https://www.wikidata.org/wiki/Q978377"
+    },
+    "node/5182424564": {
+      "name": "ハウンズロー・イースト駅",
+      "source": "https://www.wikidata.org/wiki/Q1631346"
+    },
+    "node/5182424565": {
+      "name": "ハウンズロー・セントラル駅",
+      "source": "https://www.wikidata.org/wiki/Q1439481"
+    },
+    "node/5182424566": {
+      "name": "サウスゲイト駅",
+      "source": "https://www.wikidata.org/wiki/Q286666"
+    },
+    "node/5182424567": {
+      "name": "コックフォスターズ駅",
+      "source": "https://www.wikidata.org/wiki/Q1105305"
+    },
+    "node/5182424568": {
+      "name": "バーント・オーク駅",
+      "source": "https://www.wikidata.org/wiki/Q913515"
+    },
+    "node/5182424569": {
+      "name": "パットニー・ブリッジ駅",
+      "source": "https://www.wikidata.org/wiki/Q1974794"
+    },
+    "node/5182424577": {
+      "name": "ノースフィールズ駅",
+      "source": "https://www.wikidata.org/wiki/Q764016"
+    },
+    "node/5182456570": {
+      "name": "チョーリー・ウッド駅",
+      "source": "https://www.wikidata.org/wiki/Q800623"
+    },
+    "node/5183350489": {
+      "name": "ニューベリーパーク",
+      "source": "https://www.wikidata.org/wiki/Q744426"
+    },
+    "node/5183350491": {
+      "name": "リックマンズワース駅",
+      "source": "https://www.wikidata.org/wiki/Q801365"
+    },
+    "node/5183350492": {
+      "name": "イーリング・コモン駅",
+      "source": "https://www.wikidata.org/wiki/Q1276908"
+    },
+    "node/5183466819": {
+      "name": "キングスベリー駅",
+      "source": "https://www.wikidata.org/wiki/Q1742147"
+    },
+    "node/5183466921": {
+      "name": "クイーンズベリー駅",
+      "source": "https://www.wikidata.org/wiki/Q1566247"
+    },
+    "node/5183760375": {
+      "name": "フィンチリー・ロード駅",
+      "source": "https://www.wikidata.org/wiki/Q1300073"
+    },
+    "node/5183760378": {
+      "name": "イーストコート駅",
+      "source": "https://www.wikidata.org/wiki/Q1278097"
+    },
+    "node/5183760379": {
+      "name": "イッケナム駅",
+      "source": "https://www.wikidata.org/wiki/Q729399"
+    },
+    "node/5183760381": {
+      "name": "ピナー駅",
+      "source": "https://www.wikidata.org/wiki/Q1924802"
+    },
+    "node/5183760383": {
+      "name": "ノースウッド駅",
+      "source": "https://www.wikidata.org/wiki/Q631448"
+    },
+    "node/5183760384": {
+      "name": "クロックスリー駅",
+      "source": "https://www.wikidata.org/wiki/Q607324"
+    },
+    "node/5183760385": {
+      "name": "ワトフォード",
+      "source": "https://www.wikidata.org/wiki/Q19819"
+    },
+    "node/5183791821": {
+      "name": "レイトンストーン",
+      "source": "https://www.wikidata.org/wiki/Q1822454"
+    },
+    "node/5183810356": {
+      "name": "ハロー・オン・ザ・ヒル駅",
+      "source": "https://www.wikidata.org/wiki/Q654577"
+    },
+    "node/5183897519": {
+      "name": "サウス・ケンジントン駅",
+      "source": "https://www.wikidata.org/wiki/Q976035"
+    },
+    "node/5207201516": {
+      "name": "ノッティング・ヒル・ゲート駅",
+      "source": "https://www.wikidata.org/wiki/Q1803672"
+    },
+    "node/5233720883": {
+      "name": "ケータラム駅",
+      "source": "https://www.wikidata.org/wiki/Q2581686"
+    },
+    "node/5257403774": {
+      "name": "ストラトフォード駅",
+      "source": "https://www.wikidata.org/wiki/Q801480"
+    },
+    "node/5293818504": {
+      "name": "パーリー駅",
+      "source": "https://www.wikidata.org/wiki/Q2180994"
+    },
+    "node/5319948896": {
+      "name": "ラングレー駅",
+      "source": "https://www.wikidata.org/wiki/Q2790476"
+    },
+    "node/5355174730": {
+      "name": "エッジウェア",
+      "source": "OSM name:ja"
+    },
+    "node/5359714471": {
+      "name": "ケンティッシュ・タウン駅",
+      "source": "https://www.wikidata.org/wiki/Q636614"
+    },
+    "node/5462552522": {
+      "name": "トテナム・コート・ロード駅",
+      "source": "https://www.wikidata.org/wiki/Q1431094"
+    },
+    "node/9754554222": {
+      "name": "トテナム・コート・ロード駅",
+      "source": "https://www.wikidata.org/wiki/Q1431094"
+    },
+    "node/5469512667": {
+      "name": "グリニッジ駅",
+      "source": "https://www.wikidata.org/wiki/Q800840"
+    },
+    "node/5469620129": {
+      "name": "ライムハウス駅",
+      "source": "https://www.wikidata.org/wiki/Q801102"
+    },
+    "node/5469622521": {
+      "name": "ライムハウス駅",
+      "source": "https://www.wikidata.org/wiki/Q801102"
+    },
+    "node/5472303633": {
+      "name": "バウンズ・グリーン駅",
+      "source": "https://www.wikidata.org/wiki/Q895162"
+    },
+    "node/5474926328": {
+      "name": "ハマースミス駅",
+      "source": "https://www.wikidata.org/wiki/Q1762419"
+    },
+    "node/5482891928": {
+      "name": "ハムステッド駅",
+      "source": "https://www.wikidata.org/wiki/Q1573996"
+    },
+    "node/5482915472": {
+      "name": "ハロウェイ・ロード駅",
+      "source": "https://www.wikidata.org/wiki/Q1624885"
+    },
+    "node/5483374935": {
+      "name": "ストラトフォード国際駅",
+      "source": "https://www.wikidata.org/wiki/Q801472"
+    },
+    "node/6758674587": {
+      "name": "ストラトフォード国際駅",
+      "source": "https://www.wikidata.org/wiki/Q801472"
+    },
+    "node/5489114067": {
+      "name": "スイス・コテージ駅",
+      "source": "https://www.wikidata.org/wiki/Q962261"
+    },
+    "node/5495828135": {
+      "name": "パーク・ロイヤル駅",
+      "source": "https://www.wikidata.org/wiki/Q1663773"
+    },
+    "node/5507411660": {
+      "name": "ターンパイク・レイン駅",
+      "source": "https://www.wikidata.org/wiki/Q1757107"
+    },
+    "node/5520070965": {
+      "name": "アプスリー駅",
+      "source": "https://www.wikidata.org/wiki/Q19950"
+    },
+    "node/5571724044": {
+      "name": "モーデン駅",
+      "source": "https://www.wikidata.org/wiki/Q1947443"
+    },
+    "node/5574104460": {
+      "name": "ブラックヒース駅",
+      "source": "https://www.wikidata.org/wiki/Q4923002"
+    },
+    "node/5575342411": {
+      "name": "デトフォード駅",
+      "source": "https://www.wikidata.org/wiki/Q2170868"
+    },
+    "node/5585799426": {
+      "name": "カニング・タウン駅",
+      "source": "https://www.wikidata.org/wiki/Q1033431"
+    },
+    "node/5585821560": {
+      "name": "イーリング・ブロードウェイ駅",
+      "source": "https://www.wikidata.org/wiki/Q800705"
+    },
+    "node/5585825355": {
+      "name": "カレドニアン・ロード駅",
+      "source": "https://www.wikidata.org/wiki/Q1026585"
+    },
+    "node/5585853828": {
+      "name": "トテリッジ・アンド・ウェットストーン駅",
+      "source": "https://www.wikidata.org/wiki/Q2028165"
+    },
+    "node/561297695": {
+      "name": "フィンズベリー・パーク駅",
+      "source": "https://www.wikidata.org/wiki/Q536796"
+    },
+    "node/5614077964": {
+      "name": "オックスフォード・サーカス駅",
+      "source": "https://www.wikidata.org/wiki/Q678791"
+    },
+    "node/5700001161": {
+      "name": "ノース・グリニッジ駅",
+      "source": "https://www.wikidata.org/wiki/Q1757132"
+    },
+    "node/5700149213": {
+      "name": "カナダ・ウォーター駅",
+      "source": "https://www.wikidata.org/wiki/Q800610"
+    },
+    "node/5702714876": {
+      "name": "ムーアゲート駅",
+      "source": "https://www.wikidata.org/wiki/Q801210"
+    },
+    "node/5735001231": {
+      "name": "クラパムジャンクション駅",
+      "source": "https://www.wikidata.org/wiki/Q719530"
+    },
+    "node/5790633431": {
+      "name": "クリスタル・パレス駅",
+      "source": "https://www.wikidata.org/wiki/Q676281"
+    },
+    "node/5863634789": {
+      "name": "レインズ・パーク駅",
+      "source": "https://www.wikidata.org/wiki/Q2804062"
+    },
+    "node/5863634794": {
+      "name": "レザーヘッド駅",
+      "source": "https://www.wikidata.org/wiki/Q2309556"
+    },
+    "node/5871218006": {
+      "name": "シデナム駅",
+      "source": "https://www.wikidata.org/wiki/Q2064910"
+    },
+    "node/5871218007": {
+      "name": "フォレスト・ヒル駅",
+      "source": "https://www.wikidata.org/wiki/Q2342584"
+    },
+    "node/5871218008": {
+      "name": "オナー・オーク・パーク駅",
+      "source": "https://www.wikidata.org/wiki/Q5896843"
+    },
+    "node/5871218009": {
+      "name": "ニュー・クロス・ゲート駅",
+      "source": "https://www.wikidata.org/wiki/Q648558"
+    },
+    "node/5871218012": {
+      "name": "ウェストコム・パーク駅",
+      "source": "https://www.wikidata.org/wiki/Q2522084"
+    },
+    "node/5871218015": {
+      "name": "ウーリッジ・アーセナル駅",
+      "source": "https://www.wikidata.org/wiki/Q801639"
+    },
+    "node/5871218017": {
+      "name": "アビーウッド駅",
+      "source": "https://www.wikidata.org/wiki/Q2087079"
+    },
+    "node/5871218018": {
+      "name": "スレード・グリーン駅",
+      "source": "https://www.wikidata.org/wiki/Q2155070"
+    },
+    "node/5871218019": {
+      "name": "ダートフォード駅",
+      "source": "https://www.wikidata.org/wiki/Q2380329"
+    },
+    "node/5872906104": {
+      "name": "グローブ・パーク駅",
+      "source": "https://www.wikidata.org/wiki/Q2252599"
+    },
+    "node/5872906105": {
+      "name": "ヒザー・グリーン駅",
+      "source": "https://www.wikidata.org/wiki/Q2182758"
+    },
+    "node/5872906108": {
+      "name": "ペッツウッド駅",
+      "source": "https://www.wikidata.org/wiki/Q2381365"
+    },
+    "node/5882058967": {
+      "name": "オクステッド駅",
+      "source": "https://www.wikidata.org/wiki/Q2601068"
+    },
+    "node/5882165493": {
+      "name": "ノーウッド・ジャンクション駅",
+      "source": "https://www.wikidata.org/wiki/Q2835440"
+    },
+    "node/5882282269": {
+      "name": "サウス・クロイドン駅",
+      "source": "https://www.wikidata.org/wiki/Q7566932"
+    },
+    "node/5883033872": {
+      "name": "エルマーズ・エンド駅",
+      "source": "https://www.wikidata.org/wiki/Q2420368"
+    },
+    "node/6022637122": {
+      "name": "エガム駅",
+      "source": "https://www.wikidata.org/wiki/Q5347948"
+    },
+    "node/6022637123": {
+      "name": "ステインズ駅",
+      "source": "https://www.wikidata.org/wiki/Q2106145"
+    },
+    "node/6022637124": {
+      "name": "トゥイッケナム駅",
+      "source": "https://www.wikidata.org/wiki/Q2286388"
+    },
+    "node/6022902649": {
+      "name": "ウィットン駅",
+      "source": "https://www.wikidata.org/wiki/Q3198886"
+    },
+    "node/6023272580": {
+      "name": "バーンズ橋",
+      "source": "https://www.wikidata.org/wiki/Q1834855"
+    },
+    "node/6023272582": {
+      "name": "キュー・ブリッジ駅",
+      "source": "https://www.wikidata.org/wiki/Q2851105"
+    },
+    "node/6023272583": {
+      "name": "ブレントフォード駅",
+      "source": "https://www.wikidata.org/wiki/Q2804531"
+    },
+    "node/6091112768": {
+      "name": "ケンジントン・オリンピア駅",
+      "source": "https://www.wikidata.org/wiki/Q801002"
+    },
+    "node/6095751323": {
+      "name": "サウス・ライスリップ駅",
+      "source": "https://www.wikidata.org/wiki/Q801459"
+    },
+    "node/6135489704": {
+      "name": "ホワイト・ハート・レーン駅",
+      "source": "https://www.wikidata.org/wiki/Q2775608"
+    },
+    "node/6137252710": {
+      "name": "ノーサンバーランド・パーク駅",
+      "source": "https://www.wikidata.org/wiki/Q2424431"
+    },
+    "node/6143849772": {
+      "name": "キング・ジョージ5世駅",
+      "source": "https://www.wikidata.org/wiki/Q1742030"
+    },
+    "node/6143889602": {
+      "name": "ロイヤル・ヴィクトリア駅",
+      "source": "https://www.wikidata.org/wiki/Q1973338"
+    },
+    "node/6143889604": {
+      "name": "プリンス・リージェント駅",
+      "source": "https://www.wikidata.org/wiki/Q1806401"
+    },
+    "node/6143889606": {
+      "name": "ガリオン・リーチ駅",
+      "source": "https://www.wikidata.org/wiki/Q1492485"
+    },
+    "node/6143889609": {
+      "name": "ベックトン駅",
+      "source": "https://www.wikidata.org/wiki/Q813750"
+    },
+    "node/6143889613": {
+      "name": "ロンドン・シティ空港駅",
+      "source": "https://www.wikidata.org/wiki/Q1868954"
+    },
+    "node/6143889615": {
+      "name": "ポントゥーン・ドック駅",
+      "source": "https://www.wikidata.org/wiki/Q543140"
+    },
+    "node/6150502124": {
+      "name": "ノース・アクトン駅",
+      "source": "https://www.wikidata.org/wiki/Q83842"
+    },
+    "node/6195731433": {
+      "name": "ハマースミス駅",
+      "source": "https://www.wikidata.org/wiki/Q7486929"
+    },
+    "node/6207523037": {
+      "name": "ミッチャム・ジャンクション駅",
+      "source": "https://www.wikidata.org/wiki/Q3280024"
+    },
+    "node/6291571390": {
+      "name": "ホーンジー駅",
+      "source": "https://www.wikidata.org/wiki/Q600848"
+    },
+    "node/6306871525": {
+      "name": "コリンデイル駅",
+      "source": "https://www.wikidata.org/wiki/Q1108796"
+    },
+    "node/6306871529": {
+      "name": "ゴルダーズ・グリーン駅",
+      "source": "https://www.wikidata.org/wiki/Q2167448"
+    },
+    "node/6307053732": {
+      "name": "ルイスリップ駅",
+      "source": "https://www.wikidata.org/wiki/Q1287877"
+    },
+    "node/6307174159": {
+      "name": "ニーズデン駅",
+      "source": "https://www.wikidata.org/wiki/Q1857076"
+    },
+    "node/6312643867": {
+      "name": "ハットン・クロス駅",
+      "source": "https://www.wikidata.org/wiki/Q1197072"
+    },
+    "node/6312813705": {
+      "name": "スタンフォード・ブルック駅",
+      "source": "https://www.wikidata.org/wiki/Q1342356"
+    },
+    "node/6312813706": {
+      "name": "ターナム・グリーン駅",
+      "source": "https://www.wikidata.org/wiki/Q519434"
+    },
+    "node/6312813707": {
+      "name": "チスウィック・パーク駅",
+      "source": "https://www.wikidata.org/wiki/Q1074875"
+    },
+    "node/6340616347": {
+      "name": "アールズ・コート駅",
+      "source": "https://www.wikidata.org/wiki/Q1277562"
+    },
+    "node/6343726718": {
+      "name": "ノーソルト",
+      "source": "https://www.wikidata.org/wiki/Q1317971"
+    },
+    "node/6353329614": {
+      "name": "ラフトン",
+      "source": "https://www.wikidata.org/wiki/Q1291126"
+    },
+    "node/6353333968": {
+      "name": "ウッドフォード",
+      "source": "https://www.wikidata.org/wiki/Q630409"
+    },
+    "node/6357988569": {
+      "name": "ハンガー・レーン駅",
+      "source": "https://www.wikidata.org/wiki/Q1305890"
+    },
+    "node/6358768337": {
+      "name": "アップミンスター・ブリッジ駅",
+      "source": "https://www.wikidata.org/wiki/Q1489665"
+    },
+    "node/6358789875": {
+      "name": "ホーンチャーチ駅",
+      "source": "https://www.wikidata.org/wiki/Q1628404"
+    },
+    "node/6358823742": {
+      "name": "ダゲナム・イースト駅",
+      "source": "https://www.wikidata.org/wiki/Q1157204"
+    },
+    "node/6358827604": {
+      "name": "ダゲナム・ヒースウェイ駅",
+      "source": "https://www.wikidata.org/wiki/Q1157207"
+    },
+    "node/6361189478": {
+      "name": "スタンモア駅",
+      "source": "https://www.wikidata.org/wiki/Q1757110"
+    },
+    "node/6361199503": {
+      "name": "キャノン・パーク駅",
+      "source": "https://www.wikidata.org/wiki/Q1033599"
+    },
+    "node/6367227349": {
+      "name": "レイトン駅",
+      "source": "https://www.wikidata.org/wiki/Q1734740"
+    },
+    "node/6391499992": {
+      "name": "アナリー駅",
+      "source": "https://www.wikidata.org/wiki/Q2012789"
+    },
+    "node/6399598539": {
+      "name": "アルパートン駅",
+      "source": "https://www.wikidata.org/wiki/Q1488320"
+    },
+    "node/6400752013": {
+      "name": "コヴェント・ガーデン駅",
+      "source": "https://www.wikidata.org/wiki/Q38879"
+    },
+    "node/6401499742": {
+      "name": "セント・ジョンズ・ウッド駅",
+      "source": "https://www.wikidata.org/wiki/Q1549556"
+    },
+    "node/6402129352": {
+      "name": "イーストハム駅",
+      "source": "https://www.wikidata.org/wiki/Q1269975"
+    },
+    "node/6403994178": {
+      "name": "ケンサル・グリーン駅",
+      "source": "https://www.wikidata.org/wiki/Q800999"
+    },
+    "node/6404031521": {
+      "name": "ウェスト・ハムステッド駅",
+      "source": "https://www.wikidata.org/wiki/Q1857089"
+    },
+    "node/6514252665": {
+      "name": "ウェスト・ハムステッド駅",
+      "source": "https://www.wikidata.org/wiki/Q1857089"
+    },
+    "node/6407565244": {
+      "name": "バーマンジー駅",
+      "source": "https://www.wikidata.org/wiki/Q822041"
+    },
+    "node/6410085030": {
+      "name": "アクスブリッジ駅",
+      "source": "https://www.wikidata.org/wiki/Q1757126"
+    },
+    "node/6410165090": {
+      "name": "ゴールドホーク・ロード駅",
+      "source": "https://www.wikidata.org/wiki/Q301995"
+    },
+    "node/6411776703": {
+      "name": "ベイズウォーター駅",
+      "source": "https://www.wikidata.org/wiki/Q812631"
+    },
+    "node/6411792033": {
+      "name": "ハイ・ストリート・ケンジントン駅",
+      "source": "https://www.wikidata.org/wiki/Q634345"
+    },
+    "node/6411992668": {
+      "name": "グロスター・ロード駅",
+      "source": "https://www.wikidata.org/wiki/Q1431088"
+    },
+    "node/6419682398": {
+      "name": "ドレイトン・パーク駅",
+      "source": "https://www.wikidata.org/wiki/Q682110"
+    },
+    "node/6436632903": {
+      "name": "ウィルズデン・グリーン駅",
+      "source": "https://www.wikidata.org/wiki/Q1857104"
+    },
+    "node/6438780655": {
+      "name": "リッチモンド駅 (ロンドン)",
+      "source": "https://www.wikidata.org/wiki/Q801366"
+    },
+    "node/6438904139": {
+      "name": "ガナーズベリー駅",
+      "source": "https://www.wikidata.org/wiki/Q800858"
+    },
+    "node/6438945825": {
+      "name": "ストーンブリッジ・パーク駅",
+      "source": "https://www.wikidata.org/wiki/Q801474"
+    },
+    "node/6438961931": {
+      "name": "ウィルズデン・ジャンクション駅",
+      "source": "https://www.wikidata.org/wiki/Q801623"
+    },
+    "node/6439741490": {
+      "name": "ドリス・ヒル駅",
+      "source": "https://www.wikidata.org/wiki/Q1235761"
+    },
+    "node/6440680616": {
+      "name": "ウェストボーン・パーク駅",
+      "source": "https://www.wikidata.org/wiki/Q1857925"
+    },
+    "node/6441033567": {
+      "name": "サウス・アクトン駅",
+      "source": "https://www.wikidata.org/wiki/Q451653"
+    },
+    "node/6448645467": {
+      "name": "キューガーデンズ駅",
+      "source": "https://www.wikidata.org/wiki/Q801000"
+    },
+    "node/6452489646": {
+      "name": "バーキング駅",
+      "source": "https://www.wikidata.org/wiki/Q800451"
+    },
+    "node/6460794385": {
+      "name": "ラドブローク・グローブ駅",
+      "source": "https://www.wikidata.org/wiki/Q1411854"
+    },
+    "node/6466252813": {
+      "name": "アップニー駅",
+      "source": "https://www.wikidata.org/wiki/Q1761206"
+    },
+    "node/6468357440": {
+      "name": "クイーンズ・パーク駅",
+      "source": "https://www.wikidata.org/wiki/Q801347"
+    },
+    "node/6468432388": {
+      "name": "トッテナム・ヘイル駅",
+      "source": "https://www.wikidata.org/wiki/Q801529"
+    },
+    "node/6476798601": {
+      "name": "サウス・バーマンジー駅",
+      "source": "https://www.wikidata.org/wiki/Q2470635"
+    },
+    "node/6503115198": {
+      "name": "メリーランド駅",
+      "source": "https://www.wikidata.org/wiki/Q2208884"
+    },
+    "node/6522206880": {
+      "name": "ウェスト・ハムステッド・テムズリンク駅",
+      "source": "https://www.wikidata.org/wiki/Q658445"
+    },
+    "node/6543594083": {
+      "name": "ヘッドストン・レーン駅",
+      "source": "https://www.wikidata.org/wiki/Q1824003"
+    },
+    "node/6543594084": {
+      "name": "ハッチ・エンド駅",
+      "source": "https://www.wikidata.org/wiki/Q2676712"
+    },
+    "node/6585461978": {
+      "name": "ブロックリー駅",
+      "source": "https://www.wikidata.org/wiki/Q2736276"
+    },
+    "node/6593922082": {
+      "name": "マナー・パーク駅",
+      "source": "https://www.wikidata.org/wiki/Q1848488"
+    },
+    "node/6593924753": {
+      "name": "フォレスト・ゲート駅",
+      "source": "https://www.wikidata.org/wiki/Q2439437"
+    },
+    "node/6610824937": {
+      "name": "エプソム駅",
+      "source": "https://www.wikidata.org/wiki/Q1907314"
+    },
+    "node/6658470683": {
+      "name": "タッテナム・コーナー駅",
+      "source": "https://www.wikidata.org/wiki/Q2918948"
+    },
+    "node/6658618592": {
+      "name": "ユーウェル・ウェスト駅",
+      "source": "https://www.wikidata.org/wiki/Q676680"
+    },
+    "node/6661446188": {
+      "name": "カーペンダーズ・パーク駅",
+      "source": "https://www.wikidata.org/wiki/Q5045650"
+    },
+    "node/6689773479": {
+      "name": "Swanley駅",
+      "source": "https://www.wikidata.org/wiki/Q946238"
+    },
+    "node/6689800290": {
+      "name": "Beckenham Junction駅",
+      "source": "https://www.wikidata.org/wiki/Q2189753"
+    },
+    "node/6695079961": {
+      "name": "ラフバラー・ジャンクション駅",
+      "source": "https://www.wikidata.org/wiki/Q2099753"
+    },
+    "node/6724844050": {
+      "name": "アッパー・ホロウェイ駅",
+      "source": "https://www.wikidata.org/wiki/Q2362457"
+    },
+    "node/6724844051": {
+      "name": "クラウチ・ヒル駅",
+      "source": "https://www.wikidata.org/wiki/Q2683950"
+    },
+    "node/6735092352": {
+      "name": "ダゲナム・ドック駅",
+      "source": "https://www.wikidata.org/wiki/Q800643"
+    },
+    "node/6735092353": {
+      "name": "レインハム駅 (エセックス)",
+      "source": "https://www.wikidata.org/wiki/Q2221209"
+    },
+    "node/6753787771": {
+      "name": "ゴスペル・オーク駅",
+      "source": "https://www.wikidata.org/wiki/Q800829"
+    },
+    "node/6753887325": {
+      "name": "ウッドグランジ・パーク駅",
+      "source": "https://www.wikidata.org/wiki/Q2733963"
+    },
+    "node/6761071700": {
+      "name": "ウッド・グリーン駅",
+      "source": "https://www.wikidata.org/wiki/Q945882"
+    },
+    "node/6774062195": {
+      "name": "カーシャルトン・ビーチズ駅",
+      "source": "https://www.wikidata.org/wiki/Q2372214"
+    },
+    "node/6774489101": {
+      "name": "ストリーム・コモン駅",
+      "source": "https://www.wikidata.org/wiki/Q7622732"
+    },
+    "node/6778324443": {
+      "name": "シドカップ駅",
+      "source": "https://www.wikidata.org/wiki/Q2068572"
+    },
+    "node/6778324444": {
+      "name": "クレイフォード駅",
+      "source": "https://www.wikidata.org/wiki/Q2755666"
+    },
+    "node/6797794418": {
+      "name": "ボロ駅",
+      "source": "https://www.wikidata.org/wiki/Q894073"
+    },
+    "node/6831378185": {
+      "name": "エンフィールド・タウン",
+      "source": "https://www.wikidata.org/wiki/Q2385571"
+    },
+    "node/6906130548": {
+      "name": "エマーソン・パーク駅",
+      "source": "https://www.wikidata.org/wiki/Q2177253"
+    },
+    "node/6991113888": {
+      "name": "ハムステッド・ヒース駅",
+      "source": "https://www.wikidata.org/wiki/Q2829947"
+    },
+    "node/6991113897": {
+      "name": "ダルストン・キングスランド駅",
+      "source": "https://www.wikidata.org/wiki/Q1924477"
+    },
+    "node/6991125522": {
+      "name": "ペックハム・ライ駅",
+      "source": "https://www.wikidata.org/wiki/Q2154508"
+    },
+    "node/6991130547": {
+      "name": "ショーディッチ・ハイ・ストリート駅",
+      "source": "https://www.wikidata.org/wiki/Q801441"
+    },
+    "node/6993429382": {
+      "name": "キルバーン・ハイ・ロード駅",
+      "source": "https://www.wikidata.org/wiki/Q1800430"
+    },
+    "node/6993490520": {
+      "name": "ハーリンゲイ・グリーン・レーンズ駅",
+      "source": "https://www.wikidata.org/wiki/Q9286575"
+    },
+    "node/6993522055": {
+      "name": "カレドニアン・ロード&バーンズベリー駅",
+      "source": "https://www.wikidata.org/wiki/Q5019457"
+    },
+    "node/6997668561": {
+      "name": "レイトン・ミッドランド・ロード駅",
+      "source": "https://www.wikidata.org/wiki/Q2217020"
+    },
+    "node/6997675368": {
+      "name": "チンフォード",
+      "source": "https://www.wikidata.org/wiki/Q2250130"
+    },
+    "node/6997680159": {
+      "name": "ハイアムズ・パーク駅",
+      "source": "https://www.wikidata.org/wiki/Q2040725"
+    },
+    "node/6997686912": {
+      "name": "ケンブリッジ・ヒース駅",
+      "source": "https://www.wikidata.org/wiki/Q2428591"
+    },
+    "node/6997712296": {
+      "name": "ハックニー・セントラル駅",
+      "source": "https://www.wikidata.org/wiki/Q2220302"
+    },
+    "node/70804547": {
+      "name": "オールド・ストリート駅",
+      "source": "https://www.wikidata.org/wiki/Q801299"
+    },
+    "node/7132008570": {
+      "name": "ブレントウッド駅 (イギリス)",
+      "source": "https://www.wikidata.org/wiki/Q2322282"
+    },
+    "node/7132052169": {
+      "name": "ハロルド・ウッド駅",
+      "source": "https://www.wikidata.org/wiki/Q4787233"
+    },
+    "node/7147451328": {
+      "name": "チャンドウェル・ヒース駅",
+      "source": "https://www.wikidata.org/wiki/Q2468519"
+    },
+    "node/7147452464": {
+      "name": "ウェスト・イーリング駅",
+      "source": "https://www.wikidata.org/wiki/Q7985007"
+    },
+    "node/7147460528": {
+      "name": "ヘイズ・アンド・ハーリントン駅",
+      "source": "https://www.wikidata.org/wiki/Q1622594"
+    },
+    "node/7147463821": {
+      "name": "サウスオール駅",
+      "source": "https://www.wikidata.org/wiki/Q5283892"
+    },
+    "node/7147467270": {
+      "name": "ハンウェル駅",
+      "source": "https://www.wikidata.org/wiki/Q2784392"
+    },
+    "node/7147468108": {
+      "name": "グッドメイズ駅",
+      "source": "https://www.wikidata.org/wiki/Q2975461"
+    },
+    "node/7147478680": {
+      "name": "ブロンデスベリー駅",
+      "source": "https://www.wikidata.org/wiki/Q4973856"
+    },
+    "node/7147489878": {
+      "name": "スター・レーン駅",
+      "source": "https://www.wikidata.org/wiki/Q2288582"
+    },
+    "node/7147498859": {
+      "name": "ケンサル・ライズ駅",
+      "source": "https://www.wikidata.org/wiki/Q2473076"
+    },
+    "node/7147509462": {
+      "name": "ホマートン駅",
+      "source": "https://www.wikidata.org/wiki/Q2451415"
+    },
+    "node/7147509511": {
+      "name": "キャノンベリー駅",
+      "source": "https://www.wikidata.org/wiki/Q800611"
+    },
+    "node/7147521855": {
+      "name": "ハックニー・ウィック駅",
+      "source": "https://www.wikidata.org/wiki/Q2003534"
+    },
+    "node/7158651920": {
+      "name": "パットニー駅",
+      "source": "https://www.wikidata.org/wiki/Q2494925"
+    },
+    "node/7158881499": {
+      "name": "クリックルウッド駅",
+      "source": "https://www.wikidata.org/wiki/Q2794823"
+    },
+    "node/7158905928": {
+      "name": "ヘメル・ヘムステッド駅",
+      "source": "https://www.wikidata.org/wiki/Q19965"
+    },
+    "node/7159162454": {
+      "name": "キングス・クロス駅",
+      "source": "https://www.wikidata.org/wiki/Q219867"
+    },
+    "node/7159246417": {
+      "name": "ヘイズ駅",
+      "source": "https://www.wikidata.org/wiki/Q2479740"
+    },
+    "node/7159280033": {
+      "name": "メイズ・ヒル駅",
+      "source": "https://www.wikidata.org/wiki/Q6798399"
+    },
+    "node/7159309580": {
+      "name": "ベクスリーヒース駅",
+      "source": "https://www.wikidata.org/wiki/Q3262067"
+    },
+    "node/7159323885": {
+      "name": "アシュフォード駅",
+      "source": "https://www.wikidata.org/wiki/Q681232"
+    },
+    "node/7170486869": {
+      "name": "キングストン駅 (ロンドン)",
+      "source": "https://www.wikidata.org/wiki/Q1916904"
+    },
+    "node/7170577519": {
+      "name": "ウェンブリー・スタジアム駅",
+      "source": "https://www.wikidata.org/wiki/Q2587124"
+    },
+    "node/7175566127": {
+      "name": "ウェンブリー・セントラル駅",
+      "source": "https://www.wikidata.org/wiki/Q801594"
+    },
+    "node/780856": {
+      "name": "シェパーズ・ブッシュ・マーケット駅",
+      "source": "https://www.wikidata.org/wiki/Q1857909"
+    },
+    "node/7851898375": {
+      "name": "アレグザンドラ・パレス駅",
+      "source": "https://www.wikidata.org/wiki/Q2300483"
+    },
+    "node/7860903088": {
+      "name": "ウェスト・ノーウッド駅",
+      "source": "https://www.wikidata.org/wiki/Q2958963"
+    },
+    "node/8724517978": {
+      "name": "タルス・ヒル駅",
+      "source": "https://www.wikidata.org/wiki/Q2851519"
+    },
+    "node/89137908": {
+      "name": "ケントン駅",
+      "source": "https://www.wikidata.org/wiki/Q801001"
+    },
+    "node/9097860108": {
+      "name": "バタシー発電所駅",
+      "source": "https://www.wikidata.org/wiki/Q18619174"
+    },
+    "node/9280240600": {
+      "name": "バーキング・リバーサイド駅",
+      "source": "https://www.wikidata.org/wiki/Q22329619"
+    },
+    "node/285520": {
+      "name": "シェンリー",
+      "source": "https://www.wikidata.org/wiki/Q2490153"
+    },
+    "node/17061510": {
+      "name": "ハンワース",
+      "source": "https://www.wikidata.org/wiki/Q2660578"
+    },
+    "node/20992547": {
+      "name": "ヘメル・ヘムステッド",
+      "source": "https://www.wikidata.org/wiki/Q3532"
+    },
+    "node/23721835": {
+      "name": "コルニー・ヒース",
+      "source": "https://www.wikidata.org/wiki/Q610285"
+    },
+    "node/26655025": {
+      "name": "エイヴリー",
+      "source": "https://www.wikidata.org/wiki/Q2449718"
+    },
+    "node/27365303": {
+      "name": "チャールトン",
+      "source": "https://www.wikidata.org/wiki/Q1067477"
+    },
+    "node/27365506": {
+      "name": "ヒリンドン",
+      "source": "https://www.wikidata.org/wiki/Q1064180"
+    },
+    "node/27485888": {
+      "name": "チズルハースト",
+      "source": "https://www.wikidata.org/wiki/Q122917"
+    },
+    "node/27486052": {
+      "name": "ビッギンヒル",
+      "source": "https://www.wikidata.org/wiki/Q122241"
+    },
+    "node/27486150": {
+      "name": "ベコンツリー",
+      "source": "https://www.wikidata.org/wiki/Q2571762"
+    },
+    "node/27535022": {
+      "name": "グリーンフォード",
+      "source": "https://www.wikidata.org/wiki/Q83475"
+    },
+    "node/27730148": {
+      "name": "エルストリー",
+      "source": "https://www.wikidata.org/wiki/Q19931"
+    },
+    "node/28139631": {
+      "name": "北ウィールド・バセット",
+      "source": "https://www.wikidata.org/wiki/Q3242727"
+    },
+    "node/28825933": {
+      "name": "ブロックスボーン",
+      "source": "https://www.wikidata.org/wiki/Q19791"
+    },
+    "node/30836298": {
+      "name": "シップソン",
+      "source": "https://www.wikidata.org/wiki/Q727292"
+    },
+    "node/31036372": {
+      "name": "アラン・ヘストン",
+      "source": "https://www.wikidata.org/wiki/Q2571386"
+    },
+    "node/33661605": {
+      "name": "ノーソウ",
+      "source": "https://www.wikidata.org/wiki/Q7057690"
+    },
+    "node/34592169": {
+      "name": "ホートン",
+      "source": "https://www.wikidata.org/wiki/Q2738696"
+    },
+    "node/58685759": {
+      "name": "ホーリー",
+      "source": "https://www.wikidata.org/wiki/Q2347219"
+    },
+    "node/59842030": {
+      "name": "クランフォード (ロンドン)",
+      "source": "https://www.wikidata.org/wiki/Q5182098"
+    },
+    "node/88375798": {
+      "name": "ワーリンハム",
+      "source": "https://www.wikidata.org/wiki/Q3062919"
+    },
+    "node/130220149": {
+      "name": "フーリー",
+      "source": "https://www.wikidata.org/wiki/Q5898203"
+    },
+    "node/138187664": {
+      "name": "シュルブランズ",
+      "source": "https://www.wikidata.org/wiki/Q7498666"
+    },
+    "node/151027906": {
+      "name": "ハーリントン (ロンドン)",
+      "source": "https://www.wikidata.org/wiki/Q2344963"
+    },
+    "node/159565755": {
+      "name": "スタンウェル",
+      "source": "https://www.wikidata.org/wiki/Q3080673"
+    },
+    "node/183613836": {
+      "name": "クラナム",
+      "source": "https://www.wikidata.org/wiki/Q2514068"
+    },
+    "node/221170550": {
+      "name": "ウォルサム・アビー",
+      "source": "https://www.wikidata.org/wiki/Q2462706"
+    },
+    "node/257583789": {
+      "name": "ボビンドン",
+      "source": "https://www.wikidata.org/wiki/Q19926"
+    },
+    "node/257809042": {
+      "name": "チェニーズ",
+      "source": "https://www.wikidata.org/wiki/Q589687"
+    },
+    "node/263904674": {
+      "name": "南ミムズ",
+      "source": "https://www.wikidata.org/wiki/Q2551418"
+    },
+    "node/297957507": {
+      "name": "アッシュテッド",
+      "source": "https://www.wikidata.org/wiki/Q2220778"
+    },
+    "node/298116215": {
+      "name": "ハッチフォード",
+      "source": "https://www.wikidata.org/wiki/Q12059651"
+    },
+    "node/309776226": {
+      "name": "ボアハムウッド",
+      "source": "https://www.wikidata.org/wiki/Q19773"
+    },
+    "node/309777111": {
+      "name": "リーブスデン",
+      "source": "https://www.wikidata.org/wiki/Q13129526"
+    },
+    "node/364663239": {
+      "name": "ハーロウ・ウィールド",
+      "source": "https://www.wikidata.org/wiki/Q5666599"
+    },
+    "node/364844511": {
+      "name": "キングズベリー",
+      "source": "https://www.wikidata.org/wiki/Q147127"
+    },
+    "node/385147398": {
+      "name": "ローハンプトン",
+      "source": "https://www.wikidata.org/wiki/Q3057456"
+    },
+    "node/429662984": {
+      "name": "コーンブルック",
+      "source": "https://www.wikidata.org/wiki/Q1846916"
+    },
+    "node/430826269": {
+      "name": "ピーターシャム",
+      "source": "https://www.wikidata.org/wiki/Q2323537"
+    },
+    "node/672967531": {
+      "name": "ロンドン・コルニー",
+      "source": "https://www.wikidata.org/wiki/Q3366058"
+    },
+    "node/878184986": {
+      "name": "サウスオキシー",
+      "source": "https://www.wikidata.org/wiki/Q1613044"
+    },
+    "node/1209147842": {
+      "name": "アークリー",
+      "source": "https://www.wikidata.org/wiki/Q150201"
+    },
+    "node/1588532087": {
+      "name": "エッフィンガム",
+      "source": "https://www.wikidata.org/wiki/Q992190"
+    },
+    "node/1588532106": {
+      "name": "コバム",
+      "source": "https://www.wikidata.org/wiki/Q1006990"
+    },
+    "node/1602659681": {
+      "name": "ヘアフィールド",
+      "source": "https://www.wikidata.org/wiki/Q2243312"
+    },
+    "node/1625023254": {
+      "name": "サウス・ウィールド",
+      "source": "https://www.wikidata.org/wiki/Q4837809"
+    },
+    "node/1699989057": {
+      "name": "オターシャウ",
+      "source": "https://www.wikidata.org/wiki/Q1378748"
+    },
+    "node/1712794721": {
+      "name": "ウォルトン・オン・テムズ",
+      "source": "https://www.wikidata.org/wiki/Q2003600"
+    },
+    "node/1756268163": {
+      "name": "インフィールド・アイランド・ヴィレッジ",
+      "source": "https://www.wikidata.org/wiki/Q5377307"
+    },
+    "node/1846253665": {
+      "name": "ハイゲート",
+      "source": "https://www.wikidata.org/wiki/Q123947"
+    },
+    "node/2038186457": {
+      "name": "フロッグモア",
+      "source": "https://www.wikidata.org/wiki/Q6679988"
+    },
+    "node/2097898133": {
+      "name": "バイフリート",
+      "source": "https://www.wikidata.org/wiki/Q1015092"
+    },
+    "node/2142758741": {
+      "name": "クーム",
+      "source": "https://www.wikidata.org/wiki/Q5167577"
+    },
+    "node/2143774046": {
+      "name": "モレシー",
+      "source": "https://www.wikidata.org/wiki/Q624065"
+    },
+    "node/2144198505": {
+      "name": "パトニー・ヴェイル",
+      "source": "https://www.wikidata.org/wiki/Q3411058"
+    },
+    "node/2145146467": {
+      "name": "キングストン・ヴェイル",
+      "source": "https://www.wikidata.org/wiki/Q2054371"
+    },
+    "node/2279905929": {
+      "name": "リプリー",
+      "source": "https://www.wikidata.org/wiki/Q2337139"
+    },
+    "node/2595115193": {
+      "name": "ブロムリーコモン",
+      "source": "https://www.wikidata.org/wiki/Q123380"
+    },
+    "node/2669075054": {
+      "name": "レイルハム",
+      "source": "https://www.wikidata.org/wiki/Q984973"
+    },
+    "node/3207840655": {
+      "name": "イーディング",
+      "source": "https://www.wikidata.org/wiki/Q2618633"
+    },
+    "node/3207956127": {
+      "name": "サウスオール",
+      "source": "https://www.wikidata.org/wiki/Q83434"
+    },
+    "node/3470411273": {
+      "name": "リトルトン (スペルソーン)",
+      "source": "https://www.wikidata.org/wiki/Q11761995"
+    },
+    "node/3938354608": {
+      "name": "ウィンブルドン・パーク",
+      "source": "https://www.wikidata.org/wiki/Q2920346"
+    },
+    "node/4511037892": {
+      "name": "チッピング・オンガー",
+      "source": "https://www.wikidata.org/wiki/Q2069940"
+    },
+    "node/7638874912": {
+      "name": "ポラーズ・ヒル",
+      "source": "https://www.wikidata.org/wiki/Q7225586"
+    },
+    "node/8402268482": {
+      "name": "カウリー (ロンドン)",
+      "source": "https://www.wikidata.org/wiki/Q1950329"
+    },
+    "node/8812703441": {
+      "name": "ヘイズ (ヒリントン)",
+      "source": "https://www.wikidata.org/wiki/Q678138"
+    },
+    "node/10296066154": {
+      "name": "ダウン (イギリス)",
+      "source": "https://www.wikidata.org/wiki/Q125344"
+    },
+    "node/12248130257": {
+      "name": "イッケナム",
+      "source": "https://www.wikidata.org/wiki/Q1951434"
+    },
+    "node/12344915125": {
+      "name": "ムーア・パーク",
+      "source": "https://www.wikidata.org/wiki/Q3862780"
+    },
+    "node/13452761324": {
+      "name": "シェパートン",
+      "source": "https://www.wikidata.org/wiki/Q1545679"
+    }
+  },
+  "is-reykjavik": {
+    "node/2171340641": {
+      "name": "ガルザバイル",
+      "source": "OSM name:ja"
+    },
+    "node/2171340646": {
+      "name": "コーパヴォグル",
+      "source": "OSM name:ja"
+    },
+    "node/2171340649": {
+      "name": "モスフェットルスバイル",
+      "source": "OSM name:ja"
+    },
+    "node/2171372991": {
+      "name": "ハフナルフィヨルズゥル",
+      "source": "OSM name:ja"
+    }
+  }
+}

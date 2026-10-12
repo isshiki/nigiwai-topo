@@ -1,0 +1,78 @@
+{
+  "dictionary": "Svenska ortnamn med uttalsuppgifter",
+  "authors": [
+    "Jöran Sahlgren",
+    "Gösta Bergman"
+  ],
+  "edition": "2nd edition 1968, printing 1979",
+  "reading_key_urls": [
+    "https://runeberg.org/ortnamn/0006.html",
+    "https://runeberg.org/ortnamn/0007.html"
+  ],
+  "items": [
+    {
+      "id": "2726412",
+      "ja": "アルステルブルー",
+      "url": "https://runeberg.org/ortnamn/0008.html",
+      "dictionary_reading": "Alsterbro Kalm. alsterbro4",
+      "address_identity": "KalmarのAlstervägen",
+      "facsimile_checked": true
+    },
+    {
+      "id": "2718401",
+      "ja": "ビュクセルクルーク",
+      "url": "https://runeberg.org/ortnamn/0010.html",
+      "dictionary_reading": "Byxelkrok Kalm. bykselkro4k",
+      "address_identity": "KalmarのNeptunivägen",
+      "facsimile_checked": true
+    },
+    {
+      "id": "2717878",
+      "ja": "デゲルハムン",
+      "url": "https://runeberg.org/ortnamn/0011.html",
+      "dictionary_reading": "Degerhamn Kalm. degerhamn4",
+      "address_identity": "KalmarのSödra Möcklebyvägen",
+      "facsimile_checked": true
+    },
+    {
+      "id": "2711861",
+      "ja": "グルンメルストレスク",
+      "url": "https://runeberg.org/ortnamn/0013.html",
+      "dictionary_reading": "Glommersträsk Norrb. glomm3ersträsk2",
+      "address_identity": "NorrbottenのStorgatan",
+      "facsimile_checked": true
+    },
+    {
+      "id": "605474",
+      "ja": "ユンノスアンドー",
+      "url": "https://runeberg.org/ortnamn/0016.html",
+      "dictionary_reading": "Junosuando Norrb. junnå-suand4å",
+      "address_identity": "NorrbottenのFolketshusvägen・Lautakoskivägen",
+      "facsimile_checked": true
+    },
+    {
+      "id": "2694359",
+      "ja": "ロフスダーレン",
+      "url": "https://runeberg.org/ortnamn/0020.html",
+      "dictionary_reading": "Lofsdalen Jämtl. låfs3da2len",
+      "address_identity": "JämtlandのLofsdalsvägen",
+      "facsimile_checked": true
+    },
+    {
+      "id": "2694593",
+      "ja": "ユーガーン",
+      "url": "https://runeberg.org/ortnamn/0020.html",
+      "dictionary_reading": "Ljugarn Gotl. ju3ga2rn",
+      "address_identity": "GotlandのStorvägen",
+      "facsimile_checked": true
+    },
+    {
+      "id": "2726161",
+      "ja": "オムセレ",
+      "url": "https://runeberg.org/ortnamn/0033.html",
+      "dictionary_reading": "Åmsele Västerb. åmm4sele",
+      "address_identity": "VästerbottenのByavägen",
+      "facsimile_checked": true
+    }
+  ]
+}

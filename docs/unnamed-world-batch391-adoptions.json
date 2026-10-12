@@ -1,0 +1,30 @@
+{
+  "batch": 391,
+  "adopted": 1,
+  "total_adopted": 913,
+  "remaining": 4441,
+  "items": [
+    {
+      "peak": "60.934, 13.361",
+      "ref": {
+        "id": "2695029",
+        "name": "Lima",
+        "country": "SE",
+        "lon": 13.35,
+        "lat": 60.93333,
+        "feature_code": "PPL",
+        "source_url": "https://download.geonames.org/export/dump/SE.zip",
+        "distance_m": 584,
+        "supporting_pois": 24,
+        "support_share": 0.857
+      },
+      "ja_editorial": "リマ（推定）",
+      "batch": 391,
+      "policy": "reviewed_address_text_anchors",
+      "reading_status": "inferred",
+      "reviewed_by": "Codex",
+      "review_note": "推定音写。スウェーデンMalung-Sälen自治体のLimaUG,Kyrkbyn104を公式青少年施設資料で確認し、LimaBesparingsskogのKyrkbyn106を運営者公開住所で確認。PeruのLimaと混同せずGeoNames国SEの参照IDで本峰を照合。24/28本文支持。同行104にある銀行・住宅・林業の別POIは独立施設として数えない。",
+      "official_anchor_review": "docs/unnamed-world-official-anchor-reviews.json"
+    }
+  ]
+}

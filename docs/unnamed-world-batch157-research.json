@@ -1,0 +1,38 @@
+{
+  "batch": 157,
+  "status": "research_only",
+  "remaining_candidate_peaks": 108,
+  "remaining_previous_holds": 36,
+  "findings": [
+    {
+      "name": "Daysland",
+      "result": "既存住所照合を再確認。新検索では町名発音を示す一次資料は未取得。",
+      "source": "https://daysland.ca/"
+    },
+    {
+      "name": "Ryley",
+      "result": "人名Ryleyの発音資料は町の読みの直接根拠として採用しない。連邦地名登録IAGGKは所在地照合の別系統資料として次に確認。",
+      "source": "https://geonames.nrcan.gc.ca/search-place-names/unique?id=IAGGK"
+    },
+    {
+      "name": "Vantage",
+      "result": "401MainStreetと401VantageHwyの別表記が商用索引に継続して見られる。公式店舗住所は今回も未取得。辞書発音を地域固有発音と称さない。",
+      "source": "https://www.co.kittitas.wa.us/uploads/documents/cds/comp-plan/historical/2009/documents/reports/Comments-44_54_56-58.pdf"
+    },
+    {
+      "name": "Coronach",
+      "result": "転載百科事典は町のIPAを記すが一次資料ではない。一般語の辞書とは語末母音表記も異なり、同一視せず原典追跡を次の行動とする。",
+      "source": "https://en-academic.com/dic.nsf/enwiki/2498397/"
+    }
+  ],
+  "broader_source_leads": [
+    {
+      "url": "https://archive.org/details/placenamesofalbeunse",
+      "note": "1991州文化部系地名資料。公開範囲と対象項目・発音欄を次に確認。書誌だけでは本文閲覧や発音記載を確認できない。"
+    },
+    {
+      "url": "https://natural-resources.canada.ca/maps-tools-publications/tools-applications/canadian-geographical-names-database",
+      "note": "公的名と位置の検証。紹介にある音声はLabrador Innu地名であり、今回のAlberta/Saskatchewan候補に利用可能とは未確認。"
+    }
+  ]
+}

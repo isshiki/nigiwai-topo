@@ -1,0 +1,30 @@
+{
+  "batch": 391,
+  "expected_adopted": 912,
+  "items": [
+    {
+      "peak": "60.934, 13.361",
+      "ja_editorial": "リマ（推定）",
+      "reading_status": "inferred",
+      "review_note": "推定音写。スウェーデンMalung-Sälen自治体のLimaUG,Kyrkbyn104を公式青少年施設資料で確認し、LimaBesparingsskogのKyrkbyn106を運営者公開住所で確認。PeruのLimaと混同せずGeoNames国SEの参照IDで本峰を照合。24/28本文支持。同行104にある銀行・住宅・林業の別POIは独立施設として数えない。",
+      "anchors": [
+        {
+          "poi_id": "943974967a194f109ee5ef0b",
+          "facility_key": "Lima-Youth104",
+          "source_url": "https://malung-salen.se/download/18.11f787b01943ff5023b2cc34/1736425045412/Broschyr%20D%C3%B6lg%C3%A5rden.pdf",
+          "official_address": "LimaUG,Kyrkbyn104,Lima",
+          "verification": "official_search_excerpt",
+          "limitation": "Municipalitydocumentsearchtext; directopencachemiss. Exactsame104housingproviderpage independentlycorroboratesstreet, notcounted asanotherfacility."
+        },
+        {
+          "poi_id": "866ddbb9e10548d928affbb7",
+          "facility_key": "Lima-Forest106",
+          "source_url": "https://www.limaskog.com/kontakt/",
+          "official_address": "LimaBesparingsskog,Kyrkbyn106,78064Lima",
+          "verification": "public_page_body",
+          "limitation": "OperatorLimaoffice address; workshopÖstraÄrnäs139 excluded."
+        }
+      ]
+    }
+  ]
+}

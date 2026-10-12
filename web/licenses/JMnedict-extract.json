@@ -1,0 +1,64 @@
+{
+  "copyright": "James William Breen and Electronic Dictionary Research and Development Group",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://www.edrdg.org/edrdg/licence.html",
+  "source": "https://github.com/scriptin/jmdict-simplified/releases/tag/3.6.2%2B20261005200550",
+  "dictDate": "2026-10-05",
+  "modification": "Selected entries5072079 and5060967; original kana, translation and classification unchanged",
+  "entries": [
+    {
+      "id": "5072079",
+      "kanji": [],
+      "kana": [
+        {
+          "text": "ブリスビク",
+          "tags": [],
+          "appliesToKanji": [
+            "*"
+          ]
+        }
+      ],
+      "translation": [
+        {
+          "type": [
+            "place"
+          ],
+          "related": [],
+          "translation": [
+            {
+              "lang": "eng",
+              "text": "Burgsvik"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5060967",
+      "kanji": [],
+      "kana": [
+        {
+          "text": "ハインズクリーク",
+          "tags": [],
+          "appliesToKanji": [
+            "*"
+          ]
+        }
+      ],
+      "translation": [
+        {
+          "type": [
+            "place"
+          ],
+          "related": [],
+          "translation": [
+            {
+              "lang": "eng",
+              "text": "Hines Creek"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

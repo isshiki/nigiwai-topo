@@ -1,0 +1,30 @@
+{
+  "batch": 398,
+  "adopted": 1,
+  "total_adopted": 917,
+  "remaining": 4437,
+  "items": [
+    {
+      "peak": "50.887, -109.542",
+      "ref": {
+        "id": "6051040",
+        "name": "Leader",
+        "country": "CA",
+        "lon": -109.55154,
+        "lat": 50.88341,
+        "feature_code": "PPL",
+        "source_url": "https://download.geonames.org/export/dump/CA.zip",
+        "distance_m": 794,
+        "supporting_pois": 92,
+        "support_share": 0.852
+      },
+      "ja_editorial": "リーダー（推定）",
+      "batch": 398,
+      "policy": "reviewed_address_text_anchors",
+      "reading_status": "inferred",
+      "reviewed_by": "Codex",
+      "review_note": "推定音写。町庁舎1511stStreetWest公式ページとEatonia自治体2018年広報のLeaderPharmacy広告1001stAvenueWestを照合。元POIのSt重複と末尾コンマを保持。薬局資料は歴史的広告で営業状況の認定ではない。水泳場の201MainStreetは商工会119MainStreetと一致しないため住所アンカーから除外。",
+      "official_anchor_review": "docs/unnamed-world-official-anchor-reviews.json"
+    }
+  ]
+}

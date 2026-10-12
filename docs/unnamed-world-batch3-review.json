@@ -1,0 +1,389 @@
+{
+  "items": [
+    {
+      "peak": "44.735, -122.152",
+      "ref": {
+        "id": "5722994",
+        "name": "Detroit",
+        "lon": -122.1498,
+        "lat": 44.73401,
+        "feature_code": "PPL",
+        "country": "US",
+        "source_url": "https://download.geonames.org/export/dump/US.zip",
+        "distance_m": 210,
+        "supporting_pois": 39,
+        "support_share": 0.975
+      },
+      "ja_editorial": "デトロイト",
+      "batch": 3,
+      "policy": "facility_text_review",
+      "review_note": "原施設名と住所本文を確認。登録参照地点に対応する近隣参考名で、行政境界の包含判定ではありません。"
+    },
+    {
+      "peak": "45.304, -121.755",
+      "ref": {
+        "id": "5728895",
+        "name": "Government Camp",
+        "lon": -121.7548,
+        "lat": 45.30401,
+        "feature_code": "PPL",
+        "country": "US",
+        "source_url": "https://download.geonames.org/export/dump/US.zip",
+        "distance_m": 23,
+        "supporting_pois": 89,
+        "support_share": 0.881
+      },
+      "ja_editorial": "ガバメント・キャンプ",
+      "batch": 3,
+      "policy": "facility_text_review",
+      "review_note": "原施設名と住所本文を確認。登録参照地点に対応する近隣参考名で、行政境界の包含判定ではありません。"
+    },
+    {
+      "peak": "38.464, -120.041",
+      "ref": {
+        "id": "5326968",
+        "name": "Bear Valley",
+        "lon": -120.03991,
+        "lat": 38.46463,
+        "feature_code": "PPL",
+        "country": "US",
+        "source_url": "https://download.geonames.org/export/dump/US.zip",
+        "distance_m": 114,
+        "supporting_pois": 37,
+        "support_share": 0.902
+      },
+      "ja_editorial": "ベア・バレー",
+      "batch": 3,
+      "policy": "facility_text_review",
+      "review_note": "原施設名と住所本文を確認。登録参照地点に対応する近隣参考名で、行政境界の包含判定ではありません。"
+    },
+    {
+      "peak": "39.220, -104.537",
+      "ref": {
+        "id": "5420934",
+        "name": "Elbert",
+        "lon": -104.53719,
+        "lat": 39.21943,
+        "feature_code": "PPL",
+        "country": "US",
+        "source_url": "https://download.geonames.org/export/dump/US.zip",
+        "distance_m": 92,
+        "supporting_pois": 27,
+        "support_share": 1.0
+      },
+      "ja_editorial": "エルバート",
+      "batch": 3,
+      "policy": "facility_text_review",
+      "review_note": "原施設名と住所本文を確認。登録参照地点に対応する近隣参考名で、行政境界の包含判定ではありません。"
+    },
+    {
+      "peak": "48.026, -101.960",
+      "ref": {
+        "id": "5691057",
+        "name": "Plaza",
+        "lon": -101.961,
+        "lat": 48.02585,
+        "feature_code": "PPL",
+        "country": "US",
+        "source_url": "https://download.geonames.org/export/dump/US.zip",
+        "distance_m": 67,
+        "supporting_pois": 27,
+        "support_share": 0.964
+      },
+      "ja_editorial": "プラザ",
+      "batch": 3,
+      "policy": "facility_text_review",
+      "review_note": "原施設名と住所本文を確認。登録参照地点に対応する近隣参考名で、行政境界の包含判定ではありません。"
+    },
+    {
+      "peak": "32.518, -98.047",
+      "ref": {
+        "id": "4706509",
+        "name": "Lipan",
+        "lon": -98.04587,
+        "lat": 32.51847,
+        "feature_code": "PPL",
+        "country": "US",
+        "source_url": "https://download.geonames.org/export/dump/US.zip",
+        "distance_m": 116,
+        "supporting_pois": 58,
+        "support_share": 1.0
+      },
+      "ja_editorial": "リパン",
+      "batch": 3,
+      "policy": "facility_text_review",
+      "review_note": "原施設名と住所本文を確認。登録参照地点に対応する近隣参考名で、行政境界の包含判定ではありません。"
+    },
+    {
+      "peak": "44.131, -90.500",
+      "ref": {
+        "id": "5277841",
+        "name": "Warrens",
+        "lon": -90.49985,
+        "lat": 44.13107,
+        "feature_code": "PPL",
+        "country": "US",
+        "source_url": "https://download.geonames.org/export/dump/US.zip",
+        "distance_m": 68,
+        "supporting_pois": 56,
+        "support_share": 0.966
+      },
+      "ja_editorial": "ウォレンズ",
+      "batch": 3,
+      "policy": "facility_text_review",
+      "review_note": "原施設名と住所本文を確認。登録参照地点に対応する近隣参考名で、行政境界の包含判定ではありません。"
+    },
+    {
+      "peak": "37.305, -86.060",
+      "ref": {
+        "id": "4289202",
+        "name": "Cub Run",
+        "lon": -86.0608,
+        "lat": 37.30561,
+        "feature_code": "PPL",
+        "country": "US",
+        "source_url": "https://download.geonames.org/export/dump/US.zip",
+        "distance_m": 112,
+        "supporting_pois": 18,
+        "support_share": 0.947
+      },
+      "ja_editorial": "カブ・ラン",
+      "batch": 3,
+      "policy": "facility_text_review",
+      "review_note": "原施設名と住所本文を確認。登録参照地点に対応する近隣参考名で、行政境界の包含判定ではありません。"
+    },
+    {
+      "peak": "44.854, -85.856",
+      "ref": {
+        "id": "5000687",
+        "name": "Maple City",
+        "lon": -85.85592,
+        "lat": 44.85555,
+        "feature_code": "PPL",
+        "country": "US",
+        "source_url": "https://download.geonames.org/export/dump/US.zip",
+        "distance_m": 155,
+        "supporting_pois": 19,
+        "support_share": 1.0
+      },
+      "ja_editorial": "メープル・シティ",
+      "batch": 3,
+      "policy": "facility_text_review",
+      "review_note": "原施設名と住所本文を確認。登録参照地点に対応する近隣参考名で、行政境界の包含判定ではありません。"
+    },
+    {
+      "peak": "39.031, -82.826",
+      "ref": {
+        "id": "4505980",
+        "name": "Beaver",
+        "lon": -82.82434,
+        "lat": 39.03063,
+        "feature_code": "PPL",
+        "country": "US",
+        "source_url": "https://download.geonames.org/export/dump/US.zip",
+        "distance_m": 165,
+        "supporting_pois": 46,
+        "support_share": 1.0
+      },
+      "ja_editorial": "ビーバー",
+      "batch": 3,
+      "policy": "facility_text_review",
+      "review_note": "原施設名と住所本文を確認。登録参照地点に対応する近隣参考名で、行政境界の包含判定ではありません。"
+    },
+    {
+      "peak": "38.498, -80.755",
+      "ref": {
+        "id": "4799363",
+        "name": "Birch River",
+        "lon": -80.7551,
+        "lat": 38.49871,
+        "feature_code": "PPL",
+        "country": "US",
+        "source_url": "https://download.geonames.org/export/dump/US.zip",
+        "distance_m": 135,
+        "supporting_pois": 25,
+        "support_share": 1.0
+      },
+      "ja_editorial": "バーチ・リバー",
+      "batch": 3,
+      "policy": "facility_text_review",
+      "review_note": "原施設名と住所本文を確認。登録参照地点に対応する近隣参考名で、行政境界の包含判定ではありません。"
+    },
+    {
+      "peak": "44.709, -79.644",
+      "ref": {
+        "id": "5925066",
+        "name": "Coldwater",
+        "lon": -79.64194,
+        "lat": 44.70972,
+        "feature_code": "PPL",
+        "country": "CA",
+        "source_url": "https://download.geonames.org/export/dump/CA.zip",
+        "distance_m": 147,
+        "supporting_pois": 126,
+        "support_share": 0.955
+      },
+      "ja_editorial": "コールドウォーター",
+      "batch": 3,
+      "policy": "facility_text_review",
+      "review_note": "原施設名と住所本文を確認。登録参照地点に対応する近隣参考名で、行政境界の包含判定ではありません。"
+    },
+    {
+      "peak": "-35.148, -70.083",
+      "ref": {
+        "id": "7521918",
+        "name": "Las Leñas",
+        "lon": -70.08247,
+        "lat": -35.14686,
+        "feature_code": "PPL",
+        "country": "AR",
+        "source_url": "https://download.geonames.org/export/dump/AR.zip",
+        "distance_m": 105,
+        "supporting_pois": 69,
+        "support_share": 0.986
+      },
+      "ja_editorial": "ラス・レニャス",
+      "batch": 3,
+      "policy": "facility_text_review",
+      "review_note": "原施設名と住所本文を確認。登録参照地点に対応する近隣参考名で、行政境界の包含判定ではありません。"
+    },
+    {
+      "peak": "-6.488, -37.450",
+      "ref": {
+        "id": "3388988",
+        "name": "São Bento",
+        "lon": -37.45056,
+        "lat": -6.48611,
+        "feature_code": "PPL",
+        "country": "BR",
+        "source_url": "https://download.geonames.org/export/dump/BR.zip",
+        "distance_m": 232,
+        "supporting_pois": 412,
+        "support_share": 0.858
+      },
+      "ja_editorial": "サン・ベント",
+      "batch": 3,
+      "policy": "facility_text_review",
+      "review_note": "原施設名と住所本文を確認。登録参照地点に対応する近隣参考名で、行政境界の包含判定ではありません。"
+    },
+    {
+      "peak": "57.728, -5.692",
+      "ref": {
+        "id": "2648941",
+        "name": "Gairloch",
+        "lon": -5.69384,
+        "lat": 57.72831,
+        "feature_code": "PPL",
+        "country": "GB",
+        "source_url": "https://download.geonames.org/export/dump/GB.zip",
+        "distance_m": 145,
+        "supporting_pois": 37,
+        "support_share": 0.925
+      },
+      "ja_editorial": "ゲアロック",
+      "batch": 3,
+      "policy": "facility_text_review",
+      "review_note": "原施設名と住所本文を確認。登録参照地点に対応する近隣参考名で、行政境界の包含判定ではありません。"
+    },
+    {
+      "peak": "-7.591, 109.860",
+      "ref": {
+        "id": "1621396",
+        "name": "Wonosido",
+        "lon": 109.86139,
+        "lat": -7.58972,
+        "feature_code": "PPL",
+        "country": "ID",
+        "source_url": "https://download.geonames.org/export/dump/ID.zip",
+        "distance_m": 155,
+        "supporting_pois": 17,
+        "support_share": 0.944
+      },
+      "ja_editorial": "ウォノシド",
+      "batch": 3,
+      "policy": "facility_text_review",
+      "review_note": "原施設名と住所本文を確認。登録参照地点に対応する近隣参考名で、行政境界の包含判定ではありません。"
+    },
+    {
+      "peak": "-7.296, 112.270",
+      "ref": {
+        "id": "1628968",
+        "name": "Sambeng",
+        "lon": 112.2716,
+        "lat": -7.2958,
+        "feature_code": "PPL",
+        "country": "ID",
+        "source_url": "https://download.geonames.org/export/dump/ID.zip",
+        "distance_m": 228,
+        "supporting_pois": 28,
+        "support_share": 0.933
+      },
+      "ja_editorial": "サンベン",
+      "batch": 3,
+      "policy": "facility_text_review",
+      "review_note": "原施設名と住所本文を確認。登録参照地点に対応する近隣参考名で、行政境界の包含判定ではありません。"
+    },
+    {
+      "peak": "-43.098, 147.743",
+      "ref": {
+        "id": "2154779",
+        "name": "Nubeena",
+        "lon": 147.74327,
+        "lat": -43.09712,
+        "feature_code": "PPL",
+        "country": "AU",
+        "source_url": "https://download.geonames.org/export/dump/AU.zip",
+        "distance_m": 132,
+        "supporting_pois": 28,
+        "support_share": 0.966
+      },
+      "ja_editorial": "ヌビーナ",
+      "batch": 3,
+      "policy": "facility_text_review",
+      "review_note": "原施設名と住所本文を確認。登録参照地点に対応する近隣参考名で、行政境界の包含判定ではありません。"
+    },
+    {
+      "peak": "-36.505, 148.306",
+      "ref": {
+        "id": "2146760",
+        "name": "Thredbo",
+        "lon": 148.30546,
+        "lat": -36.50679,
+        "feature_code": "PPL",
+        "country": "AU",
+        "source_url": "https://download.geonames.org/export/dump/AU.zip",
+        "distance_m": 210,
+        "supporting_pois": 191,
+        "support_share": 0.884
+      },
+      "ja_editorial": "スレドボ",
+      "batch": 3,
+      "policy": "facility_text_review",
+      "review_note": "原施設名と住所本文を確認。登録参照地点に対応する近隣参考名で、行政境界の包含判定ではありません。",
+      "japanese_source_url": "https://www.australia.com/ja-jp/things-to-do/seasonal-travel/best-ski-resorts-in-australia.html"
+    }
+  ],
+  "held": [
+    {
+      "source_name": "Pavillion",
+      "reason": "Wyomingの参照地点周囲にsushi teiやTamuningの住所等が混在。一般語Plaza/Pavillionの施設名との誤照合・位置品質の追加確認が必要。"
+    },
+    {
+      "source_names": [
+        "Hamzabeyli",
+        "Turgut",
+        "Çamlıca",
+        "Atça",
+        "Esenevler"
+      ],
+      "reason": "住所が欠ける例や別都市名・住宅名が混じるため、公的所在地との追加確認を優先。"
+    },
+    {
+      "source_names": [
+        "Ljungdalen",
+        "Ingmarsö"
+      ],
+      "reason": "地域候補はあるが日本語読みを追加確認するまで保留。"
+    }
+  ]
+}

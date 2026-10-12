@@ -1,0 +1,1372 @@
+{
+  "checked_at": "2026-10-10T12:21:47.987097+00:00",
+  "snapshot_id": "2325979374271449319",
+  "scope_peaks": 13,
+  "unique_records": 5436,
+  "threshold_m": 50000,
+  "ids_and_coordinates_verified": true,
+  "totals": {
+    "locality_reference_far": 3470,
+    "missing_locality": 1550,
+    "unmatched_locality": 334,
+    "locality_reference_not_far": 40,
+    "country_only_locality": 42
+  },
+  "gazetteer_sources": {
+    "IN": {
+      "url": "https://download.geonames.org/export/dump/IN.zip",
+      "sha256": "b3280a2a99ba7c10e66824fb82eee1af9e8d7511688b096e5e04ace6ae098335",
+      "license": "CC BY 4.0"
+    },
+    "TR": {
+      "url": "https://download.geonames.org/export/dump/TR.zip",
+      "sha256": "99a5bc11e955180db3ea3e654c6df00bcfd8aa02b8e1c1ab81cc8543652c264c",
+      "license": "CC BY 4.0"
+    },
+    "IR": {
+      "url": "https://download.geonames.org/export/dump/IR.zip",
+      "sha256": "e9c86a7589b8c9aa71d2bb930ab20e64be9fdb53ed08406b1d37fd079353a7e8",
+      "license": "CC BY 4.0"
+    },
+    "BR": {
+      "url": "https://download.geonames.org/export/dump/BR.zip",
+      "sha256": "4a9ddffb465ccad219127146f0678087cfece414ca0240bee53a5ea6750eebd8",
+      "license": "CC BY 4.0"
+    },
+    "AU": {
+      "url": "https://download.geonames.org/export/dump/AU.zip",
+      "sha256": "106b42c201d0947157fbc5c09e490b8c705b13650e731d702676ed46a1b3f125",
+      "license": "CC BY 4.0"
+    },
+    "US": {
+      "url": "https://download.geonames.org/export/dump/US.zip",
+      "sha256": "06775ef2f48a8e80ced51afb160aedc9aafc6d0fdc7e770506e8e4bae61140b2",
+      "license": "CC BY 4.0"
+    },
+    "ID": {
+      "url": "https://download.geonames.org/export/dump/ID.zip",
+      "sha256": "b2af2da0f9ef096489621585808efcc165af1473c6c5585e86d03df632f49409",
+      "license": "CC BY 4.0"
+    }
+  },
+  "limits": "Exactly recovered the IDs and coordinates of the original 13 local boxes. Locality aliases are exact after Unicode/case/punctuation normalization; no fuzzy matching or automatic exclusion. More than 50km from every same-country matched populated-place reference is only an address-locality inconsistency screening signal. Unmatched/missing locality is unknown, not valid. Historical source aliases, broad locality scope, old address, branch identity and wrong country remain possible. Not a worldwide quality rate. No geometry/density edited.",
+  "items": [
+    {
+      "peak": "22.106, 77.185",
+      "records": 904,
+      "address_present": 902,
+      "locality_present": 877,
+      "statuses": {
+        "locality_reference_far": 876,
+        "missing_locality": 27,
+        "unmatched_locality": 1
+      },
+      "top_localities": [
+        [
+          "New Delhi",
+          870
+        ],
+        [
+          "(未登録)",
+          27
+        ],
+        [
+          "Sadar Bazar",
+          3
+        ],
+        [
+          "Ahmedabad",
+          1
+        ],
+        [
+          "Dwarka",
+          1
+        ],
+        [
+          "Ludhiana",
+          1
+        ],
+        [
+          "Uttar Pradesh",
+          1
+        ]
+      ],
+      "distant_localities": [
+        [
+          "New Delhi",
+          870
+        ],
+        [
+          "Sadar Bazar",
+          3
+        ],
+        [
+          "Ahmedabad",
+          1
+        ],
+        [
+          "Dwarka",
+          1
+        ],
+        [
+          "Ludhiana",
+          1
+        ]
+      ],
+      "primary_business_evidence": {
+        "source_url": "https://deconlighting.in/",
+        "record": {
+          "fsq_place_id": "03a5dfcc19a44c52576bfc63",
+          "name": "Decon Lighting Pvt. Ltd.",
+          "address": "Y - 43, Okhla Industrial Area, Phase - Ii",
+          "locality": "New Delhi",
+          "region": "Delhi",
+          "admin_region": null,
+          "postcode": "110020",
+          "country": "IN",
+          "longitude": 77.182931,
+          "latitude": 22.105938,
+          "status": "locality_reference_far",
+          "candidate_count": 2,
+          "nearest_references": [
+            {
+              "id": "1261481",
+              "name": "New Delhi",
+              "country": "IN",
+              "lon": 77.2148,
+              "lat": 28.62137,
+              "feature_code": "PPLC",
+              "modified": "2025-07-22",
+              "distance_m": 721781
+            },
+            {
+              "id": "1273294",
+              "name": "Delhi",
+              "country": "IN",
+              "lon": 77.23149,
+              "lat": 28.65195,
+              "feature_code": "PPLA",
+              "modified": "2024-12-31",
+              "distance_m": 725179
+            }
+          ]
+        }
+      }
+    },
+    {
+      "peak": "39.035, 35.244",
+      "records": 761,
+      "address_present": 448,
+      "locality_present": 649,
+      "statuses": {
+        "missing_locality": 112,
+        "unmatched_locality": 170,
+        "locality_reference_far": 445,
+        "locality_reference_not_far": 34
+      },
+      "top_localities": [
+        [
+          "Boðazlıyan",
+          146
+        ],
+        [
+          "(未登録)",
+          112
+        ],
+        [
+          "İstanbul",
+          51
+        ],
+        [
+          "Ankara",
+          19
+        ],
+        [
+          "Boğazlıyan",
+          19
+        ],
+        [
+          "Bursa",
+          17
+        ],
+        [
+          "Gaziantep",
+          13
+        ],
+        [
+          "İzmir",
+          13
+        ],
+        [
+          "Antalya",
+          10
+        ],
+        [
+          "Şanlıurfa",
+          9
+        ]
+      ],
+      "distant_localities": [
+        [
+          "İstanbul",
+          51
+        ],
+        [
+          "Ankara",
+          19
+        ],
+        [
+          "Bursa",
+          17
+        ],
+        [
+          "Gaziantep",
+          13
+        ],
+        [
+          "İzmir",
+          13
+        ],
+        [
+          "Antalya",
+          10
+        ],
+        [
+          "Şanlıurfa",
+          9
+        ],
+        [
+          "Adana",
+          9
+        ],
+        [
+          "Hatay",
+          9
+        ],
+        [
+          "Samsun",
+          8
+        ]
+      ],
+      "primary_business_evidence": null
+    },
+    {
+      "peak": "31.878, 53.438",
+      "records": 431,
+      "address_present": 365,
+      "locality_present": 245,
+      "statuses": {
+        "missing_locality": 186,
+        "locality_reference_far": 215,
+        "unmatched_locality": 30
+      },
+      "top_localities": [
+        [
+          "(未登録)",
+          186
+        ],
+        [
+          "Tabriz",
+          43
+        ],
+        [
+          "تبريز",
+          19
+        ],
+        [
+          "اروميه",
+          18
+        ],
+        [
+          "Urmia",
+          15
+        ],
+        [
+          "tabriz",
+          14
+        ],
+        [
+          "Tehran",
+          8
+        ],
+        [
+          "urmia",
+          8
+        ],
+        [
+          "تهران",
+          8
+        ],
+        [
+          "Maragheh",
+          8
+        ]
+      ],
+      "distant_localities": [
+        [
+          "Tabriz",
+          43
+        ],
+        [
+          "تبريز",
+          19
+        ],
+        [
+          "اروميه",
+          18
+        ],
+        [
+          "Urmia",
+          15
+        ],
+        [
+          "tabriz",
+          14
+        ],
+        [
+          "Tehran",
+          8
+        ],
+        [
+          "urmia",
+          8
+        ],
+        [
+          "تهران",
+          8
+        ],
+        [
+          "Maragheh",
+          8
+        ],
+        [
+          "Bandar-e Anzali",
+          5
+        ]
+      ],
+      "primary_business_evidence": null
+    },
+    {
+      "peak": "-13.001, -54.000",
+      "records": 436,
+      "address_present": 47,
+      "locality_present": 50,
+      "statuses": {
+        "missing_locality": 386,
+        "locality_reference_far": 42,
+        "unmatched_locality": 8
+      },
+      "top_localities": [
+        [
+          "(未登録)",
+          386
+        ],
+        [
+          "Recife",
+          3
+        ],
+        [
+          "Belém",
+          3
+        ],
+        [
+          "Paranatinga",
+          3
+        ],
+        [
+          "Porto Alegre",
+          2
+        ],
+        [
+          "Sao Paulo",
+          2
+        ],
+        [
+          "São Paulo",
+          2
+        ],
+        [
+          "Formosa",
+          2
+        ],
+        [
+          "Arapiraca",
+          1
+        ],
+        [
+          "Palmeira Dos Índios",
+          1
+        ]
+      ],
+      "distant_localities": [
+        [
+          "Recife",
+          3
+        ],
+        [
+          "Belém",
+          3
+        ],
+        [
+          "Paranatinga",
+          3
+        ],
+        [
+          "Porto Alegre",
+          2
+        ],
+        [
+          "Sao Paulo",
+          2
+        ],
+        [
+          "São Paulo",
+          2
+        ],
+        [
+          "Formosa",
+          2
+        ],
+        [
+          "Arapiraca",
+          1
+        ],
+        [
+          "Palmeira Dos Índios",
+          1
+        ],
+        [
+          "Jundiaí",
+          1
+        ]
+      ],
+      "primary_business_evidence": {
+        "source_url": "https://www2.ifal.edu.br/campus/palmeira",
+        "record": {
+          "fsq_place_id": "4f9090c4e4b04fd33dd62bd7",
+          "name": "IFAL Campus PIn",
+          "address": "Palmeira De Fora",
+          "locality": "Palmeira Dos Índios",
+          "region": "AL",
+          "admin_region": null,
+          "postcode": null,
+          "country": "BR",
+          "longitude": -54.000002485872166,
+          "latitude": -13.000002275624711,
+          "status": "locality_reference_far",
+          "candidate_count": 1,
+          "nearest_references": [
+            {
+              "id": "3393242",
+              "name": "Palmeira dos Índios",
+              "country": "BR",
+              "lon": -36.6275,
+              "lat": -9.40722,
+              "feature_code": "PPL",
+              "modified": "2012-08-03",
+              "distance_m": 1937850
+            }
+          ]
+        }
+      }
+    },
+    {
+      "peak": "22.106, 72.577",
+      "records": 289,
+      "address_present": 289,
+      "locality_present": 289,
+      "statuses": {
+        "locality_reference_far": 289
+      },
+      "top_localities": [
+        [
+          "Ahmedabad",
+          256
+        ],
+        [
+          "Ahmadabad",
+          26
+        ],
+        [
+          "Dhariwal",
+          4
+        ],
+        [
+          "Daskroi",
+          3
+        ]
+      ],
+      "distant_localities": [
+        [
+          "Ahmedabad",
+          256
+        ],
+        [
+          "Ahmadabad",
+          26
+        ],
+        [
+          "Dhariwal",
+          4
+        ],
+        [
+          "Daskroi",
+          3
+        ]
+      ],
+      "primary_business_evidence": {
+        "source_url": "https://hcp.co.in/contact",
+        "record": {
+          "fsq_place_id": "07e56c1dbcdb4789dca9fa2c",
+          "name": "Hcp Interior Architecture Pvt. Ltd.",
+          "address": "302 Paritosh Building, Usman Pura, Naranpura Opposite Fortune Landmark Hotel",
+          "locality": "Ahmedabad",
+          "region": "Gujarat",
+          "admin_region": null,
+          "postcode": "380013",
+          "country": "IN",
+          "longitude": 72.576826,
+          "latitude": 22.105991,
+          "status": "locality_reference_far",
+          "candidate_count": 2,
+          "nearest_references": [
+            {
+              "id": "1279233",
+              "name": "Ahmedabad",
+              "country": "IN",
+              "lon": 72.58727,
+              "lat": 23.02579,
+              "feature_code": "PPL",
+              "modified": "2024-01-06",
+              "distance_m": 101862
+            },
+            {
+              "id": "10752522",
+              "name": "Ahmedābād",
+              "country": "IN",
+              "lon": 78.99889,
+              "lat": 28.88983,
+              "feature_code": "PPL",
+              "modified": "2024-01-06",
+              "distance_m": 990341
+            }
+          ]
+        }
+      }
+    },
+    {
+      "peak": "22.106, 72.565",
+      "records": 368,
+      "address_present": 368,
+      "locality_present": 368,
+      "statuses": {
+        "locality_reference_far": 368
+      },
+      "top_localities": [
+        [
+          "Ahmedabad",
+          330
+        ],
+        [
+          "Ahmadabad",
+          25
+        ],
+        [
+          "Dhariwal",
+          10
+        ],
+        [
+          "Daskroi",
+          2
+        ],
+        [
+          "Dholka",
+          1
+        ]
+      ],
+      "distant_localities": [
+        [
+          "Ahmedabad",
+          330
+        ],
+        [
+          "Ahmadabad",
+          25
+        ],
+        [
+          "Dhariwal",
+          10
+        ],
+        [
+          "Daskroi",
+          2
+        ],
+        [
+          "Dholka",
+          1
+        ]
+      ],
+      "primary_business_evidence": {
+        "source_url": "https://gcriindia.org/contact.html",
+        "record": {
+          "fsq_place_id": "0083cfd8cd244c59f6e5fd38",
+          "name": "Gujarat Cancer and Research Institute (gcri)",
+          "address": "N/A, New Civil Hospital Campus, Asarwa",
+          "locality": "Ahmadabad",
+          "region": "Gujarat",
+          "admin_region": null,
+          "postcode": "380016",
+          "country": "IN",
+          "longitude": 72.566011,
+          "latitude": 22.10617,
+          "status": "locality_reference_far",
+          "candidate_count": 22,
+          "nearest_references": [
+            {
+              "id": "1279233",
+              "name": "Ahmedabad",
+              "country": "IN",
+              "lon": 72.58727,
+              "lat": 23.02579,
+              "feature_code": "PPL",
+              "modified": "2024-01-06",
+              "distance_m": 101860
+            },
+            {
+              "id": "10690968",
+              "name": "Āhmadābād",
+              "country": "IN",
+              "lon": 75.41784,
+              "lat": 20.29462,
+              "feature_code": "PPL",
+              "modified": "2024-01-06",
+              "distance_m": 357627
+            },
+            {
+              "id": "10523495",
+              "name": "Ahmadābād",
+              "country": "IN",
+              "lon": 77.31026,
+              "lat": 18.02475,
+              "feature_code": "PPL",
+              "modified": "2024-01-06",
+              "distance_m": 671024
+            }
+          ]
+        }
+      }
+    },
+    {
+      "peak": "-20.000, 145.000",
+      "records": 306,
+      "address_present": 304,
+      "locality_present": 304,
+      "statuses": {
+        "locality_reference_far": 291,
+        "missing_locality": 2,
+        "unmatched_locality": 13
+      },
+      "top_localities": [
+        [
+          "Gladstone Central",
+          57
+        ],
+        [
+          "Toowong",
+          30
+        ],
+        [
+          "Bohle",
+          16
+        ],
+        [
+          "Mount St John",
+          10
+        ],
+        [
+          "Callemondah",
+          6
+        ],
+        [
+          "Brisbane",
+          5
+        ],
+        [
+          "Cheltenham",
+          5
+        ],
+        [
+          "Maroochydore",
+          5
+        ],
+        [
+          "Healy",
+          5
+        ],
+        [
+          "Stuart",
+          4
+        ]
+      ],
+      "distant_localities": [
+        [
+          "Gladstone Central",
+          57
+        ],
+        [
+          "Toowong",
+          30
+        ],
+        [
+          "Bohle",
+          16
+        ],
+        [
+          "Mount St John",
+          10
+        ],
+        [
+          "Callemondah",
+          6
+        ],
+        [
+          "Brisbane",
+          5
+        ],
+        [
+          "Cheltenham",
+          5
+        ],
+        [
+          "Maroochydore",
+          5
+        ],
+        [
+          "Healy",
+          5
+        ],
+        [
+          "Stuart",
+          4
+        ]
+      ],
+      "primary_business_evidence": {
+        "source_url": "https://www.toowongvillage.com.au/stores/chatime",
+        "record": {
+          "fsq_place_id": "688d20c4bfffa54f8b9adc99",
+          "name": "Chatime Toowong Village",
+          "address": "9 Sherwood Rd",
+          "locality": "Toowong",
+          "region": "QLD",
+          "admin_region": null,
+          "postcode": "4066",
+          "country": "AU",
+          "longitude": 145.0,
+          "latitude": -20.0,
+          "status": "locality_reference_far",
+          "candidate_count": 1,
+          "nearest_references": [
+            {
+              "id": "2146270",
+              "name": "Toowong",
+              "country": "AU",
+              "lon": 152.98333,
+              "lat": -27.48333,
+              "feature_code": "PPLX",
+              "modified": "2019-07-18",
+              "distance_m": 1160933
+            }
+          ]
+        }
+      }
+    },
+    {
+      "peak": "-33.000, 146.000",
+      "records": 307,
+      "address_present": 299,
+      "locality_present": 300,
+      "statuses": {
+        "locality_reference_far": 292,
+        "unmatched_locality": 8,
+        "missing_locality": 7
+      },
+      "top_localities": [
+        [
+          "Tweed Heads South",
+          12
+        ],
+        [
+          "Taminda",
+          10
+        ],
+        [
+          "Sydney",
+          7
+        ],
+        [
+          "(未登録)",
+          7
+        ],
+        [
+          "Tamworth",
+          6
+        ],
+        [
+          "Rouse Hill",
+          5
+        ],
+        [
+          "St Peters",
+          5
+        ],
+        [
+          "Wetherill Park",
+          4
+        ],
+        [
+          "Wollongong",
+          4
+        ],
+        [
+          "Glendenning",
+          4
+        ]
+      ],
+      "distant_localities": [
+        [
+          "Tweed Heads South",
+          12
+        ],
+        [
+          "Taminda",
+          10
+        ],
+        [
+          "Sydney",
+          7
+        ],
+        [
+          "Tamworth",
+          6
+        ],
+        [
+          "Rouse Hill",
+          5
+        ],
+        [
+          "St Peters",
+          5
+        ],
+        [
+          "Wetherill Park",
+          4
+        ],
+        [
+          "Wollongong",
+          4
+        ],
+        [
+          "Glendenning",
+          4
+        ],
+        [
+          "Silverwater",
+          4
+        ]
+      ],
+      "primary_business_evidence": {
+        "source_url": "https://teddingtonlegal.com.au/contact-us/",
+        "record": {
+          "fsq_place_id": "53b283fd498e6360c18d084f",
+          "name": "Teddington Legal",
+          "address": "Suite 513, Level 5, 55 Holt Street",
+          "locality": "Surry Hills",
+          "region": "NSW",
+          "admin_region": null,
+          "postcode": "2010",
+          "country": "AU",
+          "longitude": 146.0,
+          "latitude": -33.0,
+          "status": "locality_reference_far",
+          "candidate_count": 1,
+          "nearest_references": [
+            {
+              "id": "2147821",
+              "name": "Surry Hills",
+              "country": "AU",
+              "lon": 151.21282,
+              "lat": -33.88374,
+              "feature_code": "PPLX",
+              "modified": "2024-05-21",
+              "distance_m": 494463
+            }
+          ]
+        }
+      }
+    },
+    {
+      "peak": "39.062, 35.124",
+      "records": 275,
+      "address_present": 62,
+      "locality_present": 49,
+      "statuses": {
+        "country_only_locality": 4,
+        "missing_locality": 226,
+        "locality_reference_not_far": 2,
+        "locality_reference_far": 39,
+        "unmatched_locality": 4
+      },
+      "top_localities": [
+        [
+          "(未登録)",
+          226
+        ],
+        [
+          "Merkez",
+          8
+        ],
+        [
+          "İstanbul",
+          6
+        ],
+        [
+          "Türkiye",
+          3
+        ],
+        [
+          "Ankara",
+          3
+        ],
+        [
+          "Edirne",
+          2
+        ],
+        [
+          "Hakkari",
+          2
+        ],
+        [
+          "Düzce",
+          2
+        ],
+        [
+          "Istanbul",
+          2
+        ],
+        [
+          "Turkey",
+          1
+        ]
+      ],
+      "distant_localities": [
+        [
+          "Merkez",
+          8
+        ],
+        [
+          "İstanbul",
+          6
+        ],
+        [
+          "Ankara",
+          3
+        ],
+        [
+          "Edirne",
+          2
+        ],
+        [
+          "Hakkari",
+          2
+        ],
+        [
+          "Düzce",
+          2
+        ],
+        [
+          "Istanbul",
+          2
+        ],
+        [
+          "Sakarya",
+          1
+        ],
+        [
+          "Kars",
+          1
+        ],
+        [
+          "Ada'na",
+          1
+        ]
+      ],
+      "primary_business_evidence": {
+        "source_url": "https://medicine.neu.edu.tr/incoming/?lang=en",
+        "record": {
+          "fsq_place_id": "574be5ee498edfad327d208e",
+          "name": "NEU Hospital (International Patients Department)",
+          "address": null,
+          "locality": null,
+          "region": null,
+          "admin_region": null,
+          "postcode": null,
+          "country": "TR",
+          "longitude": 35.124582,
+          "latitude": 39.061415,
+          "status": "missing_locality",
+          "candidate_count": 0
+        }
+      }
+    },
+    {
+      "peak": "-14.235, -51.925",
+      "records": 292,
+      "address_present": 289,
+      "locality_present": 34,
+      "statuses": {
+        "locality_reference_far": 5,
+        "missing_locality": 258,
+        "country_only_locality": 28,
+        "unmatched_locality": 1
+      },
+      "top_localities": [
+        [
+          "(未登録)",
+          258
+        ],
+        [
+          "Brasil",
+          28
+        ],
+        [
+          "Ubatuba",
+          1
+        ],
+        [
+          "Rio de jeneiro",
+          1
+        ],
+        [
+          "Arinos",
+          1
+        ],
+        [
+          "São Luís",
+          1
+        ],
+        [
+          "Salvador",
+          1
+        ],
+        [
+          "JABOATÃO DOS GUARARAPES",
+          1
+        ]
+      ],
+      "distant_localities": [
+        [
+          "Ubatuba",
+          1
+        ],
+        [
+          "Arinos",
+          1
+        ],
+        [
+          "São Luís",
+          1
+        ],
+        [
+          "Salvador",
+          1
+        ],
+        [
+          "JABOATÃO DOS GUARARAPES",
+          1
+        ]
+      ],
+      "primary_business_evidence": {
+        "source_url": "https://www.itau.com.py/paginas/atencionparavos",
+        "record": {
+          "fsq_place_id": "5225f60711d22aec5796c65b",
+          "name": "Banco Itau Paraguay S.A.",
+          "address": "Brasilia",
+          "locality": null,
+          "region": null,
+          "admin_region": null,
+          "postcode": null,
+          "country": "BR",
+          "longitude": -51.92528,
+          "latitude": -14.235004,
+          "status": "missing_locality",
+          "candidate_count": 0
+        }
+      }
+    },
+    {
+      "peak": "39.761, -98.501",
+      "records": 435,
+      "address_present": 378,
+      "locality_present": 414,
+      "statuses": {
+        "missing_locality": 21,
+        "unmatched_locality": 76,
+        "country_only_locality": 6,
+        "locality_reference_far": 328,
+        "locality_reference_not_far": 4
+      },
+      "top_localities": [
+        [
+          "(未登録)",
+          21
+        ],
+        [
+          "Dubai",
+          14
+        ],
+        [
+          "New York",
+          7
+        ],
+        [
+          "Houston",
+          5
+        ],
+        [
+          "Summerville",
+          5
+        ],
+        [
+          "McKinney",
+          5
+        ],
+        [
+          "Tangerang",
+          5
+        ],
+        [
+          "Tampa",
+          4
+        ],
+        [
+          "Miami",
+          4
+        ],
+        [
+          "Bend",
+          4
+        ]
+      ],
+      "distant_localities": [
+        [
+          "New York",
+          7
+        ],
+        [
+          "Houston",
+          5
+        ],
+        [
+          "Summerville",
+          5
+        ],
+        [
+          "McKinney",
+          5
+        ],
+        [
+          "Tampa",
+          4
+        ],
+        [
+          "Miami",
+          4
+        ],
+        [
+          "Bend",
+          4
+        ],
+        [
+          "Brooklyn",
+          4
+        ],
+        [
+          "Tempe",
+          4
+        ],
+        [
+          "Los Angeles",
+          3
+        ]
+      ],
+      "primary_business_evidence": {
+        "source_url": "https://www.harbourgrand.com/kowloon/en/contact-us/",
+        "record": {
+          "fsq_place_id": "58aaaaae7ff1e46c189e5d43",
+          "name": "Harbour Grand Kowloon",
+          "address": "California",
+          "locality": "USA",
+          "region": "KS",
+          "admin_region": null,
+          "postcode": "66941",
+          "country": "US",
+          "longitude": -98.50275997944907,
+          "latitude": 39.76277702997367,
+          "status": "country_only_locality",
+          "candidate_count": 0
+        }
+      }
+    },
+    {
+      "peak": "22.106, 73.866",
+      "records": 222,
+      "address_present": 222,
+      "locality_present": 222,
+      "statuses": {
+        "locality_reference_far": 222
+      },
+      "top_localities": [
+        [
+          "Pune",
+          220
+        ],
+        [
+          "Bangalore",
+          1
+        ],
+        [
+          "Mumbai",
+          1
+        ]
+      ],
+      "distant_localities": [
+        [
+          "Pune",
+          220
+        ],
+        [
+          "Bangalore",
+          1
+        ],
+        [
+          "Mumbai",
+          1
+        ]
+      ],
+      "primary_business_evidence": null
+    },
+    {
+      "peak": "-0.788, 113.921",
+      "records": 410,
+      "address_present": 101,
+      "locality_present": 85,
+      "statuses": {
+        "locality_reference_far": 58,
+        "missing_locality": 325,
+        "unmatched_locality": 23,
+        "country_only_locality": 4
+      },
+      "top_localities": [
+        [
+          "(未登録)",
+          325
+        ],
+        [
+          "Jakarta",
+          7
+        ],
+        [
+          "Surabaya",
+          5
+        ],
+        [
+          "Indonesia",
+          3
+        ],
+        [
+          "Jakarta Utara",
+          3
+        ],
+        [
+          "Jakarta Pusat",
+          3
+        ],
+        [
+          "Yogyakarta",
+          3
+        ],
+        [
+          "Surakarta",
+          2
+        ],
+        [
+          "Wonosari",
+          2
+        ],
+        [
+          "Cibinong",
+          1
+        ]
+      ],
+      "distant_localities": [
+        [
+          "Jakarta",
+          7
+        ],
+        [
+          "Surabaya",
+          5
+        ],
+        [
+          "Jakarta Pusat",
+          3
+        ],
+        [
+          "Yogyakarta",
+          3
+        ],
+        [
+          "Surakarta",
+          2
+        ],
+        [
+          "Wonosari",
+          2
+        ],
+        [
+          "Cibinong",
+          1
+        ],
+        [
+          "Bandung",
+          1
+        ],
+        [
+          "Majalengka",
+          1
+        ],
+        [
+          "Sleman",
+          1
+        ]
+      ],
+      "primary_business_evidence": {
+        "source_url": "https://polise.kalbarprov.go.id/layanan/73/standar-pelayanan-rawat-jalan-rsud-dr-soedarso",
+        "record": {
+          "fsq_place_id": "4e4532e2d164821e116c2a5a",
+          "name": "RS. Soedarso",
+          "address": null,
+          "locality": null,
+          "region": "Indonesia",
+          "admin_region": null,
+          "postcode": null,
+          "country": "ID",
+          "longitude": 113.92134260290617,
+          "latitude": -0.7892955864607212,
+          "status": "missing_locality",
+          "candidate_count": 0
+        }
+      }
+    }
+  ]
+}

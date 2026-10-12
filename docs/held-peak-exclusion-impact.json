@@ -1,0 +1,457 @@
+{
+  "snapshot_id": "2325979374271449319",
+  "sigma_m": 200,
+  "floor": 800,
+  "production_baseline_verified": true,
+  "experimental_only": true,
+  "excluded_ids": {
+    "original": 0,
+    "reviewed_only": 4,
+    "all_distant_candidates": 3470
+  },
+  "limits": "Rank compares the original 13 summit positions, not global rankings or surviving summit locations. 2km windows overlap; peak counts/areas must not be summed. Broad scenario is hypothetical, not confirmed incorrect IDs. No corrected coordinates inferred or source/distribution changed. Same production lattice, kernel, metric areas, halo and snapshot; active input includes all country codes.",
+  "items": [
+    {
+      "peak": "22.106, 77.185",
+      "coordinates": [
+        77.18489999999997,
+        22.105800000000002
+      ],
+      "published_density": 3435,
+      "scenarios": {
+        "original": {
+          "removed_local_input_ids": 0,
+          "density_at_original_summit": 3435.071752474534,
+          "max_density_within_2km": 3435.071752474534,
+          "peaks_800_within_2km": 1,
+          "area_800_within_2km_km2": 0.38870886888799766,
+          "rank_among_original_13_positions": 1
+        },
+        "reviewed_only": {
+          "removed_local_input_ids": 1,
+          "density_at_original_summit": 3432.4865246287136,
+          "max_density_within_2km": 3432.4865246287136,
+          "peaks_800_within_2km": 1,
+          "area_800_within_2km_km2": 0.38870886888799766,
+          "rank_among_original_13_positions": 1
+        },
+        "all_distant_candidates": {
+          "removed_local_input_ids": 876,
+          "density_at_original_summit": 103.4557527419092,
+          "max_density_within_2km": 166.9113696847646,
+          "peaks_800_within_2km": 0,
+          "area_800_within_2km_km2": 0.0,
+          "rank_among_original_13_positions": 8
+        }
+      }
+    },
+    {
+      "peak": "39.035, 35.244",
+      "coordinates": [
+        35.244,
+        39.03479999999999
+      ],
+      "published_density": 2995,
+      "scenarios": {
+        "original": {
+          "removed_local_input_ids": 0,
+          "density_at_original_summit": 2995.348599274276,
+          "max_density_within_2km": 2995.348599274276,
+          "peaks_800_within_2km": 1,
+          "area_800_within_2km_km2": 0.3347935117061468,
+          "rank_among_original_13_positions": 2
+        },
+        "reviewed_only": {
+          "removed_local_input_ids": 0,
+          "density_at_original_summit": 2995.348599274276,
+          "max_density_within_2km": 2995.348599274276,
+          "peaks_800_within_2km": 1,
+          "area_800_within_2km_km2": 0.3347935117061468,
+          "rank_among_original_13_positions": 2
+        },
+        "all_distant_candidates": {
+          "removed_local_input_ids": 484,
+          "density_at_original_summit": 1229.981658429643,
+          "max_density_within_2km": 1229.981658429643,
+          "peaks_800_within_2km": 1,
+          "area_800_within_2km_km2": 0.11678843434820203,
+          "rank_among_original_13_positions": 1
+        }
+      }
+    },
+    {
+      "peak": "31.878, 53.438",
+      "coordinates": [
+        53.4375,
+        31.878
+      ],
+      "published_density": 1697,
+      "scenarios": {
+        "original": {
+          "removed_local_input_ids": 0,
+          "density_at_original_summit": 1697.282275722516,
+          "max_density_within_2km": 1697.282275722516,
+          "peaks_800_within_2km": 1,
+          "area_800_within_2km_km2": 0.17846367391946283,
+          "rank_among_original_13_positions": 3
+        },
+        "reviewed_only": {
+          "removed_local_input_ids": 0,
+          "density_at_original_summit": 1697.282275722516,
+          "max_density_within_2km": 1697.282275722516,
+          "peaks_800_within_2km": 1,
+          "area_800_within_2km_km2": 0.17846367391946283,
+          "rank_among_original_13_positions": 3
+        },
+        "all_distant_candidates": {
+          "removed_local_input_ids": 215,
+          "density_at_original_summit": 845.2819304864882,
+          "max_density_within_2km": 845.2819304864882,
+          "peaks_800_within_2km": 1,
+          "area_800_within_2km_km2": 0.008498270188271933,
+          "rank_among_original_13_positions": 4
+        }
+      }
+    },
+    {
+      "peak": "-13.001, -54.000",
+      "coordinates": [
+        -54.0,
+        -13.000500000000002
+      ],
+      "published_density": 1338,
+      "scenarios": {
+        "original": {
+          "removed_local_input_ids": 0,
+          "density_at_original_summit": 1338.3721227626338,
+          "max_density_within_2km": 1338.3721227626338,
+          "peaks_800_within_2km": 1,
+          "area_800_within_2km_km2": 0.15554227725079256,
+          "rank_among_original_13_positions": 4
+        },
+        "reviewed_only": {
+          "removed_local_input_ids": 0,
+          "density_at_original_summit": 1338.3721227626338,
+          "max_density_within_2km": 1338.3721227626338,
+          "peaks_800_within_2km": 1,
+          "area_800_within_2km_km2": 0.15554227725079256,
+          "rank_among_original_13_positions": 4
+        },
+        "all_distant_candidates": {
+          "removed_local_input_ids": 42,
+          "density_at_original_summit": 1221.7556775621442,
+          "max_density_within_2km": 1221.7556775621442,
+          "peaks_800_within_2km": 1,
+          "area_800_within_2km_km2": 0.13609949259266138,
+          "rank_among_original_13_positions": 2
+        }
+      }
+    },
+    {
+      "peak": "22.106, 72.577",
+      "coordinates": [
+        72.5769,
+        22.105800000000002
+      ],
+      "published_density": 1150,
+      "scenarios": {
+        "original": {
+          "removed_local_input_ids": 0,
+          "density_at_original_summit": 1149.523335768583,
+          "max_density_within_2km": 1149.523335768583,
+          "peaks_800_within_2km": 2,
+          "area_800_within_2km_km2": 0.20360940757583507,
+          "rank_among_original_13_positions": 5
+        },
+        "reviewed_only": {
+          "removed_local_input_ids": 2,
+          "density_at_original_summit": 1145.5443532143486,
+          "max_density_within_2km": 1145.5443532143486,
+          "peaks_800_within_2km": 2,
+          "area_800_within_2km_km2": 0.19435443450350204,
+          "rank_among_original_13_positions": 5
+        },
+        "all_distant_candidates": {
+          "removed_local_input_ids": 657,
+          "density_at_original_summit": 0.0,
+          "max_density_within_2km": 5.0532897881231005,
+          "peaks_800_within_2km": 0,
+          "area_800_within_2km_km2": 0.0,
+          "rank_among_original_13_positions": 12
+        }
+      }
+    },
+    {
+      "peak": "22.106, 72.565",
+      "coordinates": [
+        72.5652,
+        22.105800000000002
+      ],
+      "published_density": 1135,
+      "scenarios": {
+        "original": {
+          "removed_local_input_ids": 0,
+          "density_at_original_summit": 1134.6258963609234,
+          "max_density_within_2km": 1149.523335768583,
+          "peaks_800_within_2km": 2,
+          "area_800_within_2km_km2": 0.20360940757583507,
+          "rank_among_original_13_positions": 6
+        },
+        "reviewed_only": {
+          "removed_local_input_ids": 2,
+          "density_at_original_summit": 1131.0535485790194,
+          "max_density_within_2km": 1145.5443532143486,
+          "peaks_800_within_2km": 2,
+          "area_800_within_2km_km2": 0.19435443450350204,
+          "rank_among_original_13_positions": 6
+        },
+        "all_distant_candidates": {
+          "removed_local_input_ids": 657,
+          "density_at_original_summit": 0.0,
+          "max_density_within_2km": 1.508020734055027,
+          "peaks_800_within_2km": 0,
+          "area_800_within_2km_km2": 0.0,
+          "rank_among_original_13_positions": 13
+        }
+      }
+    },
+    {
+      "peak": "-20.000, 145.000",
+      "coordinates": [
+        144.99989999999997,
+        -19.999800000000008
+      ],
+      "published_density": 1118,
+      "scenarios": {
+        "original": {
+          "removed_local_input_ids": 0,
+          "density_at_original_summit": 1118.2694647916828,
+          "max_density_within_2km": 1118.2694647916828,
+          "peaks_800_within_2km": 1,
+          "area_800_within_2km_km2": 0.08445388864351092,
+          "rank_among_original_13_positions": 7
+        },
+        "reviewed_only": {
+          "removed_local_input_ids": 1,
+          "density_at_original_summit": 1114.2903027268892,
+          "max_density_within_2km": 1114.2903027268892,
+          "peaks_800_within_2km": 1,
+          "area_800_within_2km_km2": 0.08445388864351092,
+          "rank_among_original_13_positions": 7
+        },
+        "all_distant_candidates": {
+          "removed_local_input_ids": 291,
+          "density_at_original_summit": 42.25414430281847,
+          "max_density_within_2km": 42.25414430281847,
+          "peaks_800_within_2km": 0,
+          "area_800_within_2km_km2": 0.0,
+          "rank_among_original_13_positions": 10
+        }
+      }
+    },
+    {
+      "peak": "-33.000, 146.000",
+      "coordinates": [
+        145.9998,
+        -33.0003
+      ],
+      "published_density": 1076,
+      "scenarios": {
+        "original": {
+          "removed_local_input_ids": 0,
+          "density_at_original_summit": 1075.7685268380283,
+          "max_density_within_2km": 1075.7685268380283,
+          "peaks_800_within_2km": 1,
+          "area_800_within_2km_km2": 0.07555606386880577,
+          "rank_among_original_13_positions": 8
+        },
+        "reviewed_only": {
+          "removed_local_input_ids": 0,
+          "density_at_original_summit": 1075.7685268380283,
+          "max_density_within_2km": 1075.7685268380283,
+          "peaks_800_within_2km": 1,
+          "area_800_within_2km_km2": 0.07555606386880577,
+          "rank_among_original_13_positions": 8
+        },
+        "all_distant_candidates": {
+          "removed_local_input_ids": 292,
+          "density_at_original_summit": 48.502179123894884,
+          "max_density_within_2km": 51.40820524542001,
+          "peaks_800_within_2km": 0,
+          "area_800_within_2km_km2": 0.0,
+          "rank_among_original_13_positions": 9
+        }
+      }
+    },
+    {
+      "peak": "39.062, 35.124",
+      "coordinates": [
+        35.124300000000005,
+        39.061800000000005
+      ],
+      "published_density": 967,
+      "scenarios": {
+        "original": {
+          "removed_local_input_ids": 0,
+          "density_at_original_summit": 966.77315336318,
+          "max_density_within_2km": 966.77315336318,
+          "peaks_800_within_2km": 1,
+          "area_800_within_2km_km2": 0.05448097215609976,
+          "rank_among_original_13_positions": 9
+        },
+        "reviewed_only": {
+          "removed_local_input_ids": 0,
+          "density_at_original_summit": 966.77315336318,
+          "max_density_within_2km": 966.77315336318,
+          "peaks_800_within_2km": 1,
+          "area_800_within_2km_km2": 0.05448097215609976,
+          "rank_among_original_13_positions": 9
+        },
+        "all_distant_candidates": {
+          "removed_local_input_ids": 484,
+          "density_at_original_summit": 833.2127035824095,
+          "max_density_within_2km": 833.2127035824095,
+          "peaks_800_within_2km": 1,
+          "area_800_within_2km_km2": 0.007782968133605073,
+          "rank_among_original_13_positions": 5
+        }
+      }
+    },
+    {
+      "peak": "-14.235, -51.925",
+      "coordinates": [
+        -51.9255,
+        -14.235299999999995
+      ],
+      "published_density": 948,
+      "scenarios": {
+        "original": {
+          "removed_local_input_ids": 0,
+          "density_at_original_summit": 948.3853130497462,
+          "max_density_within_2km": 948.3853130497462,
+          "peaks_800_within_2km": 1,
+          "area_800_within_2km_km2": 0.05803216877667027,
+          "rank_among_original_13_positions": 10
+        },
+        "reviewed_only": {
+          "removed_local_input_ids": 0,
+          "density_at_original_summit": 948.3853130497462,
+          "max_density_within_2km": 948.3853130497462,
+          "peaks_800_within_2km": 1,
+          "area_800_within_2km_km2": 0.05803216877667027,
+          "rank_among_original_13_positions": 10
+        },
+        "all_distant_candidates": {
+          "removed_local_input_ids": 5,
+          "density_at_original_summit": 930.2301226287115,
+          "max_density_within_2km": 930.2301226287115,
+          "peaks_800_within_2km": 1,
+          "area_800_within_2km_km2": 0.05803216877667027,
+          "rank_among_original_13_positions": 3
+        }
+      }
+    },
+    {
+      "peak": "39.761, -98.501",
+      "coordinates": [
+        -98.5005,
+        39.7611
+      ],
+      "published_density": 948,
+      "scenarios": {
+        "original": {
+          "removed_local_input_ids": 0,
+          "density_at_original_summit": 948.2489837409299,
+          "max_density_within_2km": 948.2489837409299,
+          "peaks_800_within_2km": 1,
+          "area_800_within_2km_km2": 0.07706536377626419,
+          "rank_among_original_13_positions": 11
+        },
+        "reviewed_only": {
+          "removed_local_input_ids": 0,
+          "density_at_original_summit": 948.2489837409299,
+          "max_density_within_2km": 948.2489837409299,
+          "peaks_800_within_2km": 1,
+          "area_800_within_2km_km2": 0.07706536377626419,
+          "rank_among_original_13_positions": 11
+        },
+        "all_distant_candidates": {
+          "removed_local_input_ids": 328,
+          "density_at_original_summit": 208.14844687775275,
+          "max_density_within_2km": 211.10338623463744,
+          "peaks_800_within_2km": 0,
+          "area_800_within_2km_km2": 0.0,
+          "rank_among_original_13_positions": 7
+        }
+      }
+    },
+    {
+      "peak": "22.106, 73.866",
+      "coordinates": [
+        73.8657,
+        22.105800000000002
+      ],
+      "published_density": 883,
+      "scenarios": {
+        "original": {
+          "removed_local_input_ids": 0,
+          "density_at_original_summit": 883.040925102412,
+          "max_density_within_2km": 883.040925102412,
+          "peaks_800_within_2km": 1,
+          "area_800_within_2km_km2": 0.00925497307233303,
+          "rank_among_original_13_positions": 12
+        },
+        "reviewed_only": {
+          "removed_local_input_ids": 0,
+          "density_at_original_summit": 883.040925102412,
+          "max_density_within_2km": 883.040925102412,
+          "peaks_800_within_2km": 1,
+          "area_800_within_2km_km2": 0.00925497307233303,
+          "rank_among_original_13_positions": 12
+        },
+        "all_distant_candidates": {
+          "removed_local_input_ids": 222,
+          "density_at_original_summit": 0.1134328347658178,
+          "max_density_within_2km": 340.84097482724144,
+          "peaks_800_within_2km": 0,
+          "area_800_within_2km_km2": 0.0,
+          "rank_among_original_13_positions": 11
+        }
+      }
+    },
+    {
+      "peak": "-0.788, 113.921",
+      "coordinates": [
+        113.92109999999997,
+        -0.7883999999999958
+      ],
+      "published_density": 847,
+      "scenarios": {
+        "original": {
+          "removed_local_input_ids": 0,
+          "density_at_original_summit": 846.8532114193871,
+          "max_density_within_2km": 846.8532114193871,
+          "peaks_800_within_2km": 1,
+          "area_800_within_2km_km2": 0.02990828719826881,
+          "rank_among_original_13_positions": 13
+        },
+        "reviewed_only": {
+          "removed_local_input_ids": 0,
+          "density_at_original_summit": 846.8532114193871,
+          "max_density_within_2km": 846.8532114193871,
+          "peaks_800_within_2km": 1,
+          "area_800_within_2km_km2": 0.02990828719826881,
+          "rank_among_original_13_positions": 13
+        },
+        "all_distant_candidates": {
+          "removed_local_input_ids": 58,
+          "density_at_original_summit": 709.6825338681736,
+          "max_density_within_2km": 709.6825338681736,
+          "peaks_800_within_2km": 0,
+          "area_800_within_2km_km2": 0.0,
+          "rank_among_original_13_positions": 6
+        }
+      }
+    }
+  ]
+}

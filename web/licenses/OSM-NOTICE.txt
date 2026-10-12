@@ -1,0 +1,11 @@
+Reference station and settlement names: © OpenStreetMap contributors.
+Open Database License (ODbL) 1.0: https://opendatacommons.org/licenses/odbl/1-0/
+Copyright and attribution: https://www.openstreetmap.org/copyright
+
+Modified: regional station/place extraction, reference centers for station areas,
+300m duplicate station grouping, Japanese/local name selection, nearest reference
+names and distances for density peaks. The reference extracts, source OSM IDs,
+query, OSM update timestamp and raw hash are recorded in the regional manifest.
+stations.json and places.json are the modified OSM reference tables under ODbL.
+Peak name reference fields are OSM-derived; density values are computed from
+Foursquare OS Places, with its separate Apache 2.0 license and NOTICE.

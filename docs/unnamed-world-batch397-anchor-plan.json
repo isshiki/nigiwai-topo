@@ -1,0 +1,30 @@
+{
+  "batch": 397,
+  "expected_adopted": 915,
+  "items": [
+    {
+      "peak": "54.159, -113.125",
+      "ja_editorial": "ソーヒルド（推定）",
+      "reading_status": "inferred",
+      "review_note": "推定音写。自治体Admin Building801-1stStreetの公式住所と2011年Cooperators公式事業所表HighMarkAgencies6061StreetThorhildを独立2施設として照合。County Of Thorhild No.7の元住所8011StStは末尾St重複を保持し番号と通りの対応のみ確認。歴史的事業所情報で現在の営業確認ではない。広いThorhildCounty表記だけで採用せず街内の具体施設住所を確認。",
+      "anchors": [
+        {
+          "poi_id": "37f062ee172a49fb89921dab",
+          "facility_key": "Thorhild-HighMark606",
+          "source_url": "https://newsreleases.cooperators.ca/index.php?item=43540&s=5651",
+          "official_address": "High Mark Agencies,606 1 Street,Thorhild",
+          "verification": "public_page_body",
+          "limitation": "2011 historical operator address, not current operating status. Duplicate Co-operators registrations do not constitute independent facilities."
+        },
+        {
+          "poi_id": "4f46a51be4b0426db8d9646b",
+          "facility_key": "Thorhild-CountyAdmin801",
+          "source_url": "https://www.thorhildcounty.com/Contact-Us",
+          "official_address": "Admin Building,801 - 1st Street,Thorhild,AB T0A3J0",
+          "verification": "public_page_body",
+          "limitation": "Original address retains duplicated St token; street number and 1st Street correspond. This does not verify all surrounding POI locations."
+        }
+      ]
+    }
+  ]
+}
