@@ -13,7 +13,7 @@ Foursquare OS Placesの登録情報に基づく、街の姿を眺めて楽しむ
 
 地域を選び、地図を移動・拡大して密度の山を探せます。表示中の地名トップ20、3D、名前検索、現在地に対応。山を押すと密度を表示し、Googleマップや経路検索へ移動できます。スマホでは操作パネルをタイトルから開閉できます。
 
-名前検索は表示中の山名を対象とします。世界の任意の都市名を探す検索ではありません。
+名前検索は収録済み駅名と表示中の山名を対象とします。検索先には青いマーカーと名前を表示します。駅名が一致する場合は、山の頂ではなく駅の位置を示します。「お茶の水」でも「御茶ノ水」を検索できます。世界の任意の都市名を探す検索ではありません。
 
 表示条件は全業種・ならす広さ200m・800件/km²以上に固定しています。200mは平滑化の標準偏差で、半径200m以内だけを数える方式ではありません。背景文字は元の地図の表記です。極域までの完全網羅ではありません。
 
@@ -46,7 +46,7 @@ python scripts/validate_site.py --root data/site
 
 Foursquare OS Places 2026-09-15を使用。[出典・取得方針](docs/data-sources.md)、[世界の取得・生成・配信](docs/world-delivery.md)、[日本の試作・配信](docs/pmtiles-deployment.md)。認証情報は `.env` に保存し、コミットしません。原本・キャッシュ・生成データ・仮想環境はGit管理外です。
 
-最新の配信データは世界v6。計算入力101,729,089件・峰319,883個。位置品質保留5,446件は原本を残して計算から除いています。全件の誤りを断定するものではありません。[位置品質判断](docs/held-density-exclusions-v6.json)。
+段彩・等高線は世界共通の密度の面を配信。計算入力101,729,089件。旧方式では319,883の局所最大候補を生成しましたが、現在の名前付き代表点は半径800m内の最大密度で別に生成します。位置品質保留5,446件は原本を残して計算から除いています。全件の誤りを断定するものではありません。[位置品質判断](docs/held-density-exclusions-v6.json)。
 
 固定表示条件の名称未登録は0件です。表示対象外4,431峰の追加名称調査はユーザー判断で終了しました。これは全件の読みや位置品質を保証する意味ではありません。[名称の方針](docs/world-name-quality-plan.md)、[調査状態](docs/unnamed-world-investigation-status.json)。
 
@@ -56,12 +56,14 @@ Foursquare OS Places 2026-09-15を使用。[出典・取得方針](docs/data-sou
 
 過去の進捗は[開発記録](docs/development-history.md)へまとめています。そこには旧版・当時の未完了事項も含まれます。突出度による独立峰の判定、経済センサスとの比較、ならす広さによる世界順位の感度比較は未実施です。
 
-世界の登録密度CSVをGitHubから配布：[全峰23,187地点](https://github.com/isshiki/nigiwai-topo/raw/refs/heads/main/exports/world-2026-09-15/world-peaks.csv)／[地名ごとの代表14,563地点](https://github.com/isshiki/nigiwai-topo/raw/refs/heads/main/exports/world-2026-09-15/world-place-representatives.csv)。[列・条件・出典](exports/world-2026-09-15/README.md)。区域内のPOI登録件数の集計は別機能で未実装。
+現在の世界共通CSVをGitHubから配布：[参照点密度13,235地点](https://github.com/isshiki/nigiwai-topo/raw/refs/heads/main/exports/world-radius-2026-09-15/world-reference-density.csv)。[列・条件・出典](exports/world-radius-2026-09-15/README.md)。旧峰CSVは過去の方式の記録で、現在の代表点とは対象が異なります。区域内のPOI登録件数の集計は別機能で未実装。
 
 ## 駅のにぎわいTier表
 
-`http://127.0.0.1:8820/station-tier.html?pref=13`。全国9,032駅（47都道府県）を対象に、地形図の対応する峰の最大登録密度（件/km²）で分類します。対応する峰がある5,406駅と「峰なし」3,626駅を収録。峰なしを0密度とはみなしません。地域・路線・駅名で絞れ、リンク先は対応峰を開きます。公開URL：https://isshiki.github.io/nigiwai-topo/station-tier.html?pref= 。[条件・再生成・確認](docs/station-tier-prototype.md)。
+全国9,032駅の代表位置から半径800m以内の最大登録密度を、地形図と共通の計算結果で表示します。全業種・ならす広さ200m。世界の駅・街など22,667参照点にも同じ方法を適用し、800件/km²以上の13,235点を地図表示対象にしています。全世界の駅を網羅した意味ではありません。
 
-初期の地図リンクは東京へ絞って開き、全国も選べます。Tier配信用データは辞書化した約1.16MBのJSONを先読みします。未対応の数値は「—」、Tier見出しは小さな全国割合で表示します。
+全国の密度分布からSS〜Dを決め、地域・路線・駅名で絞れます。全駅が計算対象になり「峰なし」の別枠は廃止しました。近隣駅は同じ最大密度地点を共有する場合があります。地図とTier表で同じ地点・値を使います。
 
-記事の執筆材料：[駅のにぎわいTier表](docs/station-tier-article-brief.md)／[地形図全体](docs/blog-draft.md)。
+公開URL：https://isshiki.github.io/nigiwai-topo/station-tier.html 。ローカル：`http://127.0.0.1:8820/station-tier.html?pref=13`。
+
+[条件と再生成](docs/station-tier-prototype.md) / [共通化設計](docs/shared-density-migration.md) / [執筆用メモ](docs/station-tier-article-brief.md)

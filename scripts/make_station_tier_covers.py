@@ -8,7 +8,7 @@ from PIL import Image, ImageDraw, ImageFont
 DATA = Path('web/station-tier-data.json')
 OUT = Path('docs/assets/station-tier')
 FONT = 'C:/Windows/Fonts/YuGothB.ttc'
-TIERS = ['SS', 'S', 'A', 'B', 'C', 'D', 'none']
+TIERS = ['SS', 'S', 'A', 'B', 'C', 'D']
 COLORS = ['#eeb7af', '#f0c99f', '#f0e3a5', '#cadfad', '#b9d8e7', '#d4d0e4', '#e4e8e1']
 
 
@@ -39,7 +39,7 @@ def render(route_id, title, filename, stations):
     for i, (tier, color) in enumerate(zip(TIERS, COLORS)):
         rows = [s for s in selected if (s['tier'] or 'none') == tier]
         counts[tier] = len(rows)
-        y = 183 + i * 86
+        y = 183 + i * 100
         draw.rounded_rectangle((58, y, 1542, y + 78), radius=10, fill='white', outline='#d7dfd2', width=2)
         draw.rounded_rectangle((58, y, 160, y + 78), radius=10, fill=color)
         centered(draw, '峰なし' if tier == 'none' else tier, 58, y + 10, 102, 23 if tier == 'none' else 30)
@@ -56,7 +56,7 @@ def render(route_id, title, filename, stations):
             draw.line((x + 22, y + 28, x + 24, y + 31), fill='#41694d', width=1)
             centered(draw, s['name'], x + 7, y + 31, width - 14, 23)
             centered(draw, '未判定' if s['score'] is None else f"{round(s['score']):,} 件/km²", x + 7, y + 57, width - 14, 13)
-    draw.text((60, 810), '全国共通のTier · 地図の密度順 · 全駅掲載（峰なしは未判定）', font=font(20), fill='#4c6050')
+    draw.text((60, 810), '全国共通のTier · 半径800m内の最大密度 · 地形図と同じ値', font=font(20), fill='#4c6050')
     draw.text((60, 853), '登録の集まりを楽しむ地図です。実際の人出・人気の順位ではありません。', font=font(17), fill='#657466')
     draw.text((60, 875), 'POI: © 2026 Foursquare Labs, Inc. / Apache 2.0 · 駅: 国土数値情報 N02（CC BY 4.0）を加工', font=font(15), fill='#657466')
     output = OUT / filename

@@ -1,4 +1,5 @@
 // Use the exact map peak density and resolver; never fabricate a score for missing peaks.
+if(!process.argv.includes('--legacy'))throw Error('Legacy named-peak matching is disabled. Use scripts/build_shared_density_assets.py --apply for the current shared radius metric.');
 const fs=require('node:fs'),path=require('node:path'),vm=require('node:vm'),assert=require('node:assert/strict'),crypto=require('node:crypto');
 const root='data/distribution/foursquare-world-v6';
 const target='web/station-tier-data.json';

@@ -1,5 +1,5 @@
 'use strict';
-const $ = id => document.getElementById(id), tiers = ['SS','S','A','B','C','D'], sections=[...tiers,'none'];
+const $ = id => document.getElementById(id), tiers = ['SS','S','A','B','C','D'], sections=[...tiers];
 const normalized = value => value.normalize('NFKC').trim().toLocaleLowerCase();
 let data;
 function unpack(payload) {
@@ -18,7 +18,7 @@ function routeCaption(s) {
 }
 function tierReason(s) {
  if(s.score===null)return '対応する峰がないため、Tierは判定していません。密度0を意味するものではありません。';
- if(s.tier==='D')return '全国の対応する峰の密度が、Cの基準未満のためDです。';
+ if(s.tier==='D')return '全国の駅周辺最大密度が、Cの基準未満のためDです。';
  const criterion=`全国の${s.tier}基準（約${points(data.thresholds[s.tier])}件/km²以上）に達しています。`;
  return s.tier==='SS'?criterion:criterion+`${tiers[tiers.indexOf(s.tier)-1]}の基準未満のため、このTierになります。`;
 }
@@ -29,20 +29,20 @@ function regionStations(){return data.stations.filter(s=>(!$('prefecture').value
 function municipalities(){const select=$('municipality'),prev=select.value;select.replaceChildren(option('','すべて'));select.disabled=!$('prefecture').value;const names=[...new Set(data.stations.filter(s=>s.pref_code===$('prefecture').value).map(s=>s.municipality).filter(Boolean))].sort((a,b)=>a.localeCompare(b,'ja'));for(const name of names)select.append(option(name,name));if(names.includes(prev))select.value=prev;}
 function routes(){const list=$('route-options'),prev=$('line').value;list.replaceChildren();const names=[...new Set(regionStations().flatMap(s=>s.lines.map(l=>l.id)))].sort((a,b)=>a.localeCompare(b,'ja'));for(const name of names)list.append(option(name,name));if(prev&&!names.some(name=>normalized(name).includes(normalized(prev))))$('line').value='';}
 function openDetail(s){
- const content=$('detail-content');content.replaceChildren(text('h2',`${stationName(s)} — ${s.tier||'峰なし'}`),text('p',`${s.prefecture}・${s.municipality} / ${s.lines.map(l=>l.id).join('、')}`));
- content.append(text('p',s.score===null?'対応する峰がありません。':`登録密度：${points(s.score)} 件/km²`),text('p',tierReason(s)));
- if(s.peak)content.append(text('p',`地図の「${s.peak.name}」に対応する峰の最大密度です。駅の所在地の密度や店舗数ではありません。同じ駅に複数の峰がある場合は最大値を使います。`));
- content.append(text('p',`データ：${data.snapshot}。同名近接駅は統合し、異名の乗換駅は別扱いです。地図の峰の参照駅IDで照合しています。`));
- if(s.score!==null && s.score<800)content.append(text('p','密度800件/km²未満のため、地図ではこの峰の▲・段彩を表示しません。'));
- content.append(text('p','得点・基準は四捨五入して表示し、Tier判定と並び順は丸める前の値を使います。登録の偏りや位置・名称の誤りが残る可能性があります。'));
- const a=text('a',s.peak?'にぎわいの地形図で対応する峰を開く':'にぎわいの地形図で駅周辺を開く');a.href=mapLink(s);a.className='map-link';content.append(a);$('detail').showModal();
+ const content=$('detail-content');content.replaceChildren(text('h2',`${stationName(s)} — ${s.tier}`),text('p',`${s.prefecture}・${s.municipality} / ${s.lines.map(l=>l.id).join('、')}`));
+ content.append(text('p',`登録密度：${points(s.score)} 件/km²`),text('p',tierReason(s)));
+ content.append(text('p','駅の代表位置から半径800m以内で最も高い登録密度です。地形図と同じ200mの平滑化・密度の面を使い、地図の対応する代表点にも同じ値を表示します。駅そのものの密度や店舗数ではありません。'));
+ content.append(text('p','近隣の駅が同じ高密度地点を共有する場合があります。各駅に同じ半径を適用し、同名近接駅は統合、異名の駅は別扱いです。'));
+ if(s.score<800)content.append(text('p','800件/km²未満のため、地図ではこの代表点や段彩を表示しません。お店がないという意味ではありません。'));
+ content.append(text('p',`データ：${data.snapshot}。登録の偏りや位置・名称の誤りが残る可能性があります。`));
+ const a=text('a','にぎわいの地形図で最大密度地点を開く');a.href=mapLink(s);a.className='map-link';content.append(a);$('detail').showModal();
 }
 function showTierInfo(tier) {
  const content=$('detail-content');content.replaceChildren(text('h2',tier==='none'?'峰なし':tier+'の基準'));
  if(tier==='none'){content.append(text('p',`対応する峰がない${data.unmatched_count.toLocaleString()}駅です。密度0や、店舗がないという意味ではありません。Tierは判定していません。`));}
  else {
   const ranges={SS:'上位約1%',S:'上位約1〜5%',A:'上位約5〜20%',B:'上位約20〜50%',C:'上位約50〜80%',D:'残りの約20%'};
-  content.append(text('p',`対応する峰がある全国${data.matched_count.toLocaleString()}駅の${ranges[tier]}です。`));
+  content.append(text('p',`全国${data.matched_count.toLocaleString()}駅の${ranges[tier]}です。`));
   const index=tiers.indexOf(tier),lower=data.thresholds[tier],upper=index?data.thresholds[tiers[index-1]]:null;
   content.append(text('p',lower===undefined?`密度は約${points(upper)}件/km²未満。`:`密度は約${points(lower)}件/km²以上${upper===null?'。':`、約${points(upper)}件/km²未満。`}`));
   const actual=data.stations.filter(s=>s.tier===tier).length;

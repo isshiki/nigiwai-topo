@@ -79,10 +79,12 @@ function originalPeakName(props) {
   return entry ? (entry.display_name || entry.name) : props.name;
 }
 function peakName(props) {
+  if(props.shared_reference) return props.display_name;
   if(props.name_source==='国土数値情報 N02' && (props.name_source_ids||[]).map(String).includes('003844')) return '明治神宮前〈原宿〉';
   return originalPeakName(props).replace(/駅付近|付近/gu,'');
 }
 function peakGroupKey(f) {
+  if(f.properties.shared_reference) return f.properties.display_name;
   const props=applyPeakLocalityNames([f])[0].properties;
   return peakName(props);
 }
@@ -151,7 +153,7 @@ function peakPopupContent(feature) {
   const title = document.createElement('h2'); title.textContent = peakName(props);
   const label = document.createElement('p'); label.className = 'metric-label'; label.textContent = 'お店・施設の登録密度';
   const value = document.createElement('p'); value.className = 'metric-value'; value.textContent = props.density.toLocaleString() + ' 件/km²';
-  const description = document.createElement('p'); description.textContent = '周辺の登録がどれだけ集まっているかの目安です。';
+  const description = document.createElement('p'); description.textContent = props.shared_reference ? '名前の参照点から半径800m以内で、登録密度が最も高い地点です。ならす広さは200mで、Tier表も同じ値を使います。' : '周辺の登録がどれだけ集まっているかの目安です。';
   const links = document.createElement('div'); links.className = 'popup-links';
   if (Number.isFinite(lon) && Number.isFinite(lat) && Math.abs(lon)<=180 && Math.abs(lat)<=90) {
     const coordinates = lat.toFixed(6) + ',' + lon.toFixed(6);
@@ -162,7 +164,7 @@ function peakPopupContent(feature) {
       link.target='_blank'; link.rel='noopener noreferrer'; links.append(link);
     }
   }
-  const note = document.createElement('p'); note.className='popup-note'; note.textContent='リンク先は▲の地点です。駅の入口や施設の場所とは異なる場合があります。';
+  const note = document.createElement('p'); note.className='popup-note'; note.textContent=props.shared_reference ? 'リンク先は範囲内の最大密度地点です。駅の位置や実在の山頂ではありません。近隣の駅・地名が同じ地点を共有する場合があります。' : 'リンク先は▲の地点です。駅の入口や施設の場所とは異なる場合があります。';
   content.append(title,label,value,description,links,note);
   return content;
 }
@@ -180,7 +182,7 @@ function labels() {
     if (usedNames.has(peakName(f.properties))) continue;
     occupied.push(p); usedNames.add(peakName(f.properties));
     const el = document.createElement('div'); el.className = 'peak-label';
-    for (const [cls, value] of [['triangle', '▲'], ['place', peakName(f.properties)], ['value', f.properties.density.toLocaleString()]]) {
+    for (const [cls, value] of [['triangle', f.properties.shared_reference ? '●' : '▲'], ['place', peakName(f.properties)], ['value', f.properties.density.toLocaleString()]]) {
       const node = document.createElement('div'); node.className = cls; node.textContent = value; el.append(node);
     }
     const props = f.properties;
@@ -231,7 +233,7 @@ async function viewport() {
     ]));
     if (current !== viewportTicket || index !== peakIndex) return;
     const unique = new Map();
-    for (const f of results.flat()) unique.set(JSON.stringify(f.geometry.coordinates),f);
+    for (const f of results.flat()) unique.set(f.properties.reference_id || JSON.stringify(f.geometry.coordinates),f);
     peakGeo = {type:'FeatureCollection',features:applyPeakLocalityNames([...unique.values()])};
     if(manifest?.world) {const options=document.querySelector('#station-options');options.replaceChildren();for(const name of new Set([...stations.map(s=>s.name),...peakGeo.features.map(f=>peakName(f.properties))])) {const option=document.createElement('option');option.value=name;options.append(option);}}
     labels(); ranking();
@@ -334,7 +336,7 @@ async function update(sourceChanged = false) {
     if (!item) throw Error('閉店条件のデータを生成中です。少し後で再読み込みしてください。');
     let nextGeo = empty(), nextIndex = null;
     if (item.peaks_index) {
-      const url=new URL(item.peaks_index,root).href;
+      const url=window.NIGIWAI_CONFIG.referenceIndex || new URL(item.peaks_index,root).href;
       nextIndex=new window.NigiwaiPeakIndex(new URL('.',url).href,await read(url),read);
     } else nextGeo=await read(root + (item.peaks_file || item.file));
     if (current !== ticket) return;
@@ -377,12 +379,26 @@ map.on('load', async () => {
       status.textContent='現在地へ移動（位置情報は保存しません）';
     }, error => {status.textContent=({1:'位置情報の利用が許可されていません',2:'現在地を取得できません',3:'現在地の取得が時間切れになりました'})[error.code] || '現在地を取得できません';}, {enableHighAccuracy:true,timeout:10000,maximumAge:60000});
   });
+  let searchMarker;
+  function markSearch(coords, name) {
+    searchMarker?.remove();
+    const label = document.createElement('div');
+    label.className = 'search-position-label';
+    label.textContent = name;
+    searchMarker = new maplibregl.Marker({color:'#1768ac'})
+      .setLngLat(coords)
+      .setPopup(new maplibregl.Popup({offset:28,closeButton:false,className:'search-position-popup'}).setDOMContent(label))
+      .addTo(map);
+    searchMarker.togglePopup();
+    map.flyTo({center:coords,zoom:13,padding:0,offset:focusOffset(),duration:1200});
+  }
   function search() {
-    const value = document.querySelector('#station-search').value.trim().replace(/駅$/, '');
+    const typed = document.querySelector('#station-search').value.trim().replace(/駅$/, '');
+    const value = typed === 'お茶の水' ? '御茶ノ水' : typed;
     const station = stations.find(s => s.name === value && inRegion({properties:s})) || stations.find(s => s.name === value) || places.find(s=>s.name===value) || [...stations,...places].find(s=>(s.osm_ids || []).some(id=>window.NIGIWAI_JAPANESE_NAMES?.[area.value]?.[id]?.name===value));
     const worldPeak=manifest?.world && peakGeo?.features.find(f=>peakName(f.properties)===value);
-    if(worldPeak) {map.flyTo({center:worldPeak.geometry.coordinates,zoom:12.5,padding:0,offset:focusOffset()});document.querySelector('#search-status').textContent=value+'へ移動';return;}
-    if (station) {map.flyTo({center: [station.lon, station.lat], zoom: 12.5,padding:0,offset:focusOffset(),duration:1200}); document.querySelector('#search-status').textContent = station.name + 'へ移動';}
+    if (station) {markSearch([station.lon, station.lat], station.name + (stations.includes(station) ? '駅' : '')); document.querySelector('#search-status').textContent = station.name + 'の位置を青いマーカーで表示';}
+    else if(worldPeak) {markSearch(worldPeak.geometry.coordinates,value);document.querySelector('#search-status').textContent=value+'の位置を青いマーカーで表示';}
     else document.querySelector('#search-status').textContent = '駅・都市名を候補から選んでください';
   }
   document.querySelector('#search').addEventListener('click', search);

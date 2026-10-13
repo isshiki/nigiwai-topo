@@ -1,6 +1,7 @@
 // Public map data via existing CloudFront; S3 remains private.
 window.NIGIWAI_CONFIG = {
   worldOnly: true,
+  referenceIndex: 'https://re.masahiko.info/nigiwai-topo/world/2026-09-15-radius2/reference-index/index.json',
   dataBase: 'https://re.masahiko.info/nigiwai-topo/japan/2026-09-15-v2/',
   worldRaster: 'https://tile.openstreetmap.org/{z}/{x}/{y}.png',
   areas: {

@@ -30,7 +30,7 @@ class FakeMap {
   getZoom() {return 11;}
   project([x,y]) {return {x:x*2000,y:y*2000};}
 }
-class Overlay {setLngLat(){return this;}setPopup(){return this;}setText(){return this;}setDOMContent(){return this;}addTo(){return this;}remove(){}}
+class Overlay {setLngLat(coords){this.coords=coords;return this;}setPopup(popup){this.popup=popup;return this;}setText(){return this;}setDOMContent(content){this.content=content;return this;}addTo(){return this;}togglePopup(){this.open=true;return this;}remove(){}}
 const ids=new Map();
 const get=id=>{if(!ids.has(id))ids.set(id,new Element());return ids.get(id);};
 for(const [id,values] of [['category',['all','food','shopping','service']],['sigma',['200','400','800']],['floor',['100','800','1600']]]) {
@@ -83,6 +83,12 @@ vm.runInContext(fs.readFileSync('web/app.js','utf8'),context);
     assert.equal(get('region').value,'japan');
     assert.equal(vm.runInContext('selectedRegionId()',context),'pref-13');
     assert(vm.runInContext("stations.some(s=>s.name==='渋谷' && s.source==='N02')",context));
+    get('station-search').value='お茶の水駅';
+    get('search').listeners.click();
+    const ochanomizu=vm.runInContext("stations.find(s=>s.name==='御茶ノ水')",context);
+    assert(ochanomizu);
+    assert.deepEqual(Array.from(vm.runInContext('map.lastFlyTo.center',context)),[ochanomizu.lon,ochanomizu.lat]);
+    assert.equal(get('search-status').textContent,'御茶ノ水の位置を青いマーカーで表示');
     assert(vm.runInContext("stations.some(s=>s.name==='ホンデイック' && s.source==='OSM')",context));
     const labels=context.window.NIGIWAI_STATION_PEAK_NAMES;
     assert.equal(Object.keys(labels).length,1007);

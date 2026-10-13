@@ -3,6 +3,7 @@ import hashlib
 import io
 import json
 import subprocess
+import sys
 from collections import defaultdict
 from pathlib import Path
 from zipfile import ZipFile
@@ -76,7 +77,8 @@ def main():
     Path('web/station-tier-data.json').write_text(json.dumps(payload, ensure_ascii=False, separators=(',', ':')) + '\n', encoding='utf-8')
     report = {'source_station_count': source_station_count, 'station_count': len(stations), 'merged_groups': [{'id': s['id'], 'name': s['name'], 'members': s['source_station_ids']} for s in stations if len(s['source_station_ids']) > 1]}
     Path('data/validation/station-tier-build.json').write_text(json.dumps(report, ensure_ascii=False, indent=2), encoding='utf-8')
-    subprocess.run(['node', 'scripts/match_station_tier_peaks.cjs'], check=True)
+    subprocess.run([sys.executable, 'scripts/build_shared_density_assets.py', '--apply'], check=True)
+    subprocess.run([sys.executable, 'scripts/pack_station_tier_data.py'], check=True)
 
 
 if __name__ == '__main__':

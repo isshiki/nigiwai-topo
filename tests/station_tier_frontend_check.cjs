@@ -46,6 +46,6 @@ const cards=()=>get('tier-table').children.flatMap(row=>row.children[1].children
  assert(cards().some(c=>c.children[1].textContent==='原宿'));
  vm.runInContext("showTierInfo('SS')",context);
  assert(get('detail-content').children.some(c=>String(c.textContent).includes('上位約1%')));
- assert(get('detail-content').children.some(c=>String(c.textContent).includes('5,406')));
+ assert(get('detail-content').children.some(c=>String(c.textContent).includes('9,032')));
  console.log('All nationwide cards rendered; Tokyo, Ikebukuro, partial route search, and no truncation PASS');
 })().catch(e=>{console.error(e);process.exitCode=1;});

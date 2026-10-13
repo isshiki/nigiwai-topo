@@ -42,7 +42,7 @@ class StationTierDataTest(unittest.TestCase):
 
     def test_map_density_and_unmatched_accounting(self):
         d = self.data
-        self.assertEqual(d['metric'], 'map_peak_density')
+        self.assertEqual(d['metric'], 'station_radius_max_density')
         self.assertEqual(d['matched_count'] + d['unmatched_count'], len(d['stations']))
         for s in d['stations']:
             if s['score'] is None:
@@ -65,14 +65,16 @@ class StationTierDataTest(unittest.TestCase):
         national = {s['id']: s['tier'] for s in self.data['stations']}
         self.assertTrue(all(s['tier'] == national[s['id']] for s in nerima))
 
-    def test_density_matches_published_map_csv(self):
-        import csv
-        with Path('exports/world-2026-09-15/world-peaks.csv').open(encoding='utf-8-sig', newline='') as stream:
-            published = {(float(r['経度']), float(r['緯度'])): float(r['登録密度_件_per_km2']) for r in csv.DictReader(stream)}
+    def test_density_matches_shared_world_map(self):
+        shared = json.loads(Path('data/shared-density/release/references.geojson').read_text(encoding='utf-8'))
+        by_id = {f['properties']['station_id']: f for f in shared['features'] if f['properties']['station_id']}
         for s in self.data['stations']:
-            if s['score'] is not None and s['score'] >= 800:
-                peak = s['peak']
-                self.assertEqual(s['score'], published[(peak['lon'], peak['lat'])])
+            f = by_id[s['id']]
+            self.assertEqual(s['score'], f['properties']['density'])
+            self.assertEqual([s['peak']['lon'], s['peak']['lat']], f['geometry']['coordinates'])
+        examples = {s['name']: s for s in self.data['stations'] if s['pref_code'] == '13'}
+        self.assertEqual(examples['御茶ノ水']['score'], 9776)
+        self.assertEqual(examples['両国']['score'], 4353)
 
 
 if __name__ == '__main__':
