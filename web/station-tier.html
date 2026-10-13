@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="ja"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>駅のにぎわいTier表</title><link rel="preload" href="station-tier-public.json" as="fetch" crossorigin><link rel="stylesheet" href="station-tier.css?v=20261013-light1"></head>
+<html lang="ja"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>駅のにぎわいTier表</title><link rel="preload" href="station-tier-public.json?v=20261013-radius2" as="fetch" crossorigin><link rel="stylesheet" href="station-tier.css?v=20261013-light1"></head>
 <body><main><a id="back-map" href="./?region=japan">← にぎわいの地形図</a><h1>駅のにぎわいTier表</h1>
 <p class="tagline">あなたの駅は、何Tier？ 路線やエリアで探してみよう。</p>
 
@@ -7,4 +7,4 @@
 <p id="status" class="loading" role="status" aria-live="polite">駅データを読み込み中…</p><div id="tier-table" aria-label="全国基準の駅Tier表"></div><p id="empty" hidden>条件に合う駅がありません。</p>
 <details><summary>このTier表について</summary><p>全駅で、駅の代表位置から半径800m以内の最大登録密度を比べます。全業種・ならす広さ200mの密度の面を、世界の地形図と共有しています。実際の人出・人気・売上や駅の優劣ではありません。</p><p>同名・同一市区町村で全メンバー間500m以内の駅はまとめ、その代表位置を中心に同じ半径を適用します。近隣駅は同じ最大密度地点を共有する場合があります。</p><p>SSは全国9,032駅の上位約1%、Sは次の約4%、Aは次の約15%、Bは次の約30%、Cは次の約30%、残りはDです。同点は分けません。絞り込んでも全国基準は変わらず、各Tier内は密度順です。</p><p>800件/km²未満もTier表で評価しますが、地図の代表点や段彩には表示しません。密度が低いことは店舗がない意味ではありません。登録の偏り、位置・営業状況・地名の誤りが残る可能性があります。</p></details>
 <p class="credits">POI：© 2026 Foursquare Labs, Inc. / <a href="licenses/Foursquare-NOTICE.txt">NOTICE</a> / <a href="licenses/Apache-2.0.txt">Apache 2.0</a>。駅・地域：国土数値情報 N02/N03（国土交通省、CC BY 4.0）を加工。<a href="https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-N02-2025.html">鉄道データ</a>。位置・営業状況の全件確認はしていません。</p></main>
-<dialog id="detail"><button id="close-detail" aria-label="詳細を閉じる">閉じる</button><div id="detail-content"></div></dialog><script src="station-tier.js?v=20261013-radius1"></script></body></html>
+<dialog id="detail"><button id="close-detail" aria-label="詳細を閉じる">閉じる</button><div id="detail-content"></div></dialog><script src="station-tier.js?v=20261013-radius2"></script></body></html>
