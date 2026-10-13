@@ -31,3 +31,5 @@ data.map_manifest_sha256=crypto.createHash('sha256').update(fs.readFileSync(mani
 fs.writeFileSync(target,JSON.stringify(data)+'\n');
 const report={metric:data.metric,matched:data.matched_count,unmatched:data.unmatched_count,thresholds:data.thresholds,tier_counts:Object.fromEntries(['SS','S','A','B','C','D'].map(t=>[t,matched.filter(s=>s.tier===t).length])),above_map_floor:matched.filter(s=>s.score>=800).length};
 fs.writeFileSync('data/validation/station-tier-map-density.json',JSON.stringify(report,null,2)+'\n');console.log(JSON.stringify(report));
+
+require('node:child_process').execFileSync(process.env.NIGIWAI_PYTHON || 'python', ['scripts/pack_station_tier_data.py'], {stdio:'inherit'});

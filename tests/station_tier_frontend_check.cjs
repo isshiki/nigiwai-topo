@@ -1,6 +1,7 @@
 // Exercise the real renderer against the full station data, without truncation.
 const fs=require('node:fs'),vm=require('node:vm'),assert=require('node:assert/strict');
 const data=JSON.parse(fs.readFileSync('web/station-tier-data.json','utf8'));
+const packed=JSON.parse(fs.readFileSync('web/station-tier-public.json','utf8'));
 class Element {
  constructor(){this.value='';this.children=[];this.listeners={};this.className='';}
  append(...items){this.children.push(...items);}
@@ -11,10 +12,11 @@ class Element {
  showModal(){} close(){} querySelectorAll(){return [];}
 }
 const elements=new Map(),get=id=>{if(!elements.has(id))elements.set(id,new Element());return elements.get(id);};
-const context=vm.createContext({console,URLSearchParams,setTimeout,location:{search:'?pref=13'},history:{replaceState(){}},document:{getElementById:get,createElement:()=>new Element()},fetch:async()=>({ok:true,json:async()=>data})});
+const context=vm.createContext({console,URLSearchParams,setTimeout,location:{search:'?pref=13'},history:{replaceState(){}},document:{getElementById:get,createElement:()=>new Element()},fetch:async()=>({ok:true,json:async()=>packed})});
 const cards=()=>get('tier-table').children.flatMap(row=>row.children[1].children[0].children);
 (async()=>{
  await vm.runInContext(fs.readFileSync('web/station-tier.js','utf8'),context);
+ assert.deepEqual(JSON.parse(JSON.stringify(vm.runInContext('data.stations',context))),data.stations);
  assert.equal(cards().length,data.stations.filter(s=>s.pref_code==='13').length);
  assert(cards().length>30);
  get('query').value='池袋';get('query').listeners.input();
@@ -38,7 +40,7 @@ const cards=()=>get('tier-table').children.flatMap(row=>row.children[1].children
  assert(asakusa.every(c=>c.children.some(n=>n.className==='card-route')));
  assert.notEqual(asakusa[0].children.at(-1).textContent,asakusa[1].children.at(-1).textContent);
  for(const row of get('tier-table').children)assert.equal(row.children[1].children.length,1,'No load-more button');
- const unmatched=cards().filter(c=>c.children[3].textContent==='未判定');assert.equal(unmatched.length,data.unmatched_count);
+ const unmatched=cards().filter(c=>c.children[3].textContent==='—');assert.equal(unmatched.length,data.unmatched_count);
  get('query').value='原宿';get('query').listeners.input();
  assert(cards().some(c=>c.children[1].textContent==='明治神宮前〈原宿〉'));
  assert(cards().some(c=>c.children[1].textContent==='原宿'));

@@ -61,3 +61,5 @@ Foursquare OS Places 2026-09-15を使用。[出典・取得方針](docs/data-sou
 ## 駅のにぎわいTier表
 
 `http://127.0.0.1:8820/station-tier.html?pref=13`。全国9,032駅（47都道府県）を対象に、地形図の対応する峰の最大登録密度（件/km²）で分類します。対応する峰がある5,406駅と「峰なし」3,626駅を収録。峰なしを0密度とはみなしません。地域・路線・駅名で絞れ、リンク先は対応峰を開きます。公開URL：https://isshiki.github.io/nigiwai-topo/station-tier.html?pref= 。[条件・再生成・確認](docs/station-tier-prototype.md)。
+
+初期の地図リンクは東京へ絞って開き、全国も選べます。Tier配信用データは辞書化した約1.16MBのJSONを先読みします。未対応の数値は「—」、Tier見出しは小さな全国割合で表示します。

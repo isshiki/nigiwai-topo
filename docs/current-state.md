@@ -60,3 +60,5 @@
 ## 駅のにぎわいTier表（2026-10-13）
 
 全国9,032駅、地図に対応する峰の最大密度で分類。5,406駅に密度があり、3,626駅は「峰なし」の別枠。旧距離加重件数は使用しない。地域・路線・駅名検索、全件表示、整数密度、SVG電車、同名駅補足、対応峰リンク。Tierボタンは地図パネル末尾、CSVリンクは記事に限定。公開対象： https://isshiki.github.io/nigiwai-topo/station-tier.html?pref= 。[現在の実装](station-tier-prototype.md)／[更新したカバー](assets/station-tier/README.md)。
+
+Tier表の初期リンクは東京。配信用の辞書化JSONを約1.16MBに軽量化しpreload追加。全国の選択と全件表示は維持。「未判定」の数値欄は「—」、見出しには「？」の代わりに小さな割合を表示。

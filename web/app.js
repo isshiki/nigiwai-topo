@@ -108,7 +108,7 @@ const selectedRegionId = () => worldOnly && region.value === 'japan' ? (document
 const saveURL = () => {
   history.replaceState(null,'',`${worldOnly ? '?' : '?area='+encodeURIComponent(area.value)+'&'}region=${encodeURIComponent(selectedRegionId())}`);
   const link=document.querySelector('#station-tier-link');
-  if(link) link.href='station-tier.html?pref='+(selectedRegionId().startsWith('pref-')?selectedRegionId().slice(5):'');
+  if(link) link.href='station-tier.html?pref='+(selectedRegionId().startsWith('pref-')?selectedRegionId().slice(5):'13');
 };
 function subdivisionOptions() {
   if(!worldOnly) return;

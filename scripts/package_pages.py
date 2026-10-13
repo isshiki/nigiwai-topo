@@ -15,8 +15,9 @@ out.mkdir(parents=True,exist_ok=True)
 for name in ['index.html','about.html','app.js','peak-index.js','peak-quality.js','japanese-names.js','world-japanese-names.js','world-name-overrides.js','world-reviewed-names.js','world-coordinate-names.js','unnamed-world-peak-names.js','unnamed-world-peak-names.js','world-peak-locality-names.js','world-regions.js','world-display-names.js','world-station-peak-names.js','world-reference-stations.js','japanese-names.json','style.css']:
     shutil.copyfile(Path('web')/name,out/name)
 shutil.copytree('web/licenses',out/'licenses',dirs_exist_ok=True)
-for name in ['station-tier.html','station-tier.css','station-tier.js','station-tier-data.json','train-icon.svg']:
+for name in ['station-tier.html','station-tier.css','station-tier.js','station-tier-public.json','train-icon.svg']:
     shutil.copyfile(Path('web')/name,out/name)
+(out/'station-tier-data.json').unlink(missing_ok=True)
 if args.config:
     shutil.copyfile(args.config,out/'config.js')
 else:

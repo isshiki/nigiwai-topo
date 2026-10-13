@@ -17,3 +17,7 @@ form .route-filter{flex:1 1 420px;min-width:260px;max-width:600px}.route-filter 
 @media(max-width:600px){.tier-none .tier-heading{font-size:14px}}
 
 .tier-info-button{width:100%;border:0;background:transparent;padding:0;min-height:70px;font-size:inherit;font-weight:inherit;text-align:center}.tier-info-button:hover{background:#ffffff40}.tier-info-button span{display:block;font-size:13px;margin-top:8px}.tier-info-button span:last-child{font-size:15px;margin-top:5px}.tier-heading{padding:12px 5px}
+
+.tier-info-button span:last-child{font-size:10px;font-weight:400;color:#526254;line-height:1.5;margin-top:5px;overflow-wrap:normal}.tier-info-button{font-size:inherit}
+
+#status.loading::before{content:"";display:inline-block;width:14px;height:14px;border:2px solid #ced8c7;border-top-color:#41694d;border-radius:50%;margin-right:8px;vertical-align:middle;animation:tier-spin .8s linear infinite}@keyframes tier-spin{to{transform:rotate(360deg)}}@media(prefers-reduced-motion:reduce){#status.loading::before{animation:none}}
