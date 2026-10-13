@@ -2,6 +2,8 @@ const region = document.querySelector('#region');
 const worldOnly = window.NIGIWAI_CONFIG.worldOnly === true;
 const area = worldOnly ? document.createElement('select') : document.querySelector('#area');
 const requestedRegion = new URLSearchParams(location.search).get('region') || (worldOnly ? 'world' : 'japan');
+const stationViewParams = new URLSearchParams(location.search);
+const stationView = ['lat','lon','zoom'].every(k=>stationViewParams.has(k)) ? {lat:Number(stationViewParams.get('lat')),lon:Number(stationViewParams.get('lon')),zoom:Number(stationViewParams.get('zoom'))} : null;
 const areas = {japan:{name:'日本',dataBase:window.NIGIWAI_CONFIG.dataBase}, ...(window.NIGIWAI_CONFIG.areas || {})};
 for (const [id,entry] of Object.entries(areas)) {const option=document.createElement('option'); option.value=id; option.textContent=entry.name; area.append(option);}
 const requestedArea = new URLSearchParams(location.search).get('area') || (areas[requestedRegion] ? requestedRegion : 'japan');
@@ -77,6 +79,7 @@ function originalPeakName(props) {
   return entry ? (entry.display_name || entry.name) : props.name;
 }
 function peakName(props) {
+  if(props.name_source==='国土数値情報 N02' && (props.name_source_ids||[]).map(String).includes('003844')) return '明治神宮前〈原宿〉';
   return originalPeakName(props).replace(/駅付近|付近/gu,'');
 }
 function peakGroupKey(f) {
@@ -102,7 +105,11 @@ function peakBasis(props) {
 }
 const dataRoot = () => new URL(areas[area.value].dataBase, location.href).href;
 const selectedRegionId = () => worldOnly && region.value === 'japan' ? (document.querySelector('#subregion').value || 'japan') : region.value;
-const saveURL = () => history.replaceState(null,'',`${worldOnly ? '?' : '?area='+encodeURIComponent(area.value)+'&'}region=${encodeURIComponent(selectedRegionId())}`);
+const saveURL = () => {
+  history.replaceState(null,'',`${worldOnly ? '?' : '?area='+encodeURIComponent(area.value)+'&'}region=${encodeURIComponent(selectedRegionId())}`);
+  const link=document.querySelector('#station-tier-link');
+  if(link) link.href='station-tier.html?pref='+(selectedRegionId().startsWith('pref-')?selectedRegionId().slice(5):'');
+};
 function subdivisionOptions() {
   if(!worldOnly) return;
   const select=document.querySelector('#subregion');select.replaceChildren();
@@ -382,5 +389,8 @@ map.on('load', async () => {
   document.querySelector('#station-search').addEventListener('keydown', e => {if (e.key === 'Enter') search();});
   map.on('moveend', () => {styleFloor(); viewport();});
   await update(true);
+  if(stationView && Object.values(stationView).every(Number.isFinite) && Math.abs(stationView.lat)<=85 && Math.abs(stationView.lon)<=180 && stationView.zoom>=0 && stationView.zoom<=19){
+    map.stop();map.jumpTo({center:[stationView.lon,stationView.lat],zoom:stationView.zoom,padding:0});await viewport();
+  }
   document.querySelector('#controls').disabled = false;
 });

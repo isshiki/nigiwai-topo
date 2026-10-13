@@ -18,14 +18,14 @@
     {
       "file": "world-peaks.csv",
       "rows": 23187,
-      "bytes": 1713283,
-      "sha256": "a04721404e0eccf95d6e3033e560a8ea3a40600501a5dcb3d7d9de8fe952e66f"
+      "bytes": 1713295,
+      "sha256": "8529cebf0e55c936be987ca2d99f0503a7449a48273c1c0510fb31bb91627628"
     },
     {
       "file": "world-place-representatives.csv",
       "rows": 14563,
-      "bytes": 1075022,
-      "sha256": "2e212a5bdb5fab3f7b07668d3d2fd713f482ed8daa2c97a4a47d25d5ffa47290"
+      "bytes": 1075034,
+      "sha256": "0143273f49384b4a813cb8d6f1690c12fec7b3b9c900854aa6c55e2ae40def7e"
     }
   ]
 }

@@ -25,7 +25,7 @@ class Page(HTMLParser):
 def validate(root):
     root = root.resolve()
     checked = 0
-    for name in ('index.html', 'about.html'):
+    for name in ('index.html', 'about.html', 'station-tier.html'):
         page = Page()
         page.feed((root / name).read_text(encoding='utf-8'))
         assert len(page.ids) == len(set(page.ids)), f'Duplicate IDs in {name}'

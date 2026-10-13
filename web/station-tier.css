@@ -1,0 +1,19 @@
+:root{font-family:system-ui,sans-serif;color:#263a32;background:#f6f7f2}*{box-sizing:border-box}main{max-width:1500px;margin:24px auto;padding:0 20px}h1{font-size:28px}small{font-size:14px;background:#f4dda0;padding:5px 10px;border-radius:20px}a{color:#245e47}p{line-height:1.7}.notice{background:#fff1d1;padding:12px 16px;border-radius:8px}form{display:flex;flex-wrap:wrap;gap:12px;padding:16px;background:white;border:1px solid #d9ded4;border-radius:10px}label{display:flex;flex-direction:column;gap:5px;font-size:14px}select,input,button{font:inherit;min-height:44px;border:1px solid #bdc9bd;border-radius:6px;background:#fff;color:inherit;padding:8px 10px}select{max-width:320px}button{cursor:pointer}button:hover{background:#eef4e9}button:focus-visible,a:focus-visible{outline:3px solid #457d62;outline-offset:2px}form button{align-self:end}.tier-row{display:grid;grid-template-columns:85px 1fr;border:1px solid #cdd4c8;background:#fff;margin-top:12px;border-radius:10px;overflow:hidden}.tier-heading{margin:0;text-align:center;padding:18px 5px;font-size:26px;color:#26332d}.tier-heading span{display:block;font-size:13px;margin-top:8px}.tier-body{padding:14px}.cards{display:grid;grid-template-columns:repeat(auto-fill,minmax(165px,1fr));gap:9px}.station-card{text-align:left;display:flex;flex-direction:column;gap:5px;min-height:104px}.station-card strong{font-size:16px}.station-card small{padding:0;background:none;font-size:12px}.station-card .symbol{font-size:21px}.more{margin-top:12px}.tier-SS .tier-heading{background:#eeb7af}.tier-S .tier-heading{background:#f0c99f}.tier-A .tier-heading{background:#f0e3a5}.tier-B .tier-heading{background:#cadfad}.tier-C .tier-heading{background:#b9d8e7}.tier-D .tier-heading{background:#d4d0e4}details{margin-top:24px;background:#fff;padding:15px;border-radius:8px}summary{cursor:pointer;min-height:30px}.credits{font-size:13px;color:#58695c}dialog{width:min(540px,calc(100vw - 24px));max-height:85vh;border:1px solid #c7d0c3;border-radius:12px;padding:22px;line-height:1.8}dialog::backdrop{background:#172d2a88}#close-detail{float:right}.map-link{display:block;text-align:center;padding:12px;border:1px solid #acc5a8;border-radius:6px;background:#edf5e9}#status{min-height:28px}@media(max-width:600px){main{padding:0 12px}h1{font-size:23px}form label{width:calc(50% - 6px)}select,input{width:100%;min-width:0}.tier-row{grid-template-columns:55px 1fr}.tier-heading{font-size:21px}.tier-body{padding:9px}.cards{grid-template-columns:repeat(auto-fill,minmax(130px,1fr))}.station-card{min-height:100px}select{max-width:100%}}
+
+.station-card{content-visibility:auto;contain-intrinsic-size:auto 104px}
+
+.tagline{font-size:18px;color:#42614b;margin:8px 0 22px}main>h1{margin:14px 0 6px}
+
+form .route-filter{flex:1 1 420px;min-width:260px;max-width:600px}.route-filter input{width:100%;min-width:0}.route-value{font-size:13px;line-height:1.5;color:#58705d;white-space:normal;overflow-wrap:anywhere}@media(max-width:600px){form .route-filter{width:100%;flex:1 1 100%;min-width:0;max-width:none}}
+
+#filters{align-items:flex-start}#filters>label{line-height:20px}#filters>button{align-self:flex-start;margin-top:25px}
+
+.train-icon{display:block;width:26px;height:26px}.card-score{font-size:16px;font-weight:600;color:#41694d;font-variant-numeric:tabular-nums}.station-card{contain-intrinsic-size:auto 140px}
+
+.card-route{font-size:12px;line-height:1.5;color:#4b6351;overflow-wrap:anywhere}.station-card{contain-intrinsic-size:auto 165px}
+
+.tier-none .tier-heading{background:#e4e8e1;font-size:17px}
+
+@media(max-width:600px){.tier-none .tier-heading{font-size:14px}}
+
+.tier-info-button{width:100%;border:0;background:transparent;padding:0;min-height:70px;font-size:inherit;font-weight:inherit;text-align:center}.tier-info-button:hover{background:#ffffff40}.tier-info-button span{display:block;font-size:13px;margin-top:8px}.tier-info-button span:last-child{font-size:15px;margin-top:5px}.tier-heading{padding:12px 5px}

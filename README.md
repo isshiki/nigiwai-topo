@@ -57,3 +57,7 @@ Foursquare OS Places 2026-09-15を使用。[出典・取得方針](docs/data-sou
 過去の進捗は[開発記録](docs/development-history.md)へまとめています。そこには旧版・当時の未完了事項も含まれます。突出度による独立峰の判定、経済センサスとの比較、ならす広さによる世界順位の感度比較は未実施です。
 
 世界の登録密度CSVをGitHubから配布：[全峰23,187地点](https://github.com/isshiki/nigiwai-topo/raw/refs/heads/main/exports/world-2026-09-15/world-peaks.csv)／[地名ごとの代表14,563地点](https://github.com/isshiki/nigiwai-topo/raw/refs/heads/main/exports/world-2026-09-15/world-place-representatives.csv)。[列・条件・出典](exports/world-2026-09-15/README.md)。区域内のPOI登録件数の集計は別機能で未実装。
+
+## 駅のにぎわいTier表
+
+`http://127.0.0.1:8820/station-tier.html?pref=13`。全国9,032駅（47都道府県）を対象に、地形図の対応する峰の最大登録密度（件/km²）で分類します。対応する峰がある5,406駅と「峰なし」3,626駅を収録。峰なしを0密度とはみなしません。地域・路線・駅名で絞れ、リンク先は対応峰を開きます。公開URL：https://isshiki.github.io/nigiwai-topo/station-tier.html?pref= 。[条件・再生成・確認](docs/station-tier-prototype.md)。

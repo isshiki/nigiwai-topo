@@ -9,6 +9,7 @@ class Element {
   get options() {return this.children.flatMap(e=>e.tag==='optgroup'?e.children:[e]);}
   get selectedOptions() {return this.options.filter(o=>o.value===this.value);}
   addEventListener(name,callback) {this.listeners[name]=callback;}
+  setAttribute(name,value) {this[name]=value;}
   getBoundingClientRect() {return {right:369,top:0};}
 }
 class FakeMap {
@@ -29,7 +30,7 @@ class FakeMap {
   getZoom() {return 11;}
   project([x,y]) {return {x:x*2000,y:y*2000};}
 }
-class Overlay {setLngLat(){return this;}setPopup(){return this;}setText(){return this;}addTo(){return this;}remove(){}}
+class Overlay {setLngLat(){return this;}setPopup(){return this;}setText(){return this;}setDOMContent(){return this;}addTo(){return this;}remove(){}}
 const ids=new Map();
 const get=id=>{if(!ids.has(id))ids.set(id,new Element());return ids.get(id);};
 for(const [id,values] of [['category',['all','food','shopping','service']],['sigma',['200','400','800']],['floor',['100','800','1600']]]) {
